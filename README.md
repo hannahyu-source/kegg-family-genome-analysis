@@ -224,3 +224,14 @@ reviewed by the project author. 역할 분담과 검증 방식은
   명시한 "연구·교육·정보 제공 목적으로만 적합" 제한을 따른다
 
 자세한 내용은 [`data/README.md`](data/README.md)를 참고할 것.
+
+---
+
+## Genomics Portfolio Series
+
+이 저장소는 4부작 유전체 포트폴리오 중 하나입니다.
+
+01. **Family Genome × KEGG Integration** — [kegg-family-genome-analysis](https://github.com/hannahyu-source/kegg-family-genome-analysis) ← 현재 저장소
+02. **Genomic Variant Machine Learning** — [genomic-variant-ML-analysis](https://github.com/hannahyu-source/genomic-variant-ML-analysis)
+03. **Family-of-Five Genome Dataset** — [family-genome-analysis](https://github.com/hannahyu-source/family-genome-analysis)
+04. **OncoKB Cancer Genomics Analysis** — [oncoKB-cancer-genomics-analysis](https://github.com/hannahyu-source/oncoKB-cancer-genomics-analysis)
