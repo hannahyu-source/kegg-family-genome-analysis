@@ -9,10 +9,11 @@ KEGG variant.txt는 rsid가 아니라 OMIM 변이 번호 기준이고, 로컬 �
 genomic 좌표(어느 염색체 몇 번 위치인지)가 없어 SNP 좌표와 유전자를 연결할 수 없다.
 즉 "이 사람이 이 유전자 영역에 SNP가 있다"조차 판정 불가 — 유전자 심볼 목록만 참고용으로 내보낸다.
 
-출력 (가족 유전체(SNP) 데이터/output/):
-  family_snp_summary.csv       - 구성원별 SNP 기초 통계
-  family_snp_by_chromosome.csv - 구성원 x 염색체 SNP 개수
-  kegg_disease_gene_panel.csv  - KEGG variant.txt 기반 질병연관 유전자 패널(909개)
+출력:
+  results/tables/family_snp_summary.csv       - 구성원별 SNP 기초 통계
+  results/tables/family_snp_by_chromosome.csv - 구성원 x 염색체 SNP 개수
+  data/processed/kegg_disease_gene_panel.csv  - KEGG variant.txt 기반 질병연관 유전자 패널(909개),
+                                                 05_clinvar_annotation.py 등 뒤 단계에서 재사용됨
 """
 
 import sys
@@ -23,10 +24,11 @@ import pandas as pd
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-FAMILY_DATA_DIR = SCRIPT_DIR.parent / "data"
-FAMILY_OUTPUT_DIR = SCRIPT_DIR.parent / "output"
-KEGG_OUTPUT_DIR = SCRIPT_DIR.parent.parent / "KEGG 데이터" / "output"
+ROOT = Path(__file__).resolve().parents[1]
+FAMILY_DATA_DIR = ROOT / "data" / "raw" / "family_snp"
+RESULTS_DIR = ROOT / "results" / "tables"
+PROCESSED_DIR = ROOT / "data" / "processed"
+KEGG_PROCESSED_DIR = PROCESSED_DIR
 
 # data 폴더에는 "- Copy" 중복 파일, Child 3와 완전히 동일한 "Family Genome.csv",
 # 가족 구성원이 아닌 공개 참조 게놈 "genome_zeeshan_usmani.csv"가 섞여 있어
@@ -90,18 +92,18 @@ def build_family_snp_tables():
         print(f"  {member:8s}: {len(df):,}행 ({filename})")
 
     summary_df = pd.DataFrame(summary_rows)
-    summary_df.to_csv(FAMILY_OUTPUT_DIR / "family_snp_summary.csv", index=False, encoding="utf-8-sig")
+    summary_df.to_csv(RESULTS_DIR / "family_snp_summary.csv", index=False, encoding="utf-8-sig")
 
     chrom_df = pd.DataFrame(chrom_rows)
-    chrom_df.to_csv(FAMILY_OUTPUT_DIR / "family_snp_by_chromosome.csv", index=False, encoding="utf-8-sig")
+    chrom_df.to_csv(RESULTS_DIR / "family_snp_by_chromosome.csv", index=False, encoding="utf-8-sig")
 
     return summary_df
 
 
 def build_gene_panel():
-    variant_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_variant.csv", dtype=str).fillna("")
-    disease_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_disease.csv", dtype=str).fillna("")
-    drug_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_drug.csv", dtype=str).fillna("")
+    variant_df = pd.read_csv(KEGG_PROCESSED_DIR / "kegg_variant.csv", dtype=str).fillna("")
+    disease_df = pd.read_csv(KEGG_PROCESSED_DIR / "kegg_disease.csv", dtype=str).fillna("")
+    drug_df = pd.read_csv(KEGG_PROCESSED_DIR / "kegg_drug.csv", dtype=str).fillna("")
 
     disease_name = dict(zip(disease_df["entry_id"], disease_df["name"]))
     drug_name = dict(zip(drug_df["entry_id"], drug_df["name"]))
@@ -140,7 +142,7 @@ def build_gene_panel():
     panel_df = pd.DataFrame(rows).sort_values(
         ["linked_disease_count", "variant_entry_count"], ascending=False
     )
-    panel_df.to_csv(FAMILY_OUTPUT_DIR / "kegg_disease_gene_panel.csv", index=False, encoding="utf-8-sig")
+    panel_df.to_csv(PROCESSED_DIR / "kegg_disease_gene_panel.csv", index=False, encoding="utf-8-sig")
     return panel_df
 
 
@@ -155,9 +157,9 @@ def main():
     print(f"KEGG 질병연관 유전자 패널: {len(panel_df)}개 유전자")
     print(panel_df.head(10)[["gene_symbol", "variant_entry_count", "linked_disease_count", "linked_drug_target_count"]].to_string(index=False))
     print()
-    print(f"-> {FAMILY_OUTPUT_DIR / 'family_snp_summary.csv'}")
-    print(f"-> {FAMILY_OUTPUT_DIR / 'family_snp_by_chromosome.csv'}")
-    print(f"-> {FAMILY_OUTPUT_DIR / 'kegg_disease_gene_panel.csv'}")
+    print(f"-> {RESULTS_DIR / 'family_snp_summary.csv'}")
+    print(f"-> {RESULTS_DIR / 'family_snp_by_chromosome.csv'}")
+    print(f"-> {PROCESSED_DIR / 'kegg_disease_gene_panel.csv'}")
     print()
     print("주의: 이 패널은 '어떤 유전자가 KEGG에 질병연관 변이로 등록돼 있는지' 목록일 뿐,")
     print("가족 SNP 파일의 특정 rsid가 이 유전자들과 실제로 일치하는지는 판정하지 않았습니다.")

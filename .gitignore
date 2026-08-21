@@ -1,18 +1,21 @@
-# NCBI ClinVar 원본 참조 데이터 (수 GB, Kaggle 데이터셋 아님 — 재현 시 스크립트가 직접 다운로드)
-KEGG 데이터/data/variant_summary.txt/
-KEGG 데이터/data/variant_summary.txt.gz
+# NCBI ClinVar 원본 참조 데이터 (수 GB, 재현 시 스크립트가 안내하는 URL에서 직접 다운로드)
+data/external/clinvar/variant_summary.txt
+data/external/clinvar/variant_summary.txt.gz
 
-# 원본과 바이트 단위로 동일한 중복 파일
-가족 유전체(SNP) 데이터/data/*Copy.csv
+# 원본과 바이트 단위로 동일한 중복 파일(23andMe 내보내기 시 생성되는 사본)
+data/raw/family_snp/*Copy.csv
 
-# 세션 중 생성된 임시 캐시/미리보기 파일
-**/output/_*.json
-**/output/_*.pkl
-**/output/_*.csv
+# 세션 중 생성된 임시 캐시/피클 파일
+data/processed/_*.pkl
+data/processed/_*.json
+data/processed/_*.csv
 
 # Python
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
 
 # OS/editor
 .DS_Store

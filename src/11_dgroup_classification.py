@@ -13,7 +13,7 @@ KEGG가 애초에 DG 번호를 안 붙인 루트 노드)이고, "DG#####  이름
 카테고리에 동시에 속할 수 있어(예: 항진균제이면서 대사효소억제제이기도 함)
 엄밀한 트리가 아니라 다중부모 DAG다.
 
-출력 (KEGG 데이터/output/):
+출력 (results/tables/):
   dgroup_class_edges.csv  - (child_dgroup_id, parent_type, parent_id, parent_label) 엣지 목록
   dgroup_class_rollup.csv - 루트 카테고리별 하위 dgroup 수·고유 약물 수(재귀 집계)
 """
@@ -25,15 +25,14 @@ from pathlib import Path
 
 import pandas as pd
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from kegg_flatfile_parser import parse_entries, entry_id_and_type, field_lines  # noqa: E402
+from kegg_flatfile_parser import parse_entries, entry_id_and_type, field_lines
 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-DATA_DIR = SCRIPT_DIR.parent / "data"
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data" / "raw" / "kegg"
+OUTPUT_DIR = ROOT / "results" / "tables"
 
 DG_LINE_RE = re.compile(r"^(DG\d{5})\s+(.*)$")
 

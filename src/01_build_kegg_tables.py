@@ -1,7 +1,7 @@
-"""KEGG 데이터/data 안의 5개 flat file(dgroup, disease, drug, network, variant)을
+"""data/raw/kegg 안의 5개 flat file(dgroup, disease, drug, network, variant)을
 구조화된 CSV 테이블로 변환한다.
 
-출력 (KEGG 데이터/output/):
+출력 (data/processed/):
   kegg_dgroup.csv    - 약물군(DGroup)
   kegg_disease.csv   - 질병(Disease)
   kegg_drug.csv      - 개별 약물(Drug)
@@ -21,9 +21,9 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
 
 from kegg_flatfile_parser import parse_entries, entry_id_and_type, field_text, field_lines
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-DATA_DIR = SCRIPT_DIR.parent / "data"
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = ROOT / "data" / "raw" / "kegg"
+OUTPUT_DIR = ROOT / "data" / "processed"
 
 RE_H = re.compile(r"\bH\d{5}\b")
 RE_D = re.compile(r"\bD\d{5}\b")

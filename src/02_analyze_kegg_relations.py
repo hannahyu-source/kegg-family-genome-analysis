@@ -6,26 +6,27 @@ networkx 없이 pandas만으로:
   3. 가장 연결이 많은 disease 노드 하나를 골라 ego network(이웃 서브그래프)를
      JSON으로 추출 -> 시각화 아티팩트에서 사용
 
-출력 (KEGG 데이터/output/):
+출력 (results/tables/):
   kegg_graph_type_summary.csv
   kegg_graph_top_hubs.csv
   kegg_graph_ego_network.json
 """
 
 import json
-import re
 import sys
 from pathlib import Path
 
 import pandas as pd
 
-from kegg_flatfile_parser import parse_entries
+from kegg_analysis_utils import build_gene_symbol_map
 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+RAW_KEGG_DIR = ROOT / "data" / "raw" / "kegg"
+PROCESSED_DIR = ROOT / "data" / "processed"
+OUTPUT_DIR = ROOT / "results" / "tables"
 
 TOP_N_HUBS = 15
 
@@ -39,34 +40,13 @@ LABEL_SOURCES = {
 }
 
 
-def build_gene_symbol_map() -> dict:
-    """network.txt/disease.txt의 GENE 필드에서 Entrez ID -> 유전자 심볼 매핑을 뽑는다.
-    두 파일 모두 'entrez_id  SYMBOL; description' 또는 'SYMBOL ... [HSA:entrez_id]' 형태로 심볼을 담고 있다."""
-    mapping = {}
-
-    for entry in parse_entries(SCRIPT_DIR.parent / "data" / "network.txt"):
-        for line in entry.get("GENE", []):
-            parts = line.strip().split(None, 1)
-            if len(parts) == 2 and parts[0].isdigit():
-                mapping.setdefault(parts[0], parts[1].split(";")[0].strip())
-
-    hsa_pattern = re.compile(r"^(\S+).*\[HSA:(\d+)\]")
-    for entry in parse_entries(SCRIPT_DIR.parent / "data" / "disease.txt"):
-        for line in entry.get("GENE", []):
-            match = hsa_pattern.match(line.strip())
-            if match:
-                mapping.setdefault(match.group(2), match.group(1))
-
-    return mapping
-
-
 def load_labels():
     """entry_id -> name 매핑을 타입별로 만든다. ortholog/compound는 라벨 테이블이 없어 ID를 그대로 쓴다."""
     labels = {}
     for entity_type, (filename, id_col, name_col) in LABEL_SOURCES.items():
-        df = pd.read_csv(OUTPUT_DIR / filename, dtype=str)
+        df = pd.read_csv(PROCESSED_DIR / filename, dtype=str)
         labels[entity_type] = dict(zip(df[id_col], df[name_col].fillna("")))
-    labels["gene_entrez"] = build_gene_symbol_map()
+    labels["gene_entrez"] = build_gene_symbol_map(RAW_KEGG_DIR)
     return labels
 
 
@@ -152,7 +132,7 @@ def build_ego_network(df: pd.DataFrame, labels: dict, center_type: str, center_i
 
 
 def main():
-    df = pd.read_csv(OUTPUT_DIR / "kegg_relations.csv", dtype=str)
+    df = pd.read_csv(PROCESSED_DIR / "kegg_relations.csv", dtype=str)
     labels = load_labels()
 
     type_summary = build_type_summary(df)

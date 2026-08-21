@@ -5,7 +5,7 @@ ATC(Anatomical Therapeutic Chemical) 코드는 WHO 표준 분류로, 첫 글자�
 여러 ATC 코드(=여러 치료 영역)를 가질 수 있어, "약물 1개당 중복 집계"와
 "영역별 고유 약물 수" 두 가지를 모두 낸다.
 
-출력 (KEGG 데이터/output/):
+출력 (results/tables/):
   atc_top_level_summary.csv  - 1단계(해부학적 주분류) 약물 수
   atc_subgroup_summary.csv   - 3단계(치료학적 소분류) 약물 수 상위 30
 """
@@ -20,8 +20,9 @@ import pandas as pd
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+PROCESSED_DIR = ROOT / "data" / "processed"
+OUTPUT_DIR = ROOT / "results" / "tables"
 
 ATC_TOP_LEVEL = {
     "A": "소화기·대사(Alimentary tract & metabolism)",
@@ -44,7 +45,7 @@ ATC_CODE_RE = re.compile(r"\b([A-Z])(\d{2})([A-Z]{2})(\d{2})\b")
 
 
 def main():
-    drug_df = pd.read_csv(OUTPUT_DIR / "kegg_drug.csv", dtype=str).fillna("")
+    drug_df = pd.read_csv(PROCESSED_DIR / "kegg_drug.csv", dtype=str).fillna("")
     with_atc = drug_df[drug_df["atc_codes"] != ""]
     print(f"ATC 코드가 있는 약물: {len(with_atc)} / {len(drug_df)}")
 

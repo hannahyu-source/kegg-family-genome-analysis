@@ -11,7 +11,7 @@ CFH(Complement Factor H) 변이는 disease.txt 기준 5개 질병과 연결돼 �
 이 5개 질병에 한해 disease_centered_analysis.py와 같은 로직으로 약물 재창출 후보와
 동반질환 쌍을 다시 계산한다 — 전역 top-300 컷오프 없이 이 5개 질병에 한정해서 전부 본다.
 
-출력 (가족 유전체(SNP) 데이터/output/):
+출력 (results/tables/):
   cfh_family_disease_profile.csv - CFH 연결 질병별 요약 + 재창출 후보 + 동반질환
 """
 
@@ -21,24 +21,23 @@ from pathlib import Path
 
 import pandas as pd
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "KEGG 데이터" / "script"))
-from disease_centered_analysis import build_index, load_name_maps, short  # noqa: E402
-from analyze_kegg_relations import build_gene_symbol_map  # noqa: E402
+from kegg_analysis_utils import build_gene_symbol_map, build_index, load_name_maps, short
 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-FAMILY_OUTPUT_DIR = SCRIPT_DIR.parent / "output"
-KEGG_OUTPUT_DIR = SCRIPT_DIR.parent.parent / "KEGG 데이터" / "output"
+ROOT = Path(__file__).resolve().parents[1]
+RAW_KEGG_DIR = ROOT / "data" / "raw" / "kegg"
+PROCESSED_DIR = ROOT / "data" / "processed"
+RESULTS_DIR = ROOT / "results" / "tables"
 
 CFH_DISEASE_IDS = ["H00104", "H00821", "H01434", "H02108", "H02579"]
 
 
 def main():
-    rel = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_relations.csv", dtype=str)
-    names = load_name_maps()
-    gene_symbol = build_gene_symbol_map()
+    rel = pd.read_csv(PROCESSED_DIR / "kegg_relations.csv", dtype=str)
+    names = load_name_maps(PROCESSED_DIR)
+    gene_symbol = build_gene_symbol_map(RAW_KEGG_DIR)
 
     disease_genes_direct = build_index(rel, "disease", "gene_entrez")
     drug_gene = build_index(rel, "drug", "gene_entrez")
@@ -100,12 +99,12 @@ def main():
         )
 
     df = pd.DataFrame(rows)
-    df.to_csv(FAMILY_OUTPUT_DIR / "cfh_family_disease_profile.csv", index=False, encoding="utf-8-sig")
+    df.to_csv(RESULTS_DIR / "cfh_family_disease_profile.csv", index=False, encoding="utf-8-sig")
 
     pd.set_option("display.max_colwidth", 60)
     print(df.to_string(index=False))
     print()
-    print(f"-> {FAMILY_OUTPUT_DIR / 'cfh_family_disease_profile.csv'}")
+    print(f"-> {RESULTS_DIR / 'cfh_family_disease_profile.csv'}")
 
 
 def gene_diseases_of(gene_ids, gene_diseases_index):

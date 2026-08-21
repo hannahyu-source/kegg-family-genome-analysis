@@ -1,18 +1,22 @@
 """variant.txt(KEGG variant flat file)에서 유전자 목록을 추출한다.
 
-입력: ../data/variant.txt
+선택적(보조) 스크립트: 이 스크립트의 출력은 뒤 단계 파이프라인에서 재사용되지
+않는다 (kegg_disease_gene_panel.csv는 04_family_snp_analysis.py가 kegg_variant.csv를
+직접 groupby해서 만든다). 유전자 심볼 목록만 별도로 훑어보고 싶을 때 참고용으로 실행한다.
+
+입력: data/raw/kegg/variant.txt
 출력:
-  ../output/variant_genes.csv         - 변이 엔트리별 유전자 매핑 (1행 = 1 variant entry)
-  ../output/variant_genes_unique.csv  - 중복 제거된 유전자 목록 (유전자별 관련 variant entry 수)
+  results/tables/variant_genes.csv         - 변이 엔트리별 유전자 매핑 (1행 = 1 variant entry)
+  results/tables/variant_genes_unique.csv  - 중복 제거된 유전자 목록 (유전자별 관련 variant entry 수)
 """
 
 import csv
 import re
 from pathlib import Path
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-INPUT_FILE = SCRIPT_DIR.parent / "data" / "variant.txt"
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+INPUT_FILE = ROOT / "data" / "raw" / "kegg" / "variant.txt"
+OUTPUT_DIR = ROOT / "results" / "tables"
 
 ENTRY_RE = re.compile(r"^ENTRY\s+(\S+)")
 GENE_RE = re.compile(r"^GENE\s+(\S+)\s+(.*)$")

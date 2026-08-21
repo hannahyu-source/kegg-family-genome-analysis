@@ -15,7 +15,7 @@
    같은 network 또는 같은 유전자를 공유하는 질병 쌍을 찾아 "기전적으로 연결된" 후보로 본다.
    (진짜 임상적 동반이환 여부가 아니라, 분자 기전을 공유한다는 뜻 — 보고서에도 이 점을 명시)
 
-출력 (KEGG 데이터/output/):
+출력 (results/tables/):
   disease_pathway_genes.csv       - 질병별 관련 network 수 / 병리경로 유전자 수
   drug_repurposing_candidates.csv - 질병별 상위 15개 재창출 후보 약물
   disease_comorbidity_pairs.csv   - 공유 network/유전자 기준 질병 쌍 랭킹
@@ -27,46 +27,18 @@ from pathlib import Path
 
 import pandas as pd
 
-sys.path.insert(0, str(Path(__file__).resolve().parent))
-from analyze_kegg_relations import build_gene_symbol_map  # noqa: E402
+from kegg_analysis_utils import build_gene_symbol_map, build_index, load_name_maps, short
 
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_DIR = SCRIPT_DIR.parent / "output"
+ROOT = Path(__file__).resolve().parents[1]
+RAW_KEGG_DIR = ROOT / "data" / "raw" / "kegg"
+PROCESSED_DIR = ROOT / "data" / "processed"
+OUTPUT_DIR = ROOT / "results" / "tables"
 
 TOP_CANDIDATES_PER_DISEASE = 15
 TOP_COMORBIDITY_PAIRS = 300
-
-
-def build_index(df: pd.DataFrame, src_type: str, dst_type: str) -> dict:
-    sub = df[(df["source_type"] == src_type) & (df["target_type"] == dst_type)]
-    idx = defaultdict(set)
-    for s, t in zip(sub["source_id"], sub["target_id"]):
-        idx[s].add(t)
-    return idx
-
-
-def load_name_maps():
-    disease_df = pd.read_csv(OUTPUT_DIR / "kegg_disease.csv", dtype=str).fillna("")
-    drug_df = pd.read_csv(OUTPUT_DIR / "kegg_drug.csv", dtype=str).fillna("")
-    network_df = pd.read_csv(OUTPUT_DIR / "kegg_network.csv", dtype=str).fillna("")
-    dgroup_df = pd.read_csv(OUTPUT_DIR / "kegg_dgroup.csv", dtype=str).fillna("")
-
-    return {
-        "disease_name": dict(zip(disease_df["entry_id"], disease_df["name"])),
-        "drug_name": dict(zip(drug_df["entry_id"], drug_df["name"])),
-        "drug_dgroup": dict(zip(drug_df["entry_id"], drug_df["dgroup_id"])),
-        "network_name": dict(zip(network_df["entry_id"], network_df["name"])),
-        "dgroup_name": dict(zip(dgroup_df["entry_id"], dgroup_df["name"])),
-        "disease_ids": list(disease_df["entry_id"]),
-    }
-
-
-def short(text: str, n: int = 60) -> str:
-    text = text.split(";")[0].strip()
-    return text if len(text) <= n else text[: n - 1] + "…"
 
 
 def build_repurposing_candidates(rel, names, gene_symbol):
@@ -193,9 +165,9 @@ def build_comorbidity_pairs(rel, names):
 
 
 def main():
-    rel = pd.read_csv(OUTPUT_DIR / "kegg_relations.csv", dtype=str)
-    names = load_name_maps()
-    gene_symbol = build_gene_symbol_map()
+    rel = pd.read_csv(PROCESSED_DIR / "kegg_relations.csv", dtype=str)
+    names = load_name_maps(PROCESSED_DIR)
+    gene_symbol = build_gene_symbol_map(RAW_KEGG_DIR)
 
     print("1) 약물 재창출 후보 탐색 중...")
     summary_df, candidates_df = build_repurposing_candidates(rel, names, gene_symbol)

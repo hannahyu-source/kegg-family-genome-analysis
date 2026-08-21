@@ -14,7 +14,7 @@ family_clinvar_matches.csv를 그대로 재사용해서 "가족 SNP가 어느 �
      체인을 자동으로 이어붙인 리포트 생성 (network 이름은 kegg_variant.csv의
      network_ids를 kegg_network.csv와 join해서 보강)
 
-출력 (가족 유전체(SNP) 데이터/output/):
+출력 (results/tables/):
   family_kegg_gene_screening.csv - 유전자별 스크리닝 결과 (가족 보유 여부 + 전체 체인)
 """
 
@@ -26,17 +26,17 @@ import pandas as pd
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-FAMILY_OUTPUT_DIR = SCRIPT_DIR.parent / "output"
-KEGG_OUTPUT_DIR = SCRIPT_DIR.parent.parent / "KEGG 데이터" / "output"
+ROOT = Path(__file__).resolve().parents[1]
+PROCESSED_DIR = ROOT / "data" / "processed"
+RESULTS_DIR = ROOT / "results" / "tables"
 
 MEMBER_ORDER = ["Father", "Mother", "Child 1", "Child 2", "Child 3"]
 
 
 def build_gene_network_names():
     """kegg_variant.csv의 network_ids를 kegg_network.csv 이름으로 풀어 유전자별로 모은다."""
-    variant_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_variant.csv", dtype=str).fillna("")
-    network_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_network.csv", dtype=str).fillna("")
+    variant_df = pd.read_csv(PROCESSED_DIR / "kegg_variant.csv", dtype=str).fillna("")
+    network_df = pd.read_csv(PROCESSED_DIR / "kegg_network.csv", dtype=str).fillna("")
     network_name = dict(zip(network_df["entry_id"], network_df["name"]))
 
     gene_networks = {}
@@ -48,8 +48,8 @@ def build_gene_network_names():
 
 
 def main():
-    panel = pd.read_csv(FAMILY_OUTPUT_DIR / "kegg_disease_gene_panel.csv", dtype=str).fillna("")
-    matches = pd.read_csv(FAMILY_OUTPUT_DIR / "family_clinvar_matches.csv", dtype=str).fillna("")
+    panel = pd.read_csv(PROCESSED_DIR / "kegg_disease_gene_panel.csv", dtype=str).fillna("")
+    matches = pd.read_csv(PROCESSED_DIR / "family_clinvar_matches.csv", dtype=str).fillna("")
     gene_networks = build_gene_network_names()
 
     panel_genes = set(panel["gene_symbol"])
@@ -105,7 +105,7 @@ def main():
         + (result["kegg_linked_diseases"].str.len() > 0).astype(int)
     )
     result = result.sort_values(["priority", "family_carried_rsid_count"], ascending=[False, False]).drop(columns="priority")
-    result.to_csv(FAMILY_OUTPUT_DIR / "family_kegg_gene_screening.csv", index=False, encoding="utf-8-sig")
+    result.to_csv(RESULTS_DIR / "family_kegg_gene_screening.csv", index=False, encoding="utf-8-sig")
 
     print()
     print("=== 우선순위 상위 10개 유전자 ===")
@@ -116,7 +116,7 @@ def main():
         ].to_string(index=False)
     )
     print()
-    print(f"-> {FAMILY_OUTPUT_DIR / 'family_kegg_gene_screening.csv'}")
+    print(f"-> {RESULTS_DIR / 'family_kegg_gene_screening.csv'}")
 
 
 if __name__ == "__main__":

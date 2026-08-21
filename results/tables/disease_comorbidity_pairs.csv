@@ -1,0 +1,301 @@
+﻿disease_a_id,disease_a_name,disease_b_id,disease_b_name,shared_network_count,shared_gene_count,shared_networks
+H00008,Burkitt lymphoma,H00054,Nasopharyngeal cancer,30,1,EBV EBNA1 to p53-mediated transcription; EBV EBNALP RBP-Jk-mediated transcription; EBV EBNA2 to RBP-Jk-mediated transcript…; EBV EBNA3A/3B/3C to RBP-Jk-mediated tra…; EBV EBNA3C to intrinsic apoptotic pathw…; EBV EBNA3C to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV LMP1 to NFKB signaling pathway; EBV LMP2A to PI3K signaling pathway; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BGLF4 to RIG-I-like receptor signal…; EBV LMP2A/2B to IFN signaling pathway; EBV LMP1 to IFN signaling pathway; EBV BGLF4 to IFN signaling pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to crosstalk between extrinsi…; EBV BARF1 to intrinsic apoptotic pathway; EBV BNLF2a to antigen processing and pr…; EBV BILF1 to antigen processing and pre…; EBV BZLF1 to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV LMP1 to PI3K signaling pathway; EBV LMP1 to Jak-STAT signaling pathway; EBV LMP2A to BCR signaling pathway
+H00277,Enterohemorrhagic Escherichia coli (EHEC) infection,H00278,Enteropathogenic Escherichia coli (EPEC) infection,30,0,Escherichia Tir to TLR2/4-MAPK signalin…; Escherichia/Shigella NleE/OspZ to TNF-N…; Escherichia NleB to TNF-NFKB signaling …; Escherichia NleC to TNF-NFKB signaling …; Escherichia NleD to TNF-JNK signaling p…; Escherichia NleD to TNF-p38 signaling p…; Escherichia NleH1 to TNF-NFKB signaling…; Escherichia NleA to NLRP3 inflammasome …; Escherichia NleF to non-canonical infla…; Escherichia NleB1 to crosstalk between …; Escherichia NleF to extrinsic apoptotic…; Escherichia NleH to intrinsic apoptotic…; Escherichia EspF to intrinsic apoptotic…; Escherichia EspG to ARNO-ARF-ACTB/G sig…; Escherichia EspG to ARNO-ARF-ACTB/G sig…; Escherichia EspT to RAC signaling pathw…; Escherichia EspW to RAC signaling pathw…; Escherichia EspH to LPA-GNA12/13-RhoA s…; Escherichia EspM to LPA-GNA12/13-Rho si…; Escherichia EspJ to IGG-FCGR-RAC signal…; Escherichia Eae/Tir to Actin signaling …; Escherichia EspJ/Tir to Actin signaling…; Escherichia Eae/Tir/TccP to Actin signa…; Escherichia Map to LPA-GNA12/13-RhoA si…; Escherichia Map to CDC42 signaling path…; Escherichia EspG to Microtubule-RHOA si…; Escherichia EspF to Tight junction-Acti…; Escherichia NleA to COPII vesicle forma…; Escherichia EspG to RAB1 signaling path…; Escherichia NleF to COPI vesicle format…
+H00007,Hodgkin lymphoma,H00054,Nasopharyngeal cancer,30,0,EBV EBNA1 to p53-mediated transcription; EBV EBNALP RBP-Jk-mediated transcription; EBV EBNA2 to RBP-Jk-mediated transcript…; EBV EBNA3A/3B/3C to RBP-Jk-mediated tra…; EBV EBNA3C to intrinsic apoptotic pathw…; EBV EBNA3C to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV LMP1 to NFKB signaling pathway; EBV LMP2A to PI3K signaling pathway; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BGLF4 to RIG-I-like receptor signal…; EBV LMP2A/2B to IFN signaling pathway; EBV LMP1 to IFN signaling pathway; EBV BGLF4 to IFN signaling pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to crosstalk between extrinsi…; EBV BARF1 to intrinsic apoptotic pathway; EBV BNLF2a to antigen processing and pr…; EBV BILF1 to antigen processing and pre…; EBV BZLF1 to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV LMP1 to PI3K signaling pathway; EBV LMP1 to Jak-STAT signaling pathway; EBV LMP2A to BCR signaling pathway
+H00007,Hodgkin lymphoma,H00008,Burkitt lymphoma,30,0,EBV EBNA1 to p53-mediated transcription; EBV EBNALP RBP-Jk-mediated transcription; EBV EBNA2 to RBP-Jk-mediated transcript…; EBV EBNA3A/3B/3C to RBP-Jk-mediated tra…; EBV EBNA3C to intrinsic apoptotic pathw…; EBV EBNA3C to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV LMP1 to NFKB signaling pathway; EBV LMP2A to PI3K signaling pathway; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BPLF1 to TLR2/4-NFKB signaling path…; EBV BGLF4 to RIG-I-like receptor signal…; EBV LMP2A/2B to IFN signaling pathway; EBV LMP1 to IFN signaling pathway; EBV BGLF4 to IFN signaling pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to intrinsic apoptotic pathway; EBV BHRF1 to crosstalk between extrinsi…; EBV BARF1 to intrinsic apoptotic pathway; EBV BNLF2a to antigen processing and pr…; EBV BILF1 to antigen processing and pre…; EBV BZLF1 to p53-mediated transcription; EBV EBNA3C to p27-Cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV EBNA3C to cell cycle G1/S; EBV LMP1 to PI3K signaling pathway; EBV LMP1 to Jak-STAT signaling pathway; EBV LMP2A to BCR signaling pathway
+H00013,Small cell lung cancer,H00014,Non-small cell lung cancer,25,3,Mutation-inactivated TP53 to transcript…; NNK/NNN to RAS-ERK signaling pathway; Nicotine/NNK to cAMP signaling pathway; Nicotine/NNK to PI3K signaling pathway; Arsenic to PI3K signaling pathway; MeIQx to DNA adducts; BaP to DNA adducts; AFB1 to DNA adducts; NNK to DNA adducts; NNK to DNA adducts; NNK to DNA adducts; NNK to DNA adducts; SM to DNA adducts/cross-links; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…; Cadmium to electron transfer in complex…; Benzo[a]pyrenre to CYP-mediated metabol…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00297,Plague,H00298,Yersiniosis,18,0,Yersinia YopP/J to TLR2/4-NFKB signalin…; Yersinia YopP/J to TLR2/4-MAPK signalin…; Yersinia YopM to NLRP3 Inflammasome sig…; Yersinia YopK to NLRP3 Inflammasome sig…; Yersinia YopK to NLRC4 Inflammasome sig…; Yersinia YopM to Pyrin Inflammasome sig…; Yersinia YopT to ITGA/B-RhoGEF-RhoA sig…; Yersinia YopE to RhoA signaling pathway; Yersinia YopE to ITGA/B-RHOG-RAC signal…; Yersinia YopT to ITGA/B-RHOG-RAC signal…; Yersinia YopE to ITGA/B-RHOG-RAC signal…; Yersinia YpkA to IGG-FCGR-RAC signaling…; Yersinia YpkA to LPA-GNAQ-RhoA signalin…; Yersinia YopH to TCR-NFAT signaling pat…; Yersinia YopH to TCR-NFAT signaling pat…; Yersinia YopH to ITGA/B-FAK-RAC signali…; Yersinia YopH to ITGA/B-FAK-RAC signali…; Yersinia YopH to ITGA/B-FAK-RAC signali…
+H00292,Hypertrophic cardiomyopathy,H00294,Dilated cardiomyopathy,0,18,
+H01102,Pituitary adenomas,H01431,Cushing syndrome,7,9,Mutation-inactivated MEN1 to transcript…; Mutation-inactivated AIP to AhR-mediate…; Mutation-inactivated CDKN1B to p27-cell…; Mutation-activated USP8 to EGFR-ERK-ACT…; Mutation-inactivated RASD1 to CRHR-PKA-…; Mutation-activated GNAS to CRHR-PKA-ACT…; Mutation-inactivated PRKAR1A to CRHR-PK…
+H00013,Small cell lung cancer,H00048,Hepatocellular carcinoma,11,4,Mutation-inactivated PTEN to PI3K signa…; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…; AFB1 to DNA adducts; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00014,Non-small cell lung cancer,H00048,Hepatocellular carcinoma,11,4,Mutation-inactivated TP53 to transcript…; TCDD to Ahr signaling pathway; BaP to Ahr signaling pathway; AFB1 to DNA adducts; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00604,"Deafness, autosomal dominant",H00605,"Deafness, autosomal recessive",0,14,
+H00120,Muscular dystrophy-dystroglycanopathy type A,H02307,Muscular dystrophy-dystroglycanopathy,0,14,
+H02410,Myelodysplastic/myeloproliferative neoplasms,H02412,Atypical chronic myeloid leukemia,0,13,
+H02410,Myelodysplastic/myeloproliferative neoplasms,H02411,Chronic myelomonocytic leukemia,0,13,
+H00069,Glycogen storage disease,H01762,Muscle glycogen storage disease,0,13,
+H01481,Myelodysplastic syndrome,H02410,Myelodysplastic/myeloproliferative neoplasms,0,12,
+H00205,Peroxisome biogenesis disorder,H01342,Zellweger syndrome,0,12,
+H00473,Mitochondrial complex I deficiency,H01354,Leigh syndrome,0,11,
+H00261,Meckel syndrome,H00530,Joubert syndrome and related disorders,0,11,
+H00022,Bladder cancer,H00042,Glioma,6,5,Amplified EGFR to RAS-ERK signaling pat…; EGFR-overexpression to RAS-ERK signalin…; Deleted p14(ARF) to p21-cell cycle G1/S; Deleted p16(INK4a) to p16-cell cycle G1…; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H01481,Myelodysplastic syndrome,H02411,Chronic myelomonocytic leukemia,0,11,
+H00177,Neonatal adrenoleukodystrophy,H00205,Peroxisome biogenesis disorder,0,11,
+H02411,Chronic myelomonocytic leukemia,H02412,Atypical chronic myeloid leukemia,0,10,
+H00038,Melanoma,H00042,Glioma,5,5,Deleted PTEN to PI3K signaling pathway; Mutation-inactivated PTEN to PI3K signa…; Deleted p14(ARF) to p21-cell cycle G1/S; Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00014,Non-small cell lung cancer,H00022,Bladder cancer,6,4,ERBB2-overexpression to RAS-ERK signali…; EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…
+H00021,Renal cell carcinoma,H00048,Hepatocellular carcinoma,9,1,Mutation-activated MET to RAS-ERK signa…; Mutation-activated MET to PI3K signalin…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00020,Colorectal cancer,H00048,Hepatocellular carcinoma,5,5,"Mutation-activated CTNNB1 to Wnt signal…; Mutation-inactivated TP53 to transcript…; TGFA-overexpression to RAS-ERK signalin…; TGFA-overexpression to PI3K signaling p…; p,p'-DDT to SOD/Cat-mediated ROS neutra…"
+H00013,Small cell lung cancer,H00024,Prostate cancer,9,1,Mutation-inactivated PTEN to PI3K signa…; Cadmium to electron transfer in complex…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00018,Gastric cancer,H00020,Colorectal cancer,3,6,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated APC to Wnt signali…; Mutation-inactivated TP53 to transcript…
+H00593,Limb-girdle muscular dystrophy,H02307,Muscular dystrophy-dystroglycanopathy,0,9,
+H00177,Neonatal adrenoleukodystrophy,H01342,Zellweger syndrome,0,9,
+H00024,Prostate cancer,H00048,Hepatocellular carcinoma,8,1,Mutation-inactivated PTEN to PI3K signa…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00120,Muscular dystrophy-dystroglycanopathy type A,H00593,Limb-girdle muscular dystrophy,0,9,
+H00014,Non-small cell lung cancer,H00054,Nasopharyngeal cancer,7,2,Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00120,Muscular dystrophy-dystroglycanopathy type A,H01959,Muscular dystrophy-dystroglycanopathy type C,0,9,
+H00014,Non-small cell lung cancer,H00021,Renal cell carcinoma,8,1,Cadmium to electron transfer in complex…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00031,Breast cancer,H00042,Glioma,4,5,EGFR-overexpression to RAS-ERK signalin…; EGFR-overexpression to PI3K signaling p…; Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H01959,Muscular dystrophy-dystroglycanopathy type C,H02307,Muscular dystrophy-dystroglycanopathy,0,9,
+H00069,Glycogen storage disease,H01760,Hepatic glycogen storage disease,0,9,
+H00014,Non-small cell lung cancer,H00020,Colorectal cancer,5,4,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…; MeIQx to DNA adducts
+H00523,Noonan syndrome and related disorders,H01738,Noonan syndrome,0,9,
+H00021,Renal cell carcinoma,H00024,Prostate cancer,8,0,Cadmium to electron transfer in complex…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00014,Non-small cell lung cancer,H00018,Gastric cancer,3,5,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…; BaP to DNA adducts
+H00020,Colorectal cancer,H00031,Breast cancer,5,3,EGFR-overexpression to RAS-ERK signalin…; EGFR-overexpression to PI3K signaling p…; Mutation-inactivated TP53 to transcript…; PhIP to DNA adducts; PhIP to DNA adducts
+H00013,Small cell lung cancer,H00021,Renal cell carcinoma,8,0,Cadmium to electron transfer in complex…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00014,Non-small cell lung cancer,H00019,Pancreatic cancer,5,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; Mutation-inactivated p16(INK4a) to p16-…; Mutation-inactivated TP53 to transcript…; MeIQx to DNA adducts
+H00042,Glioma,H00048,Hepatocellular carcinoma,4,4,Mutation-inactivated PTEN to PI3K signa…; Deleted p16(INK4a) to p16-cell cycle G1…; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00014,Non-small cell lung cancer,H00024,Prostate cancer,8,0,Cadmium to electron transfer in complex…; Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00403,Disorders of nucleotide excision repair,H01428,Xeroderma pigmentosum,0,8,
+H00048,Hepatocellular carcinoma,H00054,Nasopharyngeal cancer,7,1,Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00019,Pancreatic cancer,H00020,Colorectal cancer,5,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; Mutation-activated KRAS to RalGDS signa…; Mutation-inactivated TP53 to transcript…; MeIQx to DNA adducts
+H00593,Limb-girdle muscular dystrophy,H01959,Muscular dystrophy-dystroglycanopathy type C,0,8,
+H00031,Breast cancer,H00048,Hepatocellular carcinoma,4,4,Mutation-activated PI3K to PI3K signali…; Mutation-inactivated PTEN to PI3K signa…; FZD7-overexpression to Wnt signaling pa…; Mutation-inactivated TP53 to transcript…
+H00013,Small cell lung cancer,H00022,Bladder cancer,6,2,Loss of RB1 to cell cycle G1/S; Mutation-inactivated RB1 to cell cycle …; Mutation-inactivated TP53 to transcript…; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…; Arsenic to electron transfer in complex…
+H00019,Pancreatic cancer,H00038,Melanoma,5,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; Mutation-inactivated p16(INK4a) to p16-…; Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00020,Colorectal cancer,H00026,Endometrial cancer,3,5,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated CTNNB1 to Wnt signal…; Mutation-inactivated TP53 to transcript…
+H00243,Hyperkalemic distal renal tubular acidosis (RTA type 4),H02310,Renal tubular acidosis,0,8,
+H01431,Cushing syndrome,H02049,Bilateral macronodular adrenal hyperplasia,3,5,Mutation-activated PRKACA to ACTH-corti…; Mutation-activated GNAS to ACTH-cortiso…; Mutation-inactivated PDE11A/PDE8B to AC…
+H00018,Gastric cancer,H00026,Endometrial cancer,2,6,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00605,"Deafness, autosomal recessive",H00779,Usher syndrome,0,8,
+H00013,Small cell lung cancer,H00054,Nasopharyngeal cancer,7,1,Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00038,Melanoma,H00048,Hepatocellular carcinoma,3,4,Mutation-inactivated PTEN to PI3K signa…; Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00014,Non-small cell lung cancer,H00031,Breast cancer,4,3,ERBB2-overexpression to RAS-ERK signali…; EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…; Benzo[a]pyrenre to CYP-mediated metabol…
+H00254,Growth hormone deficiency,H02036,Combined pituitary hormone deficiency,0,7,
+H00019,Pancreatic cancer,H00031,Breast cancer,2,5,ERBB2-overexpression to PI3K signaling …; Mutation-inactivated TP53 to transcript…
+H00024,Prostate cancer,H00054,Nasopharyngeal cancer,7,0,Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00018,Gastric cancer,H00032,Thyroid cancer,2,5,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00120,Muscular dystrophy-dystroglycanopathy type A,H01960,Muscular dystrophy-dystroglycanopathy type B,0,7,
+H00018,Gastric cancer,H00048,Hepatocellular carcinoma,2,5,Mutation-inactivated TP53 to transcript…; TERT-overexpression to telomerase activ…
+H00014,Non-small cell lung cancer,H00038,Melanoma,4,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; Mutation-inactivated p16(INK4a) to p16-…; Mutation-inactivated TP53 to transcript…
+H01481,Myelodysplastic syndrome,H02412,Atypical chronic myeloid leukemia,0,7,
+H00057,Parkinson disease,H01600,Parkinsonian syndrome,0,7,
+H01347,MELAS syndrome,H01356,Myoclonic Epilepsy and Ragged-Red Fiber Disease,0,7,
+H00021,Renal cell carcinoma,H00054,Nasopharyngeal cancer,7,0,Metals to JNK signaling pathway; Metals to RAS-ERK signaling pathway; Metals to PI3K signaling pathway; Metals to NFKB signaling pathway; Metals to NFKB signaling pathway; Metals to HTF-1 signaling pathway; Metals to KEAP1-NRF2 signalig pathway
+H00068,Leber hereditary optic atrophy,H01355,Kearns-Sayre syndrome,0,7,
+H00627,Premature ovarian failure,H01282,Spermatogenic failure,0,7,
+H00018,Gastric cancer,H00027,Ovarian cancer,0,7,
+H00003,Acute myeloid leukemia,H02411,Chronic myelomonocytic leukemia,0,7,
+H00294,Dilated cardiomyopathy,H01216,Left ventricular noncompaction,0,7,
+H01960,Muscular dystrophy-dystroglycanopathy type B,H02307,Muscular dystrophy-dystroglycanopathy,0,7,
+H00013,Small cell lung cancer,H00042,Glioma,4,3,Deleted PTEN to PI3K signaling pathway; Mutation-inactivated PTEN to PI3K signa…; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00264,Charcot-Marie-Tooth disease,H00856,Distal hereditary motor neuropathies,0,6,
+H00286,Crohn disease,H01227,Inflammatory bowel disease (IBD),0,6,
+H00003,Acute myeloid leukemia,H02412,Atypical chronic myeloid leukemia,0,6,
+H00080,Systemic lupus erythematosus,H01492,Systemic sclerosis,0,6,
+H00537,Nephronophthisis,H00538,Senior-Loken syndrome,0,6,
+H00020,Colorectal cancer,H00032,Thyroid cancer,2,4,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00032,Thyroid cancer,H00038,Melanoma,3,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated BRAF to ERK signalin…; Mutation-inactivated TP53 to transcript…
+H00022,Bladder cancer,H00048,Hepatocellular carcinoma,3,3,Deleted p16(INK4a) to p16-cell cycle G1…; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00022,Bladder cancer,H00031,Breast cancer,3,3,ERBB2-overexpression to RAS-ERK signali…; EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…
+H00523,Noonan syndrome and related disorders,H02541,Juvenile myelomonocytic leukemia,1,5,MAPK signaling
+H00083,Allograft rejection,H00084,Graft-versus-host disease,0,6,
+H00018,Gastric cancer,H00031,Breast cancer,3,3,Amplified FGFR to RAS-ERK signaling pat…; Amplified FGFR to PI3K signaling pathway; Mutation-inactivated TP53 to transcript…
+H00014,Non-small cell lung cancer,H00032,Thyroid cancer,3,3,RET fusion kinase to RAS-ERK signaling …; Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00003,Acute myeloid leukemia,H02410,Myelodysplastic/myeloproliferative neoplasms,0,6,
+H00004,Chronic myeloid leukemia,H00022,Bladder cancer,3,3,Deleted p14(ARF) to p21-cell cycle G1/S; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00004,Chronic myeloid leukemia,H00042,Glioma,3,3,Deleted p14(ARF) to p21-cell cycle G1/S; Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H01488,Hyperphosphatasia with mental retardation syndrome,H01489,Inherited glycosylphosphatidylinositol deficiencies,0,6,
+H00593,Limb-girdle muscular dystrophy,H01960,Muscular dystrophy-dystroglycanopathy type B,0,6,
+H00292,Hypertrophic cardiomyopathy,H01216,Left ventricular noncompaction,0,6,
+H01959,Muscular dystrophy-dystroglycanopathy type C,H01960,Muscular dystrophy-dystroglycanopathy type B,0,6,
+H00019,Pancreatic cancer,H00042,Glioma,2,4,Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00026,Endometrial cancer,H00048,Hepatocellular carcinoma,3,3,Mutation-inactivated PTEN to PI3K signa…; Mutation-activated CTNNB1 to Wnt signal…; Mutation-inactivated TP53 to transcript…
+H00821,Age-related macular degeneration,H01434,Atypical hemolytic uremic syndrome,0,6,
+H00026,Endometrial cancer,H00027,Ovarian cancer,0,6,
+H00068,Leber hereditary optic atrophy,H00473,Mitochondrial complex I deficiency,0,6,
+H00026,Endometrial cancer,H00032,Thyroid cancer,2,4,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00020,Colorectal cancer,H00027,Ovarian cancer,0,6,
+H00019,Pancreatic cancer,H00027,Ovarian cancer,0,5,
+H00481,Cone-rod dystrophy and cone dystrophy,H00527,Retinitis pigmentosa,0,5,
+H00076,Cockayne syndrome,H00403,Disorders of nucleotide excision repair,0,5,
+H00202,Hepatic porphyria,H01763,Porphyria,0,5,
+H00294,Dilated cardiomyopathy,H00595,Myofibrillar myopathies,0,5,
+H00003,Acute myeloid leukemia,H00018,Gastric cancer,2,3,Mutation-activated KRAS/NRAS to ERK sig…; EO to DNA adducts
+H00017,Esophageal cancer,H00020,Colorectal cancer,0,5,
+H00031,Breast cancer,H00038,Melanoma,2,3,Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00473,Mitochondrial complex I deficiency,H01355,Kearns-Sayre syndrome,0,5,
+H00260,Pigmented micronodular adrenocortical disease,H01431,Cushing syndrome,2,3,Mutation-inactivated PRKAR1A to ACTH-co…; Mutation-inactivated PDE11A/PDE8B to AC…
+H01354,Leigh syndrome,H01368,Cytochrome c oxidase (COX) deficiency,0,5,
+H00026,Endometrial cancer,H00031,Breast cancer,2,3,Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00080,Systemic lupus erythematosus,H00408,Type 1 diabetes mellitus,0,5,
+H00527,Retinitis pigmentosa,H00837,Leber congenital amaurosis,0,5,
+H00018,Gastric cancer,H00038,Melanoma,2,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00523,Noonan syndrome and related disorders,H02410,Myelodysplastic/myeloproliferative neoplasms,0,5,
+H00027,Ovarian cancer,H01554,Fallopian tube cancer,0,5,
+H00773,Autosomal dominant intellectual developmental disorder,H01403,Coffin-Siris syndrome,0,5,
+H00294,Dilated cardiomyopathy,H01492,Systemic sclerosis,0,5,
+H00019,Pancreatic cancer,H00022,Bladder cancer,2,3,Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00022,Bladder cancer,H00038,Melanoma,3,2,Deleted p14(ARF) to p21-cell cycle G1/S; Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H00530,Joubert syndrome and related disorders,H00537,Nephronophthisis,0,5,
+H00507,Dyskeratosis congenita,H02569,"Pulmonary fibrosis and/or bone marrow failure, telomere-rel…",1,4,Telomere length regulation
+H00876,Mismatch repair deficiency,H02565,Hereditary nonpolyposis colorectal cancer,0,5,
+H01463,Mycosis fungoides,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,5,
+H00294,Dilated cardiomyopathy,H01219,Restrictive cardiomyopathy,0,5,
+H00010,Multiple myeloma,H00016,Oral cancer,0,5,
+H00026,Endometrial cancer,H00038,Melanoma,3,2,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00027,Ovarian cancer,H00031,Breast cancer,0,5,
+H00606,Early infantile epileptic encephalopathy,H01815,Malignant migrating partial seizures in infancy,0,5,
+H00048,Hepatocellular carcinoma,H01667,Medulloblastoma,0,5,
+H00201,Erythropoietic porphyria,H01763,Porphyria,0,5,
+H00019,Pancreatic cancer,H00026,Endometrial cancer,2,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00292,Hypertrophic cardiomyopathy,H00594,Distal myopathy,0,5,
+H00003,Acute myeloid leukemia,H01481,Myelodysplastic syndrome,0,5,
+H00020,Colorectal cancer,H02565,Hereditary nonpolyposis colorectal cancer,0,5,
+H02424,Primary central nervous system lymphoma,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,5,
+H00013,Small cell lung cancer,H00031,Breast cancer,3,2,Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…; Benzo[a]pyrenre to CYP-mediated metabol…
+H00720,Long QT syndrome,H00731,Atrial fibrillation,0,5,
+H00020,Colorectal cancer,H00876,Mismatch repair deficiency,1,4,Mismatch repair
+H00469,Mitochondrial DNA depletion syndrome,H01118,Progressive external ophthalmoplegia,0,5,
+H00020,Colorectal cancer,H00038,Melanoma,3,2,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…; Mutation-inactivated TP53 to transcript…
+H00004,Chronic myeloid leukemia,H00048,Hepatocellular carcinoma,2,3,Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00174,Methylmalonic aciduria,H02221,Methylmalonic aciduria and homocystinuria,0,5,
+H00004,Chronic myeloid leukemia,H00038,Melanoma,3,2,Deleted p14(ARF) to p21-cell cycle G1/S; Mutation-inactivated p16(INK4a) to p16-…; Mutation-inactivated TP53 to transcript…
+H00016,Oral cancer,H00055,Laryngeal cancer,0,5,
+H00604,"Deafness, autosomal dominant",H01705,Bilateral sudden sensorineural hearing loss,0,5,
+H00013,Small cell lung cancer,H00038,Melanoma,3,2,Deleted PTEN to PI3K signaling pathway; Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00026,Endometrial cancer,H00042,Glioma,2,3,Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00018,Gastric cancer,H00019,Pancreatic cancer,2,3,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00523,Noonan syndrome and related disorders,H02425,Erdheim-Chester disease,0,5,
+H02410,Myelodysplastic/myeloproliferative neoplasms,H02541,Juvenile myelomonocytic leukemia,0,5,
+H00292,Hypertrophic cardiomyopathy,H01219,Restrictive cardiomyopathy,0,5,
+H00031,Breast cancer,H00238,Fanconi anemia,0,5,
+H00014,Non-small cell lung cancer,H00042,Glioma,2,3,EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…
+H00454,Oral-facial-digital syndrome,H00530,Joubert syndrome and related disorders,0,5,
+H00410,Maturity onset diabetes of the young (MODY),H00512,Permanent neonatal diabetes mellitus,0,4,
+H00264,Charcot-Marie-Tooth disease,H02359,Dejerine-Sottas disease,0,4,
+H00292,Hypertrophic cardiomyopathy,H00595,Myofibrillar myopathies,0,4,
+H01200,Fatal infantile cardioencephalomyopathy,H01368,Cytochrome c oxidase (COX) deficiency,0,4,
+H00565,Sarcoglycanopathies,H00593,Limb-girdle muscular dystrophy,0,4,
+H01481,Myelodysplastic syndrome,H01892,Peripheral T cell lymphoma,0,4,
+H00016,Oral cancer,H00017,Esophageal cancer,0,4,
+H00028,Choriocarcinoma,H00042,Glioma,0,4,
+H00082,Graves disease,H00408,Type 1 diabetes mellitus,0,4,
+H00408,Type 1 diabetes mellitus,H01492,Systemic sclerosis,0,4,
+H00017,Esophageal cancer,H00042,Glioma,0,4,
+H00080,Systemic lupus erythematosus,H00081,Hashimoto thyroiditis,0,4,
+H00039,Basal cell carcinoma,H01667,Medulloblastoma,0,4,
+H00530,Joubert syndrome and related disorders,H02157,Short-rib thoracic dysplasia,0,4,
+H00017,Esophageal cancer,H00022,Bladder cancer,0,4,
+H00027,Ovarian cancer,H00048,Hepatocellular carcinoma,0,4,
+H00155,Familial hypercholesterolemia,H02505,Atherosclerosis,0,4,
+H00015,Malignant pleural mesothelioma,H01556,Meningioma,0,4,
+H00080,Systemic lupus erythematosus,H00082,Graves disease,0,4,
+H00542,Polycystic kidney disease,H01728,Potter syndrome,0,4,
+H01529,Avascular necrosis of femoral head,H01709,Glucocorticoid-induced osteonecrosis,0,4,
+H01892,Peripheral T cell lymphoma,H02410,Myelodysplastic/myeloproliferative neoplasms,0,4,
+H00019,Pancreatic cancer,H01554,Fallopian tube cancer,0,4,
+H00068,Leber hereditary optic atrophy,H01347,MELAS syndrome,0,4,
+H00036,Osteosarcoma,H00042,Glioma,0,4,
+H00069,Glycogen storage disease,H01948,Glycogen storage disease type IX,0,4,
+H00606,Early infantile epileptic encephalopathy,H01489,Inherited glycosylphosphatidylinositol deficiencies,0,4,
+H00015,Malignant pleural mesothelioma,H00042,Glioma,0,4,
+H00606,Early infantile epileptic encephalopathy,H02564,Generalized epilepsy with febrile seizures plus,0,4,
+H00019,Pancreatic cancer,H00048,Hepatocellular carcinoma,2,2,Deleted p16(INK4a) to p16-cell cycle G1…; Mutation-inactivated TP53 to transcript…
+H01745,Cardiofaciocutaneous syndrome,H02425,Erdheim-Chester disease,0,4,
+H00004,Chronic myeloid leukemia,H00014,Non-small cell lung cancer,2,2,Mutation-inactivated p16(INK4a) to p16-…; Mutation-inactivated TP53 to transcript…
+H00476,Multiple epiphyseal dysplasia,H02072,Stickler syndrome,0,4,
+H01605,Myelofibrosis,H01612,Essential thrombocythemia,0,4,
+H00036,Osteosarcoma,H01463,Mycosis fungoides,0,4,
+H00081,Hashimoto thyroiditis,H00082,Graves disease,0,4,
+H00017,Esophageal cancer,H00055,Laryngeal cancer,0,4,
+H00025,Penile cancer,H00028,Choriocarcinoma,0,4,
+H00003,Acute myeloid leukemia,H00038,Melanoma,2,2,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-activated KRAS/NRAS to PI3K si…
+H00032,Thyroid cancer,H00523,Noonan syndrome and related disorders,0,4,
+H00014,Non-small cell lung cancer,H00046,Cholangiocarcinoma,0,4,
+H00004,Chronic myeloid leukemia,H00019,Pancreatic cancer,2,2,Mutation-inactivated p16(INK4a) to p16-…; Mutation-inactivated TP53 to transcript…
+H00473,Mitochondrial complex I deficiency,H01365,Leber hereditary optic neuropathy and dystonia,0,4,
+H00020,Colorectal cancer,H00042,Glioma,3,1,EGFR-overexpression to RAS-ERK signalin…; EGFR-overexpression to PI3K signaling p…; Mutation-inactivated TP53 to transcript…
+H00013,Small cell lung cancer,H00026,Endometrial cancer,2,2,Mutation-inactivated PTEN to PI3K signa…; Mutation-inactivated TP53 to transcript…
+H00605,"Deafness, autosomal recessive",H01705,Bilateral sudden sensorineural hearing loss,0,4,
+H00014,Non-small cell lung cancer,H00016,Oral cancer,0,4,
+H00031,Breast cancer,H01554,Fallopian tube cancer,0,4,
+H00126,Gaucher disease,H00423,Sphingolipidosis,2,2,Loss of saposin stimulation; Glucosylceramide synthesis in GBA defic…
+H01486,Multiple congenital anomalies-hypotonia-seizures syndrome,H01489,Inherited glycosylphosphatidylinositol deficiencies,0,4,
+H00525,Disorders of mitochondrial fatty-acid oxidation,H02596,Disorders of carnitine transport and the carnitine cycle,0,4,
+H00013,Small cell lung cancer,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,4,
+H01235,Bleeding disorder platelet-type,H01740,Macrothrombocytopenia,0,4,
+H00027,Ovarian cancer,H00032,Thyroid cancer,0,4,
+H00511,Short rib-polydactyly syndrome,H02157,Short-rib thoracic dysplasia,0,4,
+H00036,Osteosarcoma,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,4,
+H01613,Follicular lymphoma,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,4,
+H00751,Asphyxiating thoracic dystrophy,H02157,Short-rib thoracic dysplasia,0,4,
+H00019,Pancreatic cancer,H00032,Thyroid cancer,2,2,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H01227,Inflammatory bowel disease (IBD),H01466,Ulcerative colitis,0,4,
+H00469,Mitochondrial DNA depletion syndrome,H01390,Mitochondrial neurogastrointestinal encephalomyopathy,0,4,
+H00254,Growth hormone deficiency,H02035,Isolated growth hormone deficiency,0,4,
+H00606,Early infantile epileptic encephalopathy,H01819,Early myoclonic encephalopathy,0,4,
+H00036,Osteosarcoma,H00048,Hepatocellular carcinoma,0,4,
+H00018,Gastric cancer,H00046,Cholangiocarcinoma,0,4,
+H00808,Idiopathic generalized epilepsies,H02217,Juvenile myoclonic epilepsy,0,4,
+H00004,Chronic myeloid leukemia,H00013,Small cell lung cancer,2,2,Loss of RB1 to cell cycle G1/S; Mutation-inactivated TP53 to transcript…
+H00017,Esophageal cancer,H00048,Hepatocellular carcinoma,0,4,
+H00130,Mucopolysaccharidosis type III,H00421,Mucopolysaccharidosis,0,4,
+H01619,Primary pulmonary hypertension,H01621,Pulmonary arterial hypertension,0,4,
+H00081,Hashimoto thyroiditis,H00408,Type 1 diabetes mellitus,0,4,
+H01457,Diabetic retinopathy,H02559,Microvascular complications of diabetes,0,4,
+H00025,Penile cancer,H00036,Osteosarcoma,0,4,
+H00019,Pancreatic cancer,H00046,Cholangiocarcinoma,0,4,
+H00014,Non-small cell lung cancer,H00040,Squamous cell carcinoma,1,3,BaP to DNA adducts
+H00048,Hepatocellular carcinoma,H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,4,
+H00294,Dilated cardiomyopathy,H00593,Limb-girdle muscular dystrophy,0,4,
+H00403,Disorders of nucleotide excision repair,H02570,Cerebro-oculo-facio-skeletal syndrome,0,4,
+H00014,Non-small cell lung cancer,H00026,Endometrial cancer,2,2,Mutation-activated KRAS/NRAS to ERK sig…; Mutation-inactivated TP53 to transcript…
+H00418,Bardet-Biedl syndrome,H00527,Retinitis pigmentosa,0,4,
+H00048,Hepatocellular carcinoma,H01463,Mycosis fungoides,0,4,
+H00523,Noonan syndrome and related disorders,H01745,Cardiofaciocutaneous syndrome,0,4,
+H00016,Oral cancer,H00036,Osteosarcoma,0,3,
+H00017,Esophageal cancer,H00047,Gallbladder cancer,0,3,
+H00025,Penile cancer,H00032,Thyroid cancer,0,3,
+H00149,Neuronal ceroid lipofuscinosis,H02276,Kufs disease,0,3,
+H00015,Malignant pleural mesothelioma,H00048,Hepatocellular carcinoma,0,3,
+H00008,Burkitt lymphoma,H00036,Osteosarcoma,0,3,
+H00022,Bladder cancer,H00040,Squamous cell carcinoma,0,3,
+H00481,Cone-rod dystrophy and cone dystrophy,H00837,Leber congenital amaurosis,0,3,
+H00606,Early infantile epileptic encephalopathy,H02215,Childhood absence epilepsy,0,3,
+H00046,Cholangiocarcinoma,H00047,Gallbladder cancer,0,3,
+H00013,Small cell lung cancer,H00028,Choriocarcinoma,0,3,
+H00027,Ovarian cancer,H00028,Choriocarcinoma,0,3,
+H00773,Autosomal dominant intellectual developmental disorder,H02632,PP2A-related neurodevelopmental disorder,1,2,Chromosome cohesion and segregation
+H00025,Penile cancer,H01463,Mycosis fungoides,0,3,
+H00022,Bladder cancer,H01508,Salivary gland cancer,0,3,
+H00028,Choriocarcinoma,H00055,Laryngeal cancer,0,3,
+H00784,Localized autosomal recessive hypotrichosis,H00786,Hypotrichosis,0,3,
+H00016,Oral cancer,H00020,Colorectal cancer,0,3,
+H00042,Glioma,H00046,Cholangiocarcinoma,0,3,
+H00008,Burkitt lymphoma,H00048,Hepatocellular carcinoma,0,3,
+H00025,Penile cancer,H00040,Squamous cell carcinoma,0,3,
+H00594,Distal myopathy,H01810,Congenital myopathy,0,3,
+H00013,Small cell lung cancer,H00041,Kaposi sarcoma,0,3,
+H01635,Hyperlipidemia,H01784,Primary hyperchylomicronemia,0,3,
+H00004,Chronic myeloid leukemia,H00036,Osteosarcoma,0,3,
+H01510,Malignant paraganglioma,H02538,Paraganglioma,0,3,
+H00016,Oral cancer,H02411,Chronic myelomonocytic leukemia,0,3,
+H00261,Meckel syndrome,H00537,Nephronophthisis,0,3,
+H00010,Multiple myeloma,H00020,Colorectal cancer,0,3,
+H00036,Osteosarcoma,H01513,Retinoblastoma,0,3,
+H00032,Thyroid cancer,H01738,Noonan syndrome,0,3,
+H00027,Ovarian cancer,H01667,Medulloblastoma,0,3,
+H00009,Adult T-cell leukemia,H00017,Esophageal cancer,0,3,
+H00017,Esophageal cancer,H01463,Mycosis fungoides,0,3,
+H00022,Bladder cancer,H00026,Endometrial cancer,1,2,Mutation-inactivated TP53 to transcript…
+H00016,Oral cancer,H00040,Squamous cell carcinoma,0,3,
+H00025,Penile cancer,H00055,Laryngeal cancer,0,3,
+H00025,Penile cancer,H00046,Cholangiocarcinoma,0,3,
+H00048,Hepatocellular carcinoma,H00055,Laryngeal cancer,0,3,
+H00079,Asthma,H00080,Systemic lupus erythematosus,0,3,
+H02005,Mitochondrial complex II deficiency,H02538,Paraganglioma,0,3,
+H00469,Mitochondrial DNA depletion syndrome,H01395,Autosomal recessive progressive external ophthalmoplegia,0,3,
+H00040,Squamous cell carcinoma,H00046,Cholangiocarcinoma,0,3,
+H00523,Noonan syndrome and related disorders,H02628,Schimmelpenning-Feuerstein-Mims syndrome,0,3,
+H01102,Pituitary adenomas,H01483,Acromegaly,0,3,
+H00036,Osteosarcoma,H00055,Laryngeal cancer,0,3,
+H00008,Burkitt lymphoma,H00016,Oral cancer,0,3,
+H00027,Ovarian cancer,H00041,Kaposi sarcoma,0,3,
+H00080,Systemic lupus erythematosus,H02123,Celiac disease,0,3,
+H00020,Colorectal cancer,H00022,Bladder cancer,2,1,EGFR-overexpression to RAS-ERK signalin…; Mutation-inactivated TP53 to transcript…
+H00606,Early infantile epileptic encephalopathy,H00775,Hemiplegic migraine,0,3,
+H00701,Congenital fiber type disproportion,H01810,Congenital myopathy,0,3,
+H02412,Atypical chronic myeloid leukemia,H02541,Juvenile myelomonocytic leukemia,0,3,
+H00098,Chronic granulomatous disease,H01167,Granulibacter infection,0,3,

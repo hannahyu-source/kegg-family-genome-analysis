@@ -12,7 +12,7 @@ KEGG 약물군(dgroup)·약물(drug) 데이터와 연결한다.
   2. ClinVar PhenotypeList에 적힌 "약물명 response" 패턴에서 약물명을 뽑아
      KEGG drug 엔트리와 직접 매칭 — 훨씬 좁고 구체적인 연결
 
-출력 (가족 유전체(SNP) 데이터/output/):
+출력 (results/tables/):
   family_pharmacogenomics.csv         - 변이별 상세 (유전자, 보유자, 매칭된 KEGG dgroup/drug)
   family_pharmacogenomics_summary.csv - 구성원별 PGx 변이 수 · 영향권 KEGG 약물 수
 """
@@ -26,17 +26,17 @@ import pandas as pd
 if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
     sys.stdout.reconfigure(encoding="utf-8")
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-FAMILY_OUTPUT_DIR = SCRIPT_DIR.parent / "output"
-KEGG_OUTPUT_DIR = SCRIPT_DIR.parent.parent / "KEGG 데이터" / "output"
+ROOT = Path(__file__).resolve().parents[1]
+PROCESSED_DIR = ROOT / "data" / "processed"
+RESULTS_DIR = ROOT / "results" / "tables"
 
 MEMBER_ORDER = ["Father", "Mother", "Child 1", "Child 2", "Child 3"]
 DRUG_NAME_PATTERN = re.compile(r"([A-Za-z][A-Za-z0-9/\-]{2,})\s+response\b")
 
 
 def load_kegg_tables():
-    dgroup_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_dgroup.csv", dtype=str).fillna("")
-    drug_df = pd.read_csv(KEGG_OUTPUT_DIR / "kegg_drug.csv", dtype=str).fillna("")
+    dgroup_df = pd.read_csv(PROCESSED_DIR / "kegg_dgroup.csv", dtype=str).fillna("")
+    drug_df = pd.read_csv(PROCESSED_DIR / "kegg_drug.csv", dtype=str).fillna("")
     drug_df["primary_name"] = drug_df["name"].str.split(";").str[0].str.split("(").str[0].str.strip()
     return dgroup_df, drug_df
 
@@ -65,7 +65,7 @@ def find_named_drugs(phenotype_list: str, drug_df: pd.DataFrame):
 
 
 def main():
-    matches = pd.read_csv(FAMILY_OUTPUT_DIR / "family_clinvar_matches.csv", dtype=str).fillna("")
+    matches = pd.read_csv(PROCESSED_DIR / "family_clinvar_matches.csv", dtype=str).fillna("")
     dgroup_df, drug_df = load_kegg_tables()
 
     carrier_cols = [f"{m}_carries_alt_allele" for m in MEMBER_ORDER]
@@ -99,7 +99,7 @@ def main():
         )
 
     out_df = pd.DataFrame(rows).sort_values(["gene_symbol", "rsid"])
-    out_df.to_csv(FAMILY_OUTPUT_DIR / "family_pharmacogenomics.csv", index=False, encoding="utf-8-sig")
+    out_df.to_csv(RESULTS_DIR / "family_pharmacogenomics.csv", index=False, encoding="utf-8-sig")
 
     # 구성원별 요약: PGx 변이 수, 영향권 dgroup 수(중복제거), 그 dgroup들이 커버하는 약물 총합(중복제거)
     dgroup_member_ids = dict(zip(dgroup_df["entry_id"], dgroup_df["member_ids"]))
@@ -131,13 +131,13 @@ def main():
         )
 
     summary_df = pd.DataFrame(summary_rows)
-    summary_df.to_csv(FAMILY_OUTPUT_DIR / "family_pharmacogenomics_summary.csv", index=False, encoding="utf-8-sig")
+    summary_df.to_csv(RESULTS_DIR / "family_pharmacogenomics_summary.csv", index=False, encoding="utf-8-sig")
 
     print()
     print(summary_df.to_string(index=False))
     print()
-    print(f"-> {FAMILY_OUTPUT_DIR / 'family_pharmacogenomics.csv'}")
-    print(f"-> {FAMILY_OUTPUT_DIR / 'family_pharmacogenomics_summary.csv'}")
+    print(f"-> {RESULTS_DIR / 'family_pharmacogenomics.csv'}")
+    print(f"-> {RESULTS_DIR / 'family_pharmacogenomics_summary.csv'}")
 
 
 if __name__ == "__main__":
