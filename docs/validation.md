@@ -112,6 +112,12 @@ interpretation)**을 명확히 구분한다:
   경로로 CFH를 동일하게 가리키는지 확인 — 이는 "AI가 만든 두 스크립트가 서로 모순되지
   않는다"는 재현성 검증이기도 하다.
 - **생물학적 타당성 검토**: 위 "수작업 검토" 항목 전체.
+- **문서 내 다이어그램 검증**: README.md의 파이프라인 Mermaid 다이어그램은 GitHub가 클라이언트
+  측 JavaScript로 렌더링하기 때문에 정적 HTML만 가져오는 도구(예: 단순 URL fetch)로는 실제
+  렌더링 여부를 확인할 수 없다 — 그런 도구로 확인하면 다이어그램이 원문 텍스트 그대로
+  보여 "깨졌다"는 오탐(false negative)이 나온다. 이를 가리기 위해 README.md에서 Mermaid
+  소스를 그대로 추출해 로컬에 설치한 `@mermaid-js/mermaid-cli`(GitHub와 같은 계열의
+  mermaid.js 엔진)로 직접 렌더링했고, 오류 없이 정상적으로 그림이 만들어짐을 확인했다.
 
 리팩터링 과정에서 발견한 것: 파이프라인 스크립트 중 하나(`family_clinvar_match.py`, 현재
 `src/05_clinvar_annotation.py`)가 이 세션 밖에서 만들어진 임시 피클 캐시 파일과 로컬 절대
