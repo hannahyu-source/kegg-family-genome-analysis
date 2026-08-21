@@ -1,9 +1,3 @@
-This license covers the scripts and documentation in this repository only.
-It does not apply to the third-party data included/referenced here:
-KEGG data (subject to KEGG's own license terms — see kegg.jp) and the
-family genome CSVs (from a Kaggle public dataset — subject to that
-dataset's original license).
-
 MIT License
 
 Copyright (c) 2026 Hannah Yu

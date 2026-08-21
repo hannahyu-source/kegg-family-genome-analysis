@@ -186,3 +186,15 @@ reviewed by the project author. 역할 분담과 검증 방식은
 - WES/WGS로 확장
 
 이 목록은 아직 구현되지 않은 개선 방향이며, 현재 결과가 이를 포함한다고 주장하지 않는다.
+
+## 13. License
+
+이 저장소의 코드와 문서(`src/`, `docs/`, `results/`, `notebooks/`, `README.md` 등)는
+[MIT License](LICENSE)를 따른다.
+
+**이 라이선스는 제3자 데이터(`data/`)에는 적용되지 않는다**:
+- KEGG flat file(`data/raw/kegg/`)은 KEGG 자체 이용 약관을 따른다 — [kegg.jp](https://www.kegg.jp/kegg/legal.html)
+- 가족 SNP 데이터(`data/raw/family_snp/`)는 원본 Kaggle 공개 데이터셋의 라이선스와, 23andMe가
+  명시한 "연구·교육·정보 제공 목적으로만 적합" 제한을 따른다
+
+자세한 내용은 [`data/README.md`](data/README.md)를 참고할 것.
