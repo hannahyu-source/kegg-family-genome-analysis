@@ -3,6 +3,22 @@
 AI-assisted family SNP analysis integrating ClinVar and KEGG disease–gene–pathway–drug
 relationships
 
+## 한눈에 보기 (TL;DR)
+
+5인 가족의 23andMe SNP 데이터를 ClinVar로 임상 주석하고, KEGG 지식 그래프로 독립
+교차검증한 **연구·가설 생성용** 파이프라인이다 (임상 진단 도구 아님).
+
+| 항목 | 결과 | 근거 파일 |
+|---|---|---|
+| KEGG 관계형 데이터 | 5개 flat file → **69,546건** 관계 | [`data/processed/kegg_relations.csv`](data/processed/kegg_relations.csv) |
+| 가족 × ClinVar 매칭 | rsid 1,117,586개 중 **59,501건** 매칭 | [`data/processed/family_clinvar_matches.csv`](data/processed/family_clinvar_matches.csv) |
+| 독립 교차검증 통과 | 병원성 변이 4건 중 **CFH만** KEGG로도 확인 | [`results/case_studies/CFH_case_study.md`](results/case_studies/CFH_case_study.md) |
+| PGx 공통 마커 | **VKORC1 · CYP3A5 · UGT1A1** (CPIC/FDA 등재) | [`results/case_studies/pharmacogenomics_case_study.md`](results/case_studies/pharmacogenomics_case_study.md) |
+| 재현 | `pip install -r requirements.txt` 후 `src/` 순서 실행 | [`docs/workflow.md`](docs/workflow.md) |
+
+전체 설명은 아래 1절부터, AI 활용 범위는 [10절](#10-ai-assisted-development), 한계는
+[11절](#11-limitations)을 참고할 것.
+
 ## 1. Project Overview
 
 이 프로젝트는 다섯 명으로 구성된 한 가족(Father/Mother/Child 1/2/3)의 23andMe SNP 데이터를
@@ -62,15 +78,24 @@ flowchart TD
 ## 5. Key Results
 
 - KEGG 5개 flat file → **69,546건**의 엔트리 간 관계로 구조화
+  ([`kegg_relations.csv`](data/processed/kegg_relations.csv), 생성: [`src/01_build_kegg_tables.py`](src/01_build_kegg_tables.py))
 - 가족 rsid 합집합 **1,117,586개** 중 ClinVar와 **59,501건** 매칭 (대다수는 Benign — 매칭이
   곧 병원성을 뜻하지 않음)
-- 가족이 실제 보유한 병원성(Pathogenic, 비상충) 변이 4건(CFH×2, LMNA×1, UGT1A1×1) 중,
-  **CFH**(rs460897, rs1061170)만 KEGG 자체 질병 데이터베이스로도 독립적으로 교차검증됨
+  ([`family_clinvar_matches.csv`](data/processed/family_clinvar_matches.csv),
+  요약: [`family_clinvar_summary.csv`](results/tables/family_clinvar_summary.csv))
+- 가족이 실제 보유한 ClinVar 병원성(Pathogenic, 비상충) 분류 변이 4건(CFH×2, LMNA×1,
+  UGT1A1×1) 중, **CFH**(rs460897, rs1061170)만 KEGG 자체 질병 데이터베이스로도 독립적으로
+  교차검증됨
+  ([`family_clinvar_kegg_crossvalidated.csv`](results/tables/family_clinvar_kegg_crossvalidated.csv),
+  전체 서술: [CFH case study](results/case_studies/CFH_case_study.md))
 - 전 가족 공통 약물유전체(PGx) 마커: **VKORC1**(warfarin), **CYP3A5**(tacrolimus),
   **UGT1A1**(irinotecan) — 전부 CPIC/FDA에 실제 등재된 유전자-약물 쌍
+  ([`family_pharmacogenomics_summary.csv`](results/tables/family_pharmacogenomics_summary.csv),
+  전체 서술: [PGx case study](results/case_studies/pharmacogenomics_case_study.md))
 - 질병 중심 재창출 후보 탐색: 2,633개 질병 중 673개에서 재창출 후보 5,890건 발견 — 예시로
   간암(H00048) → PI3K/mTOR 억제제 계열, CFH 연결 질병 → Pegcetacoplan/Iptacopan/Danicopan
   (실제 FDA 승인/후기임상 보체억제제)이 방법론적으로 도출됨
+  ([`drug_repurposing_candidates.csv`](results/tables/drug_repurposing_candidates.csv))
 
 > **주의**: ClinVar 매칭 ≠ 병원성 변이, PGx 마커 ≠ 임상 처방 권고, KEGG의 질병 연결 ≠ 진단.
 > 각 표현의 정확한 의미는 [`docs/limitations.md`](docs/limitations.md)에 명시돼 있다.
@@ -102,7 +127,8 @@ flowchart TD
 - KEGG를 ClinVar의 "검증"이 아니라 독립적인 지식 소스로 취급해 교차검증
 - PGx는 CPIC/PharmGKB 공개 자료와 수작업 대조
 - CFH·PGx·재창출 후보 결과를 생물학적 타당성 기준으로 수작업 검토
-- 저장소 재구성 과정에서 파이프라인을 재실행해 원래 커밋의 수치와 정확히 일치함을 재확인
+- 저장소 재구성 과정에서 900만 행 ClinVar 스트리밍 매칭을 포함한 전체 파이프라인을
+  처음부터 끝까지 재실행해, 원래 커밋의 수치(59,501건 매칭 등)와 정확히 일치함을 재확인
 
 자세한 내용은 [`docs/validation.md`](docs/validation.md).
 
