@@ -1,0 +1,126 @@
+﻿member,chromosome,snp_count
+Father,1,46656
+Father,2,46127
+Father,6,40383
+Father,3,38516
+Father,5,34384
+Father,4,33914
+Father,7,33051
+Father,8,30266
+Father,11,29320
+Father,10,29211
+Father,12,28450
+Father,9,26583
+Father,13,21652
+Father,X,19478
+Father,16,19198
+Father,17,18710
+Father,14,18695
+Father,15,18281
+Father,18,16490
+Father,20,14494
+Father,19,12989
+Father,22,9096
+Father,21,8461
+Father,MT,5095
+Father,Y,2302
+Mother,1,46656
+Mother,2,46127
+Mother,6,40383
+Mother,3,38516
+Mother,5,34384
+Mother,4,33914
+Mother,7,33051
+Mother,8,30266
+Mother,11,29320
+Mother,10,29211
+Mother,12,28450
+Mother,9,26583
+Mother,13,21652
+Mother,X,19478
+Mother,16,19198
+Mother,17,18710
+Mother,14,18695
+Mother,15,18281
+Mother,18,16490
+Mother,20,14494
+Mother,19,12989
+Mother,22,9096
+Mother,21,8461
+Mother,MT,5095
+Mother,Y,2302
+Child 1,1,46656
+Child 1,2,46127
+Child 1,6,40383
+Child 1,3,38516
+Child 1,5,34384
+Child 1,4,33914
+Child 1,7,33051
+Child 1,8,30266
+Child 1,11,29320
+Child 1,10,29211
+Child 1,12,28450
+Child 1,9,26583
+Child 1,13,21652
+Child 1,X,19478
+Child 1,16,19198
+Child 1,17,18710
+Child 1,14,18695
+Child 1,15,18281
+Child 1,18,16490
+Child 1,20,14494
+Child 1,19,12989
+Child 1,22,9096
+Child 1,21,8461
+Child 1,MT,5095
+Child 1,Y,2302
+Child 2,2,51337
+Child 2,1,48935
+Child 2,6,43703
+Child 2,3,42605
+Child 2,4,39092
+Child 2,5,36727
+Child 2,7,34027
+Child 2,8,31428
+Child 2,11,30687
+Child 2,10,30258
+Child 2,12,29151
+Child 2,9,26153
+Child 2,13,21920
+Child 2,16,20205
+Child 2,14,19778
+Child 2,17,19175
+Child 2,15,18807
+Child 2,18,17549
+Child 2,X,16143
+Child 2,19,14691
+Child 2,20,14652
+Child 2,22,8808
+Child 2,21,8494
+Child 2,MT,4157
+Child 2,Y,3501
+Child 3,2,51337
+Child 3,1,48935
+Child 3,6,43703
+Child 3,3,42605
+Child 3,4,39092
+Child 3,5,36727
+Child 3,7,34027
+Child 3,8,31428
+Child 3,11,30687
+Child 3,10,30258
+Child 3,12,29151
+Child 3,9,26153
+Child 3,13,21920
+Child 3,16,20205
+Child 3,14,19778
+Child 3,17,19175
+Child 3,15,18807
+Child 3,18,17549
+Child 3,X,16143
+Child 3,19,14691
+Child 3,20,14652
+Child 3,22,8808
+Child 3,21,8494
+Child 3,MT,4157
+Child 3,Y,3501

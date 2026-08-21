@@ -1,0 +1,910 @@
+﻿gene_symbol,ko_id,variant_entry_count,variant_phenotypes,linked_disease_count,linked_disease_names,linked_drug_target_count,linked_drug_target_names,linked_network_count
+TP53,K04451,1,TP53 mutation,14,Chronic myeloid leukemia; Small cell lung cancer; Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Colorectal cancer; Bladder cancer; Endometrial cancer; Breast cancer; Thyroid cancer; Melanoma; Basal cell carcinoma; Glioma; Hepatocellular carcinoma,0,,0
+KRAS,K07827,2,KRAS mutation,12,Acute myeloid leukemia; Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Colorectal cancer; Endometrial cancer; Thyroid cancer; Melanoma; Medullary thyroid cancer; Noonan syndrome; Cardiofaciocutaneous syndrome; Juvenile myelomonocytic leukemia,2,Sotorasib (JAN/USAN); Adagrasib (USAN/INN),0
+NRAS,K07828,2,NRAS mutation,10,Acute myeloid leukemia; Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Colorectal cancer; Endometrial cancer; Thyroid cancer; Melanoma; Noonan syndrome; Juvenile myelomonocytic leukemia,0,,0
+FGFR2,K05093,3,FGFR2 amplification; FGFR2 fusion; FGFR2 mutation,9,Gastric cancer; Breast cancer; Antley-Bixler syndrome; Crouzon syndrome; Apert syndrome; Pfeiffer syndrome; Jackson-Weiss syndrome; Beare-Stevenson syndrome; Saethre-Chotzen syndrome,4,Erdafitinib (JAN/USAN/INN); Pemigatinib (JAN/USAN/INN); Infigratinib phosphate (USAN); Futibatinib (JAN/USAN/INN),0
+CDKN2A,K06621,2,CDKN2A deletion; CDKN2A mutation,7,Chronic myeloid leukemia; Non-small cell lung cancer; Pancreatic cancer; Bladder cancer; Melanoma; Glioma; Hepatocellular carcinoma,0,,0
+PTEN,K01110,2,PTEN deletion; PTEN mutation,7,Small cell lung cancer; Prostate cancer; Endometrial cancer; Breast cancer; Melanoma; Glioma; Hepatocellular carcinoma,0,,0
+MEN1,K14970,1,MEN1 mutation,7,Adrenal carcinoma; Carcinoid; Primary hyperparathyroidism; Multiple endocrine neoplasia syndrome; Pituitary adenomas; Cushing syndrome; Zollinger-Ellison syndrome,0,,0
+GNAS,K04632,2,GNAS activating mutation; GNAS inactivating mutation,6,Pseudohypoparathyroidism; Pigmented micronodular adrenocortical disease; Pituitary adenomas; Cushing syndrome; Acromegaly; Bilateral macronodular adrenal hyperplasia,0,,0
+TERT,K11126,2,TERT mutation; TERT overexpression,6,"Gastric cancer; Melanoma; Hepatocellular carcinoma; Dyskeratosis congenita; Aplastic anemia; Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+EGFR,K04361,5,EGFR amplification; EGFR mutation in glioblastoma; EGFR mutation in non-small cell lung cancer; EGFR overexpression; First generation TKI-resistant EGFR mutation,5,Non-small cell lung cancer; Colorectal cancer; Bladder cancer; Breast cancer; Glioma,12,Gefitinib (JP18/USAN/INN); Erlotinib hydrochloride (JAN/USAN); Afatinib dimaleate (USAN); Dacomitinib (USAN); Osimertinib mesylate (USAN); Amivantamab (USAN/INN); Mobocertinib succinate (JAN); Lazertinib (USAN); Lazertinib mesilate hydrate (JAN); Aumolertinib (USAN/INN); Aumolertinib mesylate (USAN); Sunvozertinib (USAN/INN),0
+ERBB2,K05083,3,ERBB2 amplification; ERBB2 mutation; ERBB2 overexpression,5,Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Bladder cancer; Breast cancer,9,Trastuzumab (USAN/INN); Lapatinib ditosylate (USAN); Pertuzumab (USAN/INN); Trastuzumab emtansine (USAN/INN); Margetuximab (USAN/INN); Neratinib maleate; Tucatinib (USAN/INN); Trastuzumab deruxtecan (USAN/INN); Tucatinib ethanolate (JAN),0
+RET,K05126,3,RET fusion; RET mutation,5,Non-small cell lung cancer; Thyroid cancer; Hirschsprung disease; Malignant paraganglioma; Medullary thyroid cancer,3,Pralsetinib (USAN/INN); Selpercatinib (JAN/USAN/INN); Pralsetinib hydrate (JAN),0
+BRAF,K04365,2,BRAF mutation,5,Thyroid cancer; Melanoma; Noonan syndrome; Cardiofaciocutaneous syndrome; Leopard syndrome,3,Vemurafenib (JAN/USAN/INN); Dabrafenib mesylate (USAN); Encorafenib (JAN/USAN/INN),0
+FGFR1,K04362,2,FGFR1 amplification; FGFR1 mutation,5,Gastric cancer; Breast cancer; Hypogonadotropic hypogonadism; Pfeiffer syndrome; Jackson-Weiss syndrome,0,,0
+RB1,K06618,2,RB1 loss; RB1 mutation,5,Chronic myeloid leukemia; Small cell lung cancer; Bladder cancer; Glioma; Hepatocellular carcinoma,0,,0
+TSC1,K07206,2,TSC1 mutation,5,Lymphangioleiomyomatosis; Tuberous sclerosis complex; Focal cortical dysplasia of Taylor; Renal angiomyolipoma; Subependymal giant cell astrocytoma,0,,0
+TSC2,K07207,2,TSC2 mutation,5,Lymphangioleiomyomatosis; Tuberous sclerosis complex; Focal cortical dysplasia of Taylor; Renal angiomyolipoma; Subependymal giant cell astrocytoma,0,,0
+CFH,K04004,1,CFH mutation,5,Alternative complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome; Basal laminar drusen; C3 glomerulopathy,0,,0
+LRP5,K03068,1,LRP5 mutation,5,Osteopetrosis; Osteoporosis-pseudoglioma syndrome; Familial exudative vitreoretinopathy; Osteoporosis; Hyperostosis corticalis generalisata,0,,0
+NF1,K08052,1,NF1 mutation,5,Neurofibromatosis type 1; Malignant paraganglioma; Watson syndrome; Neurofibromatosis-Noonan syndrome; Juvenile myelomonocytic leukemia,0,,0
+MET,K05099,4,MET amplification; MET exon 14 skipping; MET kinase domain mutation; MET overexpression,4,Non-small cell lung cancer; Gastric cancer; Renal cell carcinoma; Hepatocellular carcinoma,3,Capmatinib hydrochloride (USAN); Tepotinib hydrochloride (USAN); Vebreltinib (USAN),0
+CDKN1B,K06624,3,CDKN1B loss; CDKN1B mutation; CDKN1B reduced expression,4,Gastric cancer; Prostate cancer; Pituitary adenomas; Cushing syndrome,0,,0
+TGFBR2,K04388,3,TGFBR2 mutation; TGFBR2 reduced expression,4,Colorectal cancer; Hepatocellular carcinoma; Loeys-Dietz syndrome; Familial thoracic aortic aneurysm and dissection,0,,0
+BRCA1,K10605,1,BRCA1 mutation,4,Pancreatic cancer; Breast cancer; Fanconi anemia; Familial breast-ovarian cancer,0,,0
+BRCA2,K08775,1,BRCA2 mutation,4,Pancreatic cancer; Breast cancer; Fanconi anemia; Familial breast-ovarian cancer,0,,0
+CFI,K01333,1,CFI mutation,4,Complement regulatory protein defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome; C3 glomerulopathy,0,,0
+GDF5,K04664,1,GDF5 mutation,4,Brachydactyly; Multiple synostosis syndrome; Proximal symphalangism; Acromesomelic dysplasia,0,,0
+GLI3,K06230,1,GLI3 mutation,4,Pallister-Hall syndrome; Postaxial polydactyly; Greig cephalopolysyndactyly syndrome; Preaxial polydactyly,0,,0
+NLRP3,K12800,1,NLRP3 mutation,4,"Deafness, autosomal dominant; Familial cold autoinflammatory syndrome; Muckle-Wells syndrome; CINCA syndrome",0,,0
+NOG,K04658,1,NOG mutation,4,Brachydactyly; Multiple synostosis syndrome; Tarsal-carpal coalition syndrome; Proximal symphalangism,0,,0
+TREX1,K10790,1,TREX1 mutation,4,Systemic lupus erythematosus; Aicardi-Goutieres syndrome; Familial chilblain lupus (FCL); Retinal vasculopathy with cerebral leukodystrophy,0,,0
+VCP,K13525,1,VCP mutation,4,Amyotrophic lateral sclerosis (ALS); Charcot-Marie-Tooth disease; Inclusion body myopathy with Paget disease of bone and frontotemporal dementia; Frontotemporal dementia and amyotrophic lateral sclerosis,0,,0
+RUNX1,K08367,5,AML1 mutation; AML1-ETO fusion; AML1-EVI1 fusion; RUNX1 mutation; TEL-AML1 fusion,3,B-cell acute lymphoblastic leukemia; Acute myeloid leukemia; Chronic myeloid leukemia,0,,0
+FGFR3,K05094,3,FGFR3 erdafitinib-susceptible variation; FGFR3 mutation,3,Bladder cancer; Crouzon syndrome; Muenke syndrome,1,Erdafitinib (JAN/USAN/INN),0
+F5,K03902,2,F5 mutation; Factor V Leiden,3,Factor V deficiency; Inherited thrombophilia; Budd-Chiari syndrome,0,,0
+NOTCH1,K02599,2,NOTCH1 mutation; NOTCH1 overexpression,3,Breast cancer; Aortic valve disease; Adams-Oliver syndrome,0,,0
+PTCH1,K06225,2,PTCH1 mutation,3,Basal cell carcinoma; Holoprosencephaly; Basal cell nevus syndrome,0,,0
+TGFBR1,K04674,2,TGFBR1 mutation; TGFBR1 reduced expression,3,Gastric cancer; Loeys-Dietz syndrome; Familial thoracic aortic aneurysm and dissection,0,,0
+BLM,K10901,1,BLM mutation,3,"Defects in RecQ helicases; Bloom syndrome; Microcephaly, growth restriction, and increased sister chromatid exchange",0,,0
+C3,K03990,1,C3 mutation,3,Classic complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome,0,,0
+CFB,K01335,1,CFB mutaion,3,Alternative complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome,0,,0
+CTNNB1,K02105,1,CTNNB1 mutation,3,Colorectal cancer; Endometrial cancer; Hepatocellular carcinoma,0,,0
+DCTN1,K04648,1,DCTN1 mutaion,3,Amyotrophic lateral sclerosis (ALS); Distal hereditary motor neuropathies; Perry syndrome,0,,0
+DYNC1H1,K10413,1,DYNC1H1 mutation,3,Charcot-Marie-Tooth disease; Spinal muscular atrophy; Autosomal dominant intellectual developmental disorder,0,,0
+ERCC2,K10844,1,ERCC2 mutation,3,Trichothiodystrophy; Xeroderma pigmentosum; Cerebro-oculo-facio-skeletal syndrome,0,,0
+ERCC3,K10843,1,ERCC3 mutation,3,Cockayne syndrome; Trichothiodystrophy; Xeroderma pigmentosum,0,,0
+ERCC4,K10848,1,ERCC4 mutation,3,Cockayne syndrome; Fanconi anemia; Xeroderma pigmentosum,0,,0
+ERCC5,K10846,1,ERCC5 mutation,3,Cockayne syndrome; Xeroderma pigmentosum; Cerebro-oculo-facio-skeletal syndrome,0,,0
+ERCC6,K10841,1,ERCC6 mutation,3,Cockayne syndrome; UV-sensitive syndrome; Cerebro-oculo-facio-skeletal syndrome,0,,0
+IFIH1,K12647,1,IFIH1 mutation,3,Aicardi-Goutieres syndrome; Singleton-Merten syndrome; Disorders of innate immunity,0,,0
+JAK2,K04447,1,JAK2 mutation,3,Congenital polycythemia; Myelofibrosis; Essential thrombocythemia,0,,0
+KIF7,K18806,1,KIF7 mutation,3,Acrocallosal syndrome; Joubert syndrome and related disorders; Hydrolethalus syndrome,0,,0
+NOTCH3,K20995,1,NOTCH3 mutation,3,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy (CADASIL); Lateral meningocele syndrome; Infantile myofibromatosis,0,,0
+PALB2,K10897,1,PALB2 mutation,3,Pancreatic cancer; Breast cancer; Fanconi anemia,0,,0
+PDE11A,K13298,1,PDE11A,3,Pigmented micronodular adrenocortical disease; Cushing syndrome; Bilateral macronodular adrenal hyperplasia,0,,0
+PDE8B,K18437,1,PDE8B mutation,3,Pigmented micronodular adrenocortical disease; Cushing syndrome; Bilateral macronodular adrenal hyperplasia,0,,0
+POLE,K02324,1,POLE mutation,3,IMAGE-I syndrome; FILS syndrome; Polymerase proofreading-associated polyposis,0,,0
+POLG,K02332,1,POLG mutation,3,Mitochondrial DNA depletion syndrome; Progressive external ophthalmoplegia; Mitochondrial neurogastrointestinal encephalomyopathy,0,,0
+PRKAR1A,K04739,1,PRKAR1A mutation,3,Pigmented micronodular adrenocortical disease; Pituitary adenomas; Cushing syndrome,0,,0
+PSAP,K12382,1,PSAP deficiency,3,Gaucher disease; Krabbe disease; Sphingolipidosis,0,,0
+PTPN11,K07293,1,PTPN11 mutation,3,Noonan syndrome; Leopard syndrome; Juvenile myelomonocytic leukemia,0,,0
+RAG1,K10628,1,RAG1 mutation,3,T-B-Severe combined immunodeficiency; T+B+Severe combined immunodeficiencies (SCIDs); Omenn syndrome,0,,0
+RECQL4,K10730,1,RECQL4 mutation,3,RAPADILINO syndrome; Rothmund-Thomson syndrome; Baller-Gerold syndrome,0,,0
+SMAD4,K04501,1,SMAD4 mutation,3,Hereditary hemorrhagic telangiectasia; Juvenile polyposis syndrome; Myhre syndrome,0,,0
+TERC,K22183,1,TERC mutation,3,"Dyskeratosis congenita; Aplastic anemia; Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+WNT10A,K01357,1,WNT10A mutation,3,Tooth agenesis; Odontoonychodermal dysplasia; Schopf-Schulz-Passarge syndrome,0,,0
+CDH1,K05689,4,CDH1 loss; CDH1 mutation; CDH1 reduced expression,2,Gastric cancer; Thyroid cancer,0,,0
+HRAS,K02833,3,HRAS mutation; HRAS overexpression,2,Bladder cancer; Costello syndrome,0,,0
+AMACR,K01796,2,AMACR deficiency,2,Congenital bile acid synthesis defect; Alpha-methylacyl-CoA racemase deficiency,0,,0
+CDK4,K02089,2,CDK4 amplification; CDK4 mutation,2,Melanoma; Glioma,0,,0
+CYP11B2,K07433,2,CYP11B1-CYP11B2 fusion; CYP11B2 deficiency,2,Aldosterone synthase deficiency; Glucocorticoid-remediable aldosteronism (GRA),0,,0
+CYP19A1,K07434,2,CYP19A1 (aromatase) deficiency; CYP19A1 (aromatase) gain-of-function variant,2,Aromatase excess syndrome; Aromatase deficiency,0,,0
+ERG,K09435,2,EWSR1-ERG fusion; TMPRSS2-ERG fusion,2,Prostate cancer; Ewing sarcoma,0,,0
+ESR1,K08550,2,ESR1 mutations; ESR1 positive,2,Breast cancer; Estrogen resistance syndrome,1,Elacestrant hydrochloride (USAN),0
+F2,K01313,2,F2 mutation; Prothrombin 20210A,2,Inherited thrombophilia; Congenital prothrombin deficiency,0,,0
+GCM2,K21598,2,GCM2 activating mutation; GCM2 inactivating mutation,2,Primary hyperparathyroidism; Hypoparathyroidism,0,,0
+IGF1R,K05087,2,IGF1R mutation; IGF1R overexpression,2,Hepatocellular carcinoma; Growth hormone deficiency,0,,0
+IKBKG,K07210,2,IKBKG mutation,2,"Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia with immunodeficiency (OLEDAID); Incontinentia pigmenti",0,,0
+KISS1R,K08374,2,KISS1R activating mutation; KISS1R inactivaing mutation,2,Hypogonadotropic hypogonadism; Precocious puberty,0,,0
+KMT2A,K09186,2,MLL-AF4 fusion; MLL-ENL fusion,2,B-cell acute lymphoblastic leukemia; T-cell acute lymphoblastic leukemia,0,,0
+LRP6,K03068,2,LRP6 mutation; LRP6 overexpression,2,Breast cancer; Tooth agenesis,0,,0
+PAX8,K09293,2,PAX8 mutation; PAX8-PPARG fusion,2,Thyroid cancer; Congenital nongoitrous hypothyroidism (CHNG),0,,0
+PIK3CA,K00922,2,PIK3CA amplification; PIK3CA mutation,2,Breast cancer; Hepatocellular carcinoma,1,Alpelisib (JAN/USAN/INN),0
+SHH,K11988,2,SHH mutation,2,Holoprosencephaly; Microphthalmia,0,,0
+SMAD2,K04500,2,SMAD2 mutation,2,Colorectal cancer; Loeys-Dietz syndrome,0,,0
+TFE3,K09105,2,ASPL-TFE3 fusion; PRCC-TFE3 fusion,2,Renal cell carcinoma; Alveolar soft part sarcoma,0,,0
+TSHR,K04249,2,TSHR activating mutation; TSHR inactivating mutation,2,Congenital nongoitrous hypothyroidism (CHNG); Congenital hyperthyroidism,0,,0
+ADAR,K12968,1,ADAR mutation,2,Aicardi-Goutieres syndrome; Dyschromatosis symmetrica hereditaria,0,,0
+AIP,K17767,1,AIP mutation,2,Pituitary adenomas; Cushing syndrome,0,,0
+APC,K02085,1,APC mutation,2,Gastric cancer; Colorectal cancer,0,,0
+ATM,K04728,1,ATM mutation,2,Chronic lymphocytic leukemia; Ataxia telangiectasia,0,,0
+ATR,K06640,1,ATR mutation,2,Seckel syndrome; Familial cutaneous telangiectasia and cancer syndrome,0,,0
+ATRX,K10779,1,ATRX mutation,2,ATR-X syndrome; X-linked intellectual disability-hypotonic facies syndrome,0,,0
+B3GALT6,K00734,1,B3GALT6 mutation,2,"SEMD with joint laxity type; Ehlers-Danlos syndrome, spondylodysplastic type",0,,0
+BMPR1A,K04673,1,BMPR1A mutation,2,Juvenile polyposis syndrome; Hereditary mixed polyposis syndrome,0,,0
+BMPR1B,K13578,1,BMPR1B mutation,2,Brachydactyly; Acromesomelic dysplasia,0,,0
+BRIP1,K15362,1,BRIP1 mutation,2,Breast cancer; Fanconi anemia,0,,0
+BUB1,K02178,1,BUB1 mutation,2,Colorectal cancer; Primary microcephaly,0,,0
+BUB1B,K06637,1,BUB1B mutation,2,Colorectal cancer; Mosaic variegated aneuploidy syndrome,0,,0
+C1R,K01330,1,C1R mutation,2,Classic complement pathway component defects; Ehlers-Danlos syndrome periodontal type,0,,0
+C1S,K01331,1,C1S mutation,2,Classic complement pathway component defects; Ehlers-Danlos syndrome periodontal type,0,,0
+C2,K01332,1,C2 mutation,2,Classic complement pathway component defects; Age-related macular degeneration,0,,0
+C9,K04000,1,C9 mutation,2,Late complement pathway defects; Age-related macular degeneration,0,,0
+CASR,K04612,1,CASR mutation,2,Primary hyperparathyroidism; Neonatal hyperparathyroidism,0,,0
+CBL,K04707,1,CBL mutation,2,CBL syndrome; Juvenile myelomonocytic leukemia,0,,0
+CFHR1,K23815,1,CFHR1 mutation,2,Age-related macular degeneration; Atypical hemolytic uremic syndrome,0,,0
+CFHR3,K23815,1,CFHR3 mutation,2,Age-related macular degeneration; Atypical hemolytic uremic syndrome,0,,0
+DCLRE1C,K10887,1,ARTEMIS mutation,2,T-B-Severe combined immunodeficiency; Omenn syndrome,0,,0
+DNA2,K10742,1,DNA2 mutation,2,Seckel syndrome; Progressive external ophthalmoplegia,0,,0
+DNMT3B,K17399,1,DNMT3B mutation,2,Facioscapulohumeral muscular dystrophy; Immunodeficiency-centromeric instability-facial anomalies syndrome,0,,0
+EBP,K01824,1,EBP deficiency,2,X-linked chondrodysplasia punctata; MEND syndrome,0,,0
+ERCC8,K10570,1,ERCC8 mutation,2,Cockayne syndrome; UV-sensitive syndrome,0,,0
+ESCO2,K11268,1,ESCO2 mutation,2,Roberts-SC phocomelia syndrome; Juberg-Hayward syndrome,0,,0
+EVC,K19605,1,EVC mutation,2,Ellis-van Creveld syndrome; Weyers acrofacial dysostosis,0,,0
+EVC2,K19608,1,EVC2 mutation,2,Ellis-van Creveld syndrome; Weyers acrofacial dysostosis,0,,0
+F12,K01328,1,F12 mutation,2,Factor XII deficiency; Hereditary angioedema,0,,0
+F13A1,K03917,1,F13A1 mutation,2,Factor XIII deficiency; Myocardial infarction,0,,0
+F7,K01320,1,F7 mutation,2,Myocardial infarction; Factor VII deficiency,0,,0
+F9,K01321,1,F9 mutation,2,Hemophilia; Inherited thrombophilia,0,,0
+FANCM,K10896,1,FANCM mutation,2,Fanconi anemia; Premature ovarian failure,0,,0
+FBN1,K06825,1,FBN1 mutation,2,Marfan syndrome; Geleophysic dysplasia,0,,0
+FGA,K03903,1,FGA mutation,2,Afibrinogenemia; Familial amyloidosis,0,,0
+FZD7,K02432,1,FZD7 overexpression,2,Breast cancer; Hepatocellular carcinoma,0,,0
+GBA1,K01201,1,GBA deficiency,2,Gaucher disease; Sphingolipidosis,4,Alglucerase (JAN/USAN/INN); Imiglucerase (USAN/INN); Velaglucerase alfa (USAN); Taliglucerase alfa (USAN/INN),0
+GCH1,K01495,1,GCH1 deficiency,2,Phenylketonuria; Dopa-responsive dystonia,0,,0
+GLI1,K16797,1,GLI1 mutation,2,Postaxial polydactyly; Preaxial polydactyly,0,,0
+GSS,K21456,1,GSS deficiency,2,Anemia due to disorders of glutathione metabolism; Glutathione synthetase deficiency,0,,0
+IHH,K11989,1,IHH mutation,2,Brachydactyly; Acrocapitofemoral dysplasia,0,,0
+IL2RG,K05070,1,IL2RG mutation,2,T-B+Severe combined immunodeficiency; Combined immunodeficiency,0,,0
+JAG1,K06052,1,JAG1 mutation,2,Tetralogy of Fallot; Alagille syndrome,0,,0
+LARGE1,K09668,1,LARGE1 deficiency,2,Muscular dystrophy-dystroglycanopathy type A; Muscular dystrophy-dystroglycanopathy type B,0,,0
+LRP4,K20051,1,LRP4 mutation,2,Sclerosteosis; Cenani-Lenz syndactyly syndrome,0,,0
+LTBP3,K08023,1,LTBP3 mutation,2,Tooth agenesis; Geleophysic dysplasia,0,,0
+MAP2K1,K04368,1,MAP2K1 mutation,2,Cardiofaciocutaneous syndrome; Melorheostosis,0,,0
+MEFV,K12803,1,MEFV mutation,2,Familial Mediterranean fever; Acute febrile neutrophilic dermatosis,0,,0
+MLH1,K08734,1,MLH1 mutation,2,Hereditary nonpolyposis colorectal cancer; Muir-Torre syndrome,0,,0
+MPL,K05082,1,MPL mutation,2,Myelofibrosis; Essential thrombocythemia,0,,0
+MTOR,K07203,1,mTOR mutation,2,Focal cortical dysplasia of Taylor; Smith-Kingsmore syndrome,0,,0
+MUTYH,K03575,1,MUTYH mutation,2,Gastric cancer; Familial adenomatous polyposis,0,,0
+NAGS,K11067,1,NAGS deficiency,2,N-acetylglutamate synthase deficiency; Primary hyperammonemia (Urea cycle disorders),0,,0
+NBN,K10867,1,NBN mutation,2,Aplastic anemia; Nijmegen breakage syndrome,0,,0
+NDE1,K16738,1,NDE1 mutation,2,Lissencephaly; Microhydranencephaly,0,,0
+NLRC4,K12805,1,NLRC4 mutation,2,NLRC4 inflammasomopathy; Familial cold autoinflammatory syndrome,0,,0
+NLRP1,K12798,1,NLRP1 mutation,2,Vitiligo; NLRP1-associated autoinflammation with arthritis and dyskeratosis,0,,0
+NOD2,K10165,1,NOD2 mutation,2,Blau syndrome; Inflammatory bowel disease (IBD),0,,0
+NOTCH2,K20994,1,NOTCH2 mutation,2,Alagille syndrome; Hajdu-Cheney syndrome,0,,0
+NSDHL,K07748,1,NSDHL deficiency,2,Congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD); CK syndrome,0,,0
+PARN,K01148,1,PARN mutation,2,"Dyskeratosis congenita; Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+PHGDH,K00058,1,PHGDH deficiency,2,3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency; Neu-Laxova syndrome,0,,0
+PLG,K01315,1,PLG mutation,2,Hereditary angioedema; Plasminogen deficiency,0,,0
+POLA1,K02320,1,POLA1 mutation,2,X-linked syndromic intellectual developmental disorder; X-linked reticulate pigmentary disorder with systemic manifestations,0,,0
+POLD1,K02327,1,POLD1 mutation,2,MDPL syndrome; Polymerase proofreading-associated polyposis,0,,0
+POLG2,K02333,1,POLG2 mutation,2,Mitochondrial DNA depletion syndrome; Progressive external ophthalmoplegia,0,,0
+POMK,K17547,1,POMK deficiency,2,Muscular dystrophy-dystroglycanopathy type A; Muscular dystrophy-dystroglycanopathy type C,0,,0
+POT1,K11109,1,POT1 mutation,2,Melanoma; Glioma,0,,0
+PPP2R1A,K03456,1,PPP2R1A mutation,2,Autosomal dominant intellectual developmental disorder; PP2A-related neurodevelopmental disorder,0,,0
+PPP2R1B,K03456,1,PPP2R1B mutation,2,Small cell lung cancer; Non-small cell lung cancer,0,,0
+PPP2R5D,K11584,1,PPP2R5D mutation,2,Autosomal dominant intellectual developmental disorder; PP2A-related neurodevelopmental disorder,0,,0
+PRKACA,K04345,1,PRKACA mutation,2,Cushing syndrome; Bilateral macronodular adrenal hyperplasia,0,,0
+PSAT1,K00831,1,PSAT1 deficiency,2,Phosphoserine aminotransferase deficiency; Neu-Laxova syndrome,0,,0
+PSEN1,K04505,1,PSEN1 mutation,2,Alzheimer disease; Acne inversa,0,,0
+RAD51,K04482,1,RAD51 mutation,2,Breast cancer; Fanconi anemia,0,,0
+RAD51C,K10870,1,RAD51C mutation,2,Fanconi anemia; Familial breast-ovarian cancer,0,,0
+RAD54L,K10875,1,RAD54L mutation,2,Breast cancer; Non-Hodgkin lymphoma,0,,0
+RAF1,K04366,1,RAF1 mutation,2,Noonan syndrome; Leopard syndrome,0,,0
+RAG2,K10988,1,RAG2 mutation,2,T-B-Severe combined immunodeficiency; Omenn syndrome,0,,0
+RASA1,K04352,1,RASA1 mutation,2,Parkes Weber syndrome; Capillary malformation-arteriovenous malformation,0,,0
+RASD1,K07843,1,RASD1 mutation,2,Pituitary adenomas; Cushing syndrome,0,,0
+RIPK1,K02861,1,RIPK1 mutation,2,Disorders of innate immunity; Autoinflammation with episodic fever and lymphadenopathy,0,,0
+ROR2,K05123,1,ROR2 mutation,2,Brachydactyly; Robinow syndrome,0,,0
+RTEL1,K11136,1,RTEL1 mutation,2,"Dyskeratosis congenita; Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+SAMHD1,K22544,1,SAMHD1 mutation,2,Aicardi-Goutieres syndrome; Familial chilblain lupus (FCL),0,,0
+SERPINA1,K03984,1,SERPINA1 mutation,2,Alpha-1-antitrypsin deficiency; Chronic obstructive pulmonary disease (COPD),0,,0
+SERPINC1,K03911,1,SERPINC1 mutation,2,Inherited thrombophilia; Antithrombin III deficiency,0,,0
+SERPING1,K04001,1,SERPING1 mutation,2,Complement regulatory protein defects; Hereditary angioedema,0,,0
+SMC1A,K06636,1,SMC1 mutation,2,Early infantile epileptic encephalopathy; Cornelia de Lange syndrome,0,,0
+SOS1,K03099,1,SOS1 mutation,2,Hereditary gingival fibromatosis; Noonan syndrome,0,,0
+SOST,K16834,1,SOST mutation,2,Sclerosteosis; Craniodiaphyseal dysplasia,0,,0
+STAG2,K06671,1,STAG2 mutation,2,Holoprosencephaly; Mullegama-Klein-Martinez syndrome,0,,0
+STAT1,K11220,1,STAT1 mutation,2,IFN-gamma/IL-12 axis; Chronic mucocutaneous candidiasis,0,,0
+STAT2,K11221,1,STAT2 mutation,2,Pseudo-TORCH syndrome; Disorders of innate immunity,0,,0
+STAT3,K04692,1,STAT3 mutation,2,Hyper-IgE syndrome; Infantile-onset multisystem autoimmune disease,0,,0
+SUFU,K06229,1,SUFU mutation,2,Joubert syndrome and related disorders; Basal cell nevus syndrome,0,,0
+TBK1,K05410,1,TBK1 mutation,2,Amyotrophic lateral sclerosis (ALS); Infection-induced acute encephalopathy,0,,0
+TGFA,K08774,1,TGFA overexpression,2,Colorectal cancer; Hepatocellular carcinoma,0,,0
+TLR2,K10159,1,TLR2 mutation,2,Tuberculosis; Leprosy,0,,0
+TLR5,K10168,1,TLR5 mutation,2,Legionellosis; Melioidosis,0,,0
+TLR7,K05404,1,TLR7 mutation,2,Systemic lupus erythematosus; Defects of toll-like receptor signaling,0,,0
+TNFRSF1A,K03158,1,TNFRSF1A mutation,2,Tumor necrosis factor receptor-associated periodic syndrome; Multiple sclerosis,0,,0
+TOP3A,K03165,1,TOP3A mutation,2,"Autosomal recessive progressive external ophthalmoplegia; Microcephaly, growth restriction, and increased sister chromatid exchange",0,,0
+TPH2,K00502,1,TPH2 mutation,2,Major depressive disorder; Attention deficit hyperactivity disorder (ADHD),0,,0
+TUBB,K07375,1,TUBB mutation,2,Congenital symmetric circumferential skin creases; Complex cortical dysplasia with other brain malformations,0,,0
+TUBB3,K07375,1,TUBB3 mutation,2,Congenital fibrosis of the extraocular muscles; Complex cortical dysplasia with other brain malformations,0,,0
+TUBB4A,K07375,1,TUBB4A mutation,2,Hypomyelinating leukodystrophy; Primary dystonia,0,,0
+USP8,K11839,1,USP8 mutation,2,Pituitary adenomas; Cushing syndrome,0,,0
+VWF,K03900,1,VWF mutation,2,Hemophilia; von Willebrand disease,0,,0
+WNT1,K03209,1,WNT1 mutation,2,Osteogenesis imperfecta; Osteoporosis,0,,0
+WNT10B,K01357,1,WNT10B mutation,2,Split-hand/foot malformation; Tooth agenesis,0,,0
+WNT7A,K00572,1,WNT7A mutation,2,Fuhrmann syndrome; Al-Awadi/Raas-Rothschild syndrome,0,,0
+WRN,K10900,1,WRN mutation,2,Defects in RecQ helicases; Werner syndrome,0,,0
+XRCC2,K10879,1,XRCC2 mutation,2,Fanconi anemia; Premature ovarian failure,0,,0
+XRCC3,K10880,1,XRCC3 mutaton,2,Breast cancer; Melanoma,0,,0
+ABL1,K06619,2,BCR-ABL1 fusion; First generation TKI-resistant ABL1 mutation,1,Chronic myeloid leukemia,8,Imatinib mesylate (USAN); Nilotinib hydrochloride hydrate (JAN); Dasatinib (USAN); Bosutinib hydrate (JAN); Ponatinib hydrochloride (JAN/USAN); Asciminib hydrochloride (JAN/USAN); Olverembatinib (USAN/INN); Nilotinib hydrochloride dihydrate (JAN),0
+ALK,K05119,2,EML4-ALK fusion; First generation TKI-resistant ALK1 mutation,1,Non-small cell lung cancer,5,Crizotinib (JAN/USAN/INN); Alectinib hydrochloride (JAN); Ceritinib (JAN/USAN/INN); Brigatinib (JAN/USAN); Lorlatinib (JAN/USAN/INN),0
+AR,K08557,2,AR amplification; AR mutation,1,Prostate cancer,0,,0
+FLT3,K05092,2,FLT3 internal tandem duplication (ITD); FLT3 kinase domain mutation,1,Acute myeloid leukemia,5,Midostaurin (JAN/USAN/INN); Quizartinib dihydrochloride (USAN); Gilteritinib fumarate (JAN/USAN); Pexidartinib (USAN/INN); Pexidartinib hydrochloride (JAN/USAN),0
+GLA,K01189,2,"GLA deficiency; GLA mutation, migalastat amenable",1,Fabry disease,3,Agalsidase alfa (USAN/INN); Agalsidase beta (INN); Migalastat hydrochloride (JAN/USAN),0
+IDH2,K00031,2,IDH2 mutation,1,D-2-hydroxyglutaric aciduria,1,Enasidenib mesylate (USAN),0
+ITPR1,K04958,2,ITPR1 activating mutation; ITPR1 reduced expression,1,Spinocerebellar ataxia (SCA),0,,0
+PDGFRA,K04363,2,PDGFRA amplification; PDGFRA avapritinib-susceptible variation,1,Glioma,1,Avapritinib (USAN/INN),0
+PRKCG,K19663,2,PRKCG activating mutation; PRKCG inactivating mutation,1,Spinocerebellar ataxia (SCA),0,,0
+PRNP,K05634,2,PRNP oligomeric conformation; PRNP scrapie conformation,1,Prion disease,0,,0
+VHL,K03871,2,VHL loss; VHL mutation,1,Renal cell carcinoma,0,,0
+ACAD8,K11538,1,ACAD8 deficiency,1,Isobutyryl-CoA dehydrogenase deficiency,0,,0
+ACADM,K00249,1,ACADM deficiency,1,MCAD deficiency,0,,0
+ACADS,K00248,1,ACADS deficiency,1,SCAD deficiency,0,,0
+ACADSB,K09478,1,ACADSB deficiency,1,SBCAD deficiency,0,,0
+ACADVL,K09479,1,ACADVL deficiency,1,VLCAD deficiency,0,,0
+ACD,K11114,1,ACD mutation,1,Dyskeratosis congenita,0,,0
+ACO2,K01681,1,ACO2 mutation,1,Infantile cerebellar-retinal degeneration,0,,0
+ACOX1,K00232,1,ACOX1 deficiency,1,Peroxisomal acyl-CoA oxidase deficiency,0,,0
+ACOX2,K10214,1,ACOX2 deficiency,1,Congenital bile acid synthesis defect,0,,0
+ACSL4,K01897,1,ACSL4 mutation,1,X-linked intellectual developmental disorder,0,,0
+ACVR1,K04675,1,ACVR1 mutation,1,Fibrodysplasia ossificans progressiva,0,,0
+ACVR2B,K13596,1,ACVR2B mutation,1,Heterotaxy,0,,0
+ACVRL1,K13594,1,ACVRL1 mutation,1,Hereditary hemorrhagic telangiectasia,0,,0
+ADAM17,K06059,1,ADAM17 mutation,1,Neonatal inflammatory skin and bowel disease,0,,0
+ADPRS,K11687,1,ADPRS mutation,1,"Neurodegeneration, childhood-onset, stress-induced, with variable ataxia and seizures",0,,0
+AFF1,K15184,1,MLL-AF4 fusion,1,B-cell acute lymphoblastic leukemia,0,,0
+AGL,K01196,1,AGL deficiency,1,Glycogen storage disease type III,0,,0
+AKR1D1,K00251,1,AKR1D1 deficiency,1,Congenital bile acid synthesis defect,0,,0
+ALAD,K01698,1,ALAD deficiency,1,Porphyria,0,,0
+ALAS2,K00643,1,ALAS2 deficiency,1,Porphyria,0,,0
+ALDH4A1,K00294,1,ALDH4A1 deficiency,1,Hyperprolinemia,0,,0
+ALDH6A1,K00140,1,ALDH6A1 deficiency,1,Methylmalonate semialdehyde dehydrogenase deficiency,0,,0
+ALDOA,K01623,1,ALDOA deficiency,1,Glycogen storage disease type XII,0,,0
+ALG1,K03842,1,ALG1 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG11,K03844,1,ALG11 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG12,K03847,1,ALG12 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG13,K07432,1,ALG13 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG2,K03843,1,ALG2 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG3,K03845,1,ALG3 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG6,K03848,1,ALG6 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG8,K03849,1,ALG8 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+ALG9,K03846,1,ALG9 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+AMH,K04665,1,AMH mutation,1,Persistent Mullerian duct syndrome,0,,0
+AMHR2,K04672,1,AMHR2 mutation,1,Persistent Mullerian duct syndrome,0,,0
+AMT,K00605,1,AMT deficiency,1,Nonketotic hyperglycinemia,0,,0
+ANAPC1,K03348,1,ANAPC1 mutation,1,Rothmund-Thomson syndrome,0,,0
+ANAPC7,K03354,1,ANAPC7 mutation,1,Ferguson-Bonni neurodevelopmental syndrome,0,,0
+APOB,K14462,1,APOB mutation,1,Familial hypercholesterolemia,0,,0
+APP,K04520,1,APP mutation,1,Alzheimer disease,0,,0
+APRT,K00759,1,APRT deficiency,1,Adenine phosphoribosyltransferase deficiency,0,,0
+APTX,K10863,1,APTX mutation,1,Ataxia with ocular apraxia,0,,0
+AREG,K09782,1,AREG overexpression,1,Colorectal cancer,0,,0
+ARG1,K01476,1,ARG1 deficiency,1,Hyperargininemia,1,Pegzilarginase (USAN/INN),0
+ARSA,K01134,1,ARSA deficiency,1,Metachromatic leukodystrophy,0,,0
+ARSB,K01135,1,ARSB deficiency,1,Mucopolysaccharidosis type VI,1,Galsulfase (USAN/INN),0
+ASAH1,K12348,1,ASAH1 deficiency,1,Farber lipogranulomatosis,0,,0
+ASL,K01755,1,ASL deficiency,1,Argininosuccinic aciduria,0,,0
+ASS1,K01940,1,ASS deficiency,1,Citrullinemia,0,,0
+ATF1,K09053,1,EWSR1-ATF1 fusion,1,Clear cell sarcoma of soft tissue,0,,0
+ATP1A1,K01539,1,ATP1A1 mutation,1,Primary aldosteronism,0,,0
+ATP2B3,K05850,1,ATP2B3 mutation,1,Primary aldosteronism,0,,0
+ATXN1,K23616,1,ATXN1 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+ATXN2,K23625,1,ATXN2 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+ATXN3,K11863,1,ATXN3 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+AUH,K05607,1,AUH deficiency,1,3-Methylglutaconic aciduria,0,,0
+AURKA,K11481,1,AURKA mutation,1,Colorectal cancer,0,,0
+AVP,K05242,1,AVP mutation,1,Neurohypophyseal diabetes insipidus,0,,0
+AVPR2,K04228,1,AVPR2 mutation,1,Nephrogenic syndrome of inappropriate antidiuresis,0,,0
+AXIN1,K02157,1,AXIN1 mutation,1,Hepatocellular carcinoma,0,,0
+AXIN2,K04385,1,AXIN2 mutation,1,Oligodontia-colorectal cancer syndrome,0,,0
+B3GALNT2,K09654,1,B3GALNT2 deficiency,1,Muscular dystrophy-dystroglycanopathy type A,0,,0
+B3GAT3,K10158,1,B3GAT3 mutation,1,"Multiple joint dislocations, short stature, craniofacial dysmorphism, and congenital heart defects",0,,0
+B4GALT1,K07966,1,B4GALT1 deficiency,1,Congenital disorders of glycosylation type II,0,,0
+B4GALT7,K00733,1,B4GALT7 mutation,1,"Ehlers-Danlos syndrome, spondylodysplastic type",0,,0
+B4GAT1,K21032,1,B4GAT1 deficiency,1,Muscular dystrophy-dystroglycanopathy type A,0,,0
+BARD1,K10683,1,BARD1 mutation,1,Breast cancer,0,,0
+BAX,K02159,1,BAX mutation,1,Colorectal cancer,0,,0
+BCKDHA,K00166,1,BCKDHA deficiency,1,Maple syrup urine disease,0,,0
+BCKDHB,K00167,1,BCKDHB deficiency,1,Maple syrup urine disease,0,,0
+BCL2,K02161,1,BCL2 overepression,1,Small cell lung cancer,1,Venetoclax (JAN/USAN/INN),0
+BMP15,K05498,1,BMP15 mutation,1,Ovarian dysgenesis,0,,0
+BMP2,K21283,1,BMP2 mutation,1,Brachydactyly,0,,0
+BMPR2,K04671,1,BMPR2 mutation,1,Primary pulmonary hypertension,0,,0
+C1QA,K03986,1,C1QA mutation,1,Classic complement pathway component defects,0,,0
+C1QB,K03987,1,C1QB mutation,1,Classic complement pathway component defects,0,,0
+C1QC,K03988,1,C1QC mutation,1,Classic complement pathway component defects,0,,0
+C4A,K03989,1,C4A mutation,1,Classic complement pathway component defects,0,,0
+C4B,K03989,1,C4B mutation,1,Classic complement pathway component defects,0,,0
+C5,K03994,1,C5 mutation,1,Late complement pathway defects,0,,0
+C6,K03995,1,C6 mutation,1,Late complement pathway defects,0,,0
+C7,K03996,1,C7 mutation,1,Late complement pathway defects,0,,0
+C8A,K03997,1,C8A mutation,1,Late complement pathway defects,0,,0
+C8B,K03998,1,C8B mutation,1,Late complement pathway defects,0,,0
+C9orf72,K23609,1,C9ORF72 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+CACNA1A,K04344,1,CACNA1A mutation,1,Spinocerebellar ataxia (SCA),0,,0
+CACNA1D,K04851,1,CACNA1D mutation,1,Primary aldosteronism,0,,0
+CACNA1H,K04855,1,CACNA1H mutation,1,Primary aldosteronism,0,,0
+CARD8,K12801,1,CARD8 mutation,1,Inflammatory bowel disease (IBD),0,,0
+CASP10,K04400,1,CASP10 mutation,1,Autoimmune lymphoproliferative syndromes,0,,0
+CASP8,K04398,1,CASP8 mutation,1,Autoimmune lymphoproliferative syndromes,0,,0
+CCND1,K04503,1,CCND1 amplification,1,Breast cancer,0,,0
+CCNE1,K06626,1,CCNE amplification,1,Gastric cancer,0,,0
+CCT5,K09497,1,CCT5 mutation,1,Hereditary sensory neuropathy with spastic paraplegia,0,,0
+CD46,K04007,1,CD46 mutation,1,Atypical hemolytic uremic syndrome,0,,0
+CD55,K04006,1,CD55 mutation,1,Complement regulatory protein defects,0,,0
+CD59,K04008,1,CD59 mutation,1,Complement regulatory protein defects,0,,0
+CDC45,K06628,1,CDC45 mutation,1,Meier-Gorlin syndrome,0,,0
+CDC6,K02213,1,CDC6 mutation,1,Meier-Gorlin syndrome,0,,0
+CDK5RAP2,K16542,1,CDK5RAP2 mutation,1,Primary microcephaly,0,,0
+CDON,K20033,1,CDON mutation,1,Holoprosencephaly,0,,0
+CDT1,K10727,1,CDT1 mutation,1,Meier-Gorlin syndrome,0,,0
+CDX2,K22234,1,CDX2 overexpression,1,Gastric cancer,0,,0
+CENPE,K11498,1,CENPE mutation,1,Primary microcephaly,0,,0
+CENPF,K11499,1,CENPF mutation,1,Stromme syndrome,0,,0
+CENPT,K11512,1,CENPT mutation,1,Short stature and microcephaly with genital anomalies,0,,0
+CEP57,K16762,1,CEP57 mutation,1,Mosaic variegated aneuploidy syndrome,0,,0
+CFHR5,K23817,1,CFHR5 mutation,1,C3 glomerulopathy,0,,0
+CFP,K15412,1,CFP mutation,1,Alternative complement pathway component defects,0,,0
+CHST14,K08105,1,CHST14 mutation,1,Ehlers-Danlos syndrome musculocontractural type,0,,0
+CHST3,K01020,1,CHST3 mutation,1,Spondyloepiphyseal dysplasia with congenital joint dislocations,0,,0
+CHSY1,K13499,1,CHSY1 mutation,1,Temtamy preaxial brachydactyly syndrome,0,,0
+CLTC,K04646,1,CLTC mutation,1,Autosomal dominant intellectual developmental disorder,0,,0
+COLEC10,K10065,1,COLEC10 mutation,1,3MC syndrome,0,,0
+COLEC11,K10066,1,COLEC11 mutation,1,3MC syndrome,0,,0
+CP,K13624,1,CP mutation,1,Aceruloplasminemia,0,,0
+CPOX,K00228,1,CPOX deficiency,1,Porphyria,0,,0
+CPS1,K01948,1,CPS1 deficiency,1,Carbamoyl phosphate synthetase I deficiency,0,,0
+CPT1A,K08765,1,CPT1A deficiency,1,Carnitine palmitoyltransferase I deficiency,0,,0
+CPT2,K08766,1,CPT2 deficiency,1,Carnitine palmitoyltransferase II deficiency,0,,0
+CRPPA,K21031,1,ISPD deficiency,1,Muscular dystrophy-dystroglycanopathy type C,0,,0
+CSGALNACT1,K00746,1,CSGALNACT1 mutation,1,Skeletal dysplasia with joint laxity and advanced bone age,0,,0
+CSNK2A1,K03097,1,CSNK2A1 mutation,1,Neurodevelopmental disorder with dysmorphic facies and skeletal anomalies,0,,0
+CTC1,K23311,1,CTC1 mutation,1,Coats plus syndrome,0,,0
+CTCF,K23195,1,CTCF mutation,1,Autosomal dominant intellectual developmental disorder,0,,0
+CYCS,K08738,1,CYCS mutation,1,Thrombocytopenia (THC),0,,0
+CYP11A1,K00498,1,CYP11A1 deficiency,1,"Adrenal insufficiency, congenital, with 46XY sex reversal, partial or complete",0,,0
+CYP11B1,K00497,1,CYP11B1 deficiency,1,Congenital adrenal hyperplasia,0,,0
+CYP17A1,K00512,1,CYP17A1 deficiency,1,Congenital adrenal hyperplasia,0,,0
+CYP21A2,K00513,1,CYP21A2 deficiency,1,Congenital adrenal hyperplasia,0,,0
+CYP27A1,K00488,1,CYP27A1 deficiency,1,Cerebrotendinous xanthomatosis,0,,0
+CYP27B1,K07438,1,CYP27B1 deficiency,1,Vitamin D-dependent rickets,0,,0
+CYP2R1,K07419,1,CYP2R1 deficiency,1,Vitamin D-dependent rickets,0,,0
+CYP7B1,K07430,1,CYP7B1 deficiency,1,Congenital bile acid synthesis defect,0,,0
+DAB1,K20054,1,DAB1 overexpression,1,Spinocerebellar ataxia (SCA),0,,0
+DBH,K00503,1,DBH deficiency,1,Dopamine beta-hydroxylase deficiency,0,,0
+DBT,K09699,1,DBT deficiency,1,Maple syrup urine disease,0,,0
+DCC,K06765,1,DCC loss,1,Colorectal cancer,0,,0
+DCT,K01827,1,DCT deficiency,1,Oculocutaneous albinism,0,,0
+DDB1,K10610,1,DDB1 mutation,1,White-Kernohan syndrome,0,,0
+DDB2,K10140,1,DDB2 mutation,1,Xeroderma pigmentosum,0,,0
+DDC,K01593,1,DDC deficiency,1,Aromatic L-amino acid decarboxylase deficiency,1,Eladocagene exuparvovec (USAN/INN),0
+DDIT3,K04452,1,FUS-DDIT3 fusion,1,Myxoid liposarcoma,0,,0
+DDOST,K12670,1,DDOST deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DDX11,K11273,1,DDX11 mutation,1,Warsaw breakage syndrome,0,,0
+DEPDC5,K20404,1,DEPDC5 mutation,1,Familial focal epilepsy with variable foci,0,,0
+DHCR24,K09828,1,DHCR24 deficiency,1,Desmosterolosis,0,,0
+DHCR7,K00213,1,DHCR7 deficiency,1,Smith-Lemli-Opitz syndrome,0,,0
+DHDDS,K11778,1,DHDDS deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DKC1,K11131,1,DKC1 mutation,1,Dyskeratosis congenita,0,,0
+DLAT,K00627,1,DLAT deficiency,1,Pyruvate dehydrogenase E2 deficiency,0,,0
+DLD,K00382,1,DLD deficiency,1,Dihydrolipoamide dehydrogenase deficiency,0,,0
+DLL3,K06051,1,DLL3 mutation,1,Spondylocostal dysostosis,0,,0
+DLL4,K06051,1,DLL4 mutation,1,Adams-Oliver syndrome,0,,0
+DMD,K10366,1,DMD mutation,1,Duchenne muscular dystrophy,4,Eteplirsen (USAN/INN); Viltolarsen (JAN/USAN); Golodirsen (USAN/INN); Casimersen (USAN/INN),0
+DNASE1,K11994,1,DNASE1 mutation,1,Systemic lupus erythematosus,0,,0
+DNASE1L3,K11995,1,DNASE1L3 mutation,1,Systemic lupus erythematosus,0,,0
+DNASE2,K01158,1,DNASE2 mutation,1,Autoinflammatory-pancytopenia syndrome,0,,0
+DOLK,K00902,1,DOLK deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DPAGT1,K01001,1,ALG7 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DPM1,K00721,1,DPM1 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DPM2,K09658,1,DPM2 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DPM3,K09659,1,DPM3 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+DSE,K01794,1,DSE mutation,1,Ehlers-Danlos syndrome musculocontractural type,0,,0
+DUOX2,K13411,1,DUOX2 mutation,1,Thyroid dyshormonogenesis,0,,0
+DUOXA2,K17232,1,DUOXA2 mutation,1,Thyroid dyshormonogenesis,0,,0
+DUSP6,K21946,1,DUSP6 mutation,1,Hypogonadotropic hypogonadism,0,,0
+DVL1,K02353,1,DVL1 mutation,1,Robinow syndrome,0,,0
+DVL3,K02353,1,DVL3 mutation,1,Robinow syndrome,0,,0
+DYNC1I2,K10415,1,DYNC1I2 mutation,1,Neurodevelopmental disorder with microcephaly,0,,0
+DYNC2H1,K10414,1,DYNC2H1 mutation,1,Short-rib thoracic dysplasia,0,,0
+DYNC2LI1,K10417,1,DYNC2LI1 mutation,1,Short-rib thoracic dysplasia,0,,0
+ECHS1,K07511,1,ECHS1 deficiency,1,Disorders of mitochondrial fatty-acid oxidation,0,,0
+EGF,K04357,1,EGF overexpression,1,Colorectal cancer,0,,0
+ENG,K06526,1,ENG mutation,1,Hereditary hemorrhagic telangiectasia,0,,0
+ENO3,K01689,1,ENO3 deficiency,1,Glycogen storage disease type XIII,0,,0
+EPO,K05437,1,EPO mutation,1,Congenital polycythemia,0,,0
+EPOR,K05079,1,EPOR mutation,1,Congenital polycythemia,0,,0
+ERBB4,K05085,1,ERBB4 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+ERCC1,K10849,1,ERCC1 mutation,1,Cerebro-oculo-facio-skeletal syndrome,0,,0
+EREG,K09784,1,EREG overexpression,1,Colorectal cancer,0,,0
+ETV5,K15593,1,TMPRSS2-ETV5 fusion,1,Prostate cancer,0,,0
+EXT1,K02366,1,EXT1 mutation,1,Multiple exostoses,0,,0
+EXT2,K02367,1,EXT2 mutation,1,Multiple exostoses,0,,0
+EXTL3,K02370,1,EXTL3 mutation,1,Immunoskeletal dysplasia with neurodevelopmental abnormalities,0,,0
+F10,K01314,1,F10 mutation,1,Factor X deficiency,0,,0
+F11,K01323,1,F11 mutation,1,Factor XI deficiency,0,,0
+F13B,K03906,1,F13B mutation,1,Factor XIII deficiency,0,,0
+F8,K03899,1,F8 mutation,1,Hemophilia,1,Valoctocogene roxaparvovec (USAN/INN),0
+FAH,K01555,1,FAH deficiency,1,Tyrosinemia,0,,0
+FAN1,K15363,1,FAN1 mutation,1,Karyomegalic interstitial nephritis,0,,0
+FANCA,K10888,1,FANCA mutation,1,Fanconi anemia,0,,0
+FANCB,K10889,1,FANCB mutation,1,Fanconi anemia,0,,0
+FANCC,K10890,1,FANCC mutation,1,Fanconi anemia,0,,0
+FANCD2,K10891,1,FANCD2 mutation,1,Fanconi anemia,0,,0
+FANCE,K10892,1,FANCE mutation,1,Fanconi anemia,0,,0
+FANCF,K10893,1,FANCF mutation,1,Fanconi anemia,0,,0
+FANCG,K10894,1,FANCG mutation,1,Fanconi anemia,0,,0
+FANCI,K10895,1,FANCI mutation,1,Fanconi anemia,0,,0
+FANCL,K10606,1,FANCL mutation,1,Fanconi anemia,0,,0
+FAS,K04390,1,FAS mutation,1,Autoimmune lymphoproliferative syndromes,0,,0
+FASLG,K04389,1,FASLG mutation,1,Autoimmune lymphoproliferative syndromes,0,,0
+FCN3,K10104,1,FCN3 mutation,1,Mannose-binding lectin pathway component defects,0,,0
+FDPS,K00787,1,FDPS deficiency,1,Porokeratosis,0,,0
+FECH,K01772,1,FECH deficiency,1,Porphyria,0,,0
+FGB,K03904,1,FGB mutation,1,Afibrinogenemia,0,,0
+FGF17,K04358,1,FGF17 mutation,1,Hypogonadotropic hypogonadism,0,,0
+FGF8,K04358,1,FGF8 mutation,1,Hypogonadotropic hypogonadism,0,,0
+FGG,K03905,1,FGG mutation,1,Afibrinogenemia,0,,0
+FH,K01679,1,FH deficiency,1,Fumarase deficiency,0,,0
+FKRP,K19873,1,FKRP deficiency,1,Muscular dystrophy-dystroglycanopathy,0,,0
+FKTN,K19872,1,FKTN deficiency,1,Muscular dystrophy-dystroglycanopathy,0,,0
+FLCN,K09594,1,FLCN mutation,1,Birt-Hogg-Dube syndrome,0,,0
+FLI1,K09436,1,EWSR1-FLI1 fusion,1,Ewing sarcoma,0,,0
+FOXO1,K07201,1,PAX3-FOXO1 fusion,1,Rhabdomyosarcoma,0,,0
+FSHB,K05250,1,FSHB mutation,1,Isolated follicle-stimulating hormone deficiency,0,,0
+FTH1,K00522,1,FTH1 mutation,1,Hemochromatosis,0,,0
+FTL,K13625,1,FTL mutation,1,Neuroferritinopathy,0,,0
+FUS,K13098,1,FUS mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+FZD2,K02235,1,FZD2 mutation,1,Omodysplasia,0,,0
+FZD6,K02376,1,FZD6 mutation,1,Nonsyndromic congenital nail disorder,0,,0
+G6PC1,K01084,1,G6PC deficiency,1,Glycogen storage disease type I,0,,0
+G6PD,K00036,1,G6PD deficiency,1,Glucose 6-phosphate dehydrogenase deficiency,0,,0
+GAA,K12316,1,GAA deficiency,1,Glycogen storage disease type II,2,Alglucosidase alfa (USAN/INN); Avalglucosidase alfa (USAN/INN),0
+GALC,K01202,1,GALC deficiency,1,Krabbe disease,0,,0
+GALE,K01784,1,GALE deficiency,1,Galactose epimerase deficiency,0,,0
+GALK1,K00849,1,GALK1 deficiency,1,Galactokinase deficiency,0,,0
+GALM,K01785,1,GALM deficiency,1,Galactosemia,0,,0
+GALNS,K01132,1,GALNS deficiency,1,Mucopolysaccharidosis type IV,1,Elosulfase alfa (USAN),0
+GALT,K00965,1,GALT deficiency,1,Galactose-1P uridylyltransferase deficiency,0,,0
+GAMT,K00542,1,GAMT deficiency,1,Cerebral creatine deficiency syndrome,0,,0
+GATM,K00613,1,GATM deficiency,1,Cerebral creatine deficiency syndrome,0,,0
+GBE1,K00700,1,GBE1 deficiency,1,Glycogen storage disease type IV,0,,0
+GCLC,K11204,1,GCLC deficiency,1,Anemia due to disorders of glutathione metabolism,0,,0
+GCSH,K02437,1,GCSH deficiency,1,Nonketotic hyperglycinemia,0,,0
+GDF2,K05503,1,GDF2 mutation,1,Hereditary hemorrhagic telangiectasia,0,,0
+GDF6,K20012,1,GDF6 mutation,1,Multiple synostosis syndrome,0,,0
+GH1,K05438,1,GH1 mutation,1,Isolated growth hormone deficiency,0,,0
+GHR,K05080,1,GHR mutation,1,Laron syndrome,0,,0
+GHRHR,K04584,1,GHRHR mutation,1,Isolated growth hormone deficiency,0,,0
+GINS1,K10732,1,GINS1 mutation,1,Combined immunodeficiency,0,,0
+GLB1,K12309,1,GLB1 deficiency,1,Mucopolysaccharidosis type IV,0,,0
+GLDC,K00281,1,GLDC deficiency,1,Nonketotic hyperglycinemia,0,,0
+GLE1,K18723,1,GLE1 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+GLI2,K16798,1,GLI2 mutation,1,Holoprosencephaly,0,,0
+GMNN,K10749,1,GMNN mutation,1,Meier-Gorlin syndrome,0,,0
+GNRH1,K05252,1,GNRH1 mutation,1,Hypogonadotropic hypogonadism,0,,0
+GNRHR,K04280,1,GNRHR mutation,1,Hypogonadotropic hypogonadism,0,,0
+GNS,K01137,1,GNS deficiency,1,Mucopolysaccharidosis type III,0,,0
+GPAA1,K05289,1,GPAA1 deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+GPHN,K15376,1,GPHN deficiency,1,Molybdenum cofactor deficiency,0,,0
+GPX1,K00432,1,GPX1 deficiency,1,Anemia due to disorders of glutathione metabolism,0,,0
+GPX4,K05361,1,GPX4 mutation,1,"Spondylometaphyseal dysplasia, Sedaghatian type",0,,0
+GREM2,K23318,1,GREM2 mutation,1,Tooth agenesis,0,,0
+GRM1,K04603,1,GRM1 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+GSR,K00383,1,GSR deficiency,1,Anemia due to disorders of glutathione metabolism,0,,0
+GTF2H5,K10845,1,GTF2H5 mutation,1,Trichothiodystrophy,0,,0
+GUSB,K01195,1,GUSB deficiency,1,Mucopolysaccharidosis type VII,1,Vestronidase alfa (USAN/INN),0
+GYG1,K00750,1,GYG1 deficiency,1,Glycogen storage disease type XV,0,,0
+GYS1,K00693,1,GYS1 deficiency,1,Glycogen storage disease type 0b,0,,0
+GYS2,K00693,1,GYS2 deficiency,1,Glycogen storage disease type 0a,0,,0
+H6PD,K13937,1,H6PD mutation,1,Cortisone reductase deficiency,0,,0
+HADH,K00022,1,HADH deficiency,1,3-Hydroxyacyl-CoA dehydrogenase deficiency,0,,0
+HADHA,K07515,1,HADHA deficiency,1,LCHAD deficiency,0,,0
+HADHB,K07509,1,HADHB deficiency,1,Mitochondrial trifunctional protein deficiency,0,,0
+HAMP,K23106,1,HAMP mutation,1,Hemochromatosis,0,,0
+HDAC8,K11405,1,HDAC8 mutation,1,Cornelia de Lange syndrome,0,,0
+HERC2,K10595,1,HERC2 mutation,1,Autosomal recessive intellectual developmental disorder,0,,0
+HES7,K09087,1,HES7 mutation,1,Spondylocostal dysostosis,0,,0
+HFE,,1,HFE mutation,1,Hemochromatosis,0,,0
+HGD,K00451,1,HGD deficiency,1,Alkaptonuria,0,,0
+HGF,K05460,1,HGF overexpression,1,Hepatocellular carcinoma,0,,0
+HGSNAT,K10532,1,HGSNAT deficiency,1,Mucopolysaccharidosis type III,0,,0
+HHAT,K24678,1,HHAT mutation,1,Nivelon-Nivelon-Mabille syndrome,0,,0
+HIBCH,K05605,1,HIBCH deficiency,1,Methacrylic aciduria,0,,0
+HJV,K23100,1,HJV mutation,1,Hemochromatosis,0,,0
+HMBS,K01749,1,HMBS deficiency,1,Porphyria,0,,0
+HMGCL,K01640,1,HMGCL deficiency,1,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,0,,0
+HPD,K00457,1,HPD deficiency,1,Tyrosinemia,0,,0
+HPRT1,K00760,1,HPRT1 deficiency,1,Lesch-Nyhan syndrome,0,,0
+HS6ST1,K02514,1,HS6ST1 mutation,1,Hypogonadotropic hypogonadism,0,,0
+HSD11B1,K15680,1,HSD11B1 mutation,1,Cortisone reductase deficiency,0,,0
+HSD11B2,K00071,1,HSD11B2 deficiency,1,Apparent mineralocorticoid excess syndrome,0,,0
+HSD17B10,K08683,1,HSD17B10 deficiency,1,2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficiency,0,,0
+HSD17B3,K10207,1,HSD17B3 deficiency,1,"46,XY disorder of sex development due to testosterone secretion defect",0,,0
+HSD17B4,K12405,1,HSD17B4 deficiency,1,D-bifunctional protein deficiency,0,,0
+HSD3B2,K00070,1,HSD3B2 deficiency,1,Congenital adrenal hyperplasia,0,,0
+HSD3B7,K12408,1,HSD3B7 deficiency,1,Congenital bile acid synthesis defect,0,,0
+HTT,K04533,1,HTT mutation,1,Huntington disease,2,Tominersen sodium (JAN); Tominersen (USAN/INN),0
+HYAL1,K01197,1,HYAL1 deficiency,1,Mucopolysaccharidosis type IX,0,,0
+IDS,K01136,1,IDS deficiency,1,Mucopolysaccharidosis type II,2,Idursulfase (USAN/INN); Idursulfase beta (INN),0
+IDUA,K01217,1,IDUA deficiency,1,Mucopolysaccharidosis type I,1,Laronidase (USAN),0
+IFNAR2,K05131,1,IFNAR2 mutation,1,Disorders of innate immunity,0,,0
+IFNGR1,K05132,1,IFNGR1 mutation,1,IFN-gamma/IL-12 axis,0,,0
+IFNGR2,K05133,1,IFNGR2 mutation,1,IFN-gamma/IL-12 axis,0,,0
+IGF1,K05459,1,IGF1 mutation,1,Insulin-like growth factor I deficiency,0,,0
+IGF2,K13769,1,IGF2 overexpression,1,Hepatocellular carcinoma,0,,0
+IL10RA,K05134,1,IL10RA mutation,1,Inflammatory bowel disease (IBD),0,,0
+IL10RB,K05135,1,IL10RB mutation,1,Inflammatory bowel disease (IBD),0,,0
+IL12B,K05425,1,IL12B mutation,1,IFN-gamma/IL-12 axis,0,,0
+IL12RB1,K05063,1,IL12RB1 mutation,1,IFN-gamma/IL-12 axis,0,,0
+IL23R,K05065,1,IL23R mutation,1,Inflammatory bowel disease (IBD),0,,0
+IL2RB,K05069,1,IL2RB mutation,1,Disorders of innate immunity,0,,0
+IL6R,K05055,1,IL6R mutation,1,Hyper-IgE syndrome,0,,0
+IL6ST,K05060,1,IL6ST mutation,1,Hyper-IgE syndrome,0,,0
+IL7R,K05072,1,IL7R mutation,1,T-B+Severe combined immunodeficiency,0,,0
+IRAK4,K04733,1,IRAK4 mutation,1,Defects of toll-like receptor signaling,0,,0
+IRF3,K05411,1,IRF3 mutation,1,Infection-induced acute encephalopathy,0,,0
+IRF5,K09446,1,IRF5 mutation,1,Systemic lupus erythematosus,0,,0
+IRF7,K09447,1,IRF7 mutation,1,Defects of toll-like receptor signaling,0,,0
+IRF9,K04693,1,IRF9 mutation,1,Disorders of innate immunity,0,,0
+IRGM,K14139,1,IRGM mutation,1,Inflammatory bowel disease (IBD),0,,0
+IVD,K00253,1,IVD deficiency,1,Isovaleric acidemia,0,,0
+IYD,K17231,1,IYD mutation,1,Thyroid dyshormonogenesis,0,,0
+JAK1,K11217,1,JAK1 mutation,1,"Autoinflammation, immune dysregulation, and eosinophilia",0,,0
+JAK3,K11218,1,JAK3 mutation,1,T-B+Severe combined immunodeficiency,0,,0
+KCNC3,K04889,1,KCNC3 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+KCND3,K04893,1,KCND3 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+KCNJ5,K04999,1,KCNJ5 mutation,1,Primary aldosteronism,0,,0
+KEAP1,K10456,1,KEAP1 mutation,1,Hepatocellular carcinoma,0,,0
+KIF2A,K10393,1,KIF2A mutation,1,Complex cortical dysplasia with other brain malformations,0,,0
+KIF4A,K10395,1,KIF4A mutation,1,X-linked intellectual developmental disorder,0,,0
+KISS1,K23140,1,KISS1 mutation,1,Hypogonadotropic hypogonadism,0,,0
+KIT,K05091,1,KIT kinase domain mutation,1,Acute myeloid leukemia,2,Avapritinib (USAN/INN); Tuspetinib (USAN/INN),0
+KLKB1,K01324,1,KLKB1 mutation,1,Fletcher factor deficiency,0,,0
+KNG1,K03898,1,KNG1 mutation,1,Hereditary angioedema,0,,0
+KNL1,K11542,1,KNL1 mutation,1,Primary microcephaly,0,,0
+KNSTRN,K26097,1,KNSTRN mutation,1,Roifman-Chitayat syndrome,0,,0
+LBR,K19532,1,LBR deficiency,1,HEM skeletal dysplasia,0,,0
+LDHA,K00016,1,LDHA deficiency,1,Glycogen storage disease type XI,0,,0
+LDLR,K12473,1,LDLR mutation,1,Familial hypercholesterolemia,0,,0
+LDLRAP1,K12474,1,LDLRAP1 mutation,1,Familial autosomal recessive hypercholesterolemia,0,,0
+LFNG,K05948,1,LFNG mutation,1,Spondylocostal dysostosis,0,,0
+LGR4,K04309,1,LGR4 mutation,1,Osteoporosis,0,,0
+LHCGR,K04248,1,LHCGR mutation,1,Precocious puberty,0,,0
+LIG1,K10747,1,LIG1 mutation,1,Immunodeficiency associated with DNA repair defects,0,,0
+LIG3,K10776,1,LIG3 mutation,1,Mitochondrial neurogastrointestinal encephalomyopathy,0,,0
+LIG4,K10777,1,LIG4 mutation,1,LIG4 syndrome,0,,0
+LMO2,K15612,1,LMO2 rearrangement,1,T-cell acute lymphoblastic leukemia,0,,0
+LRP2,K06233,1,LRP2 mutation,1,Donnai-Barrow syndrome,0,,0
+LRRK2,K08844,1,LRRK2 mutation,1,Parkinson disease,0,,0
+LSS,K01852,1,LSS deficiency,1,Alopecia-mental retardation syndrome,0,,0
+LZTR1,K23330,1,LZTR1 mutation,1,Noonan syndrome,0,,0
+MAD1L1,K06679,1,MAD1L1 mutation,1,Prostate cancer,0,,0
+MAD2L2,K13728,1,MAD2L2 mutation,1,Fanconi anemia,0,,0
+MAF,K09035,1,IGH-MAF fusion,1,Multiple myeloma,0,,0
+MAOA,K00274,1,MAOA deficiency,1,Brunner syndrome,0,,0
+MAP2K2,K04369,1,MAP2K2 mutation,1,Cardiofaciocutaneous syndrome,0,,0
+MAP3K20,K04424,1,MAP3K20 mutation,1,Split-hand/foot malformation,0,,0
+MAPK1,K04371,1,MAPK1 mutation,1,Noonan syndrome,0,,0
+MASP1,K03992,1,MASP1 mutation,1,3MC syndrome,0,,0
+MASP2,K03993,1,MASP2 mutation,1,Mannose-binding lectin pathway component defects,0,,0
+MAX,K04453,1,MAX mutation,1,Malignant paraganglioma,0,,0
+MBD4,K10801,1,MBD4 mutation,1,Tumor predisposition syndrome,0,,0
+MBL2,K03991,1,MBL2 mutation,1,Mannose-binding lectin pathway component defects,0,,0
+MC2R,K04200,1,MC2R mutation,1,Familial glucocorticoid deficiency,0,,0
+MCCC1,K01968,1,MCCC1 deficiency,1,3-Methylcrotonylglycinuria,0,,0
+MCCC2,K01969,1,MCCC2 deficiency,1,3-Methylcrotonylglycinuria,0,,0
+MCEE,K05606,1,MCEE deficiency,1,Methylmalonic aciduria,0,,0
+MCIDAS,K26119,1,MCIDAS mutation,1,Primary ciliary dyskinesia,0,,0
+MCM10,K10736,1,MCM10 mutation,1,Disorders of innate immunity,0,,0
+MCM2,K02540,1,MCM2 mutation,1,"Deafness, autosomal dominant",0,,0
+MCM4,K02212,1,MCM4 mutation,1,Immunodeficiency associated with DNA repair defects,0,,0
+MCM5,K02209,1,MCM5 mutation,1,Meier-Gorlin syndrome,0,,0
+MCM8,K10737,1,MCM8 mutation,1,Premature ovarian failure,0,,0
+MCM9,K10738,1,MCM9 mutation,1,Ovarian dysgenesis,0,,0
+MCPH1,K19403,1,MCPH1 mutation,1,Primary microcephaly,0,,0
+MDM2,K06643,1,MDM2 amplification,1,Glioma,0,,0
+MECOM,K04462,1,EVI1 overexpression,1,Chronic myeloid leukemia,0,,0
+MESP2,K09076,1,MESP2 mutation,1,Spondylocostal dysostosis,0,,0
+MGAT2,K00736,1,MGAT2 deficiency,1,Congenital disorders of glycosylation type II,0,,0
+MIB1,K10645,1,MIB1 mutation,1,Left ventricular noncompaction,0,,0
+MLH3,K08739,1,MLH3 mutation,1,Hereditary nonpolyposis colorectal cancer,0,,0
+MLLT1,K15187,1,MLL-ENL fusion,1,T-cell acute lymphoblastic leukemia,0,,0
+MMUT,K01847,1,MMUT deficiency,1,Methylmalonic aciduria,0,,0
+MOCOS,K15631,1,MOCOS deficiency,1,Xanthinuria,0,,0
+MOCS1,K20967,1,MOCS1 deficiency,1,Molybdenum cofactor deficiency,2,Fosdenopterin (USAN); Fosdenopterin hydrobromide (USAN),0
+MOCS2,K03635,1,MOCS2 deficiency,1,Molybdenum cofactor deficiency,0,,0
+MOGS,K01228,1,MOGS deficiency,1,Congenital disorders of glycosylation type II,0,,0
+MPI,K01809,1,MPI deficiency,1,Congenital disorders of glycosylation type I,0,,0
+MRAP,K22398,1,MRAP mutation,1,Familial glucocorticoid deficiency,0,,0
+MRAS,K07831,1,MRAS mutation,1,Noonan syndrome,0,,0
+MRE11,K10865,1,MRE11 mutation,1,Ataxia-telangiectasia-like syndrome,0,,0
+MSH3,K08736,1,MSH3 mutation,1,Familial adenomatous polyposis,0,,0
+MSH6,K08737,1,MSH6 mutation,1,Hereditary nonpolyposis colorectal cancer,0,,0
+MSMO1,K07750,1,MSMO1 deficiency,1,Microcephaly syndrome,0,,0
+MSTN,K05497,1,MSTN mutation,1,Muscle hypertrophy,0,,0
+MVD,K01597,1,MVD deficiency,1,Porokeratosis,0,,0
+MYC,K04377,1,MYC amplification,1,Small cell lung cancer,0,,0
+MYCN,K09109,1,MYCN amplification,1,Neuroblastoma,0,,0
+NAGLU,K01205,1,NAGLU deficiency,1,Mucopolysaccharidosis type III,1,Lesinidase alfa (USAN/INN),0
+NCAPD2,K06677,1,NCAPD2 mutation,1,Primary microcephaly,0,,0
+NCAPD3,K11491,1,NCAPD3 mutation,1,Primary microcephaly,0,,0
+NCAPG2,K11492,1,NCAPG2 mutation,1,Neurodevelopmental disorder with microcephaly,0,,0
+NCAPH,K06676,1,NCAPH mutation,1,Primary microcephaly,0,,0
+NCSTN,K06171,1,NCSTN mutation,1,Acne inversa,0,,0
+NDST1,K02576,1,NDST1 mutation,1,Autosomal recessive intellectual developmental disorder,0,,0
+NFE2L2,K05638,1,NFE2L2 mutation,1,Hepatocellular carcinoma,0,,0
+NHEJ1,K10980,1,XLF mutation,1,"Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation",0,,0
+NHP2,K11129,1,NHP2 mutation,1,Dyskeratosis congenita,0,,0
+NIPBL,K06672,1,NIPBL mutation,1,Cornelia de Lange syndrome,0,,0
+NKX3-1,K09348,1,NKX3-1 loss,1,Prostate cancer,0,,0
+NLRP12,K20865,1,NLRP12 mutation,1,Familial cold autoinflammatory syndrome,0,,0
+NODAL,K04666,1,NODAL mutation,1,Heterotaxy,0,,0
+NOP10,K11130,1,NOP10 mutation,1,Dyskeratosis congenita,0,,0
+NOTCH4,K20996,1,NOTCH4 overexpression,1,Breast cancer,0,,0
+NPRL2,K20405,1,NPRL2 mutation,1,Familial focal epilepsy with variable foci,0,,0
+NPRL3,K20406,1,NPRL3 mutation,1,Familial focal epilepsy with variable foci,0,,0
+NR0B1,K08562,1,NROB1 mutation,1,"Adrenal hypoplasia, congenital",0,,0
+NR3C1,K05771,1,NR3C1 mutation,1,Glucocorticoid resistance syndrome,0,,0
+NR4A3,K08559,1,EWSR1-NR4A3 fusion,1,Extraskeletal myxoid chondrosarcoma,0,,0
+NR5A1,K08560,1,NR5A1 mutation,1,"Adrenal insufficiency, NR5A1 related",0,,0
+NSD2,K11424,1,IGH-MMSET fusion,1,Multiple myeloma,0,,0
+NTHL1,K10773,1,NTH mutation,1,Familial adenomatous polyposis,0,,0
+NTRK1,K03176,1,TRK fusion,1,Thyroid cancer,1,Entrectinib (JAN/USAN/INN),0
+NUS1,K19177,1,NUS1 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+NXN,K17609,1,NXN mutation,1,Robinow syndrome,0,,0
+OAT,K00819,1,OAT deficiency,1,Ornithinaemia,0,,0
+OGDH,K00164,1,OGDH deficiency,1,Alpha-ketoglutarate dehydrogenase complex deficiency,0,,0
+OGDHL,K00164,1,OGDHL mutation,1,Yoon-Bellen neurodevelopmental syndrome,0,,0
+OGG1,K03660,1,OGG1 mutation,1,Renal cell carcinoma,0,,0
+OPLAH,K01469,1,OPLAH deficiency,1,5-Oxoprolinase deficiency,0,,0
+OPTN,K19946,1,OPTN mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+ORC1,K02603,1,ORC1 mutation,1,Meier-Gorlin syndrome,0,,0
+ORC4,K02606,1,ORC4 mutation,1,Meier-Gorlin syndrome,0,,0
+ORC6,K02608,1,ORC6 mutation,1,Meier-Gorlin syndrome,0,,0
+OTC,K00611,1,OTC deficiency,1,Ornithine transcarbamylase deficiency,0,,0
+OTULIN,K18343,1,OTULIN mutation,1,"Autoinflammation, panniculitis, and dermatosis syndrome",0,,0
+PAFAH1B1,K16794,1,PAFAH1B1 mutation,1,Lissencephaly,0,,0
+PAH,K00500,1,PAH deficiency,1,Phenylketonuria,1,Pegvaliase (INN),0
+PARK7,K05687,1,PARK7 mutation,1,Parkinson disease,0,,0
+PBX1,K09355,1,E2A-PBX1 fusion,1,B-cell acute lymphoblastic leukemia,0,,0
+PC,K01958,1,PC deficiency,1,Pyruvate carboxylase deficiency,0,,0
+PCBD1,K01724,1,PCBD1 deficiency,1,Phenylketonuria,0,,0
+PCCA,K01965,1,PCCA deficiency,1,Propionic acidemia,0,,0
+PCCB,K01966,1,PCCB deficiency,1,Propionic acidemia,0,,0
+PCK1,K01596,1,PCK1 deficiency,1,Phosphoenolpyruvate carboxykinase deficiency,0,,0
+PCNA,K04802,1,PCNA mutation,1,Ataxia-telangiectasia-like syndrome,0,,0
+PCSK9,K13050,1,PCSK9 mutation,1,Familial hypercholesterolemia,0,,0
+PDGFA,K04359,1,PDGFA overexpression,1,Glioma,0,,0
+PDGFB,K17386,1,PDGFB overexpression,1,Glioma,0,,0
+PDHA1,K00161,1,PDHA1 deficiency,1,Pyruvate dehydrogenase E1-alpha deficiency,0,,0
+PDHB,K00162,1,PDHB deficiency,1,Pyruvate dehydrogenase E1-beta deficiency,0,,0
+PDYN,K15840,1,PDYN mutation,1,Spinocerebellar ataxia (SCA),0,,0
+PFKM,K00850,1,PFKM deficiency,1,Glycogen storage disease type VII,0,,0
+PFN1,K05759,1,PFN1 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+PGAM2,K01834,1,PGAM2 deficiency,1,Glycogen storage disease type X,0,,0
+PGAP1,K05294,1,PGAP1 deficiency,1,Autosomal recessive mental retardation-42,0,,0
+PGM1,K01835,1,PGM1 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+PIGA,K03857,1,PIGA deficiency,1,Multiple congenital anomalies-hypotonia-seizures syndrome,0,,0
+PIGB,K05286,1,PIGB deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGC,K03859,1,PIGC deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGG,K05310,1,PIGG deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGH,K03858,1,PIGH deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGK,K05290,1,PIGK deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGL,K03434,1,PIGL deficiency,1,CHIME syndrome,0,,0
+PIGM,K05284,1,PIGM deficiency,1,PIGM-congenital disorder of glycosylation,0,,0
+PIGN,K05285,1,PIGN deficiency,1,Multiple congenital anomalies-hypotonia-seizures syndrome,0,,0
+PIGO,K05288,1,PIGO deficiency,1,Hyperphosphatasia with mental retardation syndrome,0,,0
+PIGP,K03861,1,PIGP deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGQ,K03860,1,PIGQ deficiency,1,Multiple congenital anomalies-hypotonia-seizures syndrome,0,,0
+PIGS,K05291,1,PIGS deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGT,K05292,1,PIGT deficiency,1,Multiple congenital anomalies-hypotonia-seizures syndrome,0,,0
+PIGU,K05293,1,PIGU deficiency,1,Inherited glycosylphosphatidylinositol deficiencies,0,,0
+PIGV,K07542,1,PIGV deficiency,1,Hyperphosphatasia with mental retardation syndrome,0,,0
+PIGW,K05283,1,PIGW deficiency,1,Hyperphosphatasia with mental retardation syndrome,0,,0
+PIGY,K11001,1,PIGY deficiency,1,Hyperphosphatasia with mental retardation syndrome,0,,0
+PIK3C2A,K00923,1,PIK3C2A mutation,1,Oculoskeletodental syndrome,0,,0
+PINK1,K05688,1,PINK1 mutation,1,Parkinson disease,0,,0
+PKLR,K12406,1,PKLR deficiency,1,Pyruvate kinase deficiency,0,,0
+PML,K10054,1,PML-RARA fusion,1,Acute myeloid leukemia,0,,0
+PMM2,K17497,1,PMM2 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+PMS2,K10858,1,PMS2 mutation,1,Hereditary nonpolyposis colorectal cancer,0,,0
+PMVK,K13273,1,PMVK deficiency,1,Porokeratosis,0,,0
+PNKP,K08073,1,PNKP mutation,1,Ataxia with ocular apraxia,0,,0
+POLH,K03509,1,POLH mutation,1,Xeroderma pigmentosum,0,,0
+POLR2A,K03006,1,POLR2A mutation,1,Neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities,0,,0
+POMGNT1,K09666,1,POMGNT1 deficiency,1,Muscular dystrophy-dystroglycanopathy,0,,0
+POMGNT2,K18207,1,POMGNT2 deficiency,1,Muscular dystrophy-dystroglycanopathy type A,0,,0
+POMT1,K00728,1,POMT1 deficiency,1,Muscular dystrophy-dystroglycanopathy,0,,0
+POMT2,K00728,1,POMT2 deficiency,1,Muscular dystrophy-dystroglycanopathy,0,,0
+PORCN,K00181,1,PORCN mutation,1,Focal dermal hypoplasia,0,,0
+PPOX,K00231,1,PPOX deficiency,1,Porphyria,0,,0
+PPP1CB,K06269,1,PPP1CB mutation,1,Noonan-like syndrome with loose anagen hair,0,,0
+PPP2CA,K04382,1,PPP2CA mutation,1,PP2A-related neurodevelopmental disorder,0,,0
+PRIM1,K02684,1,PRIM1 mutation,1,Primordial dwarfism-immunodeficiency-lipodystrophy syndrome,0,,0
+PRKDC,K06642,1,DNAPKc mutation,1,T-B-Severe combined immunodeficiency,0,,0
+PRKN,K04556,1,PRKN mutation,1,Parkinson disease,0,,0
+PRLR,K05081,1,PRLR mutation,1,Hyperprolactinemia,0,,0
+PROC,K01344,1,PROC mutation,1,Inherited thrombophilia,0,,0
+PRODH,K00318,1,PRODH deficiency,1,Hyperprolinemia,0,,0
+PROK2,K24191,1,PROK2 mutation,1,Hypogonadotropic hypogonadism,0,,0
+PROKR2,K08380,1,PROKR2 mutations,1,Hypogonadotropic hypogonadism,0,,0
+PROS1,K03908,1,PROS1 mutation,1,Inherited thrombophilia,0,,0
+PSEN2,K04522,1,PSEN2 mutation,1,Alzheimer disease,0,,0
+PSENEN,K06170,1,PSENEN mutation,1,Acne inversa,0,,0
+PSPH,K01079,1,PSPH deficiency,1,Phosphoserine phosphatase deficiency,0,,0
+PSTPIP1,K12804,1,PSTPIP1 mutation,1,"Pyogenic sterile arthritis, pyoderma gangrenosum, and acne syndrome",0,,0
+PTCH2,K11101,1,PTCH2 mutation,1,Basal cell nevus syndrome,0,,0
+PTH,K05261,1,PTH mutation,1,Hypoparathyroidism,0,,0
+PTS,K01737,1,PTS deficiency,1,Phenylketonuria,0,,0
+PYGL,K00688,1,PYGL deficiency,1,Glycogen storage disease type VI,0,,0
+PYGM,K00688,1,PYGM deficiency,1,Glycogen storage disease type V,0,,0
+QDPR,K00357,1,QDPR deficiency,1,Phenylketonuria,0,,0
+RAD21,K06670,1,RAD21 mutation,1,Cornelia de Lange syndrome,0,,0
+RAD50,K10866,1,RAD50 mutation,1,Nijmegen breakage syndrome,0,,0
+RAD51D,K10871,1,RAD51D mutation,1,Familial breast-ovarian cancer,0,,0
+RAD54B,K10877,1,RAD54B mutation,1,Non-Hodgkin lymphoma,0,,0
+RASSF1,K09850,1,RASSF1 loss,1,Non-small cell lung cancer,0,,0
+RBBP8,K20773,1,CtIP mutation,1,Seckel syndrome,0,,0
+RBCK1,K10630,1,RBCK1 mutation,1,Polyglucosan body myopathy,0,,0
+RBPJ,K06053,1,RBPJ mutation,1,Adams-Oliver syndrome,0,,0
+REL,K09254,1,REL amplification,1,Hodgkin lymphoma,0,,0
+RELA,K04735,1,RELA mutation,1,Chronic mucocutaneous ulceration,0,,0
+RFC1,K10754,1,RFC1 mutation,1,"Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome",0,,0
+RFT1,K06316,1,RFT1 mutation,1,Congenital disorders of glycosylation type I,0,,0
+RFWD3,K15691,1,RFWD3 mutation,1,Fanconi anemia,0,,0
+RIGI,K12646,1,RIGI mutation,1,Singleton-Merten syndrome,0,,0
+RIPPLY2,,1,RIPPLY2 mutation,1,Spondylocostal dysostosis,0,,0
+RIT1,K07832,1,RIT1 mutation,1,Noonan syndrome,0,,0
+RNASEH2A,K10743,1,RNASEH2A mutation,1,Aicardi-Goutieres syndrome,0,,0
+RNASEH2B,K10744,1,RNASEH2B mutation,1,Aicardi-Goutieres syndrome,0,,0
+RNASEH2C,K10745,1,RNASEH2C mutation,1,Aicardi-Goutieres syndrome,0,,0
+RNF125,K12170,1,RNF125 mutation,1,Tenorio syndrome,0,,0
+RNF168,K20779,1,RNF168 mutation,1,RIDDLE syndrome,0,,0
+RPA1,K07466,1,RPA1 mutation,1,"Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+RPS6KA3,K04373,1,RPS6KA3 mutation,1,Coffin-Lowry syndrome,0,,0
+RRAS2,K07830,1,RRAS2 mutation,1,Noonan syndrome,0,,0
+RSPO2,K23097,1,RSPO2 mutation,1,Tetra-amelia syndrome,0,,0
+RSPO4,K23099,1,RSPO4 mutation,1,Nonsyndromic congenital nail disorder,0,,0
+RXYLT1,K21052,1,TMEM5 deficiency,1,Muscular dystrophy-dystroglycanopathy type A,0,,0
+SC5D,K00227,1,SC5D deficiency,1,Lathosterolosis,0,,0
+SCP2,K08764,1,SCP2 deficiency,1,Leukoencephalopathy with dystonia and motor neuropathy,0,,0
+SDHA,K00234,1,SDHA deficiency,1,Mitochondrial complex II deficiency,0,,0
+SDHB,K00235,1,SDHB deficiency,1,Mitochondrial complex II deficiency,0,,0
+SDHD,K00237,1,SDHD deficiency,1,Mitochondrial complex II deficiency,0,,0
+SERPINA6,K04525,1,SERPINA6 mutation,1,Corticosteroid-binding globulin (CBG) deficiency,0,,0
+SERPIND1,K03912,1,SERPIND1 mutation,1,Inherited thrombophilia,0,,0
+SERPINE1,K03982,1,SERPINE1 mutation,1,Plasminogen activator inhibitor type 1 deficiency,0,,0
+SERPINF2,K03983,1,SERPINF2 mutation,1,Alpha-2-plasmin inhibitor (a2-PI) deficiency,0,,0
+SFRP4,K02185,1,SFRP4 mutation,1,Metaphyseal dysplasias,0,,0
+SGO1,K11580,1,SGO1 mutation,1,Chronic atrial and intestinal dysrhythmia,0,,0
+SGSH,K01565,1,SGSH deficiency,1,Mucopolysaccharidosis type III,0,,0
+SHOC2,K19613,1,SHOC2 mutation,1,Noonan-like syndrome with loose anagen hair,0,,0
+SIGMAR1,K20719,1,SIGMAR1 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+SLC16A2,K08231,1,SLC16A2 mutation,1,Allan-Herndon-Dudley syndrome,0,,0
+SLC22A5,K08202,1,SLC22A5 mutation,1,Systemic primary carnitine deficiency,0,,0
+SLC25A20,K15109,1,SLC25A20 mutation,1,Carnitine-acylcarnitine translocase deficiency,0,,0
+SLC26A4,K14702,1,SLC26A4 mutation,1,Thyroid dyshormonogenesis,0,,0
+SLC2A2,K07593,1,SLC2A2 mutation,1,Fanconi-Bickel syndrome,0,,0
+SLC35A1,K15272,1,SLC35A1 mutation,1,Congenital disorders of glycosylation type II,0,,0
+SLC35A2,K15272,1,SLC35A2 mutation,1,Congenital disorders of glycosylation type II,0,,0
+SLC35C1,K15279,1,SLC35C1 mutation,1,Congenital disorders of glycosylation type II,0,,0
+SLC37A4,K08171,1,SLC37A4 mutation,1,Glycogen storage disease type I,0,,0
+SLC39A14,K14720,1,SLC39A14 mutation,1,Hypermanganesemia with dystonia,0,,0
+SLC40A1,K14685,1,SLC40A1 mutation,1,Hemochromatosis,0,,0
+SLC5A5,K14385,1,SLC5A5 mutation,1,Thyroid dyshormonogenesis,0,,0
+SLC6A8,K05041,1,SLC6A8 deficiency,1,Cerebral creatine deficiency syndrome,0,,0
+SLX4,K10484,1,SLX4 mutation,1,Fanconi anemia,0,,0
+SMAD3,K23605,1,SMAD3 mutation,1,Loeys-Dietz syndrome,0,,0
+SMAD9,K16791,1,SMAD9 mutation,1,Primary pulmonary hypertension,0,,0
+SMC3,K06669,1,SMC3 mutation,1,Cornelia de Lange syndrome,0,,0
+SMO,K06226,1,SMO mutation,1,Basal cell carcinoma,0,,0
+SMPD1,K12350,1,SMPD1 deficiency,1,Niemann-Pick disease type A/B,1,Olipudase alfa (USAN/INN),0
+SMS,K00802,1,SMS deficiency,1,Snyder-Robinson syndrome,0,,0
+SNCA,K04528,1,SNCA mutation,1,Parkinson disease,0,,0
+SOD1,K04565,1,SOD1 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+SOS2,K03099,1,SOS2 mutation,1,Noonan syndrome,0,,0
+SPR,K00072,1,SPR deficiency,1,Sepiapterin reductase deficiency,0,,0
+SPRED1,K04703,1,SPRED1 mutation,1,Legius syndrome,0,,0
+SPTBN2,K23932,1,SPTBN2 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+SQSTM1,K14381,1,SQSTM1 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+SRD5A2,K12344,1,SRD5A2 deficiency,1,"46,XY disorder of sex development due to testosterone secretion defect",0,,0
+SRD5A3,K12345,1,SRD5A3 deficiency,1,Congenital disorders of glycosylation type I,0,,0
+SS18,K15623,1,SYT-SSX fusion,1,Synovial sarcoma,0,,0
+SSX1,K15624,1,SYT-SSX1 fusion,1,Synovial sarcoma,0,,0
+SSX2,K15625,1,SYT-SSX2 fusion,1,Synovial sarcoma,0,,0
+STAG1,K06671,1,STAG1 mutation,1,Autosomal dominant intellectual developmental disorder,0,,0
+STAT5B,K11224,1,STAT5B mutation,1,Growth hormone insensitivity with immunodeficiency,0,,0
+STEAP3,K10142,1,STEAP3 mutation,1,Hypochromic microcytic anemia,0,,0
+STING1,K12654,1,STING1 mutation,1,STING-associated vasculopathy with onset in infancy,0,,0
+STK11,K07298,1,STK11 mutation,1,Peutz-Jeghers syndrome,0,,0
+STN1,K23312,1,STN1 mutation,1,Coats plus syndrome,0,,0
+STRADA,K08271,1,STRADA mutation,1,"Polyhydramnios, megalencephaly, and symptomatic epilepsy",0,,0
+STT3A,K07151,1,STT3A deficiency,1,Congenital disorders of glycosylation type I,0,,0
+STT3B,K07151,1,STT3B deficiency,1,Congenital disorders of glycosylation type I,0,,0
+TAC3,K05240,1,TAC3 mutation,1,Hypogonadotropic hypogonadism,0,,0
+TACR3,K04224,1,TACR3 mutation,1,Hypogonadotropic hypogonadism,0,,0
+TARDBP,K23600,1,TARDBP mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+TAT,K00815,1,TAT deficiency,1,Tyrosinemia,0,,0
+TBC1D7,K20396,1,TBC1D7 mutation,1,Autosomal recessive macrocephaly/megalencephaly syndrome,0,,0
+TBX6,K10180,1,TBX6 mutation,1,Spondylocostal dysostosis,0,,0
+TCF3,K09063,1,E2A-PBX1 fusion,1,B-cell acute lymphoblastic leukemia,0,,0
+TDP1,K10862,1,TDP1 mutation,1,Autosomal recessive spinocerebellar ataxias with axonal neuropathy,0,,0
+TF,K14736,1,TF mutation,1,Atransferrinemia,0,,0
+TFR2,K23910,1,TFR2 mutation,1,Hemochromatosis,0,,0
+TG,K10809,1,TG mutation,1,Thyroid dyshormonogenesis,0,,0
+TGFB1,K13375,1,TGFB1 mutation,1,Camurati-Engelmann disease,0,,0
+TGFB2,K13376,1,TGFB2 mutation,1,Loeys-Dietz syndrome,0,,0
+TGFB3,K13377,1,TGFB3 mutation,1,Loeys-Dietz syndrome,0,,0
+TH,K00501,1,TH deficiency,1,Dopa-responsive dystonia,0,,0
+THBD,K03907,1,THBD mutation,1,Inherited thrombophilia,0,,0
+THPO,K06854,1,THPO mutation,1,Essential thrombocythemia,0,,0
+THRA,K05547,1,THRA mutation,1,Congenital nongoitrous hypothyroidism (CHNG),0,,0
+THRB,K08362,1,THRB mutation,1,Thyroid hormone resistance syndrome,0,,0
+TICAM1,K05842,1,TICAM1 mutation,1,Infection-induced acute encephalopathy,0,,0
+TINF2,K11112,1,TINF2 mutation,1,Dyskeratosis congenita,0,,0
+TIRAP,K05403,1,TIRAP mutation,1,Tuberculosis,0,,0
+TLR1,K05398,1,TLR1 mutation,1,Leprosy,0,,0
+TLR3,K05401,1,TLR3 mutation,1,Infection-induced acute encephalopathy,0,,0
+TLR4,K10160,1,TLR4 mutation,1,Age-related macular degeneration,0,,0
+TLX1,K09340,1,TLX1 rearrangemnet,1,T-cell acute lymphoblastic leukemia,0,,0
+TNFAIP3,K11859,1,TNFAIP3 mutation,1,Familial Behcet-like autoinflammatory syndrome,0,,0
+TNFRSF10B,K04722,1,TNFRSF10B mutation,1,Head and neck squamous cell carcinoma,0,,0
+TPO,K00431,1,TPO mutation,1,Thyroid dyshormonogenesis,0,,0
+TRAF3,K03174,1,TRAF3 mutation,1,Infection-induced acute encephalopathy,0,,0
+TRAIP,K11985,1,TRAIP mutation,1,Seckel syndrome,0,,0
+TRHR,K04282,1,TRHR mutation,1,Congenital nongoitrous hypothyroidism (CHNG),0,,0
+TRIP13,K22399,1,TRIP13 mutation,1,Mosaic variegated aneuploidy syndrome,0,,0
+TRPC3,K04966,1,TRPC3 mutation,1,Spinocerebellar ataxia (SCA),0,,0
+TSHB,K05251,1,TSHB mutation,1,Congenital nongoitrous hypothyroidism (CHNG),0,,0
+TUBA1A,K07374,1,TUBA1A mutation,1,Lissencephaly,0,,0
+TUBA3D,K07374,1,TUBA3D mutaiton,1,Keratoconus,0,,0
+TUBA4A,K07374,1,TUBA4A mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+TUBA8,K07374,1,TUBA8 mutation,1,Macrothrombocytopenia,0,,0
+TUBB1,K07375,1,TUBB1 mutation,1,Macrothrombocytopenia,0,,0
+TUBB2A,K07375,1,TUBB2A mutation,1,Complex cortical dysplasia with other brain malformations,0,,0
+TUBB2B,K07375,1,TUBB2B mutation,1,Complex cortical dysplasia with other brain malformations,0,,0
+TUBB4B,K07375,1,TUBB4B mutation,1,Leber congenital amaurosis,0,,0
+TUBB6,K07375,1,TUBB6 mutation,1,Congenital facial palsy with ptosis and velopharyngeal dysfunction,0,,0
+TUBB8,K07375,1,TUBB8 mutation,1,Oocyte maturation defect,0,,0
+TUBG1,K10389,1,TUBG1 mutation,1,Complex cortical dysplasia with other brain malformations,0,,0
+TUBGCP2,K16569,1,TUBGCP2 mutation,1,"Pachygyria, microcephaly, developmental delay, and dysmorphic facies, with or without seizures",0,,0
+TUBGCP4,K16571,1,TUBGCP4 mutation,1,Autosomal recessive microcephaly and chorioretinopathy,0,,0
+TUBGCP6,K16573,1,TUBGCP6 mutation,1,Autosomal recessive microcephaly and chorioretinopathy,0,,0
+TYR,K00505,1,TYR deficiency,1,Oculocutaneous albinism,0,,0
+TYRP1,K00506,1,TYRP1 deficiency,1,Oculocutaneous albinism,0,,0
+UBE2T,K13960,1,UBE2T mutation,1,Fanconi anemia,0,,0
+UBQLN2,K04523,1,UBQLN2 mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+UCHL1,K05611,1,UCHL1 mutation,1,Parkinson disease,0,,0
+UNG,K03648,1,UNG mutation,1,"Hyper IgM syndromes, autosomal recessive type",0,,0
+UROD,K01599,1,UROD deficiency,1,Porphyria,0,,0
+UROS,K01719,1,UROS deficiency,1,Porphyria,0,,0
+USP18,K11846,1,USP18 mutation,1,Pseudo-TORCH syndrome,0,,0
+UVSSA,K23720,1,UVSSA mutation,1,UV-sensitive syndrome,0,,0
+VAPB,K10707,1,VAPB mutation,1,Amyotrophic lateral sclerosis (ALS),0,,0
+WNT3,K00312,1,WNT3 mutation,1,Tetra-amelia syndrome,0,,0
+WNT5A,K00444,1,WNT5A mutation,1,Robinow syndrome,0,,0
+WRAP53,K23314,1,WRAP53 mutation,1,Dyskeratosis congenita,0,,0
+WT1,K09234,1,EWSR1-WT1 fusion,1,Desmoplastic small round cell tumor,0,,0
+XDH,K00106,1,XDH deficiency,1,Xanthinuria,0,,0
+XIAP,K04725,1,XIAP mutation,1,X-linked lymphoproliferative syndrome,0,,0
+XPA,K10847,1,XPA mutation,1,Xeroderma pigmentosum,0,,0
+XPC,K10838,1,XPC mutation,1,Xeroderma pigmentosum,0,,0
+XRCC1,K10803,1,XRCC1 mutation,1,Autosomal recessive spinocerebellar ataxias,0,,0
+XRCC4,K10886,1,XRCC4 mutation,1,"Short stature, microcephaly, and endocrine dysfunction",0,,0
+XYLT1,K00771,1,XYLT1 mutation,1,Desbuquois syndrome,0,,0
+XYLT2,K00771,1,XYLT2 mutation,1,Spondyloocular syndrome,0,,0
+ZBTB16,K10055,1,PLZF-RARA fusion,1,Acute myeloid leukemia,0,,0
+ZCCHC8,K13128,1,ZCCHC8 mutation,1,"Pulmonary fibrosis and/or bone marrow failure, telomere-related",0,,0
+ABCB11,K05664,1,ABCB11 mutation,0,,0,,0
+ADA,K01488,1,ADA deficiency,0,,1,Elapegademase (USAN/INN),0
+ALPL,K01077,1,ALPL deficiency,0,,1,Asfotase alfa (USAN/INN),0
+BANF1,K21870,1,BANF1 mutation,0,,0,,0
+CFD,K01334,1,CFD mutation,0,,0,,0
+CFTR,K05031,1,CFTR mutation,0,,3,"Lumacaftor and ivacaftor; Tezacaftor and ivacaftor; Elexacaftor, ivacaftor and tezacaftor",0
+CYP2A6,K17683,1,CYP2A6 polymorphism for poor drug metabolism,0,,0,,0
+CYP2B6,K17709,1,CYP2B6 polymorphism for poor drug metabolism,0,,0,,0
+CYP2C19,K17721,1,CYP2C19 polymorphism for poor drug metabolism,0,,0,,0
+CYP2C9,K17719,1,CYP2C9 polymorphism for poor drug metabolism,0,,0,,0
+CYP2D6,K17712,1,CYP2D6 polymorphism for poor drug metabolism,0,,0,,0
+CYP3A5,K17690,1,CYP3A5 polymorphism for poor drug metabolism,0,,0,,0
+DPYD,K00207,1,DPYD deficiency,0,,0,,0
+DPYS,K01464,1,DPYS deficiency,0,,0,,0
+ETV1,K09431,1,TMPRSS2-ETV1 fusion,0,,0,,0
+EZH2,K11430,1,EZH2 mutation,0,,1,Tazemetostat hydrobromide (JAN/USAN),0
+IDH1,K00031,1,IDH1 mutation,0,,2,Ivosidenib (JAN/USAN/INN); Olutasidenib (USAN/INN),0
+IFNL3,K22669,1,IL28B rs12979860,0,,0,,0
+LIPA,K01052,1,LIPA deficiency,0,,1,Sebelipase alfa (USAN),0
+LMNA,K12641,1,LMNA mutation,0,,0,,0
+LPL,K01059,1,LPL variant,0,,1,Alipogene tiparvovec (INN),0
+MAN2B1,K12311,1,MAN2B1 deficiency,0,,1,Velmanase alfa (USAN/INN),0
+MSH2,K08735,1,MSH2 mutation,0,,0,,0
+MVK,K00869,1,MVK deficiency,0,,0,,0
+NAT1,K00622,1,NAT1 polymorphism for poor drug metabolism,0,,0,,0
+NAT2,K00622,1,NAT2 polymorphism for poor drug metabolism,0,,0,,0
+PAX3,K09381,1,PAX3-FOXO1 fusion,0,,0,,0
+PDE3A,K19021,1,PDE3A mutation,0,,0,,0
+PTHLH,K22608,1,PTHLH mutation,0,,0,,0
+ROS1,K05088,1,ROS1 fusion,0,,2,Crizotinib (JAN/USAN/INN); Entrectinib (JAN/USAN/INN),0
+SI,K01203,1,SI deficiency,0,,1,Sacrosidase (USAN),0
+SLCO1B1,K05043,1,SLCO1B1 polymorphism for decreased transporter activity,0,,0,,0
+TPMT,K00569,1,TPMT polymorphism for poor drug metabolism,0,,0,,0
+TPP1,K01279,1,TPP1 deficiency,0,,1,Cerliponase alfa (USAN/INN),0
+UGT1A1,K00699,1,UGT1A1 polymorphism for poor drug metabolism,0,,0,,0
+UPB1,K01431,1,UPB1 deficiency,0,,0,,0
+VKORC1,K05357,1,VKORC1 polymorphism for low warfarin dose phenotype,0,,0,,0

@@ -1,0 +1,2634 @@
+﻿disease_id,disease_name,linked_network_count,direct_gene_count,pathway_gene_count
+H00058,Amyotrophic lateral sclerosis (ALS),23,26,239
+H00048,Hepatocellular carcinoma,87,22,223
+H00056,Alzheimer disease,23,6,210
+H00014,Non-small cell lung cancer,47,15,201
+H00057,Parkinson disease,33,19,188
+H00031,Breast cancer,35,28,173
+H00013,Small cell lung cancer,34,7,167
+H00059,Huntington disease,15,1,166
+H00368,Cytomegalovirus infection,34,0,153
+H01563,HIV infection,25,17,134
+H00054,Nasopharyngeal cancer,37,7,126
+H00041,Kaposi sarcoma,36,5,126
+H00113,Salmonellosis,27,0,118
+H00009,Adult T-cell leukemia,23,3,113
+H00030,Cervical cancer,38,7,109
+H00606,Early infantile epileptic encephalopathy,0,109,109
+H00299,Shigellosis,26,0,98
+H00061,Prion disease,9,1,97
+H00007,Hodgkin lymphoma,31,5,90
+H00277,Enterohemorrhagic Escherichia coli (EHEC) infection,30,0,89
+H00278,Enteropathogenic Escherichia coli (EPEC) infection,30,0,89
+H00024,Prostate cancer,17,14,89
+H00021,Renal cell carcinoma,14,7,88
+H00020,Colorectal cancer,26,31,83
+H00008,Burkitt lymphoma,31,3,81
+H01282,Spermatogenic failure,0,81,81
+H00605,"Deafness, autosomal recessive",0,81,81
+H00018,Gastric cancer,22,18,79
+H00527,Retinitis pigmentosa,0,76,76
+H00063,Spinocerebellar ataxia (SCA),17,36,73
+H00022,Bladder cancer,19,9,72
+H02398,COVID-19,12,0,68
+H00042,Glioma,20,15,66
+H00266,Hereditary spastic paraplegia,0,63,63
+H00773,Autosomal dominant intellectual developmental disorder,1,62,62
+H00365,Herpes simplex virus infection,29,0,62
+H00003,Acute myeloid leukemia,21,21,61
+H00264,Charcot-Marie-Tooth disease,0,61,61
+H01431,Cushing syndrome,13,13,60
+H00255,Hypogonadotropic hypogonadism,13,27,57
+H00019,Pancreatic cancer,10,11,57
+H00891,Combined oxidative phosphorylation deficiency,0,55,55
+H00768,Autosomal recessive intellectual developmental disorder,0,55,55
+H00604,"Deafness, autosomal dominant",0,53,53
+H01102,Pituitary adenomas,7,9,51
+H00004,Chronic myeloid leukemia,11,5,51
+H00294,Dilated cardiomyopathy,0,46,46
+H00564,Primary ciliary dyskinesia,0,46,46
+H00032,Thyroid cancer,10,12,46
+H00473,Mitochondrial complex I deficiency,0,44,44
+H00001,B-cell acute lymphoblastic leukemia,3,5,44
+H00038,Melanoma,12,12,43
+H00530,Joubert syndrome and related disorders,0,40,40
+H00039,Basal cell carcinoma,5,5,39
+H00398,Influenza,17,0,39
+H01202,Cataract,0,38,38
+H00026,Endometrial cancer,5,8,38
+H02049,Bilateral macronodular adrenal hyperplasia,3,8,37
+H00297,Plague,18,0,32
+H00602,Glucocorticoid-remediable aldosteronism (GRA),1,2,32
+H00298,Yersiniosis,18,0,32
+H01891,Autosomal recessive spinocerebellar ataxias,0,31,31
+H00593,Limb-girdle muscular dystrophy,0,31,31
+H00269,Primary microcephaly,2,30,30
+H02463,Syndromic intellectual developmental disorder,0,30,30
+H00118,Congenital disorders of glycosylation type I,1,29,29
+H00010,Multiple myeloma,3,9,29
+H00658,X-linked syndromic intellectual developmental disorder,0,28,28
+H01603,Primary aldosteronism,5,6,28
+H01439,Williams-Beuren syndrome,0,28,28
+H00002,T-cell acute lymphoblastic leukemia,4,10,27
+H00480,X-linked intellectual developmental disorder,0,27,27
+H00292,Hypertrophic cardiomyopathy,0,27,27
+H00394,Measles,13,0,27
+H01368,Cytochrome c oxidase (COX) deficiency,0,26,26
+H01657,Nephrotic syndrome,0,25,25
+H02434,"Diffuse large B-cell lymphoma, not otherwise specified",0,25,25
+H00831,Primary dystonia,0,25,25
+H00897,Pontocerebellar hypoplasia,0,25,25
+H00770,Congenital myasthenic syndrome,0,25,25
+H00481,Cone-rod dystrophy and cone dystrophy,0,24,24
+H00679,Hypomyelinating leukodystrophy,0,24,24
+H02106,Genetic obesity,0,23,23
+H00080,Systemic lupus erythematosus,0,23,23
+H01557,Hepatic angiosarcoma,2,2,22
+H00238,Fanconi anemia,1,22,22
+H00119,Congenital disorders of glycosylation type II,1,22,22
+H00069,Glycogen storage disease,1,22,22
+H01489,Inherited glycosylphosphatidylinositol deficiencies,1,22,22
+H00418,Bardet-Biedl syndrome,0,22,22
+H00627,Premature ovarian failure,0,21,21
+H00408,Type 1 diabetes mellitus,0,21,21
+H00837,Leber congenital amaurosis,0,20,20
+H00469,Mitochondrial DNA depletion syndrome,0,20,20
+H00093,Combined immunodeficiency,0,20,20
+H00079,Asthma,0,20,20
+H01810,Congenital myopathy,0,20,20
+H00537,Nephronophthisis,0,20,20
+H00260,Pigmented micronodular adrenocortical disease,2,3,20
+H02410,Myelodysplastic/myeloproliferative neoplasms,0,20,20
+H02470,Neurodevelopmental disorder with structural brain abnormali…,0,20,20
+H02526,Disorders of adaptive immunity,0,20,20
+H00506,Osteogenesis imperfecta,0,20,20
+H00409,Type 2 diabetes mellitus,0,19,19
+H02157,Short-rib thoracic dysplasia,0,19,19
+H01360,Allergic rhinitis,0,19,19
+H00237,Diamond-Blackfan anemia,0,19,19
+H02461,Neurodevelopmental disorder with microcephaly,0,19,19
+H00821,Age-related macular degeneration,0,18,18
+H01649,Schizophrenia,0,18,18
+H01400,Secondary hyperammonemia,0,18,18
+H01354,Leigh syndrome,0,18,18
+H01492,Systemic sclerosis,0,17,17
+H00856,Distal hereditary motor neuropathies,0,17,17
+H00361,Malaria,0,16,16
+H00523,Noonan syndrome and related disorders,1,16,16
+H01667,Medulloblastoma,0,16,16
+H00720,Long QT syndrome,0,16,16
+H00615,Amelogenesis imperfecta,0,16,16
+H02411,Chronic myelomonocytic leukemia,0,16,16
+H00265,Hereditary sensory and autonomic neuropathy,0,16,16
+H02412,Atypical chronic myeloid leukemia,0,15,15
+H00027,Ovarian cancer,0,15,15
+H02397,Neurodevelopmental disorder with movement abnormalities or …,0,15,15
+H02535,Neurodevelopmental disorder with dysmorphic facies,0,15,15
+H00043,Neuroblastoma,2,7,15
+H00342,Tuberculosis,0,15,15
+H01740,Macrothrombocytopenia,0,15,15
+H00205,Peroxisome biogenesis disorder,0,14,14
+H02307,Muscular dystrophy-dystroglycanopathy,1,14,14
+H00731,Atrial fibrillation,0,14,14
+H00787,Congenital stationary night blindness,0,14,14
+H00779,Usher syndrome,0,14,14
+H01347,MELAS syndrome,0,14,14
+H00261,Meckel syndrome,0,14,14
+H00017,Esophageal cancer,0,14,14
+H01481,Myelodysplastic syndrome,0,14,14
+H00120,Muscular dystrophy-dystroglycanopathy type A,0,14,14
+H00410,Maturity onset diabetes of the young (MODY),0,13,13
+H01762,Muscle glycogen storage disease,0,13,13
+H01227,Inflammatory bowel disease (IBD),0,13,13
+H01235,Bleeding disorder platelet-type,0,13,13
+H01738,Noonan syndrome,0,13,13
+H02170,"Microphthalmia, syndromic",0,13,13
+H00088,Common variable immunodeficiency,0,13,13
+H00734,Autosomal recessive congenital ichthyosis,0,13,13
+H00525,Disorders of mitochondrial fatty-acid oxidation,1,13,13
+H00149,Neuronal ceroid lipofuscinosis,0,13,13
+H01556,Meningioma,0,13,13
+H00403,Disorders of nucleotide excision repair,1,13,13
+H00254,Growth hormone deficiency,0,13,13
+H00223,Inherited thrombophilia,1,13,13
+H00810,Progressive myoclonic epilepsy,0,13,13
+H00786,Hypotrichosis,0,13,13
+H02310,Renal tubular acidosis,0,13,13
+H00595,Myofibrillar myopathies,0,12,12
+H00594,Distal myopathy,0,12,12
+H02459,Syndromic neurodevelopmental disorder,0,12,12
+H01403,Coffin-Siris syndrome,0,12,12
+H01342,Zellweger syndrome,0,12,12
+H00268,Lissencephaly,1,12,12
+H00084,Graft-versus-host disease,0,12,12
+H01897,Oocyte maturation defect,0,12,12
+H02187,Spondyloepimetaphyseal dysplasia,0,12,12
+H02111,Autism,0,12,12
+H00632,Heterotaxy,0,12,12
+H00624,Progressive familial intrahepatic cholestasis,0,12,12
+H00626,Focal segmental glomerulosclerosis,0,11,11
+H00698,Nemaline myopathy,0,11,11
+H00177,Neonatal adrenoleukodystrophy,0,11,11
+H00085,Agammaglobulinemias,0,11,11
+H00423,Sphingolipidosis,3,9,11
+H01174,Congenital diarrhea,0,11,11
+H00421,Mucopolysaccharidosis,1,11,11
+H00083,Allograft rejection,0,11,11
+H00865,Lethal congenital contractural syndrome,0,11,11
+H02132,Microcephaly syndrome,0,11,11
+H01027,Microphthalmia,0,11,11
+H00025,Penile cancer,0,11,11
+H00607,"46,XY gonadal dysgenesis",0,11,11
+H00035,Ewing sarcoma,3,5,11
+H01510,Malignant paraganglioma,0,11,11
+H00166,Hermansky-Pudlak syndrome,0,11,11
+H02481,Syndromic disorder with short stature,0,11,11
+H01358,Atopic dermatitis,0,11,11
+H02505,Atherosclerosis,0,11,11
+H00174,Methylmalonic aciduria,0,11,11
+H02536,Infection-induced acute encephalopathy,0,11,11
+H01730,Myocardial infarction,0,11,11
+H00978,Thrombocytopenia (THC),0,10,10
+H02086,Mitochondrial complex III deficiency,0,10,10
+H00100,Neutropenic disorders,0,10,10
+H01963,Duchenne muscular dystrophy,1,1,10
+H00507,Dyskeratosis congenita,1,10,10
+H00089,IFN-gamma/IL-12 axis,0,10,10
+H00801,Familial thoracic aortic aneurysm and dissection,0,10,10
+H00107,Other well-defined immunodeficiency syndromes,0,10,10
+H00068,Leber hereditary optic atrophy,0,10,10
+H00808,Idiopathic generalized epilepsies,0,10,10
+H01722,Galloway-Mowat syndrome,0,10,10
+H00811,Distal arthrogryposis,0,10,10
+H00557,Cutis laxa,0,10,10
+H00267,Holoprosencephaly,0,10,10
+H00293,Arrhythmogenic right ventricular cardiomyopathy,0,10,10
+H00535,Lymphatic malformation,0,10,10
+H00599,Ovarian dysgenesis,0,10,10
+H00630,Rheumatoid arthritis,0,10,10
+H00033,Adrenal carcinoma,1,7,10
+H01593,Osteoporosis,0,10,10
+H00028,Choriocarcinoma,0,9,9
+H00992,Seckel syndrome,0,9,9
+H00999,Coenzyme Q10 deficiency,0,9,9
+H01020,Optic atrophy,0,9,9
+H01600,Parkinsonian syndrome,0,9,9
+H01216,Left ventricular noncompaction,0,9,9
+H02460,Neurodevelopmental disorder with dysmorphic facies and skel…,0,9,9
+H00290,Aicardi-Goutieres syndrome,2,9,9
+H00286,Crohn disease,0,9,9
+H00728,Brugada syndrome,0,9,9
+H01356,Myoclonic Epilepsy and Ragged-Red Fiber Disease,0,9,9
+H02534,Y-linked spermatogenic failure,0,9,9
+H01355,Kearns-Sayre syndrome,0,9,9
+H00236,Congenital polycythemia,0,9,9
+H00866,Trichothiodystrophy,0,9,9
+H00102,Classic complement pathway component defects,1,9,9
+H01959,Muscular dystrophy-dystroglycanopathy type C,0,9,9
+H00436,Osteopetrosis,0,9,9
+H02041,Myopia,0,9,9
+H01763,Porphyria,1,9,9
+H00091,T-B+Severe combined immunodeficiency,0,9,9
+H00482,Brachydactyly,1,9,9
+H01760,Hepatic glycogen storage disease,0,9,9
+H01881,Complex cortical dysplasia with other brain malformations,1,9,9
+H00454,Oral-facial-digital syndrome,0,9,9
+H00458,Syndromic craniosynostoses,0,9,9
+H00016,Oral cancer,0,8,8
+H00015,Malignant pleural mesothelioma,0,8,8
+H01611,Alcohol dependence,0,8,8
+H00036,Osteosarcoma,0,8,8
+H01351,Spastic ataxia,0,8,8
+H00094,Immunodeficiency associated with DNA repair defects,1,8,8
+H01210,Hypomagnesemia,0,8,8
+H00512,Permanent neonatal diabetes mellitus,0,8,8
+H00754,3-Methylglutaconic aciduria,0,8,8
+H01463,Mycosis fungoides,0,8,8
+H00251,Thyroid dyshormonogenesis,2,8,8
+H00168,Oculocutaneous albinism,0,8,8
+H00546,Atrial septal defect,0,8,8
+H00243,Hyperkalemic distal renal tubular acidosis (RTA type 4),0,8,8
+H02342,Frontotemporal dementia and amyotrophic lateral sclerosis,0,8,8
+H00250,Congenital nongoitrous hypothyroidism (CHNG),1,8,8
+H01434,Atypical hemolytic uremic syndrome,0,8,8
+H01428,Xeroderma pigmentosum,0,8,8
+H00625,Tooth agenesis,0,8,8
+H01369,ATP synthase deficiency,0,8,8
+H00155,Familial hypercholesterolemia,0,8,8
+H01985,Desmoplastic small round cell tumor,1,3,8
+H01889,Meier-Gorlin syndrome,1,8,8
+H00420,Familial partial lipodystrophy,0,8,8
+H00833,Neurodegeneration with brain iron accumulation,0,8,8
+H02529,Bone marrow failure syndrome,0,8,8
+H01398,Primary hyperammonemia (Urea cycle disorders),2,8,8
+H02525,Disorders of innate immunity,0,8,8
+H01159,Anterior segment dysgenesis,0,8,8
+H00476,Multiple epiphyseal dysplasia,0,8,8
+H00455,Spinal muscular atrophy,0,8,8
+H00422,Glycoproteinoses,0,8,8
+H01006,Hereditary angioedema,1,7,7
+H00040,Squamous cell carcinoma,1,4,7
+H01968,Hyper-IgE syndrome,0,7,7
+H02564,Generalized epilepsy with febrile seizures plus,0,7,7
+H00049,Myxoid liposarcoma,2,1,7
+H01267,Familial hyperinsulinemic hypoglycemia,0,7,7
+H00516,Cleft lip and/or cleft palate,0,7,7
+H00737,Peeling skin syndrome,0,7,7
+H00549,Tetralogy of Fallot,0,7,7
+H02213,Familial adult myoclonic epilepsy,0,7,7
+H00538,Senior-Loken syndrome,0,7,7
+H01705,Bilateral sudden sensorineural hearing loss,0,7,7
+H02301,Nephroblastoma,0,7,7
+H01450,Obsessive-compulsive disorder,0,7,7
+H00710,Erythrokeratodermia variabilis,0,7,7
+H00700,Centronuclear myopathy,0,7,7
+H01621,Pulmonary arterial hypertension,0,7,7
+H00246,Primary hyperparathyroidism,2,4,7
+H02538,Paraganglioma,0,7,7
+H00584,Epidermolysis bullosa simplex,0,7,7
+H02160,Craniosynostoses,0,7,7
+H02565,Hereditary nonpolyposis colorectal cancer,0,7,7
+H00108,Autoimmune lymphoproliferative syndromes,0,7,7
+H00103,Late complement pathway defects,1,7,7
+H02559,Microvascular complications of diabetes,0,7,7
+H01960,Muscular dystrophy-dystroglycanopathy type B,0,7,7
+H02036,Combined pituitary hormone deficiency,0,7,7
+H01109,Chronic mucocutaneous candidiasis,0,7,7
+H00805,Vitreoretinal degeneration,0,7,7
+H01222,Cowden syndrome,0,7,7
+H01219,Restrictive cardiomyopathy,0,7,7
+H00917,Congenital dyserythropoietic anemia,0,6,6
+H00589,Familial exudative vitreoretinopathy,0,6,6
+H00590,Congenital muscular dystrophies (CMD/MDC),0,6,6
+H01019,Catecholaminergic polymorphic ventricular tachycardia,0,6,6
+H02299,Arthrogryposis multiplex congenita,0,6,6
+H00232,Hereditary stomatocytosis,0,6,6
+H00228,Thalassemia,0,6,6
+H01574,Familial idiopathic basal ganglia calcification,0,6,6
+H00628,Congenital bile acid synthesis defect,1,6,6
+H02425,Erdheim-Chester disease,0,6,6
+H02424,Primary central nervous system lymphoma,0,6,6
+H01633,High blood pressure,0,6,6
+H00270,Periventricular nodular heterotopia,0,6,6
+H01413,Adams-Oliver syndrome,0,6,6
+H00563,Emery-Dreifuss muscular dystrophy,0,6,6
+H00214,Hypophosphatemic rickets,0,6,6
+H00211,Hemochromatosis,1,6,6
+H01513,Retinoblastoma,0,6,6
+H01529,Avascular necrosis of femoral head,0,6,6
+H00586,"Epidermolysis bullosa, junctional",0,6,6
+H00239,Bartter syndrome,0,6,6
+H00759,Waardenburg syndrome,0,6,6
+H00517,Spondylocostal dysostosis,0,6,6
+H02217,Juvenile myoclonic epilepsy,0,6,6
+H02532,Proteasome-associated autoinflammatory syndrome,0,6,6
+H01728,Potter syndrome,0,6,6
+H01709,Glucocorticoid-induced osteonecrosis,0,6,6
+H00542,Polycystic kidney disease,0,6,6
+H01488,Hyperphosphatasia with mental retardation syndrome,0,6,6
+H00485,Robinow syndrome,2,5,6
+H00479,Metaphyseal dysplasias,0,6,6
+H01299,Idiopathic pulmonary fibrosis,0,6,6
+H01742,Coronary artery disease,0,6,6
+H00092,T-B-Severe combined immunodeficiency,0,6,6
+H00825,Familial flecked retina syndrome,0,6,6
+H02199,"Congenital heart defects, multiple type",0,6,6
+H01852,Postaxial polydactyly,0,6,6
+H01209,"Deafness, X-linked",0,6,6
+H02569,"Pulmonary fibrosis and/or bone marrow failure, telomere-rel…",1,6,6
+H02095,Perrault syndrome,0,6,6
+H02541,Juvenile myelomonocytic leukemia,1,6,6
+H00800,Loeys-Dietz syndrome,1,6,6
+H00106,Complement regulatory protein defects,1,6,6
+H01892,Peripheral T cell lymphoma,0,6,6
+H01118,Progressive external ophthalmoplegia,0,6,6
+H00098,Chronic granulomatous disease,0,6,6
+H01132,Aplastic anemia,0,6,6
+H01894,Multiple mitochondrial dysfunctions syndrome,0,6,6
+H00072,Pyruvate dehydrogenase complex deficiency,1,6,6
+H02072,Stickler syndrome,0,6,6
+H00046,Cholangiocarcinoma,0,6,6
+H00982,Sideroblastic anemia,0,6,6
+H00971,Achromatopsia,0,6,6
+H00960,Fuchs corneal dystrophy,0,5,5
+H00910,Hirschsprung disease,0,5,5
+H01004,Velocardiofacial syndrome,0,5,5
+H00933,Hereditary pancreatitis,0,5,5
+H01933,Porokeratosis,0,5,5
+H02563,Neural tube defects,0,5,5
+H01198,Fanconi renotubular syndrome,0,5,5
+H00842,Epidermodysplasia verruciformis,0,5,5
+H00876,Mismatch repair deficiency,1,5,5
+H00869,Leukoencephalopathy with vanishing white matter,0,5,5
+H01122,Congenital pulmonary alveolar proteinosis,0,5,5
+H00076,Cockayne syndrome,0,5,5
+H00845,Familial amyloidosis,0,5,5
+H00649,"Ectodermal dysplasia, hair-nail type",0,5,5
+H01554,Fallopian tube cancer,0,5,5
+H00651,Hypohidrotic ectodermal dysplasia,0,5,5
+H00207,Rhizomelic chondrodysplasia punctata,0,5,5
+H00493,Heparan sulfate proteoglycan gene defects,0,5,5
+H02418,Non-Hodgkin lymphoma,2,4,5
+H00216,Congenital adrenal hyperplasia,1,5,5
+H00631,Cornelia de Lange syndrome,1,5,5
+H00612,Primary open angle glaucoma,0,5,5
+H02221,Methylmalonic aciduria and homocystinuria,0,5,5
+H01613,Follicular lymphoma,0,5,5
+H01612,Essential thrombocythemia,0,5,5
+H00230,Hereditary spherocytosis,0,5,5
+H01773,4p deletion syndrome,0,5,5
+H00664,Anemia due to disorders of glycolytic enzymes,0,5,5
+H01376,Acrofacial dysostosis,0,5,5
+H00178,Glutaric acidemia,0,5,5
+H01395,Autosomal recessive progressive external ophthalmoplegia,0,5,5
+H01784,Primary hyperchylomicronemia,0,5,5
+H01815,Malignant migrating partial seizures in infancy,0,5,5
+H00668,Anemia due to disorders of glutathione metabolism,1,5,5
+H00172,Maple syrup urine disease,0,5,5
+H00201,Erythropoietic porphyria,0,5,5
+H00783,Febrile seizures,0,5,5
+H02530,Hereditary prostate cancer,0,5,5
+H00749,Episodic ataxias,0,5,5
+H02539,Intervertebral disc disease,0,5,5
+H00167,Phenylketonuria,1,5,5
+H01869,Megacystis microcolon intestinal hypoperistalsis syndrome,0,5,5
+H00126,Gaucher disease,2,2,5
+H00109,Familial hemophagocytic lymphohistiocytosis,0,5,5
+H00247,Multiple endocrine neoplasia syndrome,1,3,5
+H00202,Hepatic porphyria,0,5,5
+H01703,Eating Disorders,0,5,5
+H00037,Rhabdomyosarcoma,1,3,5
+H00050,Synovial sarcoma,1,3,5
+H00055,Laryngeal cancer,0,5,5
+H00541,Autosomal dominant tubulointerstitial kidney disease,0,5,5
+H01677,Congenital hydrocephalus,0,5,5
+H00034,Carcinoid,1,2,5
+H01656,Psoriasis,0,5,5
+H01508,Salivary gland cancer,0,5,5
+H00099,Leukocyte adhesion deficiency,0,4,4
+H02596,Disorders of carnitine transport and the carnitine cycle,0,4,4
+H01922,Infantile hypotonia with psychomotor retardation and charac…,0,4,4
+H00407,Peroxisomal beta-oxidation enzyme deficiency,1,4,4
+H00104,Alternative complement pathway component defects,1,4,4
+H00066,Lewy body dementia (LBD),0,4,4
+H00070,Galactosemia,1,4,4
+H01025,Familial adenomatous polyposis,0,4,4
+H00047,Gallbladder cancer,0,4,4
+H00086,"Hyper IgM syndromes, autosomal recessive type",0,4,4
+H01095,Syndactyly,0,4,4
+H00081,Hashimoto thyroiditis,0,4,4
+H00082,Graves disease,0,4,4
+H01935,Familial hypercholanemia,0,4,4
+H00987,Fetal akinesia deformation sequence,0,4,4
+H00005,Chronic lymphocytic leukemia,0,4,4
+H00985,Bare lymphocyte syndrome type2,0,4,4
+H02005,Mitochondrial complex II deficiency,0,4,4
+H01948,Glycogen storage disease type IX,0,4,4
+H00916,Congenital central hypoventilation syndrome,0,4,4
+H01143,Vitamin D-dependent rickets,0,4,4
+H02035,Isolated growth hormone deficiency,1,4,4
+H00426,Gangliosidosis,0,4,4
+H00419,Congenital generalized lipodystrophy,0,4,4
+H00838,Congenital fibrosis of the extraocular muscles,0,4,4
+H00852,Klippel-Feil syndrome,0,4,4
+H00832,Core neuroacanthocytosis syndromes,0,4,4
+H02570,Cerebro-oculo-facio-skeletal syndrome,0,4,4
+H00848,Ataxia with ocular apraxia,0,4,4
+H01195,VACTERL/VATER association,0,4,4
+H01193,Familial tumoral calcinosis,0,4,4
+H01877,Chromosome 15q13.3 microdeletion syndrome,0,4,4
+H01867,Congenital anomalies of kidney and urinary tract,0,4,4
+H00792,Warburg micro syndrome,0,4,4
+H01307,Nonsyndromic congenital nail disorder,0,4,4
+H00769,Hyperekplexia,0,4,4
+H02531,Familial breast-ovarian cancer,0,4,4
+H00751,Asphyxiating thoracic dystrophy,0,4,4
+H02123,Celiac disease,0,4,4
+H00809,Familial epilepsy temporal lobe (ETL),0,4,4
+H00807,Nocturnal frontal lobe epilepsy,0,4,4
+H00135,Krabbe disease,1,2,4
+H00130,Mucopolysaccharidosis type III,0,4,4
+H00802,Ehlers-Danlos syndrome,0,4,4
+H02543,Acromesomelic dysplasia,0,4,4
+H00431,Ossification of the posterior longitudinal ligament of spine,0,4,4
+H00437,Paget disease of bone,0,4,4
+H01204,"Cerebellar ataxia, mental retardation (MR), and dysequilibr…",0,4,4
+H01200,Fatal infantile cardioencephalomyopathy,0,4,4
+H01205,Coumarin resistance,0,4,4
+H00814,Vitelliform macular dystrophy,0,4,4
+H00819,Stargardt disease,0,4,4
+H00344,Leprosy,0,4,4
+H00667,Woolly hair,0,4,4
+H02185,Spondylometaphyseal dysplasia,0,4,4
+H02159,Familial cold autoinflammatory syndrome,0,4,4
+H01778,Ullrich disease,0,4,4
+H01490,Multiple sclerosis,0,4,4
+H00484,Multiple synostosis syndrome,0,4,4
+H00673,Weill-Marchesani syndrome,0,4,4
+H01486,Multiple congenital anomalies-hypotonia-seizures syndrome,0,4,4
+H01466,Ulcerative colitis,0,4,4
+H01476,Behcet disease,0,4,4
+H01470,Giant cell tumor of bone,0,4,4
+H00183,Homocystinuria,0,4,4
+H00471,Split-hand/foot malformation,0,4,4
+H01819,Early myoclonic encephalopathy,0,4,4
+H00684,Pachyonychia congenita,0,4,4
+H01457,Diabetic retinopathy,0,4,4
+H02513,Oculopharyngodistal myopathy,0,4,4
+H01367,Infantile liver failure,0,4,4
+H01365,Leber hereditary optic neuropathy and dystonia,0,4,4
+H00729,Sick sinus syndrome,0,4,4
+H01390,Mitochondrial neurogastrointestinal encephalomyopathy,0,4,4
+H00184,Hypermethioninemia,0,4,4
+H01288,Mosaic variegated aneuploidy syndrome,1,4,4
+H01287,Congenital mirror movements,0,4,4
+H01577,Essential tremor,0,4,4
+H01568,3C syndrome,0,4,4
+H01745,Cardiofaciocutaneous syndrome,0,4,4
+H00208,Hyperbilirubinemia,0,4,4
+H01532,Gout,0,4,4
+H01522,Zollinger-Ellison syndrome,1,1,4
+H00610,Treacher Collins syndrome,0,4,4
+H01552,Down syndrome,0,4,4
+H01605,Myelofibrosis,0,4,4
+H01713,Diffuse panbronchiolitis,0,4,4
+H02214,Familial focal epilepsy with variable foci,0,4,4
+H02215,Childhood absence epilepsy,0,4,4
+H00513,Transient neonatal diabetes mellitus,0,4,4
+H01591,Gastrotintestinal stromal tumor,0,4,4
+H00591,Facioscapulohumeral muscular dystrophy,0,4,4
+H00598,"46,XX testicular disorder of sex development",0,4,4
+H02359,Dejerine-Sottas disease,0,4,4
+H00262,"Neural tube defects, folate-sensitive",0,4,4
+H00256,Familial glucocorticoid deficiency,0,4,4
+H02346,Intellectual developmental disorder with short stature,0,4,4
+H00219,Hemophilia,1,4,4
+H00575,Renal tubular dysgenesis,0,4,4
+H01635,Hyperlipidemia,1,4,4
+H01619,Primary pulmonary hypertension,0,4,4
+H00565,Sarcoglycanopathies,0,4,4
+H00560,Pseudoxanthoma elasticum,0,4,4
+H00235,Methemoglobinemia,0,4,4
+H00511,Short rib-polydactyly syndrome,0,4,4
+H00533,Hereditary hemorrhagic telangiectasia,1,4,4
+H00529,Cranioectodermal dysplasia,0,4,4
+H00271,Polymicrogyria,0,4,4
+H02308,Immunodeficiency-centromeric instability-facial anomalies s…,0,4,4
+H00289,Recurrent hydatidiform moles,0,4,4
+H00547,Atrioventricular septal defect,0,4,4
+H00545,Polycystic liver disease,0,4,4
+H00544,Septo-optic dysplasia,0,4,4
+H00052,Clear cell sarcoma of soft tissue,1,1,4
+H00961,Posterior polymorphous corneal dystrophy,0,4,4
+H02627,Epidermal nevus,0,4,4
+H00023,Testicular cancer,0,4,4
+H02632,PP2A-related neurodevelopmental disorder,1,3,3
+H00006,Hairy cell leukemia,0,3,3
+H02616,Neurodevelopmental disorder with macrocephaly,0,3,3
+H00986,Multiple pterygium syndrome,0,3,3
+H02628,Schimmelpenning-Feuerstein-Mims syndrome,0,3,3
+H01984,Leopard syndrome,0,3,3
+H00918,Double-outlet right ventricle,0,3,3
+H01022,Diseases of the tricarboxylic acid cycle,1,3,3
+H01037,Vesicoureteral reflux,0,3,3
+H00044,Cancer of the anal canal,0,3,3
+H00045,Pancreatic neuroendocrine tumor,0,3,3
+H00892,Bronchiectasis with or without elevated sweat chloride,0,3,3
+H02311,Molybdenum cofactor deficiency,1,3,3
+H00550,Complete transposition of the great arteries,0,3,3
+H00554,Aortic valve disease,0,3,3
+H00528,Frontonasal dysplasia,0,3,3
+H00296,Defects in RecQ helicases,0,3,3
+H00944,Dowling-Degos disease,0,3,3
+H00894,FG syndrome,0,3,3
+H00895,Basal cell nevus syndrome,0,3,3
+H00898,Myopathy with lactic acidosis and sideroblastic anaemia,0,3,3
+H00900,Geleophysic dysplasia,0,3,3
+H00905,Iminoglycinuria,0,3,3
+H01097,Spastic quadriplegic cerebral palsy,0,3,3
+H00078,Frontotemporal lobar degeneration,0,3,3
+H02579,C3 glomerulopathy,0,3,3
+H02276,Kufs disease,0,3,3
+H00534,Cerebral cavernous malformation,0,3,3
+H00509,3M syndrome,0,3,3
+H01666,Angiosarcoma,0,3,3
+H01672,Juvenile idiopathic arthritis,0,3,3
+H02302,Hepatoblastoma,0,3,3
+H01901,Barrett esophagus,0,3,3
+H01904,Microphthalmia with linear skin defects syndrome,0,3,3
+H01926,Ventricular septal defect,0,3,3
+H01114,Ocular coloboma,0,3,3
+H00877,Brain small vessel disease,0,3,3
+H01160,Schizencephaly,0,3,3
+H01167,Granulibacter infection,0,3,3
+H00581,Alport syndrome,0,3,3
+H01640,Uterine leiomyoma,0,3,3
+H01646,Major depressive disorder,0,3,3
+H02332,Preaxial polydactyly,0,3,3
+H02573,Autosomal recessive spinocerebellar ataxias with axonal neu…,0,3,3
+H00849,Cerebral creatine deficiency syndrome,1,3,3
+H00840,Pseudo-TORCH syndrome,0,3,3
+H01887,3MC syndrome,0,3,3
+H01890,Pattern dystrophies of the retinal pigment epithelium,0,3,3
+H01895,Attention deficit hyperactivity disorder (ADHD),0,3,3
+H02026,Familial hypocalciuric hypercalcemia,0,3,3
+H02031,Inclusion body myopathy with Paget disease of bone and fron…,0,3,3
+H01203,Primary congenital glaucoma,0,3,3
+H01217,Primary localized cutaneous amyloidosis,0,3,3
+H00117,Primary hyperoxaluria,0,3,3
+H01723,Deep vein thrombosis,0,3,3
+H01726,Membranoproliferative glomerulonephritis,0,3,3
+H00242,Liddle syndrome,0,3,3
+H00244,Pseudohypoparathyroidism,0,3,3
+H00218,Cystic fibrosis,0,3,3
+H00096,Defects of toll-like receptor signaling,1,3,3
+H00822,Renal hypodysplasia and aplasia,0,3,3
+H01232,Syndromic multisystem autoimmune disease,0,3,3
+H01243,Huntington disease-like syndrome,0,3,3
+H01251,Focal cortical dysplasia of Taylor,0,3,3
+H00124,GM2 gangliosidoses,0,3,3
+H02131,UV-sensitive syndrome,0,3,3
+H02150,Infantile or early childhood epileptic encephalopathy,0,3,3
+H01884,Auriculocondylar syndrome,0,3,3
+H01885,Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syn…,0,3,3
+H00428,Distal renal tubular acidosis (RTA type 1),0,3,3
+H00412,Hepatitis B,1,3,3
+H02554,Omenn syndrome,0,3,3
+H00231,Hereditary elliptocytosis,0,3,3
+H02357,Congenital hypomyelinating neuropathy,0,3,3
+H02362,Benign familial infantile seizure,0,3,3
+H02371,Intellectual developmental disorder with autism and speech …,0,3,3
+H00608,"46,XY disorder of sex development due to testosterone secre…",0,3,3
+H01592,Medullary thyroid cancer,0,3,3
+H01714,Chronic obstructive pulmonary disease (COPD),0,3,3
+H00105,Mannose-binding lectin pathway component defects,1,3,3
+H01272,Hypoplastic left heart syndrome,0,3,3
+H01277,Vitamin B12 deficiency anaemia,0,3,3
+H00784,Localized autosomal recessive hypotrichosis,0,3,3
+H01304,Hyperglycinuria,0,3,3
+H01340,Bethlem myopathy,0,3,3
+H00764,Chromosome 5p deletion syndrome,0,3,3
+H00478,Prader-Willi syndrome,0,3,3
+H00635,Aniridia,0,3,3
+H01573,Zimmermann-Laband syndrome,0,3,3
+H00222,Afibrinogenemia,0,3,3
+H00224,Bernard-Soulier syndrome,0,3,3
+H00775,Hemiplegic migraine,0,3,3
+H01341,Collagen VI myopathy,0,3,3
+H00750,Keratosis pilaris atrophicans,0,3,3
+H01880,Autosomal recessive microcephaly and chorioretinopathy,0,3,3
+H02087,"Vertebral, cardiac, renal, and limb defects syndrome",0,3,3
+H00756,Pitt-Hopkins syndrome,0,3,3
+H01359,Anaphylaxis,0,3,3
+H00154,"Hyperlipoproteinemia, type I",0,3,3
+H00165,Tyrosinemia,1,3,3
+H02516,Alcoholic liver disease,0,3,3
+H02517,Olmsted syndrome,0,3,3
+H00717,Striate palmoplantar keratoderma,0,3,3
+H00718,Sotos syndrome,0,3,3
+H00642,Lacrimo-auriculo-dento-digital syndrome,0,3,3
+H00215,Periodic paralysis,0,3,3
+H02239,"Ehlers-Danlos syndrome, spondylodysplastic type",0,3,3
+H00725,Short QT syndrome,0,3,3
+H01391,Familial episodic pain syndrome,0,3,3
+H01396,Moyamoya disease,0,3,3
+H01796,Uncombable hair syndrome,0,3,3
+H00453,Branchio-oto-renal syndrome,0,3,3
+H00701,Congenital fiber type disproportion,0,3,3
+H00702,Cap myopathy,0,3,3
+H00711,Russell-Silver syndrome,0,3,3
+H00713,Beckwith-Wiedemann syndrome,0,3,3
+H00687,Fraser syndrome,0,3,3
+H00688,Familial advanced sleep phase syndrome,0,3,3
+H01456,Diabetic nephropathy,0,3,3
+H01464,Mantle cell lymphoma,0,3,3
+H01468,Eosinophilic granulomatosis with polyangiitis,0,3,3
+H00191,Nonketotic hyperglycinemia,1,3,3
+H02169,Hennekam lymphangiectasia-lymphedema syndrome,0,3,3
+H00656,Scapuloperoneal myopathy,0,3,3
+H01502,Sjogren syndrome,0,3,3
+H01509,Tonsillar cancer,0,3,3
+H01516,Adult onset Still disease,0,3,3
+H02456,Ectodermal dysplasia,0,3,3
+H01483,Acromegaly,0,3,3
+H00670,Monilethrix,0,3,3
+H00681,Acne inversa,0,3,3
+H01494,SEMD with joint laxity type,0,3,3
+H00932,Tropical calcific pancreatitis,0,3,3
+H00935,Cold-induced sweating syndrome,0,3,3
+H01001,COACH syndrome,0,3,3
+H01967,Anauxetic dysplasia,0,3,3
+H01970,Lymphoproliferative syndrome,0,3,3
+H00976,Colorblindness,0,3,3
+H00984,Bare lymphocyte syndrome type1,0,3,3
+H02011,Familial juvenile hyperuricemic nephropathy,0,3,3
+H02022,Griscelli syndrome,0,3,3
+H02639,Atelis syndrome,0,2,2
+H02023,Baraitser-Winter syndrome,0,2,2
+H02018,Central precocious puberty,0,2,2
+H02014,Ataxia-telangiectasia-like syndrome,0,2,2
+H02012,Medullary cystic kidney disease,0,2,2
+H02006,Alpha-ketoglutarate dehydrogenase complex deficiency,0,2,2
+H00029,Vulvar cancer,0,2,2
+H00053,Extraskeletal myxoid chondrosarcoma,1,1,2
+H00051,Alveolar soft part sarcoma,1,0,2
+H00977,Trichorhinophalangeal syndrome,0,2,2
+H00974,Blue cone monochromacy,0,2,2
+H00973,Bradyopsia,0,2,2
+H00950,"Arthrogryposis, renal dysfunction, and cholestasis",0,2,2
+H00551,Alagille syndrome,0,2,2
+H01678,Dandy-Walker syndrome,0,2,2
+H01691,Renal angiomyolipoma,0,2,2
+H01692,Subependymal giant cell astrocytoma,0,2,2
+H02251,Coats plus syndrome,0,2,2
+H00291,Familial chilblain lupus (FCL),0,2,2
+H00945,Factor XIII deficiency,0,2,2
+H00948,Renal hypouricemia,0,2,2
+H00896,Lymphangioleiomyomatosis,0,2,2
+H00901,Cystinuria,0,2,2
+H00907,Kleefstra syndrome,0,2,2
+H01111,Cortisone reductase deficiency,0,2,2
+H02046,OFC syndrome,0,2,2
+H02057,Rotor syndrome,0,2,2
+H02080,Fibrochondrogenesis,0,2,2
+H02083,Focal facial dermal dysplasia,0,2,2
+H02154,Omodysplasia,0,2,2
+H02158,Weyers acrofacial dysostosis,0,2,2
+H02172,Nanophthalmos,0,2,2
+H02175,Hypospadias,0,2,2
+H02191,Noonan-like syndrome with loose anagen hair,0,2,2
+H02192,Benign recurrent intrahepatic cholestasis,0,2,2
+H00662,Ectopia lentis,0,2,2
+H00663,Restrictive dermopathy,0,2,2
+H00665,Mandibuloacral dysplasia,0,2,2
+H01504,Vogt-Koyanagi-Harada syndrome,0,2,2
+H01512,Langerhans cell histiocytosis,0,2,2
+H02450,Horizontal gaze palsy with progressive scoliosis,0,2,2
+H02451,Congenital disorder of glycosylation with defective fucosyl…,0,2,2
+H02457,"Developmental delay, leukoencephalopathy, and neurologic de…",0,2,2
+H02462,Spondyloepiphyseal dysplasia,0,2,2
+H00170,Piebaldism,0,2,2
+H01827,"Rolandic epilepsy, mental retardation, and speech dyspraxia",0,2,2
+H02467,Neonatal inflammatory skin and bowel disease,0,2,2
+H02469,Cone-rod synaptic disorder,0,2,2
+H02472,Early-onset progressive encephalopathy,0,2,2
+H02474,Blepharocheilodontic syndrome,0,2,2
+H01404,Punctate palmoplantar keratoderma,0,2,2
+H00712,KID/HID syndrome,0,2,2
+H00714,Vohwinkel syndrome,0,2,2
+H01433,Budd-Chiari syndrome,0,2,2
+H01435,Congenital asplenia,0,2,2
+H00689,Delayed sleep phase syndrome,0,2,2
+H00691,Bullous congenital ichthyosiform erythroderma (BCIE),0,2,2
+H00694,Dent disease,0,2,2
+H02435,Deafness-infertility syndrome,0,2,2
+H00190,Hyperprolinemia,1,2,2
+H00192,Xanthinuria,1,2,2
+H00726,Meesmann corneal dystrophy,0,2,2
+H00730,Familial idiopathic ventricular fibrillation,0,2,2
+H01393,Van Maldergem syndrome,0,2,2
+H00175,Propionic acidemia,0,2,2
+H00181,3-Methylcrotonylglycinuria,0,2,2
+H00185,Citrullinemia,0,2,2
+H02466,Rajab interstitial lung disease with brain calcification,0,2,2
+H02193,Intrahepatic cholestasis of pregnancy,0,2,2
+H02211,Acrodysostosis,0,2,2
+H01781,Autophagic vacuolar myopathy,0,2,2
+H01795,Blepharophimosis-mental retardation syndrome,0,2,2
+H01805,Tricho-hepato-enteric syndrome,0,2,2
+H00462,Stuve-Wiedemann syndrome,0,2,2
+H00475,Enlarged parietal foramina/cranium bifidum,0,2,2
+H01807,Hereditary diffuse leukoencephalopathy with spheroids,0,2,2
+H01812,Rasmussen encephalitis,0,2,2
+H00722,Epidermolytic palmoplantar keratoderma,0,2,2
+H00723,Non-epidermolytic palmoplantar keratoderma,0,2,2
+H01523,Wiskott-Aldrich syndrome,0,2,2
+H00636,Tetra-amelia syndrome,0,2,2
+H01555,Merkel cell carcinoma,0,2,2
+H01558,Parathyroid carcinoma,0,2,2
+H01559,Oropharyngeal cancer,0,2,2
+H00620,Axenfeld-Rieger syndrome,0,2,2
+H00204,Heimler syndrome,0,2,2
+H02415,"Craniofacial dysmorphism, skeletal anomalies, and mental re…",0,2,2
+H02240,Ehlers-Danlos syndrome periodontal type,0,2,2
+H02243,Ehlers-Danlos syndrome arthrochalasia type,0,2,2
+H02245,Ehlers-Danlos syndrome kyphoscoliosis type,0,2,2
+H02246,Ehlers-Danlos syndrome musculocontractural type,0,2,2
+H01736,Persistent truncus arteriosus,0,2,2
+H00724,White sponge nevus,0,2,2
+H02120,Anencephaly,0,2,2
+H00753,Urofacial syndrome,0,2,2
+H01357,Allergic contact dermatitis,0,2,2
+H01361,Eosinophilic esophagitis,0,2,2
+H01362,Dermatitis herpetiformis,0,2,2
+H02487,Diencephalic-mesencephalic junction dysplasia syndrome,0,2,2
+H02492,"Microcephaly, growth restriction, and increased sister chro…",0,2,2
+H00169,Ocular albinism,0,2,2
+H02497,Smith-McCort dysplasia,0,2,2
+H02506,Cardioacrofacial dysplasia,0,2,2
+H02520,Phosphoenolpyruvate carboxykinase deficiency,0,2,2
+H01371,Hypercalcemia infantile,0,2,2
+H01372,Vitiligo,0,2,2
+H00740,"Ichthyosis follicularis, alopecia, and photophobia syndrome",0,2,2
+H00746,Hypokalemic periodic paralysis,0,2,2
+H01387,Activated PI3K-delta syndrome,0,2,2
+H00776,Congenital motor nystagmus (CMN),0,2,2
+H01344,Nijmegen breakage syndrome,0,2,2
+H01352,Mitochondrial trifunctional protein deficiency,0,2,2
+H00147,Sialuria,0,2,2
+H00152,Sitosterolemia,0,2,2
+H00153,Familial combined hyperlipidemia,0,2,2
+H02540,Infantile-onset multisystem autoimmune disease,0,2,2
+H00457,Primary hypertrophic osteoarthropathy,0,2,2
+H00459,Synpolydactyly,0,2,2
+H01862,Hypoparathyroidism,1,2,2
+H01864,Excessive secretion of growth hormone,0,2,2
+H01866,Pulmonary veno-occlusive disease and pulmonary capillary he…,0,2,2
+H01868,Mitral valve prolapse,0,2,2
+H01879,Wiedemann-Steiner syndrome,0,2,2
+H02091,Jervell and Lange-Nielsen syndrome,0,2,2
+H02117,Neu-Laxova syndrome,0,2,2
+H00789,Keratoconus,0,2,2
+H01293,Narcolepsy,0,2,2
+H01310,Multi-minicore disease,0,2,2
+H01328,Aspergillosis,0,2,2
+H00494,Desbuquois syndrome,0,2,2
+H00503,Ellis-van Creveld syndrome,0,2,2
+H00504,Rubinstein-Taybi syndrome,0,2,2
+H01744,Polyglucosan body myopathy,0,2,2
+H01753,Antley-Bixler syndrome,0,2,2
+H01754,Crouzon syndrome,0,2,2
+H01756,Pfeiffer syndrome,0,2,2
+H00633,Duane retraction syndrome,0,2,2
+H01570,Autosomal dominant striatal degeneration,0,2,2
+H01571,Singleton-Merten syndrome,1,2,2
+H01572,Cole-Carpenter syndrome,0,2,2
+H00774,Congenital insensitivity to pain,0,2,2
+H02553,Visceral myopathy,0,2,2
+H02557,Dopa-responsive dystonia,0,2,2
+H00226,Glanzmann thrombasthenia,0,2,2
+H02350,Dyschromatosis universalis hereditaria,0,2,2
+H02384,Abdominal obesity-metabolic syndrome,0,2,2
+H01579,Congenital symmetric circumferential skin creases,0,2,2
+H00609,Persistent Mullerian duct syndrome,0,2,2
+H00619,Kenny-Caffey syndrome,0,2,2
+H01601,Anaplastic large-cell lymphoma,0,2,2
+H00514,Bruck syndrome,0,2,2
+H00522,Brachyolmia,0,2,2
+H00798,Familial carpal tunnel syndrome,0,2,2
+H00806,Benign familial neonatal seizure,0,2,2
+H01263,Progressive cardiac conduction defect (PCCD),0,2,2
+H01265,Hydrolethalus syndrome,0,2,2
+H01270,Familial hypobetalipoproteinemia,0,2,2
+H01225,D-2-hydroxyglutaric aciduria,0,2,2
+H01250,Hereditary gingival fibromatosis,0,2,2
+H01256,Foveal hypoplasia,0,2,2
+H01259,Giant axonal neuropathy,0,2,2
+H02542,Acute promyelocytic leukemia,0,2,2
+H00122,Multiple exostoses,0,2,2
+H00123,Mucopolysaccharidosis type IV,0,2,2
+H02130,Mucolipidosis III,0,2,2
+H02135,Cone-rod dystrophy and hearing loss,0,2,2
+H02139,Autosomal recessive hypophosphatemic rickets,0,2,2
+H01882,Asperger syndrome,0,2,2
+H00438,Nasu-Hakola disease,0,2,2
+H00439,Shwachman-Diamond syndrome,0,2,2
+H00440,Rett syndrome,0,2,2
+H00127,Metachromatic leukodystrophy,0,2,2
+H00136,Niemann-Pick disease type C,0,2,2
+H01208,Globozoospermia,0,2,2
+H01213,Gallbladder disease,0,2,2
+H01215,Simpson-Golabi-Behmel syndrome,0,2,2
+H00095,Ectodermal dysplasia and immunodeficiency,0,2,2
+H01734,Rothmund-Thomson syndrome,0,2,2
+H02216,Juvenile absence epilepsy,0,2,2
+H02225,Familial cirrhosis,0,2,2
+H02227,Frontometaphyseal dysplasia,0,2,2
+H02237,AMP deaminase deficiency,0,2,2
+H02238,Spinal muscular atrophy with congenital bone fractures,0,2,2
+H02335,Preimplantation embryonic lethality,0,2,2
+H02339,Auditory neuropathy,0,2,2
+H02348,Dentin dysplasia,0,2,2
+H02349,Odontochondrodysplasia,0,2,2
+H00221,Combined deficiency of factors V and VIII,0,2,2
+H00097,WHIM syndrome,0,2,2
+H00075,Refsum disease,0,2,2
+H00851,Proximal symphalangism,0,2,2
+H00854,Wolfram syndrome,0,2,2
+H00858,Marie-Unna hereditary hypotrichosis,0,2,2
+H00839,Porencephaly,0,2,2
+H00413,Hepatitis C,1,2,2
+H00424,Defects in the degradation of sphingomyelin,0,2,2
+H00425,Lysosomal cysteine protease deficiencies,0,2,2
+H01888,Carpenter syndrome,0,2,2
+H01899,Dyslexia,0,2,2
+H02024,Neutrophil specific granule deficiency,0,2,2
+H02030,Neonatal hyperparathyroidism,0,2,2
+H02043,Capillary malformation-arteriovenous malformation,0,2,2
+H01196,Hypochromic microcytic anemia,0,2,2
+H01199,Hyperalphalipoproteinemia,0,2,2
+H01207,Trigonocephaly,0,2,2
+H01191,Asthma with nasal polyps and aspirin intolerance,0,2,2
+H01194,X-linked chondrodysplasia punctata,0,2,2
+H02566,Muir-Torre syndrome,0,2,2
+H00573,Townes-Brocks syndrome,0,2,2
+H00577,Symptomatic generalized epilepsies,0,2,2
+H00582,Benign familial hematuria,0,2,2
+H00583,Opitz-GBBB syndrome,0,2,2
+H01630,Patent ductus arteriosus,0,2,2
+H01637,Hypertriglyceridemia,0,2,2
+H00252,Congenital nephrogenic diabetes insipidus,0,2,2
+H00257,Achalasia Addisonianism Alacrima syndrome,0,2,2
+H02258,Tubular aggregate myopathy,0,2,2
+H02262,PEBEL,0,2,2
+H02263,Focal nonepidermolytic palmoplantar keratoderma,0,2,2
+H02265,Annular epidermolytic ichthyosis,0,2,2
+H02568,Polymerase proofreading-associated polyposis,0,2,2
+H01927,Van der Woude syndrome,0,2,2
+H02585,Roifman-Chitayat syndrome,0,2,2
+H02592,Familial Behcet-like autoinflammatory syndrome,0,2,2
+H00881,Li-Fraumeni syndrome,0,2,2
+H00888,"Nephrolithiasis/osteoporosis, hypophosphatemic",0,2,2
+H00890,Azoospermia,0,2,2
+H01134,Rhabdoid predisposition syndrome,0,2,2
+H01155,Roussy-Levy syndrome,0,2,2
+H01171,Poor drug metabolism,0,2,2
+H01177,Infantile bilateral striatal necrosis,0,2,2
+H00861,Pancreatic agenesis,0,2,2
+H00862,Tourette syndrome,0,2,2
+H00867,Radioulnar synostosis with amegakaryocytic thrombocytopenia,0,2,2
+H00875,Megaloencephalic leukoencephalopathy with subcortical cysts,0,2,2
+H01185,Cerebral amyloid angiopathy,0,2,2
+H01186,Abnormal thyroid hormone metabolism,0,2,2
+H00531,Venous malformations,0,2,2
+H01694,Stevens-Johnson syndrome,0,2,2
+H01698,Giant cell arteritis,0,2,2
+H01700,Hypopituitarism,0,2,2
+H00510,Feingold syndrome,0,2,2
+H00556,CHARGE syndrome,0,2,2
+H00558,Geroderma osteodysplasticum,0,2,2
+H00559,von Hippel-Lindau syndrome,0,2,2
+H00568,Myotonic dystrophy,0,2,2
+H00570,Kabuki syndrome,0,2,2
+H01900,Encephalopathy due to defective mitochondrial and peroxisom…,0,2,2
+H01902,Brittle cornea syndrome,0,2,2
+H01903,Brown-Vialetto-Van Laere syndrome,0,2,2
+H01910,Infantile myofibromatosis,0,2,2
+H01911,Syndromic autosomal recessive mental retardation,0,2,2
+H01923,"Microcephaly, short stature, and impaired glucose metabolism",0,2,2
+H01969,X-linked lymphoproliferative syndrome,0,2,2
+H02629,Bent bone dysplasia syndrome,0,2,2
+H02617,Bryant-Li-Bhoj neurodevelopmental syndrome,0,2,2
+H02610,Head and neck squamous cell carcinoma,0,2,2
+H02624,Tumor predisposition syndrome,0,2,2
+H01978,Dehydrated hereditary stomatocytosis,0,2,2
+H01988,Jackson-Weiss syndrome,0,2,2
+H01991,Saethre-Chotzen syndrome,0,2,2
+H01994,Lafora disease,0,2,2
+H02001,Familial pseudohyperkalemia,0,2,2
+H01023,Juvenile polyposis syndrome,0,2,2
+H01032,N-acetylglutamate synthase deficiency,1,1,2
+H01033,Congenital bilateral absence of vas deferens,0,2,2
+H01053,Paroxysmal nocturnal hemoglobinuria,0,2,2
+H02303,Alopecia-mental retardation syndrome,0,2,2
+H00543,Renal-hepatic-pancreatic dysplasia,0,2,2
+H01482,Infantile hemangioma,0,2,2
+H00674,Anemia due to disorders of nucleotide metabolism,0,2,2
+H00486,Sclerosteosis,0,2,2
+H01768,Central areolar choroidal dystrophy,0,2,2
+H01774,Hyperostosis corticalis generalisata,0,2,2
+H01780,Non-dystrophic myotonia,0,2,2
+H00930,Hypoalphalipoproteinemia,0,2,2
+H00937,Precocious puberty,0,2,2
+H00995,Combined deficiency of vitamin K-dependent clotting factors,0,2,2
+H00998,Alternating hemiplegia of childhood,0,2,2
+H01002,Generalized arterial calcification of infancy,0,2,2
+H01016,Primary bile acid malabsorption,0,2,2
+H00915,Tuberous sclerosis complex,0,2,2
+H01938,Hypermanganesemia with dystonia,0,2,2
+H01939,Glycogen storage disease type I,0,2,2
+H01965,Miyoshi muscular dystrophy,0,2,2
+H02640,Vertebral hypersegmentation and orofacial anomalies,0,1,1
+H00011,Lymphoplasmacytic lymphoma,0,1,1
+H00012,Polycythemia vera,0,1,1
+H02623,Kury-Isidor syndrome,0,1,1
+H00065,Alexander disease,0,1,1
+H00064,Ataxia telangiectasia,0,1,1
+H00062,Spinal and bulbar muscular atrophy (SBMA),0,1,1
+H00060,Dentatorubropallidoluysian atrophy (DRPLA),0,1,1
+H02606,"Pachygyria, microcephaly, developmental delay, and dysmorph…",0,1,1
+H02597,Sepiapterin reductase deficiency,0,1,1
+H02595,Oculoskeletodental syndrome,0,1,1
+H02594,Congenital facial palsy with ptosis and velopharyngeal dysf…,0,1,1
+H00954,Macular corneal dystrophy,0,1,1
+H00953,Gelatinous drop-like corneal dystrophy,0,1,1
+H00952,Thiel-Behnke dystrophies,0,1,1
+H00951,Reis-Bucklers corneal dystrophy,0,1,1
+H00949,Focal dermal hypoplasia,0,1,1
+H00947,Pilomatricoma,0,1,1
+H00946,Arts syndrome,0,1,1
+H00943,TARP syndrome,0,1,1
+H00942,Rabson-Mendenhall syndrome,0,1,1
+H00941,Factor XII deficiency,0,1,1
+H00940,Cohen syndrome,0,1,1
+H00970,Juvenile primary lateral sclerosis,0,1,1
+H00969,"Skeletal defects, genital hypoplasia, and mental retardation",0,1,1
+H00968,Raine syndrome,0,1,1
+H00967,Adiponectin deficiency,0,1,1
+H00966,AICA-ribosiduria,0,1,1
+H00936,Goldberg-Shprintzen megacolon syndrome,0,1,1
+H00934,Caudal duplication anomaly,0,1,1
+H00931,Growth hormone insensitivity with immunodeficiency,0,1,1
+H00929,Congenital vertical talus,0,1,1
+H00928,Nephropathy with pretibial epidermolysis bullosa and deafne…,0,1,1
+H00927,Chylomicron retention disease,0,1,1
+H00926,"Growth retardation, developmental delay, coarse facies, and…",0,1,1
+H00925,2-Methyl-3-hydroxybutyryl-CoA dehydrogenase (MHBD) deficien…,0,1,1
+H00924,"Severe combined immunodeficiency with microcephaly, growth …",0,1,1
+H00983,Alpha-2-plasmin inhibitor (a2-PI) deficiency,0,1,1
+H00981,Ataxia with isolated vitamin E deficiency (AVED),0,1,1
+H00980,Nevo syndrome,0,1,1
+H00979,Sacral defect with anterior meningocele,0,1,1
+H00972,Endocrine-cerebro-osteodysplasia syndrome,0,1,1
+H00955,Granular corneal dystrophies,0,1,1
+H01009,Newfoundland rod-cone dystrophy,0,1,1
+H01008,C syndrome,0,1,1
+H01007,Choroid plexus papilloma,0,1,1
+H01005,Dopamine beta-hydroxylase deficiency,0,1,1
+H01003,Dimethylglycine dehydrogenase deficiency,0,1,1
+H01000,Retinal vasculopathy with cerebral leukodystrophy,0,1,1
+H00997,CATSHL syndrome,0,1,1
+H00996,Amish infantile epilepsy syndrome,0,1,1
+H00994,Familial skewed X-chromosome inactivation,0,1,1
+H00993,"Microcephalic osteodysplastic primordial dwarfism, type I (…",0,1,1
+H00991,"Microcephalic osteodysplastic primordial dwarfism, type II …",0,1,1
+H00990,"Microcephaly, Amish type",0,1,1
+H00989,Mohr-Tranebjaerg syndrome,0,1,1
+H00988,Enterokinase deficiency,0,1,1
+H00939,Darsun syndrome,0,1,1
+H00938,Factor XI deficiency,0,1,1
+H00920,"Exocrine pancreatic insufficiency, dyserythropoietic anemia…",0,1,1
+H00919,Arterial tortuosity syndrome,0,1,1
+H00914,Warsaw breakage syndrome,0,1,1
+H00913,Brain-lung-thyroid syndrome,0,1,1
+H00912,Tumor necrosis factor receptor-associated periodic syndrome,0,1,1
+H00911,Dicarboxylic aminoaciduria,0,1,1
+H00909,Cleft palate with ankyloglossia,0,1,1
+H00908,Mowat-Wilson syndrome,0,1,1
+H01018,Metachondromatosis,0,1,1
+H01017,Choanal atresia and lymphedema,0,1,1
+H01015,Jalili syndrome,0,1,1
+H01013,Adult i phenotype,0,1,1
+H01012,Oculo-auricular syndrome,0,1,1
+H01011,Adrenocorticotropic hormone deficiency,0,1,1
+H01010,Occult macular dystrophy,0,1,1
+H01040,Bamforth-Lazarus syndrome,0,1,1
+H01039,Ovarian hyperstimulation syndrome,0,1,1
+H01038,Cerebellar ataxia cayman type,0,1,1
+H01036,Posterior column ataxia with retinitis pigmentosa,0,1,1
+H01035,"Corpus callosum, agenesis of, with mental retardation, ocul…",0,1,1
+H01034,L1 syndrome,0,1,1
+H01031,Orthostatic intolerance,0,1,1
+H01030,Congenital arthrogryposis with anterior horn cell disease,0,1,1
+H01029,Cornea plana congenita,0,1,1
+H01028,Argininosuccinic aciduria,0,1,1
+H01026,Renal coloboma syndrome,0,1,1
+H01024,Hereditary mixed polyposis syndrome,0,1,1
+H00923,Congenital systemic glutamine deficiency,0,1,1
+H00922,Schinzel-Giedion midface retraction syndrome,0,1,1
+H00921,Revesz syndrome,0,1,1
+H02593,Chronic mucocutaneous ulceration,0,1,1
+H02591,Interleukin-18 binding protein deficiency,0,1,1
+H02590,Acute febrile neutrophilic dermatosis,0,1,1
+H02589,"Periodic fever, immunodeficiency, and thrombocytopenia synd…",0,1,1
+H02588,NLRP1-associated autoinflammation with arthritis and dysker…,0,1,1
+H02587,Luo-Schoch-Yamamoto syndrome,0,1,1
+H02586,Distal myopathy with rimmed vacuoles,0,1,1
+H02584,Ferguson-Bonni neurodevelopmental syndrome,0,1,1
+H02583,X-linked intellectual disability-hypotonic facies syndrome,0,1,1
+H02582,Mullegama-Klein-Martinez syndrome,0,1,1
+H02581,Juberg-Hayward syndrome,0,1,1
+H02580,Hereditary sensory neuropathy with spastic paraplegia,0,1,1
+H02578,"Short stature, microcephaly, and endocrine dysfunction",0,1,1
+H02577,Karyomegalic interstitial nephritis,0,1,1
+H02576,Familial cutaneous telangiectasia and cancer syndrome,0,1,1
+H02575,"Lactose intolerance, adult type",0,1,1
+H01071,Acute alcohol sensitivity,0,1,1
+H01065,Pentosuria,0,1,1
+H00087,Other humoral immunodeficiencies,0,1,1
+H00077,Progressive supranuclear palsy,0,1,1
+H00074,Canavan disease,0,1,1
+H00073,Pyruvate carboxylase deficiency,0,1,1
+H02574,BILU syndrome,0,1,1
+H02572,"Neurodegeneration, childhood-onset, stress-induced, with va…",0,1,1
+H02571,Neurodevelopmental disorder with hypotonia and variable int…,0,1,1
+H02567,Sorbitol dehydrogenase deficiency with peripheral neuropathy,0,1,1
+H02562,Yoon-Bellen neurodevelopmental syndrome,0,1,1
+H02561,Familial autoinflammatory syndrome with or without immunode…,0,1,1
+H02560,White-Kernohan syndrome,0,1,1
+H00090,NK cell defects,0,1,1
+H00116,Congenital lactase deficiency,0,1,1
+H00115,Congenital sucrase-isomaltase deficiency,0,1,1
+H00114,"Fructose-1,6-bisphosphatase deficiency",0,1,1
+H00906,"Macrocephaly, alopecia, cutis laxa, and scoliosis",0,1,1
+H00904,"Cutis laxa with severe pulmonary, gastrointestinal, and uri…",0,1,1
+H00903,Congenital clubfoot,0,1,1
+H00902,Speech-language disorder 1,0,1,1
+H00899,Lysinuric protein intolerance,0,1,1
+H00893,Skin fragility-woolly hair syndrome,0,1,1
+H01082,Phosphoserine aminotransferase deficiency,0,1,1
+H01079,3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency,0,1,1
+H01078,Fletcher factor deficiency,0,1,1
+H01076,Beta-ketothiolase deficiency,0,1,1
+H01075,Peters anomaly,0,1,1
+H01101,Combined lipase deficiency,0,1,1
+H01096,Pyruvate kinase deficiency,0,1,1
+H01094,Eosinophil peroxidase deficiency,0,1,1
+H01088,Pigmented paravenous chorioretinal atrophy,0,1,1
+H02558,"Craniotubular dysplasia, Ikegawa type",0,1,1
+H02556,CINCA syndrome,0,1,1
+H02555,Muckle-Wells syndrome,0,1,1
+H02552,"Ataxia, intention tremor, and hypotonia syndrome",0,1,1
+H02551,Skeletal dysplasia with joint laxity and advanced bone age,0,1,1
+H02550,Birk-Landau-Perez syndrome,0,1,1
+H02549,"Cerebellar ataxia, brain abnormalities, and cardiac conduct…",0,1,1
+H02548,CIMDAG syndrome,0,1,1
+H02547,BRENS syndrome,0,1,1
+H02546,Hypervalinemia and hyperleucine-isoleucinemia,0,1,1
+H02545,Hypertryptophanemia,0,1,1
+H02544,Riboflavin deficiency,0,1,1
+H00137,Niemann-Pick disease type A/B,0,1,1
+H01123,HMG-CoA synthase deficiency,0,1,1
+H01121,Succinyl CoA:3-oxoacid CoA transferase (SCOT) deficiency,0,1,1
+H01120,Proliferative vasculopathy and hydranencephaly-hydrocephaly…,0,1,1
+H01119,Prolidase deficiency,0,1,1
+H01117,Chronic recurrent multifocal osteomyelitis,0,1,1
+H01116,Choroideremia,0,1,1
+H01115,"Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa,…",0,1,1
+H01113,Acid phosphatase deficiency,0,1,1
+H01112,"Polyhydramnios, megalencephaly, and symptomatic epilepsy",0,1,1
+H01110,Pneumothorax,0,1,1
+H01108,CD36 deficiency,0,1,1
+H01106,Plasminogen activator inhibitor type 1 deficiency,0,1,1
+H01105,Cranio-lenticulo-sutural dysplasia,0,1,1
+H01103,Alpha-1-antitrypsin deficiency,0,1,1
+H00134,X-linked ichthyosis,0,1,1
+H00133,Mucopolysaccharidosis type IX,0,1,1
+H00132,Mucopolysaccharidosis type VII,0,1,1
+H00131,Mucopolysaccharidosis type VI,0,1,1
+H00129,Mucopolysaccharidosis type II,0,1,1
+H00128,Mucopolysaccharidosis type I,0,1,1
+H00125,Fabry disease,0,1,1
+H02537,"Autoinflammation, immune dysregulation, and eosinophilia",0,1,1
+H02533,Kaufman oculocerebrofacial syndrome,0,1,1
+H02528,Hao-Fountain syndrome,0,1,1
+H02527,Lipid storage myopathy due to FLAD1 deficiency,0,1,1
+H00151,Cerebrotendinous xanthomatosis,0,1,1
+H00150,Danon disease,0,1,1
+H00148,Lysosomal acid lipase deficiency,0,1,1
+H00146,Alpha-N-acetylgalactosaminidase deficiency,0,1,1
+H00145,Aspartylglucosaminuria,0,1,1
+H00886,Donnai-Barrow syndrome,0,1,1
+H00884,Familial progressive hyperpigmentation,0,1,1
+H00883,Lipoid proteinosis,0,1,1
+H00882,Cocoon syndrome,0,1,1
+H00880,Dyschromatosis symmetrica hereditaria,0,1,1
+H00879,Perry syndrome,0,1,1
+H00878,Cystic leukoencephalopathy without megalencephaly,0,1,1
+H01131,Hereditary neuralgic amyotrophy,0,1,1
+H01130,Late-onset retinal degeneration,0,1,1
+H01129,Brody myopathy,0,1,1
+H01128,Reticular dysgenesis,0,1,1
+H01127,PIGM-congenital disorder of glycosylation,0,1,1
+H01126,Familial renal glucosuria,0,1,1
+H01125,Hereditary pyropoikilocytosis,0,1,1
+H01124,Pyridoxamine-5'-phosphate oxidase (PNPO) deficiency,0,1,1
+H01146,Aminoacylase 1 deficiency,0,1,1
+H01145,Atransferrinemia,0,1,1
+H01136,Carboxypeptidase N deficiency,0,1,1
+H01135,Ribose 5-phosphate isomerase deficiency,0,1,1
+H01133,Reynolds syndrome,0,1,1
+H00889,Lujan-Fryns syndrome,0,1,1
+H00887,Lipoprotein glomerulopathy,0,1,1
+H01168,Sea-blue histiocyte disease,0,1,1
+H01163,Corticosteroid-binding globulin (CBG) deficiency,0,1,1
+H01162,Scott syndrome,0,1,1
+H01161,Aromatic L-amino acid decarboxylase deficiency,0,1,1
+H01158,Alopecia universalis,0,1,1
+H01156,STAR syndrome,0,1,1
+H01154,Wolff-Parkinson-White (WPW) syndrome,0,1,1
+H01149,Ring dermoid of cornea,0,1,1
+H00144,Mucolipidosis IV,0,1,1
+H00143,Mucolipidosis II,0,1,1
+H00142,Sialidosis,0,1,1
+H00141,Fucosidosis,0,1,1
+H00140,beta-Mannosidosis,0,1,1
+H00139,alpha-Mannosidosis,0,1,1
+H00138,Farber lipogranulomatosis,0,1,1
+H02524,Ataxia-pancytopenia syndrome,0,1,1
+H02523,Genitourinary and/or brain malformation syndrome,0,1,1
+H02522,Imagawa-Matsumoto syndrome,0,1,1
+H02521,Diets-Jongmans syndrome,0,1,1
+H02519,Mega-corpus-callosum syndrome with cerebellar hypoplasia an…,0,1,1
+H02518,Neonatal severe encephalopathy with lactic acidosis and bra…,0,1,1
+H02515,Li-Ghorbani-Weisz-Hubshman syndrome,0,1,1
+H02514,Lacrimal duct defect,0,1,1
+H00873,Cousin syndrome,0,1,1
+H00872,Trismus-pseudocamptodactyly syndrome,0,1,1
+H00871,Leukoencephalopathy with brain stem and spinal cord involve…,0,1,1
+H00870,Brachydactyly-syndactyly syndrome,0,1,1
+H00868,Stapes ankylosis with broad thumb and toes,0,1,1
+H00864,Trichotillomania,0,1,1
+H00863,Spondylo-megaepiphyseal-metaphyseal dysplasia,0,1,1
+H00860,Benign hereditary chorea,0,1,1
+H01173,Stiff skin syndrome,0,1,1
+H01172,Infantile-onset ascending hereditary spastic paralysis,0,1,1
+H01170,Autosomal recessive spastic ataxia of Charlevoix-Saguenay,0,1,1
+H00853,Cenani-Lenz syndactyly syndrome,0,1,1
+H00850,Frontorhiny,0,1,1
+H00847,Al-Awadi/Raas-Rothschild syndrome,0,1,1
+H00846,Fuhrmann syndrome,0,1,1
+H00844,Familial benign chronic pemphigus,0,1,1
+H01192,Lysyl hydroxylase 3 deficiency,0,1,1
+H01190,Transcobalamin II deficiency,0,1,1
+H01189,Transaldolase deficiency,0,1,1
+H01188,Tn syndrome,0,1,1
+H01187,Tietz syndrome,0,1,1
+H01184,Familial dementia,0,1,1
+H01183,Thiamine-responsive megaloblastic anemia,0,1,1
+H01182,Biotinidase deficiency,0,1,1
+H01181,T-cell immunodeficiency congenital alopecia and nail dystro…,0,1,1
+H01180,Sveinsson chorioretinal atrophy (SCRA),0,1,1
+H00874,Leukoencephalopathy with dystonia and motor neuropathy,0,1,1
+H01212,Familial encephalopathy with neuroserpin inclusion bodies,0,1,1
+H01211,MECP2-related severe neonatal encephalopathy,0,1,1
+H01206,Plasminogen deficiency,0,1,1
+H01201,Jensen syndrome,0,1,1
+H01197,Dihydrofolate reductase deficiency,0,1,1
+H00843,Hartnup disorder,0,1,1
+H00841,Infantile progressive bulbar palsy,0,1,1
+H00836,GLUT1 deficiency syndrome,0,1,1
+H00835,Succinic semialdehyde dehydrogenase deficiency,0,1,1
+H00834,Guanidinoacetate methyltransferase deficiency,0,1,1
+H00830,Alveolar capillary dysplasia with misalignment of pulmonary…,0,1,1
+H00829,Multiple familial trichoepithelioma,0,1,1
+H00828,Familial cylindromatosis,0,1,1
+H00859,Guttmacher syndrome,0,1,1
+H00857,Oligodontia-colorectal cancer syndrome,0,1,1
+H00855,Triphalangeal thumb-polysyndactyly syndrome,0,1,1
+H00824,Calcification of joints and arteries,0,1,1
+H00823,ABCD syndrome,0,1,1
+H00820,Bjornstad syndrome,0,1,1
+H00818,Birt-Hogg-Dube syndrome,0,1,1
+H00817,Branchiooculofacial syndrome,0,1,1
+H00816,Agenesis of the corpus callosum with peripheral neuropathy,0,1,1
+H00815,H syndrome,0,1,1
+H00813,Laryngo onycho cutaneous syndrome,0,1,1
+H01226,Polysyndactyly,0,1,1
+H01224,Ketosis-prone diabetes mellitus,0,1,1
+H01223,Mental retardation-stereotypic movements-epilepsy and/or ce…,0,1,1
+H01221,Epithelial basement membrane corneal dystrophy,0,1,1
+H01220,"Congenital cataracts, facial dysmorphism, and neuropathy",0,1,1
+H01218,P14 deficiency,0,1,1
+H01214,Rh-null hemolytic anemia (RHN),0,1,1
+H01244,T+B+Severe combined immunodeficiencies (SCIDs),0,1,1
+H01242,Saccharopinuria,0,1,1
+H01241,Congenital diaphragmatic hernia,0,1,1
+H01240,Immune thrombocytopenia,0,1,1
+H01239,Combined SAP deficiency,0,1,1
+H01238,Phelan-McDermid syndrome,0,1,1
+H01237,Sulfite oxidase deficiency,0,1,1
+H01236,Familial articular chondrocalcinosis,0,1,1
+H01234,Trimethylaminuria,0,1,1
+H01233,Urocanase deficiency,0,1,1
+H01231,Biotin-responsive basal ganglia disease,0,1,1
+H01230,Adult-onset autosomal dominant leukodystrophy,0,1,1
+H01229,Inclusion body myopathy 3,0,1,1
+H01228,Insulin-resistant diabetes mellitus with acanthosis nigrica…,0,1,1
+H00827,Brooke-Spiegler syndrome,0,1,1
+H00826,Blepharophimosis-ptosis-epicanthus inversus syndrome,0,1,1
+H00804,Multiple cutaneous and uterine leiomyomata,0,1,1
+H00803,Seizures-sensorineural deafness-ataxia-mental retardation-e…,0,1,1
+H00799,CEDNIK syndrome,0,1,1
+H00797,Martsolf syndrome,0,1,1
+H00796,Dermatopathia pigmentosa reticularis,0,1,1
+H01258,Generalized epilepsy and paroxysmal dyskinesia,0,1,1
+H01257,GABA-transaminase deficiency,0,1,1
+H01255,Juvenile-onset dystonia,0,1,1
+H01254,Congenital prothrombin deficiency,0,1,1
+H01253,Isolated follicle-stimulating hormone deficiency,0,1,1
+H01252,Hereditary folate malabsorption,0,1,1
+H01249,Ethylmalonic encephalopathy,0,1,1
+H01248,Erythrocyte lactate transporter defect,0,1,1
+H01247,Pyridoxine-dependent epilepsy,0,1,1
+H01246,Isolated congenital nail clubbing,0,1,1
+H01245,Immunodeficiency without anhidrotic ectodermal dysplasia,0,1,1
+H01281,Lathosterolosis,0,1,1
+H01280,L-2-hydroxyglutaric aciduria,0,1,1
+H01279,Isobutyryl-CoA dehydrogenase deficiency,0,1,1
+H01278,Iron-refractory iron deficiency anemia,0,1,1
+H01276,Chronic idiopathic intestinal pseudo-obstruction,0,1,1
+H01275,Interleukin 1 receptor antagonist deficiency (DIRA),0,1,1
+H01274,Growth delay due to insulin-like growth factor I resistance,0,1,1
+H01273,Autosomal dominant keratitis,0,1,1
+H01271,Hypoparathyroidism with sensorineural deafness and renal dy…,0,1,1
+H01269,Congenital hyperthyroidism,0,1,1
+H01268,Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome,0,1,1
+H01266,Hypercarotenemia and vitamin A deficiency,0,1,1
+H01264,Hepatic venoocclusive disease with immunodeficiency,0,1,1
+H01262,Formiminotransferase deficiency,0,1,1
+H01261,Congenital glucose-galactose malabsorption,0,1,1
+H01260,Glomerulopathy with fibronectin deposits,0,1,1
+H00794,Aromatase excess syndrome,0,1,1
+H00793,Poikiloderma with neutropenia,0,1,1
+H00791,Disseminated superficial actinic porokeratosis (DSAP),0,1,1
+H00790,Keratosis linearis with ichthyosis congenita and sclerosing…,0,1,1
+H00788,Hoyeraal-Hreidarsson syndrome,0,1,1
+H00785,Congenital hypotrichosis with juvenile macular dystrophy,0,1,1
+H00782,Hypotrichosis and recurrent skin vesicles,0,1,1
+H00781,Schopf-Schulz-Passarge syndrome,0,1,1
+H00780,Atrichia with papular lesions,0,1,1
+H01291,Spheroid body myopathy,0,1,1
+H01290,Acute recurrent myoglobinuria,0,1,1
+H01289,Mulibrey nanism,0,1,1
+H01286,Microtia hearing impairment and cleft palate,0,1,1
+H01285,Methylcobalamin deficiency type G,0,1,1
+H01284,Marinesco-Sjogren syndrome,0,1,1
+H01283,Malonyl-CoA decarboxylase deficiency,0,1,1
+H01309,"Sarcoidosis, early-onset",0,1,1
+H01308,Macrocephaly macrosomia facial dysmorphism syndrome,0,1,1
+H01306,FRA12A mental retardation,0,1,1
+H01305,Global cerebral hypomyelination,0,1,1
+H01303,Hypercatabolic hypoproteinemia,0,1,1
+H01302,Hyperchlorhidrosis isolated (HCHLH),0,1,1
+H01301,"Hemorrhagic destruction of the brain, subependymal calcific…",0,1,1
+H01298,Pulmonary alveolar microlithiasis,0,1,1
+H01297,Neutral lipid storage disease with myopathy,0,1,1
+H01296,Hereditary neuropathy with liability to pressure palsies,0,1,1
+H01295,Neurodegeneration due to cerebral folate transport deficien…,0,1,1
+H01294,Nephrogenic syndrome of inappropriate antidiuresis,0,1,1
+H01292,Nance-Horan syndrome,0,1,1
+H00795,Seborrhea-like dermatitis with psoriasiform element,0,1,1
+H02510,Jaberi-Elahi syndrome,0,1,1
+H02508,"Agenesis of corpus callosum, cardiac, ocular, and genital s…",0,1,1
+H02507,Pilarowski-Bjornsson syndrome,0,1,1
+H02504,"Gastrointestinal ulceration, recurrent, with dysfunctional …",0,1,1
+H02503,Richieri-Costa-Pereira syndrome,0,1,1
+H02502,"Joint laxity, short stature, and myopia",0,1,1
+H02501,Occipital cortical malformation,0,1,1
+H02500,Congenital interstitial lung disease with nephrotic syndrom…,0,1,1
+H02496,"Cerebellar, ocular, craniofacial, and genital syndrome",0,1,1
+H02495,Congenital megabladder,0,1,1
+H00164,Carbamoyl phosphate synthetase I deficiency,0,1,1
+H00163,Alkaptonuria,1,1,1
+H00777,"SEMD, short limb-hand type",0,1,1
+H00772,Paroxysmal extreme pain disorder,0,1,1
+H00771,Inherited erythromelalgia,0,1,1
+H00767,"SEMD, Matrilin type",0,1,1
+H00766,Wolcott-Rallison syndrome,0,1,1
+H00765,"Spondyloepiphyseal dysplasia, Kimberley type",0,1,1
+H01338,Myosclerosis,0,1,1
+H01333,Non-alcoholic fatty liver disease,0,1,1
+H00162,Sjogren-Larsson syndrome,0,1,1
+H00161,Smith-Lemli-Opitz syndrome,0,1,1
+H00160,Abetalipoproteinemia,0,1,1
+H00159,Tangier disease,0,1,1
+H00158,Lecithin:cholesterol acyltransferase deficiency,0,1,1
+H00157,"Hyperlipoproteinemia, type V",0,1,1
+H00156,"Hyperlipoproteinemia, type III",0,1,1
+H02494,Alkuraya-Kucinskas syndrome,0,1,1
+H02493,Al Kaissi syndrome,0,1,1
+H02491,Immunoskeletal dysplasia with neurodevelopmental abnormalit…,0,1,1
+H02490,Gabriele-de Vries syndrome,0,1,1
+H02489,Mild encephalopathy with reversible myelin vacuolization,0,1,1
+H02488,Cardiac-urogenital syndrome,0,1,1
+H02486,HELIX syndrome,0,1,1
+H02485,Extraoral halitosis due to MTO deficiency,0,1,1
+H02484,X-linked reticulate pigmentary disorder with systemic manif…,0,1,1
+H00762,Spondyloepiphyseal dysplasia with congenital joint dislocat…,0,1,1
+H00761,"SEMD, Pakistani type",0,1,1
+H00760,Spondyloepiphyseal dysplasia tarda,0,1,1
+H00758,Progressive pseudorheumatoid dysplasia,0,1,1
+H00757,Dyggve-Melchior-Clausen disease,0,1,1
+H00755,Acrokeratosis verruciformis,0,1,1
+H00752,Ankyloblepharon-ectodermal defects-cleft lip/palate (AEC) s…,0,1,1
+H00748,Andersen-Tawil syndrome,0,1,1
+H01349,Methacrylic aciduria,0,1,1
+H01348,Mitochondrial phosphate carrier deficiency,0,1,1
+H01346,Bloom syndrome,0,1,1
+H00778,Tarsal-carpal coalition syndrome,0,1,1
+H00745,Hyperkalemic periodic paralysis,0,1,1
+H00744,Potassium-aggravated myotonia,0,1,1
+H00743,Paramyotonia congenita,0,1,1
+H00742,Neonatal ichthyosis-sclerosing cholangitis (NISCH) syndrome,0,1,1
+H00741,Ichthyosis prematurity syndrome,0,1,1
+H00739,Ichthyosis with hypotrichosis,0,1,1
+H00738,Ichthyosis with confetti,0,1,1
+H00736,Dorfman-Chanarin syndrome,0,1,1
+H00735,Ichthyosis vulgaris,0,1,1
+H00733,Harlequin ichthyosis,0,1,1
+H00732,Sorsby fundus dystrophy,0,1,1
+H01370,SHORT syndrome,0,1,1
+H01364,3-Hydroxyacyl-CoA dehydrogenase deficiency,0,1,1
+H01363,NARP syndrome,0,1,1
+H00763,Transient bullous dermolysis of the newborn,0,1,1
+H00716,Palmoplantar keratoderma with deafness,0,1,1
+H01388,Hyperprolactinemia,1,1,1
+H01386,Asparagine synthetase deficiency,0,1,1
+H01385,Rienhoff syndrome,0,1,1
+H01384,Mitochondrial recessive ataxia syndrome,0,1,1
+H01383,Hyperlipoproteinemia type IIa,0,1,1
+H01382,Polyarteritis nodosa,0,1,1
+H01381,Antithrombin III deficiency,0,1,1
+H01378,Bosch-Boonstra optic atrophy syndrome,0,1,1
+H01377,Mitchell-Riley syndrome,0,1,1
+H01375,Glucose 6-phosphate dehydrogenase deficiency,0,1,1
+H00747,Thyrotoxic hypokalemic periodic paralysis,0,1,1
+H02483,Basel-Vanagaite-Smirin-Yosef syndrome,0,1,1
+H02482,ROSAH syndrome,0,1,1
+H02480,Fontaine progeroid syndrome,0,1,1
+H02479,Nivelon-Nivelon-Mabille syndrome,0,1,1
+H02478,CATIFA syndrome,0,1,1
+H02477,Cohen-Gibson syndrome,0,1,1
+H02476,Childhood-onset neurodegeneration with brain atrophy,0,1,1
+H02475,Retinoschisis,0,1,1
+H02473,"Leukoencephalopathy, brain calcifications, and cysts",0,1,1
+H02471,Brain malformations with urinary tract defects,0,1,1
+H02468,Early childhood-onset progressive leukodystrophy,0,1,1
+H02465,Weiss-Kruszka syndrome,0,1,1
+H02464,Poretti-Boltshauser syndrome,0,1,1
+H00182,Cystathioninuria,0,1,1
+H00180,Holocarboxylase synthetase deficiency,0,1,1
+H00179,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,0,1,1
+H01402,Nicolaides-Baraitser syndrome,0,1,1
+H01394,Cole disease,0,1,1
+H01392,"Arthrogryposis, mental retardation, and seizures",0,1,1
+H01389,Alpers syndrome,0,1,1
+H00727,Athabascan brainstem dysgenesis syndrome,0,1,1
+H00721,"Pyogenic bacterial infections, recurrent, due to MYD88 defi…",0,1,1
+H00719,Leprechaunism,0,1,1
+H00709,Birk Barel mental retardation syndrome (BBMRS),0,1,1
+H00708,Naegeli-Franceschetti-Jadassohn syndrome,0,1,1
+H00707,"Ichthyosis hystrix, Curth-Macklin type",0,1,1
+H00706,Bart-Pumphrey syndrome,0,1,1
+H00705,Myotonia congenita,0,1,1
+H00704,Oculopharyngeal muscular dystrophy,0,1,1
+H00703,Myosin storage myopathy,0,1,1
+H01412,Perlman syndrome,0,1,1
+H00176,Adrenoleukodystrophy,0,1,1
+H00173,Isovaleric acidemia,0,1,1
+H00171,Histidinemia,0,1,1
+H02458,Hydrocephalus due to congenital stenosis of aqueduct of Syl…,0,1,1
+H02455,"Congenital heart defects, hamartomas of tongue, and polysyn…",0,1,1
+H02454,"Congenital heart defects, dysmorphic facial features, and i…",0,1,1
+H02453,Congenital heart defects and ectodermal dysplasia,0,1,1
+H02452,Muscle hypertrophy,0,1,1
+H02449,Autosomal dominant lamellar ichthyosis,0,1,1
+H02448,Harel-Yoon syndrome,0,1,1
+H02447,Myopathy with extrapyramidal signs,0,1,1
+H00200,Beta-ureidopropionase deficiency,0,1,1
+H00199,Dihydropyrimidinase deficiency,0,1,1
+H00198,Orotic aciduria,0,1,1
+H00197,Adenylosuccinate lyase deficiency,0,1,1
+H00196,Phosphoribosylpyrophosphate synthetase superactivity,0,1,1
+H01438,Neurofibromatosis type 2,0,1,1
+H01437,Neurofibromatosis type 1,0,1,1
+H01436,Guillain-Barre syndrome,0,1,1
+H01432,Choreoacanthocytosis,0,1,1
+H00715,Darier disease,0,1,1
+H00695,Mal de Meleda,0,1,1
+H00693,Ichthyosis bullosa of Siemens,0,1,1
+H00692,Lowe syndrome,0,1,1
+H00690,Aland Island eye disease,0,1,1
+H00686,Manitoba oculotrichoanal syndrome,0,1,1
+H00685,Bifid nose with or without anorectal and renal anomalies,0,1,1
+H00195,Adenine phosphoribosyltransferase deficiency,2,1,1
+H00194,Lesch-Nyhan syndrome,2,1,1
+H00193,Dihydropyrimidine dehydrogenase deficiency,0,1,1
+H00189,Ornithinaemia,0,1,1
+H00188,Hyperlysinemia,0,1,1
+H00187,Ornithine transcarbamylase deficiency,0,1,1
+H00186,Hyperargininemia,0,1,1
+H02446,Autosomal recessive macrocephaly/megalencephaly syndrome,0,1,1
+H02445,"Microcornea, myopic chorioretinal atrophy, and telecanthus",0,1,1
+H02444,Luscan-Lumish syndrome,0,1,1
+H02441,HUPRA syndrome,0,1,1
+H02440,"Fleck retina, familial benign",0,1,1
+H02439,"Short stature, developmental delay, congenital heart defect",0,1,1
+H02438,"Hyperglycinemia, lactic acidosis, and seizures",0,1,1
+H02437,"Growth retardation, impaired intellectual development, hypo…",0,1,1
+H01471,Lymphangioma,0,1,1
+H01460,West syndrome,0,1,1
+H01459,Diabetic neuropathy,0,1,1
+H00699,Central core disease,0,1,1
+H00697,X-linked myopathy with postural muscle atrophy,0,1,1
+H00696,Haim-Munk syndrome,0,1,1
+H02436,Al-Gazali syndrome,0,1,1
+H02433,Hypomyelination with brainstem and spinal cord involvement …,0,1,1
+H02432,Butyrylcholinesterase deficiency,0,1,1
+H02431,"Cerebellar hypoplasia, epilepsy, and global developmental d…",0,1,1
+H02430,"Ataxia, combined cerebellar and peripheral, with hearing lo…",0,1,1
+H02426,EDICT syndrome,0,1,1
+H02422,Retinitis pigmentosa with skeletal anomalies,0,1,1
+H02419,Glycine encephalopathy with normal serum glycine,0,1,1
+H02417,Gingival fibromatosis with hypertrichosis,0,1,1
+H00680,Primary failure of tooth eruption,0,1,1
+H00678,Achondrogenesis type IA,0,1,1
+H00677,Aplasia of lacrimal and salivary glands,0,1,1
+H00676,Congenital primary aphakia,0,1,1
+H00675,Acrocapitofemoral dysplasia,0,1,1
+H00672,Pseudofolliculitis barbae,0,1,1
+H00671,Netherton syndrome,0,1,1
+H00669,Naxos disease,0,1,1
+H01484,5q- syndrome,0,1,1
+H01479,Castleman disease,0,1,1
+H01478,Machado-Joseph disease,0,1,1
+H01477,Congenital short bowel syndrome,0,1,1
+H00655,McLeod syndrome,0,1,1
+H00654,Barth syndrome,0,1,1
+H00653,Marfan syndrome,0,1,1
+H00652,Solitary median maxillary central incisor syndrome,0,1,1
+H01498,"Multiple joint dislocations, short stature, craniofacial dy…",0,1,1
+H01497,Temtamy preaxial brachydactyly syndrome,0,1,1
+H01496,Spondyloocular syndrome,0,1,1
+H01491,Neuromyelitis optica,0,1,1
+H01487,CHIME syndrome,0,1,1
+H01485,Autosomal recessive mental retardation-42,0,1,1
+H00683,Anonychia congenita,0,1,1
+H00682,Woodhouse-Sakati syndrome,0,1,1
+H02414,"Autoinflammation, panniculitis, and dermatosis syndrome",0,1,1
+H00213,Hypophosphatasia,0,1,1
+H00212,Acrodermatitis enteropathica,0,1,1
+H01514,Landau-Kleffner syndrome,0,1,1
+H01511,Mast-cell leukemia,0,1,1
+H01507,Seronegative arthritis,0,1,1
+H00666,Peutz-Jeghers syndrome,0,1,1
+H00661,MASS phenotype,0,1,1
+H00660,Congenital contractural arachnodactyly,0,1,1
+H00659,Shprintzen-Goldberg syndrome,0,1,1
+H00657,Reducing body myopathy,0,1,1
+H00210,Wilson disease,0,1,1
+H00209,Menkes syndrome,0,1,1
+H00206,Mevalonate kinase deficiency,0,1,1
+H00203,Acatalasemia,0,1,1
+H02396,Corpus callosum agenesis with facial anomalies and cerebell…,0,1,1
+H02395,Calvarial doughnut lesions with bone fragility,0,1,1
+H02394,"Cleft palate, cardiac defects, and mental retardation",0,1,1
+H02391,"Infantile-onset multisystem neurologic, endocrine, and panc…",0,1,1
+H02390,Autosomal recessive neuromyotonia and axonal neuropathy,0,1,1
+H02389,Familial dyskinesia with facial myokymia,0,1,1
+H02388,Infantile-onset limb and orofacial dyskinesia,0,1,1
+H02387,Snijders Blok-Fisher syndrome,0,1,1
+H01526,Legg-Calve-Perthes Disease,0,1,1
+H01525,22q11.2 deletion syndrome,0,1,1
+H01524,DiGeorge syndrome,0,1,1
+H02383,"Midface hypoplasia, hearing impairment, elliptocytosis, and…",0,1,1
+H02382,Bainbridge-Ropers syndrome,0,1,1
+H02381,"Cleft palate, psychomotor retardation, and distinctive faci…",0,1,1
+H02380,D-glyceric aciduria,0,1,1
+H02378,"Hypotonia, ataxia, and delayed development syndrome",0,1,1
+H02377,Leukodystrophy and acquired microcephaly with or without dy…,0,1,1
+H02376,"Global developmental delay, absent or hypoplastic corpus ca…",0,1,1
+H02375,"Cardiac valvular defect, developmental",0,1,1
+H02370,FILS syndrome,0,1,1
+H02369,IMAGE-I syndrome,0,1,1
+H02368,"Developmental delay with short stature, dysmorphic facial f…",0,1,1
+H02367,"Chorea, childhood-onset, with psychomotor retardation",0,1,1
+H00644,Ectodermal dysplasia/skin fragility syndrome,0,1,1
+H00643,Tooth and nail syndrome,0,1,1
+H00641,ADULT syndrome,0,1,1
+H00640,Limb-mammary syndrome,0,1,1
+H00639,"Ectodermal dysplasia, ectrodactyly, and macular dystrophy",0,1,1
+H00638,Ectrodactyly-ectodermal dysplasia-cleft lip/palate syndrome,0,1,1
+H00637,Ulnar-mammary syndrome,0,1,1
+H01548,West Nile fever,0,1,1
+H02366,"Cerebellar ataxia, neuropathy, and vestibular areflexia syn…",0,1,1
+H02365,Helsmoortel-van der Aa syndrome,0,1,1
+H02364,Heart and brain malformation syndrome,0,1,1
+H02363,Ververi-Brady syndrome,0,1,1
+H02361,Myoclonic-atonic epilepsy,0,1,1
+H02360,"Epileptic encephalopathy, childhood-onset",0,1,1
+H02358,"Arthrogryposis multiplex congenita, neurogenic, with myelin…",0,1,1
+H02356,PCWH syndrome,0,1,1
+H02355,Deafness and myopia,0,1,1
+H02353,Hyperekplexia and epilepsy,0,1,1
+H00233,MYH9-related disease,0,1,1
+H00229,Sickle cell anemia,0,1,1
+H00227,Congenital amegakaryocytic thrombocytopenia,0,1,1
+H00623,Hajdu-Cheney syndrome,0,1,1
+H00622,Hypoparathyroidism-retardation-dysmorphism syndrome,0,1,1
+H00621,Alopecia neurologic defects and endocrinopathy syndrome,0,1,1
+H00650,Allan-Herndon-Dudley syndrome,0,1,1
+H00648,"Ectodermal dysplasia, Clouston type",0,1,1
+H00647,Ectodermal dysplasia-syndactyly syndrome,0,1,1
+H00646,Odontoonychodermal dysplasia,0,1,1
+H00645,Incontinentia pigmenti,0,1,1
+H00618,Amelogenesis imperfecta hypoplastic-hypomaturation with tau…,0,1,1
+H00617,Desmosterolosis,0,1,1
+H00616,Bowen-Conradi syndrome,0,1,1
+H00614,Hyaline fibromatosis syndrome,0,1,1
+H00613,Infantile cortical hyperostosis,0,1,1
+H00611,Popliteal pterygium syndrome (PPS),0,1,1
+H01576,Spondyloenchondrodysplasia with immune dysregulation (SPENC…,0,1,1
+H01575,Roifman syndrome,0,1,1
+H01569,CHOPS syndrome,0,1,1
+H01567,Thiamine pyrophosphokinase deficiency,0,1,1
+H01565,Wernicke encephalopathy,0,1,1
+H00634,Duane-radial ray syndrome,0,1,1
+H00629,Acheiropodia,0,1,1
+H00225,Thrombotic thrombocytopenic purpura,0,1,1
+H00220,Factor V deficiency,0,1,1
+H02347,Thauvin-Robinet-Faivre syndrome,0,1,1
+H02345,Autosomal recessive peripheral neuropathy (PNRIID),0,1,1
+H02344,Cowchock syndrome,0,1,1
+H02343,EVEN-plus syndrome,0,1,1
+H02341,Goldmann-Favre syndrome,0,1,1
+H02340,Absorptive hypercalciuria,0,1,1
+H02338,PEHO-like syndrome,0,1,1
+H02337,Skraban-Deardorff syndrome,0,1,1
+H02336,"Deafness, Y-linked",0,1,1
+H02334,Pierpont syndrome,0,1,1
+H00249,Thyroid hormone resistance syndrome,0,1,1
+H00245,Calcium sensing receptor (CASR) related disease,0,1,1
+H00241,Combined proximal and distal renal tubular acidosis (RTA ty…,0,1,1
+H00240,Gitelman syndrome,0,1,1
+H00596,Nonaka myopathy (NM),0,1,1
+H00592,Calpainopathy,0,1,1
+H00588,Kindler syndrome,0,1,1
+H01590,Chronic eosinophilic leukemia,0,1,1
+H01589,Systemic primary carnitine deficiency,0,1,1
+H01583,Hydroxykynureninuria,0,1,1
+H01615,Irritable bowel syndrome,0,1,1
+H01614,Multiple system atrophy,0,1,1
+H01599,Hypereosinophilic syndrome,0,1,1
+H01598,Addison disease,0,1,1
+H00603,Hypertension exacerbated in pregnancy,0,1,1
+H00601,Hutchinson-Gilford progeria syndrome,0,1,1
+H00600,Mullerian agenesis,0,1,1
+H00597,Snyder-Robinson syndrome,0,1,1
+H00234,Pelger-Huet anomaly,0,1,1
+H02333,Laurin-Sandrow syndrome,0,1,1
+H02331,Gastrointestinal defects and immunodeficiency syndrome,0,1,1
+H02330,Pancreatic lipase deficiency,0,1,1
+H02329,Hepatic lipase deficiency,0,1,1
+H02328,Sifrim-Hitz-Weiss syndrome,0,1,1
+H02327,KBG syndrome,0,1,1
+H02326,Keipert syndrome,0,1,1
+H02325,Schaaf-Yang syndrome,0,1,1
+H02324,Sacral agenesis with vertebral anomalies,0,1,1
+H02323,Ruijs-Aalfs syndrome,0,1,1
+H02322,"Amyloidosis, Finnish type",0,1,1
+H02321,"Early-onset myopathy, areflexia, respiratory distress, and …",0,1,1
+H02320,Vacuolar myopathy with CASQ1 aggregates,0,1,1
+H02319,IMAGE syndrome,0,1,1
+H02318,Palmoplantar hyperkeratosis with squamous cell carcinoma of…,0,1,1
+H00579,"Hereditary angiopathy with nephropathy, aneurysms, and musc…",0,1,1
+H00578,Epstein syndrome,0,1,1
+H00576,Pierson syndrome,0,1,1
+H00574,Coffin-Lowry syndrome,0,1,1
+H00572,Roberts-SC phocomelia syndrome,0,1,1
+H01623,MDPL syndrome,0,1,1
+H01618,Pituitary gigantism,0,1,1
+H00587,"Epidermolysis bullosa, dystrophica",0,1,1
+H00585,"Epidermolysis bullosa, hemidesmosomal",0,1,1
+H00580,Schimke immunoosseous dysplasia,0,1,1
+H00263,Acrocallosal syndrome,0,1,1
+H00259,Apparent mineralocorticoid excess syndrome,0,1,1
+H00258,Aldosterone synthase deficiency,0,1,1
+H00253,Neurohypophyseal diabetes insipidus,0,1,1
+H02317,SERKAL syndrome,0,1,1
+H02316,"Adrenal insufficiency, NR5A1 related",0,1,1
+H02315,Disordered steroidogenesis due to cytochrome P450 oxidoredu…,0,1,1
+H02314,"Adrenal insufficiency, congenital, with 46XY sex reversal, …",0,1,1
+H02313,5-Oxoprolinase deficiency,0,1,1
+H02312,Glutathione synthetase deficiency,0,1,1
+H02309,Adenosine deaminase deficiency,0,1,1
+H02306,"Chondrodysplasia with joint dislocations, GPAPP type",0,1,1
+H02305,RERE-related neurodevelopmental syndrome,0,1,1
+H02304,Combined D-2- and L-2-hydroxyglutaric aciduria,0,1,1
+H00282,Cryopyrin associated periodic syndrome,0,1,1
+H00281,GM1 gangliosidosis,0,1,1
+H00571,Johanson-Blizzard syndrome,0,1,1
+H00569,Aarskog-Scott syndrome,0,1,1
+H00567,Limb-girdle muscular dystrophy 1C,0,1,1
+H00566,Distal myopathy with anterior tibial onset,0,1,1
+H00562,Dystrophinopathies,0,1,1
+H00561,Brachydactyly-mental retardation syndrome,0,1,1
+H01659,Pityriasis rubra pilaris,0,1,1
+H01653,Bipolar disorder,0,1,1
+H00276,Galactosialidosis,0,1,1
+H00275,Cystinosis,0,1,1
+H00274,Papillon-Lefevre syndrome,0,1,1
+H00273,Pycnodysostosis,0,1,1
+H00272,Multiple sulfatase deficiency,0,1,1
+H02300,Steel syndrome,0,1,1
+H02298,"Macrocephaly, dysmorphic facies, and psychomotor retardation",0,1,1
+H02297,CLAPO syndrome,0,1,1
+H02296,Basan syndrome,0,1,1
+H02295,Adermatoglyphia,0,1,1
+H02294,Tatton-Brown-Rahman syndrome,0,1,1
+H02293,Spastic paraplegia-psychomotor retardation-seizures syndrome,0,1,1
+H02292,"Retinal dystrophy, juvenile cataracts, and short stature sy…",0,1,1
+H02291,"Retinal dystrophy, iris coloboma, and comedogenic acne synd…",0,1,1
+H00553,Congenital supravalvar aortic stenosis,0,1,1
+H00548,Brunner syndrome,0,1,1
+H00540,"Osteoporosis, lymphedema, anhydrotic ectodermal dysplasia w…",0,1,1
+H01674,Ankylosing spondylitis,0,1,1
+H01671,Neurosis,0,1,1
+H01665,Primary peritoneal carcinoma,0,1,1
+H00526,Camptodactyly-arthropathy-coxa vara-pericarditis syndrome,0,1,1
+H00524,Scapuloperoneal spinal muscular atrophy,0,1,1
+H01683,Disorders of antidiuretic hormone (ADH) secretion,0,1,1
+H01682,Syndrome of inappropriate antidiuretic hormone secretion,0,1,1
+H00555,Char syndrome,0,1,1
+H02290,Retinal dystrophy and iris coloboma with congenital cataract,0,1,1
+H02289,Retinal dystrophy with or without extraocular anomalies,0,1,1
+H02288,Retinal dystrophy with inner retinal dysfunction and gangli…,0,1,1
+H02287,"Deafness, dystonia, and cerebral hypomyelination",0,1,1
+H02286,"Congenital deafness with inner ear agenesis, microtia, and …",0,1,1
+H02285,Methylmalonate semialdehyde dehydrogenase deficiency,0,1,1
+H02284,Leukotriene C4 synthase deficiency,0,1,1
+H02283,IVIC syndrome,0,1,1
+H02282,"Spastic tetraplegia, thin corpus callosum, and progressive …",0,1,1
+H02281,Isolated anhidrosis with normal sweat glands,0,1,1
+H02280,Complex lethal osteochondrodysplasia,0,1,1
+H02279,Cathepsin D deficiency,0,1,1
+H02278,Jansky-Bielschowsky disease,0,1,1
+H02277,Santavuori-Haltia disease,0,1,1
+H02275,Batten disease,0,1,1
+H02274,"Cerebellar atrophy, visual impairment, and psychomotor reta…",0,1,1
+H00518,Metaphyseal dysplasia without hypotrichosis,0,1,1
+H00515,Atelosteogenesis type II,0,1,1
+H00508,Blomstrand syndrome,0,1,1
+H01702,Glucocorticoid resistance syndrome,0,1,1
+H01699,Isolated TSH deficiency,0,1,1
+H00539,PTEN hamartoma tumor syndrome,0,1,1
+H00536,Cerebral autosomal dominant arteriopathy with subcortical i…,0,1,1
+H00532,Parkes Weber syndrome,0,1,1
+H01720,Southeast Asian ovalocytosis,0,1,1
+H00521,Cleidocranial dysplasia,0,1,1
+H00520,Type II collagenopathies,0,1,1
+H00519,Spondyloepiphyseal dysplasia congenita,0,1,1
+H02273,Nonprogressive cerebellar ataxia with mental retardation,0,1,1
+H02272,CAPOS syndrome,0,1,1
+H02271,Cerebellofaciodental syndrome,0,1,1
+H02270,Cavitary optic disc anomalies,0,1,1
+H02269,Familial ventricular tachycardia,0,1,1
+H02268,Wieacker-Wolff syndrome,0,1,1
+H02267,Wilson-Turner syndrome,0,1,1
+H02266,"Palmoplantar keratoderma, Bothnian type",0,1,1
+H02264,"Palmoplantar keratoderma, Nagashima type",0,1,1
+H02261,PEBAT,0,1,1
+H02260,Chondrodysplasia Chassaing-Lacombe type,0,1,1
+H02259,Stormorken syndrome,0,1,1
+H02257,Factor X deficiency,0,1,1
+H02256,Factor VII deficiency,0,1,1
+H02255,FDLAB syndrome,0,1,1
+H02254,Craniosynostosis and dental anomalies,0,1,1
+H00501,"Fibrous dysplasia, polyostotic",0,1,1
+H00500,Keutel syndrome,0,1,1
+H00499,Spondylocarpotarsal synostosis syndrome,0,1,1
+H00498,Gnathodiaphyseal dysplasia,0,1,1
+H00497,Cherubism,0,1,1
+H00496,Congenital hemidysplasia with ichthyosiform nevus and limb …,0,1,1
+H00495,Eiken dysplasia,0,1,1
+H00492,SHOX-related short stature,0,1,1
+H01741,Autoinflammation lipodystrophy and dermatosis syndrome,0,1,1
+H01737,Epidermolysis bullosa,0,1,1
+H01733,Werner syndrome,0,1,1
+H01732,Angelman syndrome,0,1,1
+H01731,Fragile X tremor/ataxia syndrome,0,1,1
+H00488,MCAD deficiency,0,1,1
+H00487,Tricho-dento-osseous syndrome,0,1,1
+H00483,Angel shaped phalangoepiphyseal dysplasia,0,1,1
+H00477,Pseudoachondroplasia,0,1,1
+H01757,Cerebral autosomal recessive arteriopathy with subcortical …,0,1,1
+H01755,Apert syndrome,0,1,1
+H01752,ATR-X syndrome,0,1,1
+H01751,Weaver syndrome,0,1,1
+H01750,Thanatophoric dysplasia,0,1,1
+H01749,Achondroplasia,0,1,1
+H01748,NLRC4 inflammasomopathy,0,1,1
+H01747,Costello syndrome,0,1,1
+H01746,STING-associated vasculopathy with onset in infancy,0,1,1
+H01743,Autoinflammation and PLCG2-associated antibody deficiency a…,0,1,1
+H00505,FGFR3-related short limb skeletal dysplasia,0,1,1
+H00502,Pallister-Hall syndrome,0,1,1
+H01775,PCDH19-related epilepsy syndrome,0,1,1
+H01772,"Adrenal hypoplasia, congenital",0,1,1
+H01769,ZTTK syndrome,0,1,1
+H00491,Craniometaphyseal dysplasia,0,1,1
+H00490,Diaphyseal dysplasia with anemia,0,1,1
+H00489,LCHAD deficiency,0,1,1
+H00295,Viral myocarditis,0,1,1
+H00288,Familial Mediterranean fever,0,1,1
+H00287,"Pyogenic sterile arthritis, pyoderma gangrenosum, and acne …",0,1,1
+H00285,Blau syndrome,0,1,1
+H02253,Beaulieu-Boycott-Innes syndrome,0,1,1
+H02252,PEHO syndrome,0,1,1
+H02250,Early-onset vitamin B6-dependent epilepsy,0,1,1
+H02249,Primrose syndrome,0,1,1
+H02248,MEND syndrome,0,1,1
+H02247,Ehlers-Danlos syndrome myopathic type,0,1,1
+H02244,Ehlers-Danlos syndrome dermatosparaxis type,0,1,1
+H02242,Ehlers-Danlos syndrome vascular type,0,1,1
+H02241,Ehlers-Danlos syndrome cardiac valvular type,0,1,1
+H01798,Autosomal dominant neovascular inflammatory vitreoretinopat…,0,1,1
+H01797,Webb-Dattani syndrome,0,1,1
+H01794,Genitopatellar syndrome,0,1,1
+H01793,Young-Simpson syndrome,0,1,1
+H01791,Smith-Magenis syndrome,0,1,1
+H01789,You-Hoover-Fong syndrome,0,1,1
+H01779,Neuroferritinopathy,0,1,1
+H01777,Schwartz-Jampel syndrome,0,1,1
+H00311,Legionellosis,0,1,1
+H02236,Keppen-Lubinsky syndrome,0,1,1
+H02235,Morbid obesity and spermatogenic failure,0,1,1
+H02234,Hamamy syndrome,0,1,1
+H02233,Alazami syndrome,0,1,1
+H02232,CAGSSS syndrome,0,1,1
+H02231,Optic disc anomalies with retinal and/or macular dystrophy,0,1,1
+H02230,X-linked cardiac valvular dysplasia,0,1,1
+H02229,Terminal osseous dysplasia,0,1,1
+H02228,Acromicric dysplasia,0,1,1
+H02226,Cardiospondylocarpofacial syndrome,0,1,1
+H02224,Grange syndrome,0,1,1
+H02223,Osteocraniostenosis,0,1,1
+H02222,"Methylmalonic acidemia and hyperhomocysteinemia, cblX type",0,1,1
+H02220,MEDNIK syndrome,0,1,1
+H02219,DDOD syndrome,0,1,1
+H02218,DOORS syndrome,0,1,1
+H02212,Familial infantile myoclonic epilepsy,0,1,1
+H02210,Acromelic frontonasal dysostosis,0,1,1
+H00472,Torg syndrome,0,1,1
+H00470,"Acromesomelic dysplasia, Maroteaux type",0,1,1
+H00468,"Acromesomelic dysplasia, Demirhan type",0,1,1
+H00467,Fibular hypoplasia and complex brachydactyly,0,1,1
+H00466,Grebe dysplasia,0,1,1
+H00465,Fragile X syndrome,0,1,1
+H00464,Nail-patella syndrome,0,1,1
+H00463,Currarino syndrome,0,1,1
+H00461,Ischiocoxopodopatellar syndrome,0,1,1
+H00460,Hand-foot-genital syndrome,0,1,1
+H01800,Verheij syndrome,0,1,1
+H01799,Vibratory urticaria,0,1,1
+H01825,"Spondylometaphyseal dysplasia, Sedaghatian type",0,1,1
+H01824,CODAS syndrome,0,1,1
+H01821,Spondylometaphyseal dysplasia with cone-rod dystrophy,0,1,1
+H01820,Carney complex,0,1,1
+H01818,Dravet syndrome,0,1,1
+H01817,Beukes hip dysplasia,0,1,1
+H01816,Frank-ter Haar syndrome,0,1,1
+H01814,Stromme syndrome,0,1,1
+H01813,Lennox-Gastaut syndrome,0,1,1
+H01809,Sturge-Weber syndrome,0,1,1
+H01808,Hemiconvulsion-hemiplegia-epilepsy syndrome,0,1,1
+H01806,Tenorio syndrome,0,1,1
+H00474,Schneckenbecken dysplasia,0,1,1
+H01839,Burn-McKeown syndrome,0,1,1
+H01838,Mandibulofacial dysostosis with microcephaly,0,1,1
+H01836,Congenital pain insensitivity with anhidrosis,0,1,1
+H01834,Marshall-Smith syndrome,0,1,1
+H01832,Lenz-Majewski syndrome,0,1,1
+H01830,"Spondylometaphyseal dysplasia, Megarbane-Dagher-Melki type",0,1,1
+H01828,Opsismodysplasia,0,1,1
+H02209,HARP syndrome,0,1,1
+H02208,Pantothenate kinase-associated neurodegeneration,0,1,1
+H02207,Kufor-Rakeb syndrome,0,1,1
+H02206,Aceruloplasminemia,0,1,1
+H02205,Mucopolysaccharidosis-plus syndrome,0,1,1
+H02204,Hereditary hyperferritinaemia-cataract syndrome,0,1,1
+H02203,Optic nerve hypoplasia,0,1,1
+H02202,Oblique facial cleft,0,1,1
+H02201,Mitochondrial myopathy with lactic acidosis,0,1,1
+H02200,"Leukoencephalopathy, progressive, with ovarian failure",0,1,1
+H02198,Pancreatic agenesis and congenital heart disease,0,1,1
+H02197,Mitochondrial pyruvate carrier deficiency,0,1,1
+H02196,X-linked creatine deficiency syndrome,0,1,1
+H02195,MEHMO syndrome,0,1,1
+H02194,North American Indian childhood cirrhosis,0,1,1
+H02190,CBL syndrome,0,1,1
+H00449,Oculodentodigital dysplasia,0,1,1
+H00448,Familial osteochondritis dissecans,0,1,1
+H00447,HEM skeletal dysplasia,0,1,1
+H00446,Craniofacial-deafness-hand syndrome,0,1,1
+H00445,Osteoarthritis with mild chondrodysplasia,0,1,1
+H00444,Osteopathia striata with cranial sclerosis,0,1,1
+H01853,Chronic nonspecific multiple ulcers of the small intestine,0,1,1
+H01850,Hartsfield syndrome,0,1,1
+H01847,Thrombocytopenia-absent radius syndrome,0,1,1
+H01845,Catel-Manzke syndrome,0,1,1
+H01844,Diaphanospondylodysostosis,0,1,1
+H01843,Cerebrocostomandibular syndrome,0,1,1
+H01870,Microhydranencephaly,0,1,1
+H01865,Multicentric carpotarsal osteolysis syndrome,0,1,1
+H01861,Chromosome 15q24 microdeletion syndrome,0,1,1
+H01859,Occipital horn syndrome,0,1,1
+H01857,Filippi syndrome,0,1,1
+H01854,Metacarpal 4-5 fusion,0,1,1
+H00456,Fronto-otopalatodigital syndromes,0,1,1
+H00452,Buschke-Ollendorff syndrome,0,1,1
+H00451,Osteoporosis-pseudoglioma syndrome,0,1,1
+H00450,Worth type autosomal dominant osteosclerosis,0,1,1
+H00443,Osteoglophonic dysplasia,0,1,1
+H00442,Campomelic dysplasia,0,1,1
+H00441,Progressive osseous heteroplasia,0,1,1
+H00434,Camurati-Engelmann disease,0,1,1
+H00433,Holt-Oram syndrome,0,1,1
+H00432,Hereditary dentine disorders,0,1,1
+H00430,Fibrodysplasia ossificans progressiva,0,1,1
+H00429,Proximal renal tubular acidosis (RTA type 2),0,1,1
+H01883,Nestor-Guillermo progeria syndrome,0,1,1
+H01878,Al-Raqad syndrome,0,1,1
+H01876,"Microcephaly with or without chorioretinopathy, lymphedema,…",0,1,1
+H01872,Microcephaly-capillary malformation syndrome,0,1,1
+H01898,PNPLA6-related disorders,0,1,1
+H01896,Aplasia cutis congenita,0,1,1
+H01893,Lateral meningocele syndrome,0,1,1
+H01886,Van den Ende-Gupta syndrome,0,1,1
+H00417,Alstrom syndrome,0,1,1
+H00317,Melioidosis,0,1,1
+H02189,Neurofibromatosis-Noonan syndrome,0,1,1
+H02188,Watson syndrome,0,1,1
+H02186,"Spondyloepiphyseal dysplasia, Maroteaux type",0,1,1
+H02184,Metatropic dysplasia,0,1,1
+H02183,Parastremmatic dwarfism,0,1,1
+H02182,"Distal myopathy, Tateyama type",0,1,1
+H02181,Idiopathic hyperCKemia,0,1,1
+H02180,McKusick-Kaufman syndrome,0,1,1
+H02179,Rippling muscle disease,0,1,1
+H02178,MASA syndrome,0,1,1
+H02177,Androgen insensitivity syndrome,0,1,1
+H02176,Cryptorchidism,0,1,1
+H02174,Sudden infant death with dysgenesis of the testes syndrome,0,1,1
+H02168,Hypotrichosis-lymphedema-telangiectasia syndrome,0,1,1
+H01919,Proud syndrome,0,1,1
+H01918,Familial autosomal recessive hypercholesterolemia,0,1,1
+H01917,CK syndrome,0,1,1
+H01916,Stocco dos Santos X-linked mental retardation syndrome,0,1,1
+H01915,Borjeson-Forssman-Lehmann syndrome,0,1,1
+H01914,Christianson syndrome,0,1,1
+H01913,Renpenning syndrome,0,1,1
+H01912,"Congenital lipomatous overgrowth, vascular malformations, a…",0,1,1
+H01909,Hypoinsulinemic hypoglycemia with hemihypertrophy,0,1,1
+H01908,Carey-Fineman-Ziter syndrome,0,1,1
+H01907,Acid-labile subunit deficiency,0,1,1
+H01906,"Poikiloderma, hereditary fibrosing, with tendon contracture…",0,1,1
+H01905,Trichomegaly,0,1,1
+H01943,Glycogen storage disease type V,0,1,1
+H01942,Glycogen storage disease type IV,0,1,1
+H01941,Glycogen storage disease type III,0,1,1
+H01940,Glycogen storage disease type II,0,1,1
+H01937,"Multinucleated neurons, anhydramnios, renal dysplasia, cere…",0,1,1
+H01936,Hyperbiliverdinemia,0,1,1
+H01934,Barber-Say syndrome,0,1,1
+H01932,Ablepharon-macrostomia syndrome,0,1,1
+H01931,Lethal-type popliteal pterygium syndrome,0,1,1
+H01930,Au-Kline syndrome,0,1,1
+H01929,"2,4-Dienoyl-CoA reductase deficiency",0,1,1
+H01928,Smith-Kingsmore syndrome,1,1,1
+H01925,Transient neonatal zinc deficiency,0,1,1
+H01921,MICPCH syndrome,0,1,1
+H01920,Partington syndrome,0,1,1
+H01962,Congenital muscular dystrophy type 1D,0,1,1
+H01961,Congenital muscular dystrophy type 1C,0,1,1
+H01958,Merosin-deficient congenital muscular dystrophy,0,1,1
+H01957,Fukuyama congenital muscular dystrophy,0,1,1
+H01956,Glycogen storage disease of heart,0,1,1
+H01955,Glycogen storage disease type XV,0,1,1
+H01954,Glycogen storage disease type XIV,0,1,1
+H01953,Glycogen storage disease type XIII,0,1,1
+H01952,Glycogen storage disease type XII,0,1,1
+H01951,Glycogen storage disease type X,0,1,1
+H01950,Glycogen storage disease type 0a,0,1,1
+H01949,Glycogen storage disease type 0b,0,1,1
+H01947,Fanconi-Bickel syndrome,0,1,1
+H01946,Glycogen storage disease type XI,0,1,1
+H01945,Glycogen storage disease type VII,0,1,1
+H01944,Glycogen storage disease type VI,0,1,1
+H00392,VLCAD deficiency,0,1,1
+H01964,Becker muscular dystrophy,0,1,1
+H02167,Lymphedema-distichiasis syndrome,0,1,1
+H02161,Greig cephalopolysyndactyly syndrome,0,1,1
+H02156,Lamb-Shaffer syndrome,0,1,1
+H02155,Dyssegmental dysplasia,0,1,1
+H02153,Megalencephaly-capillary malformation syndrome,0,1,1
+H02152,Transient familial neonatal hyperbilirubinemia,0,1,1
+H02151,Hereditary congenital facial paresis,0,1,1
+H02149,X-linked hypercalciuric nephrolithiasis,0,1,1
+H02148,Low molecular weight proteinuria with hypercalciuria and ne…,0,1,1
+H02147,X-linked recessive nephrolithiasis with renal failure,0,1,1
+H02146,Glass syndrome,0,1,1
+H02145,Calcium oxalate nephrolithiasis,0,1,1
+H02144,Gordon Holmes syndrome,0,1,1
+H02143,X-linked dominant hypophosphatemic rickets,0,1,1
+H02142,X-linked recessive hypophosphatemic rickets,0,1,1
+H02141,Autosomal dominant hypophosphatemic rickets,0,1,1
+H02140,Boucher-Neuhauser syndrome,0,1,1
+H02138,Hereditary hypophophatemic rickets with hypercalciuria,0,1,1
+H02137,Laurence-Moon syndrome,0,1,1
+H02136,Branched-chain ketoacid dehydrogenase kinase deficiency,0,1,1
+H02134,Microphthalmia with limb anomalies,0,1,1
+H02133,Vici syndrome,0,1,1
+H02129,Prune belly syndrome,0,1,1
+H02127,Yunis-Varon syndrome,0,1,1
+H02126,Mandibulofacial dysostosis with alopecia,0,1,1
+H01989,Beare-Stevenson syndrome,0,1,1
+H01987,Familial dysautonomia,0,1,1
+H01986,Legius syndrome,0,1,1
+H01983,Carnitine-acylcarnitine translocase deficiency,0,1,1
+H01982,Carnitine palmitoyltransferase II deficiency,0,1,1
+H01981,Carnitine palmitoyltransferase I deficiency,0,1,1
+H01980,SCAD deficiency,0,1,1
+H01979,Overhydrated hereditary stomatocytosis,0,1,1
+H01977,Laing distal myopathy,0,1,1
+H01976,Tibial muscular dystrophy,0,1,1
+H01975,Welander distal myopathy,0,1,1
+H01974,Limb-girdle muscular dystrophy 2B,0,1,1
+H01973,Fertile eunuch syndrome,0,1,1
+H01972,Autoimmune polyendocrinopathy syndrome type 1,0,1,1
+H01971,IPEX syndrome,0,1,1
+H01966,Cartilage-hair hypoplasia,0,1,1
+H00375,SBCAD deficiency,0,1,1
+H01997,Pyruvate dehydrogenase E1-alpha deficiency,0,1,1
+H01996,Pyruvate dehydrogenase phosphatase deficiency,0,1,1
+H01995,Unverricht-Lundborg disease,0,1,1
+H01993,Baller-Gerold syndrome,0,1,1
+H01992,Craniofrontonasal syndrome,0,1,1
+H01990,Muenke syndrome,0,1,1
+H02015,LIG4 syndrome,0,1,1
+H02013,Glycerol kinase deficiency,0,1,1
+H02010,Galactose epimerase deficiency,0,1,1
+H02009,Galactokinase deficiency,0,1,1
+H02008,Galactose-1P uridylyltransferase deficiency,0,1,1
+H02007,GRACILE syndrome,0,1,1
+H02004,Fumarase deficiency,0,1,1
+H02003,Pyruvate dehydrogenase E3-binding protein deficiency,0,1,1
+H02002,Cryohydrocytosis,0,1,1
+H02000,Dihydrolipoamide dehydrogenase deficiency,0,1,1
+H01999,Pyruvate dehydrogenase E2 deficiency,0,1,1
+H01998,Pyruvate dehydrogenase E1-beta deficiency,0,1,1
+H02125,Cardiac conduction disease with or without dilated cardiomy…,0,1,1
+H02124,Interstitial lung and liver disease,0,1,1
+H02122,Chronic atrial and intestinal dysrhythmia,0,1,1
+H02040,Insulin-like growth factor I deficiency,0,1,1
+H02039,Kowarski syndrome,0,1,1
+H02038,X-linked panhypopituitarism,0,1,1
+H02037,Laron syndrome,0,1,1
+H02034,Central hypothyroidism and testicular enlargement,0,1,1
+H02025,Myeloperoxidase deficiency,0,1,1
+H02021,Chediak-Higashi syndrome,0,1,1
+H02020,Aromatase deficiency,0,1,1
+H02019,Familial male-limited precocious puberty,0,1,1
+H02017,Sandhoff disease,0,1,1
+H02016,Tay-Sachs disease,0,1,1
+H02121,Koolen-De Vries syndrome,0,1,1
+H02119,Proteus syndrome,0,1,1
+H02118,Agnathia-otocephaly complex,0,1,1
+H02116,Phosphoserine phosphatase deficiency,0,1,1
+H02115,Congenital aural atresia,0,1,1
+H02114,"Spastic paraplegia, optic atrophy, and neuropathy",0,1,1
+H02113,Infantile cerebellar-retinal degeneration,0,1,1
+H02112,Persistent hyperplastic primary vitreous,0,1,1
+H02110,Doyne honeycomb retinal dystrophy,0,1,1
+H02109,Combined malonic and methylmalonic aciduria,0,1,1
+H02108,Basal laminar drusen,0,1,1
+H02107,Bietti crystalline corneoretinal dystrophy,0,1,1
+H02105,Prohormone convertase 1/3 deficiency,0,1,1
+H02104,Megalocornea,0,1,1
+H02103,DeSanto-Shinawi syndrome,0,1,1
+H02102,Myhre syndrome,0,1,1
+H02045,Norrie disease,0,1,1
+H02044,Cutaneous and mucosal venous malformation,0,1,1
+H02042,Familial expansile osteolysis,0,1,1
+H02062,Familial digital arthropathy-brachydactyly,0,1,1
+H02061,Estrogen resistance syndrome,0,1,1
+H02060,Leptin receptor deficiency,0,1,1
+H02059,Leptin deficiency,0,1,1
+H02058,Kohlschutter-Tonz syndrome,0,1,1
+H02056,Dubin-Johnson syndrome,0,1,1
+H02055,Gilbert syndrome,0,1,1
+H02054,Crigler-Najjar syndrome,0,1,1
+H02053,Fechtner syndrome,0,1,1
+H02052,Sebastian syndrome,0,1,1
+H02051,May-Hegglin anomaly,0,1,1
+H02050,Prepubertal periodontitis,0,1,1
+H02048,Larsen syndrome,0,1,1
+H02047,Bohring-Opitz syndrome,0,1,1
+H02101,Autosomal dominant sensory ataxia,0,1,1
+H02100,Peroxisomal fatty acyl-CoA reductase 1 disorder,0,1,1
+H02099,Alpha-methylacyl-CoA racemase deficiency,0,1,1
+H02098,D-bifunctional protein deficiency,0,1,1
+H02097,Gray platelet syndrome,0,1,1
+H02096,Peroxisomal acyl-CoA oxidase deficiency,0,1,1
+H02094,Carvajal syndrome,0,1,1
+H02093,Platelet-type von Willebrand disease,0,1,1
+H02092,von Willebrand disease,0,1,1
+H02090,Trehalase deficiency,0,1,1
+H02089,Winchester syndrome,0,1,1
+H02088,Primary intraosseous vascular malformation,0,1,1
+H02085,Acyl-CoA dehydrogenase 9 deficiency,0,1,1
+H02084,Native American myopathy,0,1,1
+H02082,Floating-Harbor syndrome,0,1,1
+H02081,Marshall syndrome,0,1,1
+H02079,Oto-spondylo-megaepiphyseal dysplasia,0,1,1
+H02078,Autosomal dominant vitreoretinochoroidopathy,0,1,1
+H02077,Snowflake vitreoretinal degeneration,0,1,1
+H02075,Enhanced S-cone syndrome,0,1,1
+H02074,Knobloch syndrome,0,1,1
+H02073,Wagner syndrome,0,1,1
+H02071,Czech dysplasia,0,1,1
+H02070,Kniest dysplasia,0,1,1
+H02069,SADDAN,0,1,1
+H02068,Hypochondroplasia,0,1,1
+H02067,Boomerang dysplasia,0,1,1
+H02066,Achondrogenesis type II,0,1,1
+H02065,Achondrogenesis type IB,0,1,1
+H02064,Atelosteogenesis type I and III,0,1,1
+H02063,Diastrophic dysplasia,0,1,1
+H02625,Primordial dwarfism-immunodeficiency-lipodystrophy syndrome,0,1,1
+H02622,Shukla-Vernon syndrome,0,1,1
+H02621,X-linked systemic autoinflammatory disease,0,1,1
+H02620,Autoinflammation with episodic fever and lymphadenopathy,0,1,1
+H02619,"Hypotonia, ataxia, developmental delay, and tooth enamel de…",0,1,1
+H02618,Developmental delay with variable intellectual disability a…,0,1,1
+H02615,Parenti-Mignot neurodevelopmental syndrome,0,1,1
+H02614,Snijders Blok-Campeau syndrome,0,1,1
+H02613,Brunet-Wagner neurodevelopmental syndrome,0,1,1
+H02612,Radio-Tartaglia syndrome,0,1,1
+H02611,Turnpenny-Fry syndrome,0,1,1
+H02609,Craniodiaphyseal dysplasia,0,1,1
+H02608,Autoinflammatory-pancytopenia syndrome,0,1,1
+H02607,Short stature and microcephaly with genital anomalies,0,1,1
+H00071,Hereditary fructose intolerance,0,1,1
+H00067,Friedreich ataxia,0,1,1
+H00965,RAPADILINO syndrome,0,1,1
+H00964,Thiopurine S-methyltransferase deficiency (TPMT deficiency),0,1,1
+H00963,Congenital hereditary endothelial dystrophy,0,1,1
+H00962,RIDDLE syndrome,0,1,1
+H00959,Schnyder corneal dystrophy,0,1,1
+H00958,Congenital stromal corneal dystrophy,0,1,1
+H00957,Fleck corneal dystrophy,0,1,1
+H00956,Lattice corneal dystrophies,0,1,1
+H02638,Zaki syndrome,0,1,1
+H02637,"Brachycephaly, trichomegaly, and developmental delay",0,1,1
+H02635,Poirier-Bienvenu neurodevelopmental syndrome,0,1,1
+H02634,"Deafness, cataract, impaired intellectual development, and …",0,1,1
+H02633,Beck-Fahrner syndrome,0,1,1
+H02631,Melorheostosis,0,1,1
+H02630,Chitayat syndrome,0,1,1
+H02605,Congenital pulmonary venous stenosis,0,0,0
+H02626,Kalamiella piersonii infection,0,0,0
+H02076,Bacteroides infection,0,0,0
+H01051,Corynebacterium ulcerans infection,0,0,0
+H01050,Tsukamurella infection,0,0,0
+H01049,Gordonia bronchialis infection,0,0,0
+H01048,Liver fluke disease,0,0,0
+H01047,Cysticercosis,0,0,0
+H01046,Trichuriasis,0,0,0
+H01045,Schistosomiasis,0,0,0
+H01044,Dracunculiasis,0,0,0
+H01043,Onchocerciasis,0,0,0
+H01042,Buruli ulcer,0,0,0
+H01041,Aerococcus urinae infection,0,0,0
+H01073,Shewanella infection,0,0,0
+H01072,Moraxella catarrhalis infection,0,0,0
+H01070,Vibrio furnissii infection,0,0,0
+H01069,Stenotrophomonas maltophilia infection,0,0,0
+H01068,Aggregatibacter aphrophilus infection,0,0,0
+H00346,Extrinsic allergic alveolitis,0,0,0
+H00345,Nocardiosis,0,0,0
+H00343,Diphtheria,0,0,0
+H00341,Mycoplasma pneumonia,0,0,0
+H00340,Vancomycin-resistant enterococci infection,0,0,0
+H00339,Botulism,0,0,0
+H00338,Pseudomembranous colitis,0,0,0
+H00337,Tetanus,0,0,0
+H00336,Gas gangrene,0,0,0
+H00335,Foodborne Clostridium perfringens intoxication,0,0,0
+H00334,Bacterial endocarditis,0,0,0
+H00333,Streptococcal infection,0,0,0
+H00332,Listeriosis,0,0,0
+H02033,Mucormycosis,0,0,0
+H02032,Entomophthoramycosis,0,0,0
+H02029,Mycobacterium avium complex (MAC) pulmonary disease,0,0,0
+H02162,Viral hepatitis,0,0,0
+H02128,Defects in lysosomal trafficking,0,0,0
+H00347,Chlamydia infection,0,0,0
+H00374,Viral wart,0,0,0
+H00373,Monkeypox,0,0,0
+H00372,Smallpox,0,0,0
+H00371,Adenovirus infection,0,0,0
+H00370,Progressive multifocal leukoencephalopathy,0,0,0
+H00369,Exanthema subitum,0,0,0
+H00367,Infectious mononucleosis,1,0,0
+H00366,Varicella,0,0,0
+H00364,Cryptococcosis,0,0,0
+H00379,Mosquito-borne viral encephalitis,0,0,0
+H00378,Lyssavirus infection,0,0,0
+H00377,Rabies,0,0,0
+H00376,Acute poliomyelitis,0,0,0
+H00391,Henipavirus infection,0,0,0
+H00390,Hantavirus pulmonary syndrome,0,0,0
+H00389,Hemorrhagic fever with renal syndrome,0,0,0
+H00388,Non-chlamydial non-gonococcal urethritis,0,0,0
+H00387,B virus infection,0,0,0
+H00386,Lassa fever,0,0,0
+H00385,South American hemorrhagic fever,0,0,0
+H00384,Yellow fever,0,0,0
+H00383,Arthropod-borne viral fever,0,0,0
+H00382,Mosquito-borne viral fever,0,0,0
+H00381,Dengue,0,0,0
+H00380,Tick-borne viral encephalitis,0,0,0
+H02166,Saint Louis encephalitis,0,0,0
+H02165,Colorado tick fever,0,0,0
+H02164,Sandfly fever,0,0,0
+H02163,Oropouche fever,0,0,0
+H00324,Scrub typhus,0,0,0
+H00323,Spotted fever,0,0,0
+H00322,Epidemic typhus,0,0,0
+H00321,Campylobacter infection,0,0,0
+H00320,Helicobacter pylori infection,0,0,0
+H00319,Pertussis,0,0,0
+H00316,Glanders,0,0,0
+H00315,Gonococcal infection,0,0,0
+H02173,Arenaviral hemorrhagic fever,0,0,0
+H02171,Rocio viral encephalitis,0,0,0
+H00411,Hepatitis A,0,0,0
+H00406,Acquired immunodeficiency syndrome (AIDS),1,0,0
+H00405,Marburg disease,0,0,0
+H01924,Sydenham chorea,0,0,0
+H00395,Rubella,0,0,0
+H00393,Enterovirus infection,0,0,0
+H00401,Respiratory syncytial virus infection,0,0,0
+H00400,Parainfluenza infection,0,0,0
+H00399,Avian influenza,0,0,0
+H00397,Ross River fever,0,0,0
+H00396,Mumps,0,0,0
+H00427,Relapsing fever,0,0,0
+H00416,Omsk hemorrhagic fever,0,0,0
+H00415,Hepatitis E,0,0,0
+H00414,Hepatitis D,0,0,0
+H00331,Vancomycin-resistant Staphylococcal aureus (VRSA) infection,0,0,0
+H00330,Methicillin-resistant Staphylococcal aureus (MRSA) infection,0,0,0
+H00329,Foodborne Bacillus cereus intoxication,0,0,0
+H00328,Anthrax,0,0,0
+H00327,Trench fever,0,0,0
+H00326,Bartonellosis,0,0,0
+H00325,Brucellosis,0,0,0
+H01851,Congenital scoliosis associated with rib anomalies,0,0,0
+H01849,Peripheral arteriovenous malformation,0,0,0
+H01848,Acquired idiopathic generalized anhidrosis,0,0,0
+H01846,Superficial siderosis,0,0,0
+H01871,Isolated hypoganglionosis,0,0,0
+H01863,Atopic myelitis,0,0,0
+H01860,Abnormal pituitary gonadotropin secretion,0,0,0
+H01858,Persistent cloaca,0,0,0
+H01856,Cloacal exstrophy,0,0,0
+H01855,Biliary atresia,0,0,0
+H00435,Toxoplasmosis,0,0,0
+H01875,Infantile hepatic hemangioma,0,0,0
+H01874,Cronkhite-Canada syndrome,0,0,0
+H01873,Obliterative bronchiolitis,0,0,0
+H00404,Erythema infectiosum,0,0,0
+H00402,Severe acute respiratory syndrome,0,0,0
+H01804,Isaacs syndrome,0,0,0
+H01803,Pulmonary atresia with ventricular septal defect,0,0,0
+H01802,Pulmonary atresia with intact ventricular septum,0,0,0
+H01801,Kagami-Ogata syndrome,0,0,0
+H01823,Myoclonic-astatic epilepsy,0,0,0
+H01822,Epilepsy with myoclonic absence,0,0,0
+H01811,Arima syndrome,0,0,0
+H01842,Bickerstaff brainstem encephalitis,0,0,0
+H01841,Acute encephalopathy with biphasic seizures and late reduce…,0,0,0
+H01840,Moebius syndrome,0,0,0
+H01837,Congenital suprabulbar paresis,0,0,0
+H01835,Neuronal migration disorder,1,0,0
+H01833,Hemimegalencephaly,0,0,0
+H01831,Ring chromosome 20 syndrome,0,0,0
+H01829,Acute encephalitis with refractory repetitive partial seizu…,0,0,0
+H01826,Mesial temporal lobe epilepsy with hippocampal sclerosis,0,0,0
+H01785,Tricuspid atresia,0,0,0
+H01783,Ebstein anomaly,0,0,0
+H01782,Eosinophilic gastrointestinal disorder,0,0,0
+H00313,Multidrug-resistant Pseudomonas aeruginosa infection,0,0,0
+H00312,Tularemia,0,0,0
+H00310,Q fever,0,0,0
+H00309,Multidrug-resistant Acinetobacter infection,0,0,0
+H00308,Vibrio vulnificus infection,0,0,0
+H00307,Vibrio parahaemolyticus infection,0,0,0
+H00306,Pasteurellosis,0,0,0
+H00305,Chancroid,0,0,0
+H00304,Haemophilus influenzae infection,0,0,0
+H00303,Serratia infection,0,0,0
+H00302,Citrobacter infection,0,0,0
+H00301,Klebsiella infection,0,0,0
+H00300,Enterobacter infection,0,0,0
+H01770,Macular dystrophy,0,0,0
+H01767,Henoch-Schonlein purpura nephritis,0,0,0
+H01766,Juvenile retinoschisis,0,0,0
+H01765,Eosinophilic sinusitis,0,0,0
+H01764,Polysplenia syndrome,0,0,0
+H01761,Immunoglobulin G4-related disease,0,0,0
+H01759,Autoimmune acquired factor XIII (F13) deficiency,0,0,0
+H01758,Relapsing polychondritis,0,0,0
+H00284,Crimean-Congo hemorrhagic fever,0,0,0
+H00283,Ebola disease,0,0,0
+H00314,Meningococcal infection,0,0,0
+H01792,1p36 deletion syndrome,0,0,0
+H01790,Emanuel syndrome,0,0,0
+H01788,Klippel-Trenaunay-Weber syndrome,0,0,0
+H01787,Univentricular heart,0,0,0
+H01786,Congenitally corrected transposition of the great arteries,0,0,0
+H01725,Primary immunodeficiency disease,0,0,0
+H01724,HTLV1-associated myelopathy,0,0,0
+H01721,Anti-glomerular basement membrane (GBM) disease,0,0,0
+H01719,Optic neuropathy,0,0,0
+H01718,Kawasaki disease,0,0,0
+H01717,Optic neuritis,0,0,0
+H01716,Idiopathic interstitial pneumonias,0,0,0
+H01715,Obesity hypoventilation syndrome,0,0,0
+H01712,Fulminant hepatic failure,0,0,0
+H01711,Spinal stenosis,0,0,0
+H01710,Mixed connective tissue disease,0,0,0
+H01739,Polycystic ovary syndrome,0,0,0
+H01735,Lymphangiomatosis,0,0,0
+H01729,Premature ventricular complexes,0,0,0
+H01776,Aicardi syndrome,0,0,0
+H01771,Congenital ichthyosis,0,0,0
+H01687,Extrahepatic portal vein obstruction,0,0,0
+H01686,Idiopathic portal hypertension,0,0,0
+H01685,Autoimmune hepatitis,0,0,0
+H01684,Primary sclerosing cholangitis,0,0,0
+H01681,Acute pancreatitis,0,0,0
+H01680,Chronic pancreatitis,0,0,0
+H01679,Intrahepatic lithiasis,0,0,0
+H01708,Diffuse idiopathic skeletal hyperostosis,0,0,0
+H01707,Ossified ligamentum flavum,0,0,0
+H01706,Delayed endolymphatic hydrops,0,0,0
+H01704,Sudden sensorineural hearing loss,0,0,0
+H01701,Pituitary TSH hypersecretion,0,0,0
+H01697,Antiphospholipid syndrome,0,0,0
+H01696,Subacute sclerosing panencephalitis,0,0,0
+H01695,Erythema multiforme,0,0,0
+H01727,Primary alveolar hypoventilation syndrome,0,0,0
+H00280,Enterotoxigenic Escherichia coli (ETEC) infection,0,0,0
+H00279,Uropathogenic Escherichia coli (UPEC) infection,0,0,0
+H00552,Chromosome Xp21 deletion syndrome,0,0,0
+H01676,Normal pressure hydrocephalus,0,0,0
+H01675,Syringomyelia,0,0,0
+H01673,Palmoplantar keratoderma,0,0,0
+H01670,Social anxiety disorder,0,0,0
+H01669,Secondary hyperparathyroidism,0,0,0
+H01668,Neoplastic meningitis,0,0,0
+H01664,Panic disorder,0,0,0
+H01663,Pustular psoriasis,0,0,0
+H01662,Generalized anxiety disorder,0,0,0
+H01693,Eosinophilic fasciitis,0,0,0
+H01690,Lichen sclerosus et atrophicus,0,0,0
+H01689,Fisher syndrome,0,0,0
+H01688,Rapidly progressive glomerulonephritis,0,0,0
+H01642,Renal anemia,0,0,0
+H01641,Dry eye disease,0,0,0
+H01639,Endometriosis,0,0,0
+H01638,Neuropathic pain,0,0,0
+H01636,Fibromyalgia,0,0,0
+H01634,Peptic ulcer,0,0,0
+H01632,Angina pectoris,0,0,0
+H01631,Acute heart failure,0,0,0
+H01661,Xanthoma,0,0,0
+H01660,Pityriasis rosea,0,0,0
+H01658,Microscopic polyangiitis,0,0,0
+H01655,Granulomatosis with polyangiitis,0,0,0
+H01654,Lichen planus,0,0,0
+H01652,Seborrheic dermatitis,0,0,0
+H01651,Macular edema,0,0,0
+H01650,Pemphigoid,0,0,0
+H01602,Gastroesophageal reflux disease,0,0,0
+H01597,Restless legs syndrome,0,0,0
+H01629,Chronic arterial occlusive disease,0,0,0
+H01628,Opisthorchiasis,0,0,0
+H01626,Arteriosclerosis obliterans,0,0,0
+H01625,Buerger disease,0,0,0
+H01624,Postherpetic neuralgia,0,0,0
+H01622,Chronic thromboembolic pulmonary hypertension,0,0,0
+H01620,Raynaud syndrome,0,0,0
+H01617,Foodborne trematodiasis,0,0,0
+H01616,Spinocerebellar degeneration,0,0,0
+H01648,Pemphigus,0,0,0
+H01647,Subacute thyroiditis,0,0,0
+H01645,Hyperthyroidism,0,0,0
+H01644,Blepharitis,0,0,0
+H01643,Chilblains,0,0,0
+H01596,Lambert-Eaton myasthenic syndrome,0,0,0
+H01595,Cutaneous lupus erythematosus,0,0,0
+H01594,Myasthenia gravis,0,0,0
+H01588,Cluster headache,0,0,0
+H01587,Disseminated intravascular coagulation,0,0,0
+H01586,Acquired pure red cell aplasia,0,0,0
+H01585,Autoimmune hemolytic anemia,0,0,0
+H01584,IgA vasculitis,0,0,0
+H01582,Pellagra,0,0,0
+H01581,IgA nephropathy,0,0,0
+H01610,Clonorchiasis,0,0,0
+H01609,Insomnia,0,0,0
+H01608,Cervical dystonia,0,0,0
+H01607,Galactorrhea,0,0,0
+H01606,Polymyalgia rheumatica,0,0,0
+H01604,Polymyositis and dermatomyositis,0,0,0
+H01541,Argentine hemorrhagic fever,0,0,0
+H01540,Chikungunya fever,0,0,0
+H02354,Orf,0,0,0
+H02352,Vaccinia,0,0,0
+H02351,Cowpox,0,0,0
+H01564,Edwards syndrome,0,0,0
+H01562,Patau syndrome,0,0,0
+H01561,Chiari malformation,0,0,0
+H01560,Alkhumra hemorrhagic fever,0,0,0
+H01553,Zika fever,0,0,0
+H01551,Interstitial cystitis,0,0,0
+H01550,Bunyamwera fever,0,0,0
+H01549,Rift Valley fever,0,0,0
+H01580,Vitamin C deficiency,0,0,0
+H01578,Subacute myelo-optico-neuropathy (SMON),0,0,0
+H01566,Beriberi,0,0,0
+H01531,Bejel,0,0,0
+H01530,Pinta,0,0,0
+H01528,Neuroleptic malignant syndrome,0,0,0
+H01527,Chronic inflammatory demyelinating polyradiculoneuropathy,0,0,0
+H01521,Pneumocystis pneumonia,0,0,0
+H01520,Chromomycosis,0,0,0
+H02379,Rickettsialpox,0,0,0
+H02374,Blastocystosis,0,0,0
+H02373,Sarcocystosis,0,0,0
+H02372,Cystoisosporiasis,0,0,0
+H01547,Venezuelan equine encephalitis,0,0,0
+H01546,Mayaro fever,0,0,0
+H01545,O'nyong-nyong fever,0,0,0
+H01544,Brazilian hemorrhagic fever,0,0,0
+H01543,Venezuelan hemorrhagic fever,0,0,0
+H01542,Bolivian hemorrhagic fever,0,0,0
+H01515,Scarlet fever,0,0,0
+H01506,Hepatic encephalopathy,0,0,0
+H01505,Inclusion body myositis,0,0,0
+H01503,Zygomycosis,0,0,0
+H01501,Blastomycosis,0,0,0
+H02393,Talaromycosis,0,0,0
+H02392,Scedosporiosis,0,0,0
+H02386,Phaeohyphomycosis,0,0,0
+H02385,Eumycetoma,0,0,0
+H01539,Nipah virus infection,0,0,0
+H01538,Hendra virus infection,0,0,0
+H01537,La Crosse encephalitis,0,0,0
+H01536,Murray Valley encephalitis,0,0,0
+H01535,Eastern equine encephalitis,0,0,0
+H01534,Western equine encephalitis,0,0,0
+H01533,Japanese encephalitis,0,0,0
+H02413,Epidemic myalgia,0,0,0
+H02409,Dicrocoeliasis,0,0,0
+H02408,Dipylidiasis,0,0,0
+H02407,Trichostrongyliasis,0,0,0
+H02406,Syngamosis,0,0,0
+H02405,Oesophagostomiasis,0,0,0
+H02404,Capillariasis,0,0,0
+H02403,Angiostrongyliasis,0,0,0
+H02402,Thyroid eye disease,0,0,0
+H02401,Acanthamoebiasis,0,0,0
+H02400,Rhinosporidiosis,0,0,0
+H02399,Primary amoebic meningoencephalitis (PAM),0,0,0
+H00217,Pulmonary alveolar proteinosis,0,0,0
+H01519,Scabies,0,0,0
+H01518,Lobomycosis,0,0,0
+H01517,Erysipelas,0,0,0
+H01453,Obsessive-Compulsive and Related Disorder,0,0,0
+H02429,Actinic keratosis,0,0,0
+H02428,Trichosporonosis,0,0,0
+H02427,Soft tissue sarcomas,0,0,0
+H02423,Phthiriasis,0,0,0
+H02421,Solid tumor,0,0,0
+H02420,Head and neck cancer,0,0,0
+H02416,Cimicosis,0,0,0
+H01480,Idiopathic macular hole,0,0,0
+H01475,Lipodystrophy,0,0,0
+H01474,Acquired generalized lipodystrophy,0,0,0
+H01473,Erythema nodosum leprosum,0,0,0
+H01500,Lupus nephritis,0,0,0
+H01499,Sporotrichosis,0,0,0
+H01495,Meniere disease,0,0,0
+H01493,Localized Scleroderma,0,0,0
+H01447,Body dysmorphic disorder,0,0,0
+H01446,Propionibacterium acnes infection,0,0,0
+H01445,Acne vulgaris,0,0,0
+H01444,Enterococcal infection,0,0,0
+H01443,Viridans group streptococcal infection,0,0,0
+H01442,Septic arthritis,0,0,0
+H02442,Common cold,0,0,0
+H01472,Multidrug-resistant tuberculosis,0,0,0
+H01469,Short bowel syndrome,0,0,0
+H01467,Primary biliary cholangitis,0,0,0
+H01465,Large-vessel vasculitis,0,0,0
+H01462,Rapidly growing mycobacteria infection,0,0,0
+H01461,Crow-Fukase syndrome,0,0,0
+H01458,Nontuberculous mycobacterial infection,0,0,0
+H01455,Necrotizing fasciitis,0,0,0
+H01454,Colonic spirochetosis,0,0,0
+H01411,Saccharomonospora viridis infection,0,0,0
+H01441,Pseudomonas aeruginosa infection,0,0,0
+H01440,Acute necrotizing ulcerative gingivitis,0,0,0
+H01430,Viral gastroenteritis,0,0,0
+H01429,Aseptic meningitis,0,0,0
+H01427,Mitochondrial disease,0,0,0
+H01426,Invasive streptococcal disease,0,0,0
+H01425,Lysosomal storage disease,0,0,0
+H01424,Group A streptococcal pharyngitis,0,0,0
+H01423,Penicillin-resistant Streptococcus pneumoniae infection,0,0,0
+H01422,Carbapenem-resistant bacterial infection,0,0,0
+H01421,Acute hemorrhagic conjunctivitis,0,0,0
+H01452,Pediatric autoimmune neuropsychiatric disorders associated …,0,0,0
+H01451,Actinomycetoma,0,0,0
+H01449,Excoriation disorder,0,0,0
+H01448,Hoarding disorder,0,0,0
+H01410,Anaerobic infection,0,0,0
+H01409,Methicillin-sensitive Staphylococcus aureus (MSSA) infection,0,0,0
+H01408,Periodontal disease,0,0,0
+H01407,Capnocytophaga ochracea infection,0,0,0
+H01406,Streptococcus suis infection,0,0,0
+H01405,Lactococcus garvieae infection,0,0,0
+H01401,Methicillin-resistant Staphylococcus epidermidis (MRSE) inf…,0,0,0
+H01399,Bacillus thuringiensis infection,0,0,0
+H01397,Tick-borne lymphadenopathy,0,0,0
+H01420,Pharyngoconjunctival fever,0,0,0
+H01419,Middle East respiratory syndrome,0,0,0
+H01418,Condyloma acuminatum,0,0,0
+H01417,Acute encephalitis,0,0,0
+H01416,Severe fever with thrombocytopenia syndrome,0,0,0
+H01415,Donovanosis,0,0,0
+H01414,Hafnia alvei infection,0,0,0
+H01337,Laribacter hongkongensis infection,0,0,0
+H01336,Encephalitozoon infection,0,0,0
+H01335,Photorhabdus asymbiotica infection,0,0,0
+H01334,Tinea versicolor,0,0,0
+H01332,Helicobacter heilmannii infection,0,0,0
+H01331,Dental caries,0,0,0
+H01330,Brazilian purpuric fever,0,0,0
+H01353,Chromobacterium violaceum infection,0,0,0
+H01350,Morganella morganii infection,0,0,0
+H01345,Providencia stuartii infection,0,0,0
+H01343,Pantoea ananatis infection,0,0,0
+H01366,Bacterial conjunctivitis,0,0,0
+H01380,Bacterial vaginosis,0,0,0
+H01379,Arcobacter butzleri infection,0,0,0
+H01374,Helicobacter cinaedi infection,0,0,0
+H01373,Achromobacter xylosoxidans infection,0,0,0
+H01323,Enteritis due to Norovirus,0,0,0
+H01322,Kyasanur Forest disease,0,0,0
+H01321,Pneumococcal disease,0,0,0
+H01320,Epidemic keratoconjunctivitis,0,0,0
+H01319,Coccidioidomycosis,0,0,0
+H01318,Yaws,0,0,0
+H01317,Aggressive periodontitis,0,0,0
+H01316,Dermatophytosis,0,0,0
+H01315,Erysipeloid,0,0,0
+H01314,Rat-bite fever,0,0,0
+H01313,Escherichia coli meningitis,0,0,0
+H02511,Jamestown Canyon encephalitis,0,0,0
+H02509,Vesicular stomatitis fever,0,0,0
+H02499,AL amyloidosis,0,0,0
+H02498,Diabetic cardiomyopathy,0,0,0
+H01339,Asymptomatic bacteriuria,0,0,0
+H01151,Brevundimonas infection,0,0,0
+H01150,Phenylobacterium infection,0,0,0
+H02512,Cache Valley virus infection,0,0,0
+H01179,Tungiasis,0,0,0
+H01178,Myiasis,0,0,0
+H01176,Uncomplicated urinary tract infection,0,0,0
+H01175,Staphylococcal infection,0,0,0
+H01169,Acetobacter infection,0,0,0
+H00812,Trichomoniasis,0,0,0
+H01312,Enteroaggregative Escherichia coli (EAEC) infection,0,0,0
+H01311,Enteroinvasive Escherichia coli (EIEC) infection,0,0,0
+H01329,Paracoccidioidomycosis,0,0,0
+H01327,Herpangina,0,0,0
+H01326,"Hand, foot and mouth disease",0,0,0
+H01325,Actinomycosis,0,0,0
+H01324,Lymphocytic choriomeningitis,0,0,0
+H00885,Hypomelanosis of Ito,0,0,0
+H01148,Caulobacter infection,0,0,0
+H01147,Methylobacterium infection,0,0,0
+H01144,Ochrobactrum anthropi infection,0,0,0
+H01142,Ehrlichia ewingii infection,0,0,0
+H01141,Human monocytic ehrlichiosis,0,0,0
+H01140,Sennetsu neorickettsiosis,0,0,0
+H01139,Human granulocytic anaplasmosis,0,0,0
+H01138,Hymenolepiasis,0,0,0
+H01137,Baylisascariasis,0,0,0
+H01166,Sphingomonas paucimobilis infection,0,0,0
+H01165,Novosphingobium aromaticivorans infection,0,0,0
+H01164,Paracoccus yeei infection,0,0,0
+H01157,Agrobacterium radiobacter infection,0,0,0
+H01153,Human echinococcosis,0,0,0
+H01152,Taenia saginata infection,0,0,0
+H01099,Trichinosis,0,0,0
+H01098,Pentastomiasis,0,0,0
+H01093,Paragonimiasis,0,0,0
+H01092,Hookworm disease,0,0,0
+H01091,Enterobiasis,0,0,0
+H01090,Ascariasis,0,0,0
+H01089,Dientamoebiasis,0,0,0
+H01087,Balantidiasis,0,0,0
+H01086,Lymphatic filariasis,0,0,0
+H01085,Diphyllobothriasis,0,0,0
+H01084,Bordetella holmesii infection,0,0,0
+H00112,Paratyphoid fever,0,0,0
+H00111,Typhoid fever,0,0,0
+H00110,Cholera,0,0,0
+H01107,Intestinal fluke infection,0,0,0
+H01104,Loiasis,0,0,0
+H01067,Proteus mirabilis infection,0,0,0
+H01066,Bordetella petrii infection,0,0,0
+H01064,Simkania negevensis infection,0,0,0
+H01063,Human metapneumovirus infection,0,0,0
+H01062,Histoplasmosis,0,0,0
+H01061,Mansonelliasis,0,0,0
+H01060,Babesiosis,0,0,0
+H01059,Capnocytophaga canimorsus infection,0,0,0
+H01058,Anisakiasis,0,0,0
+H00101,Other phagocyte defects,0,0,0
+H01083,Bordetella bronchiseptica infection,0,0,0
+H01081,Achromobacter xylosoxidans keratitis,0,0,0
+H01080,Ralstonia pickettii infection,0,0,0
+H01077,Bordetella hinzii infection,0,0,0
+H01074,Aeromonas infection,0,0,0
+H01100,Strongyloidiasis,0,0,0
+H00362,Giardiasis,0,0,0
+H02604,Chromosome 1q21.1 duplication syndrome,0,0,0
+H02603,Congenital mitral valve stenosis,0,0,0
+H02602,Congenital tricuspid valve stenosis,0,0,0
+H02601,Pulmonary arterial sling,0,0,0
+H02600,Congenital tracheal stenosis,0,0,0
+H02599,Inherited autoinflammatory disease,0,0,0
+H02598,Progressive leukoencephalopathy,0,0,0
+H00975,Rotaviral enteritis,0,0,0
+H01014,Sparganosis,0,0,0
+H01021,Rhodococcus equi infection,0,0,0
+H01057,Gnathostomiasis,0,0,0
+H01056,Toxocariasis,0,0,0
+H01055,Giant kidney worm infection,0,0,0
+H01054,Pediculosis,0,0,0
+H01052,Molluscum contagiosum,0,0,0
+H02028,Filariasis,0,0,0
+H02027,Male hypogonadism,0,0,0
+H00360,Amoebiasis,0,0,0
+H00359,Leishmaniasis,0,0,0
+H00358,Chagas disease,0,0,0
+H00357,African trypanosomiasis,0,0,0
+H00356,Cryptosporidiosis,0,0,0
+H00355,Leptospirosis,0,0,0
+H00354,Syphilis,0,0,0
+H00353,Lyme borreliosis,0,0,0
+H00352,Whipple disease,0,0,0
+H00351,Chlamydial pneumonia,0,0,0
+H00350,Psittacosis,0,0,0
+H00349,Trachoma,0,0,0
+H00348,Lymphogranuloma venereum,0,0,0
+H00363,Candidiasis,0,0,0

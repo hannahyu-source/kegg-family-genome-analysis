@@ -1,0 +1,983 @@
+﻿variant_id,gene_symbol,gene_description,ko_id
+10026v1,PIGK,phosphatidylinositol glycan anchor biosynthesis class K,K05290
+100v1,ADA,adenosine deaminase,K01488
+10111v1,RAD50,RAD50 double strand break repair protein,K10866
+10133v1,OPTN,optineurin,K19946
+10195v1,ALG3,"ALG3 alpha-1,3- mannosyltransferase",K03845
+1019v1,CDK4,cyclin dependent kinase 4,K02089
+1019v2,CDK4,cyclin dependent kinase 4,K02089
+10243v1,GPHN,gephyrin,K15376
+10274v1,STAG1,stromal antigen 1,K06671
+1027v1,CDKN1B,cyclin dependent kinase inhibitor 1B,K06624
+1027v2,CDKN1B,cyclin dependent kinase inhibitor 1B,K06624
+1027v3,CDKN1B,cyclin dependent kinase inhibitor 1B,K06624
+10280v1,SIGMAR1,sigma non-opioid intracellular receptor 1,K20719
+10293v1,TRAIP,TRAF interacting protein,K11985
+1029v1,CDKN2A,cyclin dependent kinase inhibitor 2A,K06621
+1029v2,CDKN2A,cyclin dependent kinase inhibitor 2A,K06621
+10329v1,RXYLT1,ribitol xylosyltransferase 1,K21052
+10379v1,IRF9,interferon regulatory factor 9,K04693
+10381v1,TUBB3,tubulin beta 3 class III,K07375
+10382v1,TUBB4A,tubulin beta 4A class IVa,K07375
+10383v1,TUBB4B,tubulin beta 4B class IVb,K07375
+103v1,ADAR,adenosine deaminase RNA specific,K12968
+10459v1,MAD2L2,mitotic arrest deficient 2 like 2,K13728
+1045v1,CDX2,caudal type homeobox 2,K22234
+10535v1,RNASEH2A,ribonuclease H2 subunit A,K10743
+10559v1,SLC35A1,solute carrier family 35 member A1,K15272
+10584v1,COLEC10,collectin subfamily member 10,K10065
+10585v1,POMT1,protein O-mannosyltransferase 1,K00728
+10599v1,SLCO1B1,solute carrier organic anion transporter family member 1B1,K05043
+10616v1,RBCK1,RANBP2-type and C3HC4-type zinc finger containing 1,K10630
+1062v1,CENPE,centromere protein E,K11498
+1063v1,CENPF,centromere protein F,K11499
+10641v1,NPRL2,"NPR2 like, GATOR1 complex subunit",K20405
+10654v1,PMVK,phosphomevalonate kinase,K13273
+10664v1,CTCF,CCCTC-binding factor,K23195
+10682v1,EBP,EBP cholestenol delta-isomerase,K01824
+10683v1,DLL3,delta like canonical Notch ligand 3,K06051
+10735v1,STAG2,stromal antigen 2,K06671
+10747v1,MASP2,MBL associated serine protease 2,K03993
+1080v1,CFTR,CF transmembrane conductance regulator,K05031
+10844v1,TUBGCP2,tubulin gamma complex associated protein 2,K16569
+10878v1,CFHR3,complement factor H related 3,K23815
+10v1,NAT2,N-acetyltransferase 2,K00622
+11041v1,B4GAT1,"beta-1,4-glucuronyltransferase 1",K21032
+11186v1,RASSF1,Ras association domain family member 1,K09850
+11232v1,POLG2,"DNA polymerase gamma 2, accessory subunit",K02333
+11274v1,USP18,ubiquitin specific peptidase 18,K11846
+11277v1,TREX1,three prime repair exonuclease 1,K10790
+11284v1,PNKP,polynucleotide kinase 3'-phosphatase,K08073
+11285v1,B4GALT7,"beta-1,4-galactosyltransferase 7",K00733
+11315v1,PARK7,Parkinsonism associated deglycase,K05687
+113189v1,CHST14,carbohydrate sulfotransferase 14,K08105
+113457v1,TUBA3D,tubulin alpha 3d,K07374
+114548v1,NLRP3,NLR family pyrin domain containing 3,K12800
+114609v1,TIRAP,TIR domain containing adaptor protein,K05403
+116150v1,NUS1,NUS1 dehydrodolichyl diphosphate synthase subunit,K19177
+1161v1,ERCC8,"ERCC excision repair 8, CSA ubiquitin ligase complex subunit",K10570
+1200v1,TPP1,tripeptidyl peptidase 1,K01279
+120227v1,CYP2R1,cytochrome P450 family 2 subfamily R member 1,K07419
+120892v1,LRRK2,leucine rich repeat kinase 2,K08844
+121278v1,TPH2,tryptophan hydroxylase 2,K00502
+1213v1,CLTC,clathrin heavy chain,K04646
+126792v1,B3GALT6,"beta-1,3-galactosyltransferase 6",K00734
+128674v1,PROKR2,prokineticin receptor 2,K08380
+128869v1,PIGU,phosphatidylinositol glycan anchor biosynthesis class U,K05293
+130589v1,GALM,galactose mutarotase,K01785
+132884v1,EVC2,EvC ciliary complex subunit 2,K19608
+134701v1,RIPPLY2,ripply transcriptional repressor 2,
+1356v1,CP,ceruloplasmin,K13624
+1371v1,CPOX,coproporphyrinogen oxidase,K00228
+1373v1,CPS1,carbamoyl-phosphate synthase 1,K01948
+1374v1,CPT1A,carnitine palmitoyltransferase 1A,K08765
+1376v1,CPT2,carnitine palmitoyltransferase 2,K08766
+138050v1,HGSNAT,heparan-alpha-glucosaminide N-acetyltransferase,K10532
+1457v1,CSNK2A1,casein kinase 2 alpha 1,K03097
+145873v1,MESP2,mesoderm posterior bHLH transcription factor 2,K09076
+148022v1,TICAM1,TIR domain containing adaptor molecule 1,K05842
+148738v1,HJV,hemojuvelin BMP co-receptor,K23100
+148789v1,B3GALNT2,"beta-1,3-N-acetylgalactosaminyltransferase 2",K09654
+149233v1,IL23R,interleukin 23 receptor,K05065
+1499v1,CTNNB1,catenin beta 1,K02105
+151648v1,SGO1,shugoshin 1,K11580
+1548v1,CYP2A6,cytochrome P450 family 2 subfamily A member 6,K17683
+1555v1,CYP2B6,cytochrome P450 family 2 subfamily B member 6,K17709
+1557v1,CYP2C19,cytochrome P450 family 2 subfamily C member 19,K17721
+1559v1,CYP2C9,cytochrome P450 family 2 subfamily C member 9,K17719
+1565v1,CYP2D6,cytochrome P450 family 2 subfamily D member 6,K17712
+157570v1,ESCO2,establishment of sister chromatid cohesion N-acetyltransferase 2,K11268
+1577v1,CYP3A5,cytochrome P450 family 3 subfamily A member 5,K17690
+1583v1,CYP11A1,cytochrome P450 family 11 subfamily A member 1,K00498
+1584v1,CYP11B1,cytochrome P450 family 11 subfamily B member 1,K00497
+1585v1,CYP11B2,cytochrome P450 family 11 subfamily B member 2,K07433
+1585v2,CYP11B2,cytochrome P450 family 11 subfamily B member 2,K07433
+1586v1,CYP17A1,cytochrome P450 family 17 subfamily A member 1,K00512
+1588v1,CYP19A1,cytochrome P450 family 19 subfamily A member 1,K07434
+1588v2,CYP19A1,cytochrome P450 family 19 subfamily A member 1,K07434
+1589v1,CYP21A2,cytochrome P450 family 21 subfamily A member 2,K00513
+1593v1,CYP27A1,cytochrome P450 family 27 subfamily A member 1,K00488
+1594v1,CYP27B1,cytochrome P450 family 27 subfamily B member 1,K07438
+1600v1,DAB1,DAB adaptor protein 1,K20054
+1604v1,CD55,CD55 molecule (Cromer blood group),K04006
+161742v1,SPRED1,sprouty related EVH1 domain containing 1,K04703
+1621v1,DBH,dopamine beta-hydroxylase,K00503
+162417v1,NAGS,N-acetylglutamate synthase,K11067
+1629v1,DBT,dihydrolipoamide branched chain transacylase E2,K09699
+1630v1,DCC,DCC netrin 1 receptor,K06765
+1638v1,DCT,dopachrome tautomerase,K01827
+1639v1,DCTN1,dynactin subunit 1,K04648
+1642v1,DDB1,damage specific DNA binding protein 1,K10610
+1643v1,DDB2,damage specific DNA binding protein 2,K10140
+1644v1,DDC,dopa decarboxylase,K01593
+1649v1,DDIT3,DNA damage inducible transcript 3,K04452
+1650v1,DDOST,dolichyl-diphosphooligosaccharide--protein glycosyltransferase non-catalytic subunit,K12670
+165918v1,RNF168,ring finger protein 168,K20779
+1663v1,DDX11,DEAD/H-box helicase 11,K11273
+1675v1,CFD,complement factor D,K01334
+1717v1,DHCR7,7-dehydrocholesterol reductase,K00213
+1718v1,DHCR24,24-dehydrocholesterol reductase,K09828
+1736v1,DKC1,dyskerin pseudouridine synthase 1,K11131
+1737v1,DLAT,dihydrolipoamide S-acetyltransferase,K00627
+1738v1,DLD,dihydrolipoamide dehydrogenase,K00382
+1756v1,DMD,dystrophin,K10366
+1763v1,DNA2,DNA replication helicase/nuclease 2,K10742
+1773v1,DNASE1,deoxyribonuclease 1,K11994
+1776v1,DNASE1L3,deoxyribonuclease 1 like 3,K11995
+1777v1,DNASE2,"deoxyribonuclease 2, lysosomal",K01158
+1778v1,DYNC1H1,dynein cytoplasmic 1 heavy chain 1,K10413
+1781v1,DYNC1I2,dynein cytoplasmic 1 intermediate chain 2,K10415
+1789v1,DNMT3B,DNA methyltransferase 3 beta,K17399
+178v1,AGL,"amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase",K01196
+1798v1,DPAGT1,dolichyl-phosphate N-acetylglucosaminephosphotransferase 1,K01001
+1806v1,DPYD,dihydropyrimidine dehydrogenase,K00207
+1807v1,DPYS,dihydropyrimidinase,K01464
+182v1,JAG1,jagged canonical Notch ligand 1,K06052
+1848v1,DUSP6,dual specificity phosphatase 6,K21946
+1855v1,DVL1,dishevelled segment polarity protein 1,K02353
+1857v1,DVL3,dishevelled segment polarity protein 3,K02353
+1892v1,ECHS1,"enoyl-CoA hydratase, short chain 1",K07511
+190v1,NR0B1,nuclear receptor subfamily 0 group B member 1,K08562
+1950v1,EGF,epidermal growth factor,K04357
+1956v1,EGFR,epidermal growth factor receptor,K04361
+1956v2,EGFR,epidermal growth factor receptor,K04361
+1956v3,EGFR,epidermal growth factor receptor,K04361
+1956v4,EGFR,epidermal growth factor receptor,K04361
+1956v5,EGFR,epidermal growth factor receptor,K04361
+201163v1,FLCN,folliculin,K09594
+201595v1,STT3B,STT3 oligosaccharyltransferase complex catalytic subunit B,K07151
+2022v1,ENG,endoglin,K06526
+2027v1,ENO3,enolase 3,K01689
+203068v1,TUBB,tubulin beta class I,K07375
+203228v1,C9orf72,C9orf72-SMCR8 complex subunit,K23609
+2056v1,EPO,erythropoietin,K05437
+2057v1,EPOR,erythropoietin receptor,K05079
+2064v1,ERBB2,erb-b2 receptor tyrosine kinase 2,K05083
+2064v2,ERBB2,erb-b2 receptor tyrosine kinase 2,K05083
+2064v3,ERBB2,erb-b2 receptor tyrosine kinase 2,K05083
+2066v1,ERBB4,erb-b2 receptor tyrosine kinase 4,K05085
+2067v1,ERCC1,"ERCC excision repair 1, endonuclease non-catalytic subunit",K10849
+2068v1,ERCC2,"ERCC excision repair 2, TFIIH core complex helicase subunit",K10844
+2069v1,EREG,epiregulin,K09784
+2071v1,ERCC3,"ERCC excision repair 3, TFIIH core complex helicase subunit",K10843
+2072v1,ERCC4,"ERCC excision repair 4, endonuclease catalytic subunit",K10848
+2073v1,ERCC5,"ERCC excision repair 5, endonuclease",K10846
+2074v1,ERCC6,"ERCC excision repair 6, chromatin remodeling factor",K10841
+2078v1,ERG,ETS transcription factor ERG,K09435
+2078v2,ERG,ETS transcription factor ERG,K09435
+2099v1,ESR1,estrogen receptor 1,K08550
+2099v2,ESR1,estrogen receptor 1,K08550
+210v1,ALAD,aminolevulinate dehydratase,K01698
+2115v1,ETV1,ETS variant transcription factor 1,K09431
+2119v1,ETV5,ETS variant transcription factor 5,K15593
+2121v1,EVC,EvC ciliary complex subunit 1,K19605
+2122v1,MECOM,MDS1 and EVI1 complex locus,K04462
+212v1,ALAS2,5'-aminolevulinate synthase 2,K00643
+2131v1,EXT1,exostosin glycosyltransferase 1,K02366
+2132v1,EXT2,exostosin glycosyltransferase 2,K02367
+2137v1,EXTL3,exostosin like glycosyltransferase 3,K02370
+2146v1,EZH2,enhancer of zeste 2 polycomb repressive complex 2 subunit,K11430
+2147v1,F2,"coagulation factor II, thrombin",K01313
+2147v2,F2,"coagulation factor II, thrombin",K01313
+2153v1,F5,coagulation factor V,K03902
+2153v2,F5,coagulation factor V,K03902
+2155v1,F7,coagulation factor VII,K01320
+2157v1,F8,coagulation factor VIII,K03899
+2158v1,F9,coagulation factor IX,K01321
+2159v1,F10,coagulation factor X,K01314
+2160v1,F11,coagulation factor XI,K01323
+2161v1,F12,coagulation factor XII,K01328
+2162v1,F13A1,coagulation factor XIII A chain,K03917
+2165v1,F13B,coagulation factor XIII B chain,K03906
+2175v1,FANCA,FA complementation group A,K10888
+2176v1,FANCC,FA complementation group C,K10890
+2177v1,FANCD2,FA complementation group D2,K10891
+2178v1,FANCE,FA complementation group E,K10892
+2182v1,ACSL4,acyl-CoA synthetase long chain family member 4,K01897
+2184v1,FAH,fumarylacetoacetate hydrolase,K01555
+2187v1,FANCB,FA complementation group B,K10889
+2188v1,FANCF,FA complementation group F,K10893
+2189v1,FANCG,FA complementation group G,K10894
+2200v1,FBN1,fibrillin 1,K06825
+2218v1,FKTN,fukutin,K19872
+2224v1,FDPS,farnesyl diphosphate synthase,K00787
+2235v1,FECH,ferrochelatase,K01772
+2243v1,FGA,fibrinogen alpha chain,K03903
+2244v1,FGB,fibrinogen beta chain,K03904
+2253v1,FGF8,fibroblast growth factor 8,K04358
+2260v1,FGFR1,fibroblast growth factor receptor 1,K04362
+2260v2,FGFR1,fibroblast growth factor receptor 1,K04362
+2261v1,FGFR3,fibroblast growth factor receptor 3,K05094
+2261v2,FGFR3,fibroblast growth factor receptor 3,K05094
+2261v4,FGFR3,fibroblast growth factor receptor 3,K05094
+2263v1,FGFR2,fibroblast growth factor receptor 2,K05093
+2263v2,FGFR2,fibroblast growth factor receptor 2,K05093
+2263v3,FGFR2,fibroblast growth factor receptor 2,K05093
+2266v1,FGG,fibrinogen gamma chain,K03905
+226v1,ALDOA,"aldolase, fructose-bisphosphate A",K01623
+2271v1,FH,fumarate hydratase,K01679
+22800v1,RRAS2,RAS related 2,K07830
+22808v1,MRAS,muscle RAS oncogene homolog,K07831
+22845v1,DOLK,dolichol kinase,K00902
+22856v1,CHSY1,chondroitin sulfate synthase 1,K13499
+22861v1,NLRP1,NLR family pyrin domain containing 1,K12798
+22900v1,CARD8,caspase recruitment domain family member 8,K12801
+22909v1,FAN1,FANCD2 and FANCI associated nuclease 1,K15363
+22948v1,CCT5,chaperonin containing TCP1 subunit 5,K09497
+2308v1,FOXO1,forkhead box O1,K07201
+2313v1,FLI1,"Fli-1 proto-oncogene, ETS transcription factor",K09436
+2322v1,FLT3,fms related receptor tyrosine kinase 3,K05092
+2322v2,FLT3,fms related receptor tyrosine kinase 3,K05092
+23310v1,NCAPD3,non-SMC condensin II complex subunit D3,K11491
+23385v1,NCSTN,nicastrin,K06171
+23397v1,NCAPH,non-SMC condensin I complex subunit H,K06676
+23435v1,TARDBP,TAR DNA binding protein,K23600
+23516v1,SLC39A14,solute carrier family 39 member 14,K14720
+23556v1,PIGN,phosphatidylinositol glycan anchor biosynthesis class N,K05285
+23586v1,RIGI,RNA sensor RIG-I,K12646
+23594v1,ORC6,origin recognition complex subunit 6,K02608
+23600v1,AMACR,alpha-methylacyl-CoA racemase,K01796
+23600v2,AMACR,alpha-methylacyl-CoA racemase,K01796
+238v1,ALK,ALK receptor tyrosine kinase,K05119
+238v2,ALK,ALK receptor tyrosine kinase,K05119
+24137v1,KIF4A,kinesin family member 4A,K10395
+2475v1,MTOR,mechanistic target of rapamycin kinase,K07203
+2488v1,FSHB,follicle stimulating hormone subunit beta,K05250
+2495v1,FTH1,ferritin heavy chain 1,K00522
+249v1,ALPL,"alkaline phosphatase, biomineralization associated",K01077
+2512v1,FTL,ferritin light chain,K13625
+2516v1,NR5A1,nuclear receptor subfamily 5 group A member 1,K08560
+2521v1,FUS,FUS RNA binding protein,K13098
+2535v1,FZD2,frizzled class receptor 2,K02235
+2538v1,G6PC1,glucose-6-phosphatase catalytic subunit 1,K01084
+2539v1,G6PD,glucose-6-phosphate dehydrogenase,K00036
+2542v1,SLC37A4,solute carrier family 37 member 4,K08171
+254394v1,MCM9,minichromosome maintenance 9 homologous recombination repair factor,K10738
+2548v1,GAA,alpha glucosidase,K12316
+255738v1,PCSK9,proprotein convertase subtilisin/kexin type 9,K13050
+25788v1,RAD54B,RAD54 homolog B,K10877
+2581v1,GALC,galactosylceramidase,K01202
+2582v1,GALE,UDP-galactose-4-epimerase,K01784
+25836v1,NIPBL,NIPBL cohesin loading factor,K06672
+2584v1,GALK1,galactokinase 1,K00849
+2588v1,GALNS,galactosamine (N-acetyl)-6-sulfatase,K01132
+25913v1,POT1,protection of telomeres 1,K11109
+2592v1,GALT,galactose-1-phosphate uridylyltransferase,K00965
+25939v1,SAMHD1,SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1,K22544
+2593v1,GAMT,guanidinoacetate N-methyltransferase,K00542
+25v1,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",K06619
+25v2,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",K06619
+26119v1,LDLRAP1,low density lipoprotein receptor adaptor protein 1,K12474
+26227v1,PHGDH,phosphoglycerate dehydrogenase,K00058
+26229v1,B3GAT3,"beta-1,3-glucuronyltransferase 3",K10158
+26275v1,HIBCH,3-hydroxyisobutyryl-CoA hydrolase,K05605
+26277v1,TINF2,TERF1 interacting nuclear factor 2,K11112
+2628v1,GATM,glycine amidinotransferase,K00613
+2629v1,GBA1,glucosylceramidase beta 1,K01201
+2632v1,GBE1,"1,4-alpha-glucan branching enzyme 1",K00700
+2643v1,GCH1,GTP cyclohydrolase 1,K01495
+2653v1,GCSH,glycine cleavage system protein H,K02437
+2658v1,GDF2,growth differentiation factor 2,K05503
+2660v1,MSTN,myostatin,K05497
+2683v1,B4GALT1,"beta-1,4-galactosyltransferase 1",K07966
+26873v1,OPLAH,"5-oxoprolinase, ATP-hydrolysing",K01469
+2688v1,GH1,growth hormone 1,K05438
+268v1,AMH,anti-Mullerian hormone,K04665
+2690v1,GHR,growth hormone receptor,K05080
+2692v1,GHRHR,growth hormone releasing hormone receptor,K04584
+269v1,AMHR2,anti-Mullerian hormone receptor type 2,K04672
+27030v1,MLH3,mutL homolog 3,K08739
+27034v1,ACAD8,acyl-CoA dehydrogenase family member 8,K11538
+2717v1,GLA,galactosidase alpha,K01189
+2717v2,GLA,galactosidase alpha,K01189
+2720v1,GLB1,galactosidase beta 1,K12309
+27229v1,TUBGCP4,tubulin gamma complex associated protein 4,K16571
+2729v1,GCLC,glutamate-cysteine ligase catalytic subunit,K11204
+2731v1,GLDC,glycine decarboxylase,K00281
+2733v1,GLE1,GLE1 RNA export mediator,K18723
+2735v1,GLI1,GLI family zinc finger 1,K16797
+2736v1,GLI2,GLI family zinc finger 2,K16798
+2737v1,GLI3,GLI family zinc finger 3,K06230
+275v1,AMT,aminomethyltransferase,K00605
+2778v1,GNAS,GNAS complex locus,K04632
+2778v2,GNAS,GNAS complex locus,K04632
+2796v1,GNRH1,gonadotropin releasing hormone 1,K05252
+2798v1,GNRHR,gonadotropin releasing hormone receptor,K04280
+2799v1,GNS,glucosamine (N-acetyl)-6-sulfatase,K01137
+282617v1,IFNL3,interferon lambda 3,K22669
+284098v1,PIGW,phosphatidylinositol glycan anchor biosynthesis class W,K05283
+2876v1,GPX1,glutathione peroxidase 1,K00432
+2879v1,GPX4,glutathione peroxidase 4,K05361
+29089v1,UBE2T,ubiquitin conjugating enzyme E2 T,K13960
+2908v1,NR3C1,nuclear receptor subfamily 3 group C member 1,K05771
+29110v1,TBK1,TANK binding kinase 1,K05410
+2911v1,GRM1,glutamate metabotropic receptor 1,K04603
+2936v1,GSR,glutathione-disulfide reductase,K00383
+2937v1,GSS,glutathione synthetase,K21456
+2956v1,MSH6,mutS homolog 6,K08737
+2990v1,GUSB,glucuronidase beta,K01195
+29929v1,ALG6,"ALG6 alpha-1,3-glucosyltransferase",K03848
+2992v1,GYG1,glycogenin 1,K00750
+29940v1,DSE,dermatan sulfate epimerase,K01794
+29954v1,POMT2,protein O-mannosyltransferase 2,K00728
+29968v1,PSAT1,phosphoserine aminotransferase 1,K00831
+29978v1,UBQLN2,ubiquilin 2,K04523
+2997v1,GYS1,glycogen synthase 1,K00693
+2998v1,GYS2,glycogen synthase 2,K00693
+30061v1,SLC40A1,solute carrier family 40 member 1,K14685
+3028v1,HSD17B10,hydroxysteroid 17-beta dehydrogenase 10,K08683
+3030v1,HADHA,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha,K07515
+3032v1,HADHB,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta,K07509
+3033v1,HADH,hydroxyacyl-CoA dehydrogenase,K00022
+3053v1,SERPIND1,serpin family D member 1,K03912
+3064v1,HTT,huntingtin,K04533
+3075v1,CFH,complement factor H,K04004
+3077v1,HFE,homeostatic iron regulator,
+3078v1,CFHR1,complement factor H related 1,K23815
+3081v1,HGD,"homogentisate 1,2-dioxygenase",K00451
+3082v1,HGF,hepatocyte growth factor,K05460
+3145v1,HMBS,hydroxymethylbilane synthase,K01749
+3155v1,HMGCL,3-hydroxy-3-methylglutaryl-CoA lyase,K01640
+3195v1,TLX1,T cell leukemia homeobox 1,K09340
+3242v1,HPD,4-hydroxyphenylpyruvate dioxygenase,K00457
+324v1,APC,APC regulator of WNT signaling pathway,K02085
+3251v1,HPRT1,hypoxanthine phosphoribosyltransferase 1,K00760
+3265v1,HRAS,"HRas proto-oncogene, GTPase",K02833
+3265v2,HRAS,"HRas proto-oncogene, GTPase",K02833
+3265v3,HRAS,"HRas proto-oncogene, GTPase",K02833
+3284v1,HSD3B2,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",K00070
+3290v1,HSD11B1,hydroxysteroid 11-beta dehydrogenase 1,K15680
+3291v1,HSD11B2,hydroxysteroid 11-beta dehydrogenase 2,K00071
+3293v1,HSD17B3,hydroxysteroid 17-beta dehydrogenase 3,K10207
+3295v1,HSD17B4,hydroxysteroid 17-beta dehydrogenase 4,K12405
+331v1,XIAP,X-linked inhibitor of apoptosis,K04725
+3340v1,NDST1,N-deacetylase and N-sulfotransferase 1,K02576
+3373v1,HYAL1,hyaluronidase 1,K01197
+338v1,APOB,apolipoprotein B,K14462
+340061v1,STING1,stimulator of interferon response cGAMP interactor 1,K12654
+340419v1,RSPO2,R-spondin 2,K23097
+3417v1,IDH1,isocitrate dehydrogenase (NADP(+)) 1,K00031
+3418v1,IDH2,isocitrate dehydrogenase (NADP(+)) 2,K00031
+3418v2,IDH2,isocitrate dehydrogenase (NADP(+)) 2,K00031
+3423v1,IDS,iduronate 2-sulfatase,K01136
+3425v1,IDUA,alpha-L-iduronidase,K01217
+3426v1,CFI,complement factor I,K01333
+343637v1,RSPO4,R-spondin 4,K23099
+3455v1,IFNAR2,interferon alpha and beta receptor subunit 2,K05131
+345611v1,IRGM,immunity related GTPase M,K14139
+345643v1,MCIDAS,multiciliate differentiation and DNA synthesis associated cell cycle protein,K26119
+3459v1,IFNGR1,interferon gamma receptor 1,K05132
+3460v1,IFNGR2,interferon gamma receptor 2,K05133
+347688v1,TUBB8,tubulin beta 8 class VIII,K07375
+347733v1,TUBB2B,tubulin beta 2B class IIb,K07375
+3479v1,IGF1,insulin like growth factor 1,K05459
+3480v1,IGF1R,insulin like growth factor 1 receptor,K05087
+3480v2,IGF1R,insulin like growth factor 1 receptor,K05087
+3481v1,IGF2,insulin like growth factor 2,K13769
+34v1,ACADM,acyl-CoA dehydrogenase medium chain,K00249
+3516v1,RBPJ,recombination signal binding protein for immunoglobulin kappa J region,K06053
+351v1,APP,amyloid beta precursor protein,K04520
+353v1,APRT,adenine phosphoribosyltransferase,K00759
+3549v1,IHH,Indian hedgehog signaling molecule,K11989
+355v1,FAS,Fas cell surface death receptor,K04390
+3560v1,IL2RB,interleukin 2 receptor subunit beta,K05069
+3561v1,IL2RG,interleukin 2 receptor subunit gamma,K05070
+356v1,FASLG,Fas ligand,K04389
+3570v1,IL6R,interleukin 6 receptor,K05055
+3572v1,IL6ST,interleukin 6 cytokine family signal transducer,K05060
+3575v1,IL7R,interleukin 7 receptor,K05072
+3587v1,IL10RA,interleukin 10 receptor subunit alpha,K05134
+3588v1,IL10RB,interleukin 10 receptor subunit beta,K05135
+3593v1,IL12B,interleukin 12B,K05425
+3594v1,IL12RB1,interleukin 12 receptor subunit beta 1,K05063
+35v1,ACADS,acyl-CoA dehydrogenase short chain,K00248
+3661v1,IRF3,interferon regulatory factor 3,K05411
+3663v1,IRF5,interferon regulatory factor 5,K09446
+3665v1,IRF7,interferon regulatory factor 7,K09447
+367v1,AR,androgen receptor,K08557
+367v2,AR,androgen receptor,K08557
+36v1,ACADSB,acyl-CoA dehydrogenase short/branched chain,K09478
+3703v1,STT3A,STT3 oligosaccharyltransferase complex catalytic subunit A,K07151
+3708v1,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1",K04958
+3708v2,ITPR1,"inositol 1,4,5-trisphosphate receptor type 1",K04958
+3712v1,IVD,isovaleryl-CoA dehydrogenase,K00253
+3716v1,JAK1,Janus kinase 1,K11217
+3717v1,JAK2,Janus kinase 2,K04447
+3718v1,JAK3,Janus kinase 3,K11218
+374654v1,KIF7,kinesin family member 7,K18806
+3748v1,KCNC3,potassium voltage-gated channel subfamily C member 3,K04889
+374v1,AREG,amphiregulin,K09782
+3752v1,KCND3,potassium voltage-gated channel subfamily D member 3,K04893
+3762v1,KCNJ5,potassium inwardly rectifying channel subfamily J member 5,K04999
+3796v1,KIF2A,kinesin family member 2A,K10393
+37v1,ACADVL,acyl-CoA dehydrogenase very long chain,K09479
+3814v1,KISS1,KiSS-1 metastasis suppressor,K23140
+3815v1,KIT,"KIT proto-oncogene, receptor tyrosine kinase",K05091
+3818v1,KLKB1,kallikrein B1,K01324
+3827v1,KNG1,kininogen 1,K03898
+383v1,ARG1,arginase 1,K01476
+3845v1,KRAS,"KRAS proto-oncogene, GTPase",K07827
+3845v2,KRAS,"KRAS proto-oncogene, GTPase",K07827
+389434v1,IYD,iodotyrosine deiodinase,K17231
+392255v1,GDF6,growth differentiation factor 6,K20012
+3930v1,LBR,lamin B receptor,K19532
+3939v1,LDHA,lactate dehydrogenase A,K00016
+3949v1,LDLR,low density lipoprotein receptor,K12473
+3955v1,LFNG,LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase,K05948
+3973v1,LHCGR,luteinizing hormone/choriogonadotropin receptor,K04248
+3978v1,LIG1,DNA ligase 1,K10747
+3980v1,LIG3,DNA ligase 3,K10776
+3981v1,LIG4,DNA ligase 4,K10777
+3988v1,LIPA,"lipase A, lysosomal acid type",K01052
+4000v1,LMNA,lamin A/C,K12641
+4005v1,LMO2,LIM domain only 2,K15612
+4023v1,LPL,lipoprotein lipase,K01059
+4036v1,LRP2,LDL receptor related protein 2,K06233
+4038v1,LRP4,LDL receptor related protein 4,K20051
+4040v1,LRP6,LDL receptor related protein 6,K03068
+4040v2,LRP6,LDL receptor related protein 6,K03068
+4041v1,LRP5,LDL receptor related protein 5,K03068
+404672v1,GTF2H5,general transcription factor IIH subunit 5,K10845
+4047v1,LSS,lanosterol synthase,K01852
+4054v1,LTBP3,latent transforming growth factor beta binding protein 3,K08023
+405753v1,DUOXA2,dual oxidase maturation factor 2,K17232
+4087v1,SMAD2,SMAD family member 2,K04500
+4087v2,SMAD2,SMAD family member 2,K04500
+4088v1,SMAD3,SMAD family member 3,K23605
+4089v1,SMAD4,SMAD family member 4,K04501
+4093v1,SMAD9,SMAD family member 9,K16791
+4094v1,MAF,MAF bZIP transcription factor,K09035
+410v1,ARSA,arylsulfatase A,K01134
+411v1,ARSB,arylsulfatase B,K01135
+4125v1,MAN2B1,mannosidase alpha class 2B member 1,K12311
+4128v1,MAOA,monoamine oxidase A,K00274
+4149v1,MAX,MYC associated factor X,K04453
+4153v1,MBL2,mannose binding lectin 2,K03991
+4158v1,MC2R,melanocortin 2 receptor,K04200
+4171v1,MCM2,minichromosome maintenance complex component 2,K02540
+4173v1,MCM4,minichromosome maintenance complex component 4,K02212
+4174v1,MCM5,minichromosome maintenance complex component 5,K02209
+4179v1,CD46,CD46 molecule,K04007
+4193v1,MDM2,MDM2 proto-oncogene,K06643
+4210v1,MEFV,"MEFV innate immunity regulator, pyrin",K12803
+4221v1,MEN1,menin 1,K14970
+4233v1,MET,"MET proto-oncogene, receptor tyrosine kinase",K05099
+4233v2,MET,"MET proto-oncogene, receptor tyrosine kinase",K05099
+4233v3,MET,"MET proto-oncogene, receptor tyrosine kinase",K05099
+4233v4,MET,"MET proto-oncogene, receptor tyrosine kinase",K05099
+4247v1,MGAT2,"alpha-1,6-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase",K00736
+427v1,ASAH1,N-acylsphingosine amidohydrolase 1,K12348
+4287v1,ATXN3,ataxin 3,K11863
+4292v1,MLH1,mutL homolog 1,K08734
+4297v1,KMT2A,lysine methyltransferase 2A,K09186
+4297v2,KMT2A,lysine methyltransferase 2A,K09186
+4298v1,MLLT1,MLLT1 super elongation complex subunit,K15187
+4299v1,AFF1,ALF transcription elongation factor 1,K15184
+4329v1,ALDH6A1,aldehyde dehydrogenase 6 family member A1,K00140
+4337v1,MOCS1,molybdenum cofactor synthesis 1,K20967
+4338v1,MOCS2,molybdenum cofactor synthesis 2,K03635
+4351v1,MPI,mannose phosphate isomerase,K01809
+4352v1,MPL,"MPL proto-oncogene, thrombopoietin receptor",K05082
+435v1,ASL,argininosuccinate lyase,K01755
+4361v1,MRE11,"MRE11 homolog, double strand break repair nuclease",K10865
+440138v1,ALG11,"ALG11 alpha-1,2-mannosyltransferase",K03844
+4436v1,MSH2,mutS homolog 2,K08735
+4437v1,MSH3,mutS homolog 3,K08736
+445v1,ASS1,argininosuccinate synthase 1,K01940
+4594v1,MMUT,methylmalonyl-CoA mutase,K01847
+4595v1,MUTYH,mutY DNA glycosylase,K03575
+4597v1,MVD,mevalonate diphosphate decarboxylase,K01597
+4598v1,MVK,mevalonate kinase,K00869
+4609v1,MYC,"MYC proto-oncogene, bHLH transcription factor",K04377
+4613v1,MYCN,"MYCN proto-oncogene, bHLH transcription factor",K09109
+462v1,SERPINC1,serpin family C member 1,K03911
+4669v1,NAGLU,N-acetyl-alpha-glucosaminidase,K01205
+466v1,ATF1,activating transcription factor 1,K09053
+4683v1,NBN,nibrin,K10867
+472v1,ATM,ATM serine/threonine kinase,K04728
+4763v1,NF1,neurofibromin 1,K08052
+476v1,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1,K01539
+4780v1,NFE2L2,NFE2 like bZIP transcription factor 2,K05638
+4824v1,NKX3-1,NK3 homeobox 1,K09348
+4838v1,NODAL,nodal growth differentiation factor,K04666
+4851v1,NOTCH1,notch receptor 1,K02599
+4851v2,NOTCH1,notch receptor 1,K02599
+4853v1,NOTCH2,notch receptor 2,K20994
+4854v1,NOTCH3,notch receptor 3,K20995
+4855v1,NOTCH4,notch receptor 4,K20996
+4893v1,NRAS,"NRAS proto-oncogene, GTPase",K07828
+4893v2,NRAS,"NRAS proto-oncogene, GTPase",K07828
+4913v1,NTHL1,nth like DNA glycosylase 1,K10773
+4914v1,NTRK1,neurotrophic receptor tyrosine kinase 1,K03176
+4920v1,ROR2,receptor tyrosine kinase like orphan receptor 2,K05123
+492v1,ATP2B3,ATPase plasma membrane Ca2+ transporting 3,K05850
+4942v1,OAT,ornithine aminotransferase,K00819
+4967v1,OGDH,oxoglutarate dehydrogenase,K00164
+4968v1,OGG1,8-oxoguanine DNA glycosylase,K03660
+4998v1,ORC1,origin recognition complex subunit 1,K02603
+5000v1,ORC4,origin recognition complex subunit 4,K02606
+5009v1,OTC,ornithine transcarbamylase,K00611
+5048v1,PAFAH1B1,platelet activating factor acetylhydrolase 1b regulatory subunit 1,K16794
+50506v1,DUOX2,dual oxidase 2,K13411
+5053v1,PAH,phenylalanine hydroxylase,K00500
+5054v1,SERPINE1,serpin family E member 1,K03982
+5071v1,PRKN,parkin RBR E3 ubiquitin protein ligase,K04556
+5073v1,PARN,poly(A)-specific ribonuclease,K01148
+5077v1,PAX3,paired box 3,K09381
+50814v1,NSDHL,NAD(P) dependent steroid dehydrogenase-like,K07748
+5087v1,PBX1,PBX homeobox 1,K09355
+5091v1,PC,pyruvate carboxylase,K01958
+5092v1,PCBD1,pterin-4 alpha-carbinolamine dehydratase 1,K01724
+50937v1,CDON,"cell adhesion associated, oncogene regulated",K20033
+50940v1,PDE11A,phosphodiesterase 11A,K13298
+5095v1,PCCA,propionyl-CoA carboxylase subunit alpha,K01965
+50964v1,SOST,sclerostin,K16834
+5096v1,PCCB,propionyl-CoA carboxylase subunit beta,K01966
+50v1,ACO2,aconitase 2,K01681
+51053v1,GMNN,geminin DNA replication inhibitor,K10749
+5105v1,PCK1,phosphoenolpyruvate carboxykinase 1,K01596
+5111v1,PCNA,proliferating cell nuclear antigen,K04802
+51135v1,IRAK4,interleukin 1 receptor associated kinase 4,K04733
+51227v1,PIGP,phosphatidylinositol glycan anchor biosynthesis class P,K03861
+51256v1,TBC1D7,TBC1 domain family member 7,K20396
+51284v1,TLR7,toll like receptor 7,K05404
+5139v1,PDE3A,phosphodiesterase 3A,K19021
+51434v1,ANAPC7,anaphase promoting complex subunit 7,K03354
+5154v1,PDGFA,platelet derived growth factor subunit A,K04359
+5155v1,PDGFB,platelet derived growth factor subunit B,K17386
+5156v1,PDGFRA,platelet derived growth factor receptor alpha,K04363
+5156v2,PDGFRA,platelet derived growth factor receptor alpha,K04363
+51604v1,PIGT,phosphatidylinositol glycan anchor biosynthesis class T,K05292
+5160v1,PDHA1,pyruvate dehydrogenase E1 subunit alpha 1,K00161
+51626v1,DYNC2LI1,dynein cytoplasmic 2 light intermediate chain 1,K10417
+5162v1,PDHB,pyruvate dehydrogenase E1 subunit beta,K00162
+51655v1,RASD1,ras related dexamethasone induced 1,K07843
+51684v1,SUFU,SUFU negative regulator of hedgehog signaling,K06229
+5172v1,SLC26A4,solute carrier family 26 member 4,K14702
+51733v1,UPB1,beta-ureidopropionase 1,K01431
+5173v1,PDYN,prodynorphin,K15840
+51750v1,RTEL1,regulator of telomere elongation helicase 1,K11136
+51776v1,MAP3K20,mitogen-activated protein kinase kinase kinase 20,K04424
+51807v1,TUBA8,tubulin alpha 8,K07374
+5199v1,CFP,complement factor properdin,K15412
+51v1,ACOX1,acyl-CoA oxidase 1,K00232
+5213v1,PFKM,"phosphofructokinase, muscle",K00850
+5216v1,PFN1,profilin 1,K05759
+5224v1,PGAM2,phosphoglycerate mutase 2,K01834
+5236v1,PGM1,phosphoglucomutase 1,K01835
+5265v1,SERPINA1,serpin family A member 1,K03984
+5277v1,PIGA,phosphatidylinositol glycan anchor biosynthesis class A,K03857
+5279v1,PIGC,phosphatidylinositol glycan anchor biosynthesis class C,K03859
+5283v1,PIGH,phosphatidylinositol glycan anchor biosynthesis class H,K03858
+5286v1,PIK3C2A,phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha,K00923
+5290v1,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",K00922
+5290v2,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha",K00922
+5313v1,PKLR,pyruvate kinase L/R,K12406
+5340v1,PLG,plasminogen,K01315
+5345v1,SERPINF2,serpin family F member 2,K03983
+5371v1,PML,PML nuclear body scaffold,K10054
+5373v1,PMM2,phosphomannomutase 2,K17497
+5395v1,PMS2,"PMS1 homolog 2, mismatch repair system component",K10858
+54205v1,CYCS,"cytochrome c, somatic",K08738
+5422v1,POLA1,"DNA polymerase alpha 1, catalytic subunit",K02320
+5424v1,POLD1,"DNA polymerase delta 1, catalytic subunit",K02327
+5426v1,POLE,"DNA polymerase epsilon, catalytic subunit",K02324
+5428v1,POLG,"DNA polymerase gamma, catalytic subunit",K02332
+5429v1,POLH,DNA polymerase eta,K03509
+5430v1,POLR2A,RNA polymerase II subunit A,K03006
+54344v1,DPM3,"dolichyl-phosphate mannosyltransferase subunit 3, regulatory",K09659
+54567v1,DLL4,delta like canonical Notch ligand 4,K06051
+545v1,ATR,ATR serine/threonine kinase,K06640
+54658v1,UGT1A1,UDP glucuronosyltransferase family 1 member A1,K00699
+546v1,ATRX,ATRX chromatin remodeler,K10779
+54820v1,NDE1,nudE neurodevelopment protein 1,K16738
+54840v1,APTX,aprataxin,K10863
+54872v1,PIGG,phosphatidylinositol glycan anchor biosynthesis class G,K05310
+54892v1,NCAPG2,non-SMC condensin II complex subunit G2,K11492
+54936v1,ADPRS,ADP-ribosylserine hydrolase,K11687
+54941v1,RNF125,ring finger protein 125,K12170
+5498v1,PPOX,protoporphyrinogen oxidase,K00231
+549v1,AUH,AU RNA binding methylglutaconyl-CoA hydratase,K05607
+5500v1,PPP1CB,protein phosphatase 1 catalytic subunit beta,K06269
+55034v1,MOCOS,molybdenum cofactor sulfurase,K15631
+55120v1,FANCL,FA complementation group L,K10606
+55135v1,WRAP53,WD repeat containing antisense to TP53,K23314
+55159v1,RFWD3,ring finger and WD repeat domain 3,K15691
+5515v1,PPP2CA,protein phosphatase 2 catalytic subunit alpha,K04382
+5518v1,PPP2R1A,protein phosphatase 2 scaffold subunit Aalpha,K03456
+5519v1,PPP2R1B,protein phosphatase 2 scaffold subunit Abeta,K03456
+551v1,AVP,arginine vasopressin,K05242
+55215v1,FANCI,FA complementation group I,K10895
+55240v1,STEAP3,STEAP3 metalloreductase,K10142
+5528v1,PPP2R5D,protein phosphatase 2 regulatory subunit B'delta,K11584
+55343v1,SLC35C1,solute carrier family 35 member C1,K15279
+55366v1,LGR4,leucine rich repeat containing G protein-coupled receptor 4,K04309
+55388v1,MCM10,minichromosome maintenance 10 replication initiation factor,K10736
+554v1,AVPR2,arginine vasopressin receptor 2,K04228
+55505v1,NOP10,NOP10 ribonucleoprotein,K11130
+5557v1,PRIM1,DNA primase subunit 1,K02684
+55596v1,ZCCHC8,zinc finger CCHC-type containing 8,K13128
+55624v1,POMGNT1,"protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)",K09666
+55650v1,PIGV,phosphatidylinositol glycan anchor biosynthesis class V,K07542
+55651v1,NHP2,NHP2 ribonucleoprotein,K11129
+5566v1,PRKACA,protein kinase cAMP-activated catalytic subunit alpha,K04345
+55733v1,HHAT,hedgehog acyltransferase,K24678
+5573v1,PRKAR1A,protein kinase cAMP-dependent type I regulatory subunit alpha,K04739
+55753v1,OGDHL,oxoglutarate dehydrogenase L,K00164
+55755v1,CDK5RAP2,CDK5 regulatory subunit associated protein 2,K16542
+55775v1,TDP1,tyrosyl-DNA phosphodiesterase 1,K10862
+55790v1,CSGALNACT1,chondroitin sulfate N-acetylgalactosaminyltransferase 1,K00746
+5582v1,PRKCG,protein kinase C gamma,K19663
+5582v2,PRKCG,protein kinase C gamma,K19663
+55851v1,PSENEN,"presenilin enhancer, gamma-secretase subunit",K06170
+55869v1,HDAC8,histone deacetylase 8,K11405
+5591v1,PRKDC,"protein kinase, DNA-activated, catalytic subunit",K06642
+5594v1,MAPK1,mitogen-activated protein kinase 1,K04371
+5604v1,MAP2K1,mitogen-activated protein kinase kinase 1,K04368
+56052v1,ALG1,ALG1 chitobiosyldiphosphodolichol beta-mannosyltransferase,K03842
+5605v1,MAP2K2,mitogen-activated protein kinase kinase 2,K04369
+5618v1,PRLR,prolactin receptor,K05081
+5621v1,PRNP,prion protein,K05634
+5621v2,PRNP,prion protein,K05634
+56246v1,MRAP,melanocortin 2 receptor accessory protein,K22398
+5624v1,PROC,"protein C, inactivator of coagulation factors Va and VIIIa",K01344
+5625v1,PRODH,proline dehydrogenase 1,K00318
+5627v1,PROS1,protein S,K03908
+5648v1,MASP1,MBL associated serine protease 1,K03992
+5660v1,PSAP,prosaposin,K12382
+5663v1,PSEN1,presenilin 1,K04505
+5664v1,PSEN2,presenilin 2,K04522
+56922v1,MCCC1,methylcrotonyl-CoA carboxylase subunit 1,K01968
+57082v1,KNL1,kinetochore scaffold 1,K11542
+5723v1,PSPH,phosphoserine phosphatase,K01079
+5727v1,PTCH1,patched 1,K06225
+5727v2,PTCH1,patched 1,K06225
+5728v1,PTEN,phosphatase and tensin homolog,K01110
+5728v2,PTEN,phosphatase and tensin homolog,K01110
+5741v1,PTH,parathyroid hormone,K05261
+5744v1,PTHLH,parathyroid hormone like hormone,K22608
+57534v1,MIB1,MIB E3 ubiquitin protein ligase 1,K10645
+57654v1,UVSSA,UV stimulated scaffold protein A,K23720
+57697v1,FANCM,FA complementation group M,K10896
+57817v1,HAMP,hepcidin antimicrobial peptide,K23106
+5781v1,PTPN11,protein tyrosine phosphatase non-receptor type 11,K07293
+5805v1,PTS,6-pyruvoyltetrahydropterin synthase,K01737
+580v1,BARD1,BRCA1 associated RING domain 1,K10683
+581v1,BAX,"BCL2 associated X, apoptosis regulator",K02159
+5836v1,PYGL,glycogen phosphorylase L,K00688
+5837v1,PYGM,"glycogen phosphorylase, muscle associated",K00688
+58484v1,NLRC4,NLR family CARD domain containing 4,K12805
+5860v1,QDPR,quinoid dihydropteridine reductase,K00357
+5885v1,RAD21,RAD21 cohesin complex component,K06670
+5888v1,RAD51,RAD51 recombinase,K04482
+5889v1,RAD51C,RAD51 paralog C,K10870
+5892v1,RAD51D,RAD51 paralog D,K10871
+5894v1,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",K04366
+5896v1,RAG1,recombination activating 1,K10628
+5897v1,RAG2,recombination activating 2,K10988
+5921v1,RASA1,RAS p21 protein activator 1,K04352
+5925v1,RB1,RB transcriptional corepressor 1,K06618
+5925v2,RB1,RB transcriptional corepressor 1,K06618
+5932v1,RBBP8,"RB binding protein 8, endonuclease",K20773
+593v1,BCKDHA,branched chain keto acid dehydrogenase E1 subunit alpha,K00166
+594v1,BCKDHB,branched chain keto acid dehydrogenase E1 subunit beta,K00167
+595v1,CCND1,cyclin D1,K04503
+5966v1,REL,"REL proto-oncogene, NF-kB subunit",K09254
+596v1,BCL2,BCL2 apoptosis regulator,K02161
+5970v1,RELA,"RELA proto-oncogene, NF-kB subunit",K04735
+5979v1,RET,ret proto-oncogene,K05126
+5979v2,RET,ret proto-oncogene,K05126
+5979v3,RET,ret proto-oncogene,K05126
+5981v1,RFC1,replication factor C subunit 1,K10754
+6016v1,RIT1,Ras like without CAAX 1,K07832
+60675v1,PROK2,prokineticin 2,K24191
+6098v1,ROS1,"ROS proto-oncogene 1, receptor tyrosine kinase",K05088
+6117v1,RPA1,replication protein A1,K07466
+6197v1,RPS6KA3,ribosomal protein S6 kinase A3,K04373
+629v1,CFB,complement factor B,K01335
+6307v1,MSMO1,methylsterol monooxygenase 1,K07750
+6309v1,SC5D,sterol-C5-desaturase,K00227
+6310v1,ATXN1,ataxin 1,K23616
+6311v1,ATXN2,ataxin 2,K23625
+6342v1,SCP2,sterol carrier protein 2,K08764
+6389v1,SDHA,succinate dehydrogenase complex flavoprotein subunit A,K00234
+6390v1,SDHB,succinate dehydrogenase complex iron sulfur subunit B,K00235
+6392v1,SDHD,succinate dehydrogenase complex subunit D,K00237
+64087v1,MCCC2,methylcrotonyl-CoA carboxylase subunit 2,K01969
+64127v1,NOD2,nucleotide binding oligomerization domain containing 2,K10165
+64131v1,XYLT1,xylosyltransferase 1,K00771
+64132v1,XYLT2,xylosyltransferase 2,K00771
+64135v1,IFIH1,interferon induced with helicase C domain 1,K12647
+641v1,BLM,BLM RecQ like helicase,K10901
+6424v1,SFRP4,secreted frizzled related protein 4,K02185
+64359v1,NXN,nucleoredoxin,K17609
+64388v1,GREM2,"gremlin 2, DAN family BMP antagonist",K23318
+64421v1,DCLRE1C,DNA cross-link repair 1C,K10887
+6448v1,SGSH,N-sulfoglucosamine sulfohydrolase,K01565
+64682v1,ANAPC1,anaphase promoting complex subunit 1,K03348
+6469v1,SHH,sonic hedgehog signaling molecule,K11988
+6469v2,SHH,sonic hedgehog signaling molecule,K11988
+6476v1,SI,sucrase-isomaltase,K01203
+64840v1,PORCN,porcupine O-acyltransferase,K00181
+65018v1,PINK1,PTEN induced kinase 1,K05688
+65057v1,ACD,ACD shelterin complex subunit and telomerase recruitment factor,K11114
+650v1,BMP2,bone morphogenetic protein 2,K21283
+6514v1,SLC2A2,solute carrier family 2 member 2,K07593
+6528v1,SLC5A5,solute carrier family 5 member 5,K14385
+6535v1,SLC6A8,solute carrier family 6 member 8,K05041
+6567v1,SLC16A2,solute carrier family 16 member 2,K08231
+657v1,BMPR1A,bone morphogenetic protein receptor type 1A,K04673
+6584v1,SLC22A5,solute carrier family 22 member 5,K08202
+658v1,BMPR1B,bone morphogenetic protein receptor type 1B,K13578
+659v1,BMPR2,bone morphogenetic protein receptor type 2,K04671
+6608v1,SMO,"smoothened, frizzled class receptor",K06226
+6609v1,SMPD1,sphingomyelin phosphodiesterase 1,K12350
+6611v1,SMS,spermine synthase,K00802
+6622v1,SNCA,synuclein alpha,K04528
+6647v1,SOD1,superoxide dismutase 1,K04565
+6654v1,SOS1,SOS Ras/Rac guanine nucleotide exchange factor 1,K03099
+6655v1,SOS2,SOS Ras/Rho guanine nucleotide exchange factor 2,K03099
+6697v1,SPR,sepiapterin reductase,K00072
+6712v1,SPTBN2,"spectrin beta, non-erythrocytic 2",K23932
+6716v1,SRD5A2,steroid 5 alpha-reductase 2,K12344
+6718v1,AKR1D1,aldo-keto reductase family 1 member D1,K00251
+672v1,BRCA1,BRCA1 DNA repair associated,K10605
+673v1,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",K04365
+673v2,BRAF,"B-Raf proto-oncogene, serine/threonine kinase",K04365
+6756v1,SSX1,SSX family member 1,K15624
+6757v1,SSX2,SSX family member 2,K15625
+675v1,BRCA2,BRCA2 DNA repair associated,K08775
+6760v1,SS18,SS18 subunit of BAF chromatin remodeling complex,K15623
+6772v1,STAT1,signal transducer and activator of transcription 1,K11220
+6773v1,STAT2,signal transducer and activator of transcription 2,K11221
+6774v1,STAT3,signal transducer and activator of transcription 3,K04692
+6777v1,STAT5B,signal transducer and activator of transcription 5B,K11224
+6790v1,AURKA,aurora kinase A,K11481
+6794v1,STK11,serine/threonine kinase 11,K07298
+6866v1,TAC3,tachykinin precursor 3,K05240
+6868v1,ADAM17,ADAM metallopeptidase domain 17,K06059
+6870v1,TACR3,tachykinin receptor 3,K04224
+6898v1,TAT,tyrosine aminotransferase,K00815
+6911v1,TBX6,T-box transcription factor 6,K10180
+6929v1,TCF3,transcription factor 3,K09063
+699v1,BUB1,BUB1 mitotic checkpoint serine/threonine kinase,K02178
+7012v1,TERC,telomerase RNA component,K22183
+7015v1,TERT,telomerase reverse transcriptase,K11126
+7015v2,TERT,telomerase reverse transcriptase,K11126
+7018v1,TF,transferrin,K14736
+701v1,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,K06637
+7030v1,TFE3,transcription factor binding to IGHM enhancer 3,K09105
+7030v2,TFE3,transcription factor binding to IGHM enhancer 3,K09105
+7036v1,TFR2,transferrin receptor 2,K23910
+7038v1,TG,thyroglobulin,K10809
+7039v1,TGFA,transforming growth factor alpha,K08774
+7040v1,TGFB1,transforming growth factor beta 1,K13375
+7042v1,TGFB2,transforming growth factor beta 2,K13376
+7043v1,TGFB3,transforming growth factor beta 3,K13377
+7046v1,TGFBR1,transforming growth factor beta receptor 1,K04674
+7046v2,TGFBR1,transforming growth factor beta receptor 1,K04674
+7048v1,TGFBR2,transforming growth factor beta receptor 2,K04388
+7048v2,TGFBR2,transforming growth factor beta receptor 2,K04388
+7048v3,TGFBR2,transforming growth factor beta receptor 2,K04388
+7054v1,TH,tyrosine hydroxylase,K00501
+7056v1,THBD,thrombomodulin,K03907
+7066v1,THPO,thrombopoietin,K06854
+7067v1,THRA,thyroid hormone receptor alpha,K05547
+7068v1,THRB,thyroid hormone receptor beta,K08362
+7096v1,TLR1,toll like receptor 1,K05398
+7097v1,TLR2,toll like receptor 2,K10159
+7098v1,TLR3,toll like receptor 3,K05401
+7099v1,TLR4,toll like receptor 4,K10160
+7100v1,TLR5,toll like receptor 5,K10168
+710v1,SERPING1,serpin family G member 1,K04001
+7128v1,TNFAIP3,TNF alpha induced protein 3,K11859
+712v1,C1QA,complement C1q A chain,K03986
+7132v1,TNFRSF1A,TNF receptor superfamily member 1A,K03158
+713v1,C1QB,complement C1q B chain,K03987
+714v1,C1QC,complement C1q C chain,K03988
+7156v1,TOP3A,DNA topoisomerase III alpha,K03165
+7157v1,TP53,tumor protein p53,K04451
+715v1,C1R,complement C1r,K01330
+716v1,C1S,complement C1s,K01331
+7172v1,TPMT,thiopurine S-methyltransferase,K00569
+7173v1,TPO,thyroid peroxidase,K00431
+717v1,C2,complement C2,K01332
+7187v1,TRAF3,TNF receptor associated factor 3,K03174
+718v1,C3,complement C3,K03990
+7201v1,TRHR,thyrotropin releasing hormone receptor,K04282
+720v1,C4A,complement C4A (Rodgers blood group),K03989
+721v1,C4B,complement C4B (Chido blood group),K03989
+7222v1,TRPC3,transient receptor potential cation channel subfamily C member 3,K04966
+7248v1,TSC1,TSC complex subunit 1,K07206
+7248v2,TSC1,TSC complex subunit 1,K07206
+7249v1,TSC2,TSC complex subunit 2,K07207
+7249v2,TSC2,TSC complex subunit 2,K07207
+7252v1,TSHB,thyroid stimulating hormone subunit beta,K05251
+7253v1,TSHR,thyroid stimulating hormone receptor,K04249
+7253v2,TSHR,thyroid stimulating hormone receptor,K04249
+7277v1,TUBA4A,tubulin alpha 4a,K07374
+727v1,C5,complement C5,K03994
+7280v1,TUBB2A,tubulin beta 2A class IIa,K07375
+7283v1,TUBG1,tubulin gamma 1,K10389
+729920v1,CRPPA,CDP-L-ribitol pyrophosphorylase A,K21031
+7299v1,TYR,tyrosinase,K00505
+729v1,C6,complement C6,K03995
+7306v1,TYRP1,tyrosinase related protein 1,K00506
+730v1,C7,complement C7,K03996
+731v1,C8A,complement C8 alpha chain,K03997
+732v1,C8B,complement C8 beta chain,K03998
+7345v1,UCHL1,ubiquitin C-terminal hydrolase L1,K05611
+7355v1,SLC35A2,solute carrier family 35 member A2,K15272
+735v1,C9,complement C9,K04000
+7374v1,UNG,uracil DNA glycosylase,K03648
+7389v1,UROD,uroporphyrinogen decarboxylase,K01599
+7390v1,UROS,uroporphyrinogen III synthase,K01719
+7415v1,VCP,valosin containing protein,K13525
+7428v1,VHL,von Hippel-Lindau tumor suppressor,K03871
+7428v2,VHL,von Hippel-Lindau tumor suppressor,K03871
+7450v1,VWF,von Willebrand factor,K03900
+7468v1,NSD2,nuclear receptor binding SET domain protein 2,K11424
+7471v1,WNT1,Wnt family member 1,K03209
+7473v1,WNT3,Wnt family member 3,K00312
+7474v1,WNT5A,Wnt family member 5A,K00444
+7476v1,WNT7A,Wnt family member 7A,K00572
+7480v1,WNT10B,Wnt family member 10B,K01357
+7486v1,WRN,WRN RecQ like helicase,K10900
+7490v1,WT1,WT1 transcription factor,K09234
+7498v1,XDH,xanthine dehydrogenase,K00106
+7507v1,XPA,"XPA, DNA damage recognition and repair factor",K10847
+7508v1,XPC,"XPC complex subunit, DNA damage recognition and repair factor",K10838
+7515v1,XRCC1,X-ray repair cross complementing 1,K10803
+7516v1,XRCC2,X-ray repair cross complementing 2,K10879
+7517v1,XRCC3,X-ray repair cross complementing 3,K10880
+7518v1,XRCC4,X-ray repair cross complementing 4,K10886
+7704v1,ZBTB16,zinc finger and BTB domain containing 16,K10055
+773v1,CACNA1A,calcium voltage-gated channel subunit alpha1 A,K04344
+776v1,CACNA1D,calcium voltage-gated channel subunit alpha1 D,K04851
+7841v1,MOGS,mannosyl-oligosaccharide glucosidase,K01228
+7846v1,TUBA1A,tubulin alpha 1a,K07374
+7849v1,PAX8,paired box 8,K09293
+7849v2,PAX8,paired box 8,K09293
+788v1,SLC25A20,solute carrier family 25 member 20,K15109
+78989v1,COLEC11,collectin subfamily member 11,K10066
+79001v1,VKORC1,vitamin K epoxide reductase complex subunit 1,K05357
+79053v1,ALG8,"ALG8 alpha-1,3-glucosyltransferase",K03849
+79087v1,ALG12,"ALG12 alpha-1,6-mannosyltransferase",K03847
+79147v1,FKRP,fukutin related protein,K19873
+79621v1,RNASEH2B,ribonuclease H2 subunit B,K10744
+79644v1,SRD5A3,steroid 5 alpha-reductase 3,K12345
+79648v1,MCPH1,microcephalin 1,K19403
+79659v1,DYNC2H1,dynein cytoplasmic 2 heavy chain 1,K10414
+79728v1,PALB2,partner and localizer of BRCA2,K10897
+79796v1,ALG9,"ALG9 alpha-1,2-mannosyltransferase",K03846
+79840v1,NHEJ1,non-homologous end joining factor 1,K10980
+79868v1,ALG13,ALG13 UDP-N-acetylglucosaminyltransferase subunit,K07432
+79947v1,DHDDS,dehydrodolichyl diphosphate synthase subunit,K11778
+79991v1,STN1,STN1 subunit of CST complex,K23312
+80055v1,PGAP1,post-GPI attachment to proteins inositol deacylase 1,K05294
+8013v1,NR4A3,nuclear receptor subfamily 4 group A member 3,K08559
+80152v1,CENPT,centromere protein T,K11512
+80169v1,CTC1,CST telomere replication complex component 1,K23311
+80270v1,HSD3B7,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7",K12408
+80326v1,WNT10A,Wnt family member 10A,K01357
+8036v1,SHOC2,SHOC2 leucine rich repeat scaffold protein,K19613
+81027v1,TUBB1,tubulin beta 1 class VI,K07375
+8131v1,NPRL3,"NPR3 like, GATOR1 complex subunit",K20406
+81494v1,CFHR5,complement factor H related 5,K23817
+81620v1,CDT1,chromatin licensing and DNA replication factor 1,K10727
+8200v1,GDF5,growth differentiation factor 5,K04664
+8216v1,LZTR1,leucine zipper like post translational regulator 1,K23330
+8243v1,SMC1A,structural maintenance of chromosomes 1A,K06636
+8309v1,ACOX2,acyl-CoA oxidase 2,K10214
+8312v1,AXIN1,axin 1,K02157
+8313v1,AXIN2,axin 2,K04385
+8318v1,CDC45,cell division cycle 45,K06628
+8323v1,FZD6,frizzled class receptor 6,K02376
+8324v1,FZD7,frizzled class receptor 7,K02432
+8379v1,MAD1L1,mitotic arrest deficient 1 like 1,K06679
+83990v1,BRIP1,BRCA1 interacting helicase 1,K15362
+84153v1,RNASEH2C,ribonuclease H2 subunit C,K10745
+84197v1,POMK,protein O-mannose kinase,K17547
+841v1,CASP8,caspase 8,K04398
+8438v1,RAD54L,RAD54 like,K10875
+843v1,CASP10,caspase 10,K04400
+84464v1,SLX4,SLX4 structure-specific endonuclease subunit,K10484
+84515v1,MCM8,minichromosome maintenance 8 homologous recombination repair factor,K10737
+84617v1,TUBB6,tubulin beta 6 class V,K07375
+84634v1,KISS1R,KISS1 receptor,K08374
+84634v2,KISS1R,KISS1 receptor,K08374
+84667v1,HES7,hes family bHLH transcription factor 7,K09087
+84693v1,MCEE,methylmalonyl-CoA epimerase,K05606
+846v1,CASR,calcium sensing receptor,K04612
+84720v1,PIGO,phosphatidylinositol glycan anchor biosynthesis class O,K05288
+84892v1,POMGNT2,"protein O-linked mannose N-acetylglucosaminyltransferase 2 (beta 1,4-)",K18207
+84992v1,PIGY,phosphatidylinositol glycan anchor biosynthesis class Y,K11001
+8517v1,IKBKG,inhibitor of nuclear factor kappa B kinase regulatory subunit gamma,K07210
+8517v2,IKBKG,inhibitor of nuclear factor kappa B kinase regulatory subunit gamma,K07210
+85365v1,ALG2,"ALG2 alpha-1,3/1,6-mannosyltransferase",K03843
+85378v1,TUBGCP6,tubulin gamma complex associated protein 6,K16573
+8547v1,FCN3,ficolin 3,K10104
+861v1,RUNX1,RUNX family transcription factor 1,K08367
+861v2,RUNX1,RUNX family transcription factor 1,K08367
+861v3,RUNX1,RUNX family transcription factor 1,K08367
+861v4,RUNX1,RUNX family transcription factor 1,K08367
+861v5,RUNX1,RUNX family transcription factor 1,K08367
+8622v1,PDE8B,phosphodiesterase 8B,K18437
+8643v1,PTCH2,patched 2,K11101
+8647v1,ABCB11,ATP binding cassette subfamily B member 11,K05664
+8659v1,ALDH4A1,aldehyde dehydrogenase 4 family member A1,K00294
+866v1,SERPINA6,serpin family A member 6,K04525
+867v1,CBL,Cbl proto-oncogene,K04707
+8733v1,GPAA1,glycosylphosphatidylinositol anchor attachment 1,K05289
+8737v1,RIPK1,receptor interacting serine/threonine kinase 1,K02861
+8795v1,TNFRSF10B,TNF receptor superfamily member 10b,K04722
+8813v1,DPM1,"dolichyl-phosphate mannosyltransferase subunit 1, catalytic",K00721
+8815v1,BANF1,BAF nuclear assembly factor 1,K21870
+8818v1,DPM2,"dolichyl-phosphate mannosyltransferase subunit 2, regulatory",K09658
+8822v1,FGF17,fibroblast growth factor 17,K04358
+8878v1,SQSTM1,sequestosome 1,K14381
+8912v1,CACNA1H,calcium voltage-gated channel subunit alpha1 H,K04855
+8924v1,HERC2,HECT and RLD domain containing E3 ubiquitin protein ligase 2,K10595
+8930v1,MBD4,"methyl-CpG binding domain 4, DNA glycosylase",K10801
+898v1,CCNE1,cyclin E1,K06626
+90268v1,OTULIN,OTU deubiquitinase with linear linkage specificity,K18343
+90417v1,KNSTRN,kinetochore localized astrin (SPAG5) binding protein,K26097
+9049v1,AIP,aryl hydrocarbon receptor interacting protein,K17767
+9051v1,PSTPIP1,proline-serine-threonine phosphatase interacting protein 1,K12804
+9091v1,PIGQ,phosphatidylinositol glycan anchor biosynthesis class Q,K03860
+90v1,ACVR1,activin A receptor type 1,K04675
+9101v1,USP8,ubiquitin specific peptidase 8,K11839
+9126v1,SMC3,structural maintenance of chromosomes 3,K06669
+91662v1,NLRP12,NLR family pyrin domain containing 12,K20865
+91869v1,RFT1,RFT1 homolog,K06316
+9210v1,BMP15,bone morphogenetic protein 15,K05498
+9215v1,LARGE1,LARGE xylosyl- and glucuronyltransferase 1,K09668
+9217v1,VAPB,VAMP associated protein B and C,K10707
+92335v1,STRADA,STE20 related adaptor alpha,K08271
+9241v1,NOG,noggin,K04658
+9247v1,GCM2,glial cells missing transcription factor 2,K21598
+9247v2,GCM2,glial cells missing transcription factor 2,K21598
+93183v1,PIGM,phosphatidylinositol glycan anchor biosynthesis class M,K05284
+9319v1,TRIP13,thyroid hormone receptor interactor 13,K22399
+9394v1,HS6ST1,heparan sulfate 6-O-sulfotransferase 1,K02514
+93v1,ACVR2B,activin A receptor type 2B,K13596
+94005v1,PIGS,phosphatidylinositol glycan anchor biosynthesis class S,K05291
+9401v1,RECQL4,RecQ like helicase 4,K10730
+9420v1,CYP7B1,cytochrome P450 family 7 subfamily B member 1,K07430
+9469v1,CHST3,carbohydrate sulfotransferase 3,K01020
+9487v1,PIGL,phosphatidylinositol glycan anchor biosynthesis class L,K03434
+9488v1,PIGB,phosphatidylinositol glycan anchor biosynthesis class B,K05286
+94v1,ACVRL1,activin A receptor like type 1,K13594
+9563v1,H6PD,hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase,K13937
+966v1,CD59,CD59 molecule (CD59 blood group),K04008
+9681v1,DEPDC5,"DEP domain containing 5, GATOR1 subcomplex subunit",K20404
+9702v1,CEP57,centrosomal protein 57,K16762
+9817v1,KEAP1,kelch like ECH associated protein 1,K10456
+9837v1,GINS1,GINS complex subunit 1,K10732
+990v1,CDC6,cell division cycle 6,K02213
+9918v1,NCAPD2,non-SMC condensin I complex subunit D2,K06677
+999v1,CDH1,cadherin 1,K05689
+999v2,CDH1,cadherin 1,K05689
+999v3,CDH1,cadherin 1,K05689
+999v4,CDH1,cadherin 1,K05689
+9v1,NAT1,N-acetyltransferase 1,K00622

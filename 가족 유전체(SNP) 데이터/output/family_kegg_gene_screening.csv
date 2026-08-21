@@ -1,0 +1,602 @@
+﻿gene_symbol,kegg_variant_phenotypes,kegg_linked_diseases,kegg_linked_networks,kegg_linked_drug_targets,family_carried_rsid_count,family_carriers,clinvar_significances_carried,flag_pathogenic,flag_drug_response
+CFH,CFH mutation,Alternative complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome; Basal laminar drusen; C3 glomerulopathy,,,11,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Conflicting classifications of pathogenicity; Pathogenic/Likely pathogenic; Pathogenic; risk factor; risk factor,True,False
+UGT1A1,UGT1A1 polymorphism for poor drug metabolism,,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Benign; association; Pathogenic; drug response,True,True
+CYP19A1,CYP19A1 (aromatase) deficiency; CYP19A1 (aromatase) gain-of-function variant,Aromatase excess syndrome; Aromatase deficiency,,,14,"Child 1, Child 2, Child 3, Father, Mother",Benign; association; drug response,False,True
+XRCC1,XRCC1 mutation,Autosomal recessive spinocerebellar ataxias,,,2,"Child 2, Mother",Benign; drug response,False,True
+LMNA,LMNA mutation,,,,1,Child 1,Pathogenic,True,False
+APC,APC mutation,Gastric cancer; Colorectal cancer,,,53,"Child 1, Child 2, Child 3, Father, Mother",Benign; other,False,False
+LRRK2,LRRK2 mutation,Parkinson disease,,,35,"Child 1, Child 2, Father, Mother",Benign; Uncertain significance,False,False
+NOTCH1,NOTCH1 mutation; NOTCH1 overexpression,Breast cancer; Aortic valve disease; Adams-Oliver syndrome,,,27,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+BRCA1,BRCA1 mutation,Pancreatic cancer; Breast cancer; Fanconi anemia; Familial breast-ovarian cancer,,,24,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F5,F5 mutation; Factor V Leiden,Factor V deficiency; Inherited thrombophilia; Budd-Chiari syndrome,,,24,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Conflicting classifications of pathogenicity,False,False
+DMD,DMD mutation,Duchenne muscular dystrophy,,Eteplirsen (USAN/INN); Viltolarsen (JAN/USAN); Golodirsen (USAN/INN); Casimersen (USAN/INN),21,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+MTOR,mTOR mutation,Focal cortical dysplasia of Taylor; Smith-Kingsmore syndrome,,,21,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+BRCA2,BRCA2 mutation,Pancreatic cancer; Breast cancer; Fanconi anemia; Familial breast-ovarian cancer,,,20,"Child 1, Child 2, Child 3, Father, Mother",Benign; not provided,False,False
+CACNA1A,CACNA1A mutation,Spinocerebellar ataxia (SCA),,,20,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ITPR1,ITPR1 activating mutation; ITPR1 reduced expression,Spinocerebellar ataxia (SCA),,,18,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LRP2,LRP2 mutation,Donnai-Barrow syndrome,,,18,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RET,RET fusion; RET mutation,Non-small cell lung cancer; Thyroid cancer; Hirschsprung disease; Malignant paraganglioma; Medullary thyroid cancer,,Pralsetinib (USAN/INN); Selpercatinib (JAN/USAN/INN); Pralsetinib hydrate (JAN),17,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Benign; risk factor,False,False
+XDH,XDH deficiency,Xanthinuria,,,16,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+VWF,VWF mutation,Hemophilia; von Willebrand disease,,,15,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+FANCA,FANCA mutation,Fanconi anemia,,,14,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+PAH,PAH deficiency,Phenylketonuria,,Pegvaliase (INN),14,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MCPH1,MCPH1 mutation,Primary microcephaly,,,13,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+EVC2,EVC2 mutation,Ellis-van Creveld syndrome; Weyers acrofacial dysostosis,,,12,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+C3,C3 mutation,Classic complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome,,,11,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DPYD,DPYD deficiency,,,,11,"Child 1, Child 2, Child 3, Father, Mother",Benign; Conflicting classifications of pathogenicity; drug response,False,True
+NOD2,NOD2 mutation,Blau syndrome; Inflammatory bowel disease (IBD),,,11,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Conflicting classifications of pathogenicity; Uncertain risk allele; confers sensitivity,False,False
+SLC22A5,SLC22A5 mutation,Systemic primary carnitine deficiency,,,11,"Child 1, Child 2, Child 3, Father, Mother",Benign; Uncertain significance,False,False
+ATM,ATM mutation,Chronic lymphocytic leukemia; Ataxia telangiectasia,,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+EGF,EGF overexpression,Colorectal cancer,,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F11,F11 mutation,Factor XI deficiency,,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+NOTCH4,NOTCH4 overexpression,Breast cancer,,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TERT,TERT mutation; TERT overexpression,"Gastric cancer; Melanoma; Hepatocellular carcinoma; Dyskeratosis congenita; Aplastic anemia; Pulmonary fibrosis and/or bone marrow failure, telomere-related",,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign; Uncertain significance; association,False,False
+TG,TG mutation,Thyroid dyshormonogenesis,,,10,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+APOB,APOB mutation,Familial hypercholesterolemia,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+CFB,CFB mutaion,Alternative complement pathway component defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+CHST3,CHST3 mutation,Spondyloepiphyseal dysplasia with congenital joint dislocations,,,9,"Child 1, Child 2, Father, Mother",Benign,False,False
+CYP11B1,CYP11B1 deficiency,Congenital adrenal hyperplasia,,,9,"Child 1, Father, Mother",Benign,False,False
+EGFR,EGFR amplification; EGFR mutation in glioblastoma; EGFR mutation in non-small cell lung cancer; EGFR overexpression; First generation TKI-resistant EGFR mutation,Non-small cell lung cancer; Colorectal cancer; Bladder cancer; Breast cancer; Glioma,,Gefitinib (JP18/USAN/INN); Erlotinib hydrochloride (JAN/USAN); Afatinib dimaleate (USAN); Dacomitinib (USAN); Osimertinib mesylate (USAN); Amivantamab (USAN/INN); Mobocertinib succinate (JAN); Lazertinib (USAN); Lazertinib mesilate hydrate (JAN); Aumolertinib (USAN/INN); Aumolertinib mesylate (USAN); Sunvozertinib (USAN/INN),9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ERBB4,ERBB4 mutation,Amyotrophic lateral sclerosis (ALS),,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+EVC,EVC mutation,Ellis-van Creveld syndrome; Weyers acrofacial dysostosis,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+FGFR2,FGFR2 amplification; FGFR2 fusion; FGFR2 mutation,Gastric cancer; Breast cancer; Antley-Bixler syndrome; Crouzon syndrome; Apert syndrome; Pfeiffer syndrome; Jackson-Weiss syndrome; Beare-Stevenson syndrome; Saethre-Chotzen syndrome,,Erdafitinib (JAN/USAN/INN); Pemigatinib (JAN/USAN/INN); Infigratinib phosphate (USAN); Futibatinib (JAN/USAN/INN),9,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GLDC,GLDC deficiency,Nonketotic hyperglycinemia,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LDLR,LDLR mutation,Familial hypercholesterolemia,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+NOTCH3,NOTCH3 mutation,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leucoencephalopathy (CADASIL); Lateral meningocele syndrome; Infantile myofibromatosis,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PCSK9,PCSK9 mutation,Familial hypercholesterolemia,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Conflicting classifications of pathogenicity,False,False
+ALAD,ALAD deficiency,Porphyria,,,8,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ASAH1,ASAH1 deficiency,Farber lipogranulomatosis,,,8,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+DYNC1H1,DYNC1H1 mutation,Charcot-Marie-Tooth disease; Spinal muscular atrophy; Autosomal dominant intellectual developmental disorder,,,8,"Child 2, Father",Benign,False,False
+MOCOS,MOCOS deficiency,Xanthinuria,,,8,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POMT1,POMT1 deficiency,Muscular dystrophy-dystroglycanopathy,,,8,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POT1,POT1 mutation,Melanoma; Glioma,,,8,"Child 1, Child 2, Father, Mother",Benign,False,False
+SLC2A2,SLC2A2 mutation,Fanconi-Bickel syndrome,,,8,"Child 1, Child 2, Father",Benign; Conflicting classifications of pathogenicity,False,False
+AGL,AGL deficiency,Glycogen storage disease type III,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+ALK,EML4-ALK fusion; First generation TKI-resistant ALK1 mutation,Non-small cell lung cancer,,Crizotinib (JAN/USAN/INN); Alectinib hydrochloride (JAN); Ceritinib (JAN/USAN/INN); Brigatinib (JAN/USAN); Lorlatinib (JAN/USAN/INN),7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CENPF,CENPF mutation,Stromme syndrome,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+CYP17A1,CYP17A1 deficiency,Congenital adrenal hyperplasia,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+FAH,FAH deficiency,Tyrosinemia,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FANCD2,FANCD2 mutation,Fanconi anemia,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FECH,FECH deficiency,Porphyria,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Conflicting classifications of pathogenicity,False,False
+HSD17B4,HSD17B4 deficiency,D-bifunctional protein deficiency,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IGF1R,IGF1R mutation; IGF1R overexpression,Hepatocellular carcinoma; Growth hormone deficiency,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IL12RB1,IL12RB1 mutation,IFN-gamma/IL-12 axis,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+JAG1,JAG1 mutation,Tetralogy of Fallot; Alagille syndrome,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+LSS,LSS deficiency,Alopecia-mental retardation syndrome,,,7,"Child 1, Child 2, Father, Mother",Benign,False,False
+POLE,POLE mutation,IMAGE-I syndrome; FILS syndrome; Polymerase proofreading-associated polyposis,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TSC2,TSC2 mutation,Lymphangioleiomyomatosis; Tuberous sclerosis complex; Focal cortical dysplasia of Taylor; Renal angiomyolipoma; Subependymal giant cell astrocytoma,,,7,"Child 1, Child 2, Father, Mother",Benign; Likely benign,False,False
+TSHR,TSHR activating mutation; TSHR inactivating mutation,Congenital nongoitrous hypothyroidism (CHNG); Congenital hyperthyroidism,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+VKORC1,VKORC1 polymorphism for low warfarin dose phenotype,,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign; drug response,False,True
+ARSB,ARSB deficiency,Mucopolysaccharidosis type VI,,Galsulfase (USAN/INN),6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+BRIP1,BRIP1 mutation,Breast cancer; Fanconi anemia,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CASR,CASR mutation,Primary hyperparathyroidism; Neonatal hyperparathyroidism,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+DBH,DBH deficiency,Dopamine beta-hydroxylase deficiency,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; not provided,False,False
+ERCC2,ERCC2 mutation,Trichothiodystrophy; Xeroderma pigmentosum; Cerebro-oculo-facio-skeletal syndrome,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ESR1,ESR1 mutations; ESR1 positive,Breast cancer; Estrogen resistance syndrome,,Elacestrant hydrochloride (USAN),6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; risk factor,False,False
+FGFR1,FGFR1 amplification; FGFR1 mutation,Gastric cancer; Breast cancer; Hypogonadotropic hypogonadism; Pfeiffer syndrome; Jackson-Weiss syndrome,,,6,"Child 1, Child 3, Father, Mother",Benign,False,False
+G6PD,G6PD deficiency,Glucose 6-phosphate dehydrogenase deficiency,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign; Uncertain significance,False,False
+GALC,GALC deficiency,Krabbe disease,,,6,"Child 1, Child 2, Father, Mother",Benign; Benign; other,False,False
+GLI3,GLI3 mutation,Pallister-Hall syndrome; Postaxial polydactyly; Greig cephalopolysyndactyly syndrome; Preaxial polydactyly,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+KCNJ5,KCNJ5 mutation,Primary aldosteronism,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+KLKB1,KLKB1 mutation,Fletcher factor deficiency,,,6,"Child 1, Child 3, Father, Mother",Benign,False,False
+MEFV,MEFV mutation,Familial Mediterranean fever; Acute febrile neutrophilic dermatosis,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+NAT2,NAT2 polymorphism for poor drug metabolism,,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign; drug response; Likely benign; drug response,False,True
+POMT2,POMT2 deficiency,Muscular dystrophy-dystroglycanopathy,,,6,"Child 1, Child 2, Child 3, Mother",Benign; Benign/Likely benign,False,False
+STT3A,STT3A deficiency,Congenital disorders of glycosylation type I,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TGFBR1,TGFBR1 mutation; TGFBR1 reduced expression,Gastric cancer; Loeys-Dietz syndrome; Familial thoracic aortic aneurysm and dissection,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Uncertain significance; not provided,False,False
+TPO,TPO mutation,Thyroid dyshormonogenesis,,,6,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ACVRL1,ACVRL1 mutation,Hereditary hemorrhagic telangiectasia,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+APP,APP mutation,Alzheimer disease,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ARSA,ARSA deficiency,Metachromatic leukodystrophy,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ASS1,ASS deficiency,Citrullinemia,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CDH1,CDH1 loss; CDH1 mutation; CDH1 reduced expression,Gastric cancer; Thyroid cancer,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CDON,CDON mutation,Holoprosencephaly,,,5,"Child 1, Father, Mother",Benign,False,False
+DDC,DDC deficiency,Aromatic L-amino acid decarboxylase deficiency,,Eladocagene exuparvovec (USAN/INN),5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DNMT3B,DNMT3B mutation,Facioscapulohumeral muscular dystrophy; Immunodeficiency-centromeric instability-facial anomalies syndrome,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DYNC2H1,DYNC2H1 mutation,Short-rib thoracic dysplasia,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ERCC1,ERCC1 mutation,Cerebro-oculo-facio-skeletal syndrome,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F13A1,F13A1 mutation,Factor XIII deficiency; Myocardial infarction,,,5,"Child 1, Father, Mother",Benign; Conflicting classifications of pathogenicity,False,False
+GALNS,GALNS deficiency,Mucopolysaccharidosis type IV,,Elosulfase alfa (USAN),5,"Child 1, Child 2, Child 3, Father",Benign,False,False
+GLI2,GLI2 mutation,Holoprosencephaly,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GNAS,GNAS activating mutation; GNAS inactivating mutation,Pseudohypoparathyroidism; Pigmented micronodular adrenocortical disease; Pituitary adenomas; Cushing syndrome; Acromegaly; Bilateral macronodular adrenal hyperplasia,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GSR,GSR deficiency,Anemia due to disorders of glutathione metabolism,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IL7R,IL7R mutation,T-B+Severe combined immunodeficiency,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+KNL1,KNL1 mutation,Primary microcephaly,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+KRAS,KRAS mutation,Acute myeloid leukemia; Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Colorectal cancer; Endometrial cancer; Thyroid cancer; Melanoma; Medullary thyroid cancer; Noonan syndrome; Cardiofaciocutaneous syndrome; Juvenile myelomonocytic leukemia,,Sotorasib (JAN/USAN); Adagrasib (USAN/INN),5,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+LHCGR,LHCGR mutation,Precocious puberty,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LRP5,LRP5 mutation,Osteopetrosis; Osteoporosis-pseudoglioma syndrome; Familial exudative vitreoretinopathy; Osteoporosis; Hyperostosis corticalis generalisata,,,5,"Child 1, Child 2, Father, Mother",Benign,False,False
+MCCC2,MCCC2 deficiency,3-Methylcrotonylglycinuria,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MSH3,MSH3 mutation,Familial adenomatous polyposis,,,5,"Child 1, Child 2, Father, Mother",Benign,False,False
+NLRP3,NLRP3 mutation,"Deafness, autosomal dominant; Familial cold autoinflammatory syndrome; Muckle-Wells syndrome; CINCA syndrome",,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+OPTN,OPTN mutation,Amyotrophic lateral sclerosis (ALS),,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PARK7,PARK7 mutation,Parkinson disease,,,5,"Child 2, Mother",Benign; Benign/Likely benign,False,False
+PAX8,PAX8 mutation; PAX8-PPARG fusion,Thyroid cancer; Congenital nongoitrous hypothyroidism (CHNG),,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PDGFRA,PDGFRA amplification; PDGFRA avapritinib-susceptible variation,Glioma,,Avapritinib (USAN/INN),5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PGM1,PGM1 deficiency,Congenital disorders of glycosylation type I,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+PRKN,PRKN mutation,Parkinson disease,,,5,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+PRODH,PRODH deficiency,Hyperprolinemia,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+RAD50,RAD50 mutation,Nijmegen breakage syndrome,,,5,"Father, Mother",Benign,False,False
+SLC37A4,SLC37A4 mutation,Glycogen storage disease type I,,,5,"Child 1, Child 2, Child 3, Father",Benign,False,False
+SMAD3,SMAD3 mutation,Loeys-Dietz syndrome,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign; confers sensitivity,False,False
+TDP1,TDP1 mutation,Autosomal recessive spinocerebellar ataxias with axonal neuropathy,,,5,"Child 2, Child 3, Mother",Benign,False,False
+TNFRSF1A,TNFRSF1A mutation,Tumor necrosis factor receptor-associated periodic syndrome; Multiple sclerosis,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TP53,TP53 mutation,Chronic myeloid leukemia; Small cell lung cancer; Non-small cell lung cancer; Gastric cancer; Pancreatic cancer; Colorectal cancer; Bladder cancer; Endometrial cancer; Breast cancer; Thyroid cancer; Melanoma; Basal cell carcinoma; Glioma; Hepatocellular carcinoma,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TSC1,TSC1 mutation,Lymphangioleiomyomatosis; Tuberous sclerosis complex; Focal cortical dysplasia of Taylor; Renal angiomyolipoma; Subependymal giant cell astrocytoma,,,5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ACO2,ACO2 mutation,Infantile cerebellar-retinal degeneration,,,4,"Child 1, Father, Mother",Benign,False,False
+ACOX1,ACOX1 deficiency,Peroxisomal acyl-CoA oxidase deficiency,,,4,"Child 1, Father, Mother",Benign,False,False
+ADAR,ADAR mutation,Aicardi-Goutieres syndrome; Dyschromatosis symmetrica hereditaria,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ALDH4A1,ALDH4A1 deficiency,Hyperprolinemia,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ALG8,ALG8 deficiency,Congenital disorders of glycosylation type I,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+AMACR,AMACR deficiency,Congenital bile acid synthesis defect; Alpha-methylacyl-CoA racemase deficiency,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ATR,ATR mutation,Seckel syndrome; Familial cutaneous telangiectasia and cancer syndrome,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+AXIN2,AXIN2 mutation,Oligodontia-colorectal cancer syndrome,,,4,"Child 1, Child 2, Child 3, Father",Benign,False,False
+BUB1B,BUB1B mutation,Colorectal cancer; Mosaic variegated aneuploidy syndrome,,,4,"Child 1, Father, Mother",Benign,False,False
+CACNA1D,CACNA1D mutation,Primary aldosteronism,,,4,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+CACNA1H,CACNA1H mutation,Primary aldosteronism,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+CCT5,CCT5 mutation,Hereditary sensory neuropathy with spastic paraplegia,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CDK5RAP2,CDK5RAP2 mutation,Primary microcephaly,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CP,CP mutation,Aceruloplasminemia,,,4,"Child 1, Child 3, Father, Mother",Benign; Likely benign,False,False
+CSGALNACT1,CSGALNACT1 mutation,Skeletal dysplasia with joint laxity and advanced bone age,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CYP11B2,CYP11B1-CYP11B2 fusion; CYP11B2 deficiency,Aldosterone synthase deficiency; Glucocorticoid-remediable aldosteronism (GRA),,,4,"Child 1, Child 2, Child 3, Mother",Benign; association,False,False
+CYP2C19,CYP2C19 polymorphism for poor drug metabolism,,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign; other; drug response,False,True
+DDOST,DDOST deficiency,Congenital disorders of glycosylation type I,,,4,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+DLL3,DLL3 mutation,Spondylocostal dysostosis,,,4,"Child 1, Child 2, Father, Mother",Benign,False,False
+ECHS1,ECHS1 deficiency,Disorders of mitochondrial fatty-acid oxidation,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ERCC6,ERCC6 mutation,Cockayne syndrome; UV-sensitive syndrome; Cerebro-oculo-facio-skeletal syndrome,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+EXT2,EXT2 mutation,Multiple exostoses,,,4,"Child 2, Child 3, Mother",Benign,False,False
+F7,F7 mutation,Myocardial infarction; Factor VII deficiency,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FAS,FAS mutation,Autoimmune lymphoproliferative syndromes,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GDF5,GDF5 mutation,Brachydactyly; Multiple synostosis syndrome; Proximal symphalangism; Acromesomelic dysplasia,,,4,"Child 1, Father, Mother",Benign,False,False
+HADHA,HADHA deficiency,LCHAD deficiency,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+HGF,HGF overexpression,Hepatocellular carcinoma,,,4,"Child 1, Father, Mother",Benign,False,False
+HPD,HPD deficiency,Tyrosinemia,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+HTT,HTT mutation,Huntington disease,,Tominersen sodium (JAN); Tominersen (USAN/INN),4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IL23R,IL23R mutation,Inflammatory bowel disease (IBD),,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IRAK4,IRAK4 mutation,Defects of toll-like receptor signaling,,,4,"Child 2, Child 3, Mother",Benign,False,False
+JAK3,JAK3 mutation,T-B+Severe combined immunodeficiency,,,4,"Child 1, Father",Benign,False,False
+LARGE1,LARGE1 deficiency,Muscular dystrophy-dystroglycanopathy type A; Muscular dystrophy-dystroglycanopathy type B,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+LBR,LBR deficiency,HEM skeletal dysplasia,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LZTR1,LZTR1 mutation,Noonan syndrome,,,4,"Child 1, Father, Mother",Benign,False,False
+MASP1,MASP1 mutation,3MC syndrome,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MCCC1,MCCC1 deficiency,3-Methylcrotonylglycinuria,,,4,"Child 1, Child 2, Child 3, Father",Benign,False,False
+MCM10,MCM10 mutation,Disorders of innate immunity,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MET,MET amplification; MET exon 14 skipping; MET kinase domain mutation; MET overexpression,Non-small cell lung cancer; Gastric cancer; Renal cell carcinoma; Hepatocellular carcinoma,,Capmatinib hydrochloride (USAN); Tepotinib hydrochloride (USAN); Vebreltinib (USAN),4,"Child 1, Father, Mother",Benign; Uncertain significance,False,False
+NBN,NBN mutation,Aplastic anemia; Nijmegen breakage syndrome,,,4,"Child 1, Father, Mother",Benign,False,False
+NIPBL,NIPBL mutation,Cornelia de Lange syndrome,,,4,"Child 1, Child 2, Father, Mother",Benign,False,False
+NLRP1,NLRP1 mutation,Vitiligo; NLRP1-associated autoinflammation with arthritis and dyskeratosis,,,4,"Child 1, Father, Mother",Benign/Likely benign,False,False
+PIGT,PIGT deficiency,Multiple congenital anomalies-hypotonia-seizures syndrome,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PSAT1,PSAT1 deficiency,Phosphoserine aminotransferase deficiency; Neu-Laxova syndrome,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PSEN1,PSEN1 mutation,Alzheimer disease; Acne inversa,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+QDPR,QDPR deficiency,Phenylketonuria,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RFT1,RFT1 mutation,Congenital disorders of glycosylation type I,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SERPINA1,SERPINA1 mutation,Alpha-1-antitrypsin deficiency; Chronic obstructive pulmonary disease (COPD),,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+SERPINE1,SERPINE1 mutation,Plasminogen activator inhibitor type 1 deficiency,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+STAT1,STAT1 mutation,IFN-gamma/IL-12 axis; Chronic mucocutaneous candidiasis,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TH,TH deficiency,Dopa-responsive dystonia,,,4,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+XPC,XPC mutation,Xeroderma pigmentosum,,,4,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+ACADS,ACADS deficiency,SCAD deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ADAM17,ADAM17 mutation,Neonatal inflammatory skin and bowel disease,,,3,Father,Benign,False,False
+ALDH6A1,ALDH6A1 deficiency,Methylmalonate semialdehyde dehydrogenase deficiency,,,3,"Child 2, Mother",Benign; Likely benign,False,False
+ALG11,ALG11 deficiency,Congenital disorders of glycosylation type I,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+AMT,AMT deficiency,Nonketotic hyperglycinemia,,,3,"Child 1, Child 2, Child 3, Father",Benign,False,False
+ASL,ASL deficiency,Argininosuccinic aciduria,,,3,"Child 1, Father, Mother",Benign,False,False
+BARD1,BARD1 mutation,Breast cancer,,,3,"Child 2, Child 3, Father",Benign; Benign/Likely benign,False,False
+BCKDHA,BCKDHA deficiency,Maple syrup urine disease,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+BMP2,BMP2 mutation,Brachydactyly,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; confers sensitivity,False,False
+C9orf72,C9ORF72 mutation,Amyotrophic lateral sclerosis (ALS),,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Uncertain significance,False,False
+CDKN1B,CDKN1B loss; CDKN1B mutation; CDKN1B reduced expression,Gastric cancer; Prostate cancer; Pituitary adenomas; Cushing syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CPS1,CPS1 deficiency,Carbamoyl phosphate synthetase I deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CPT1A,CPT1A deficiency,Carnitine palmitoyltransferase I deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DEPDC5,DEPDC5 mutation,Familial focal epilepsy with variable foci,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DUOX2,DUOX2 mutation,Thyroid dyshormonogenesis,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ERCC4,ERCC4 mutation,Cockayne syndrome; Fanconi anemia; Xeroderma pigmentosum,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ERCC5,ERCC5 mutation,Cockayne syndrome; Xeroderma pigmentosum; Cerebro-oculo-facio-skeletal syndrome,,,3,"Child 2, Child 3",Benign,False,False
+F13B,F13B mutation,Factor XIII deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F9,F9 mutation,Hemophilia; Inherited thrombophilia,,,3,"Father, Mother",Benign,False,False
+FAN1,FAN1 mutation,Karyomegalic interstitial nephritis,,,3,"Child 1, Father, Mother",Benign,False,False
+FANCE,FANCE mutation,Fanconi anemia,,,3,"Child 1, Child 2, Father, Mother",Benign,False,False
+FANCI,FANCI mutation,Fanconi anemia,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+FLCN,FLCN mutation,Birt-Hogg-Dube syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FLT3,FLT3 internal tandem duplication (ITD); FLT3 kinase domain mutation,Acute myeloid leukemia,,Midostaurin (JAN/USAN/INN); Quizartinib dihydrochloride (USAN); Gilteritinib fumarate (JAN/USAN); Pexidartinib (USAN/INN); Pexidartinib hydrochloride (JAN/USAN),3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GAA,GAA deficiency,Glycogen storage disease type II,,Alglucosidase alfa (USAN/INN); Avalglucosidase alfa (USAN/INN),3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+HMBS,HMBS deficiency,Porphyria,,,3,"Child 1, Child 3, Mother",Benign; Benign/Likely benign,False,False
+HMGCL,HMGCL deficiency,3-Hydroxy-3-methylglutaryl-CoA lyase deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+HSD17B3,HSD17B3 deficiency,"46,XY disorder of sex development due to testosterone secretion defect",,,3,"Child 1, Father, Mother",Benign,False,False
+IL6R,IL6R mutation,Hyper-IgE syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IVD,IVD deficiency,Isovaleric acidemia,,,3,"Child 3, Mother",Benign,False,False
+JAK2,JAK2 mutation,Congenital polycythemia; Myelofibrosis; Essential thrombocythemia,,,3,"Child 1, Child 3, Mother",Benign,False,False
+KCND3,KCND3 mutation,Spinocerebellar ataxia (SCA),,,3,"Child 1, Child 3, Father",Benign,False,False
+KIF7,KIF7 mutation,Acrocallosal syndrome; Joubert syndrome and related disorders; Hydrolethalus syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+KMT2A,MLL-AF4 fusion; MLL-ENL fusion,B-cell acute lymphoblastic leukemia; T-cell acute lymphoblastic leukemia,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LFNG,LFNG mutation,Spondylocostal dysostosis,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+LIG4,LIG4 mutation,LIG4 syndrome,,,3,"Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+LRP6,LRP6 mutation; LRP6 overexpression,Breast cancer; Tooth agenesis,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MBL2,MBL2 mutation,Mannose-binding lectin pathway component defects,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign/Likely benign; Conflicting classifications of pathogenicity; Likely benign,False,False
+MCEE,MCEE deficiency,Methylmalonic aciduria,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MRE11,MRE11 mutation,Ataxia-telangiectasia-like syndrome,,,3,"Child 1, Father, Mother",Benign,False,False
+MSH6,MSH6 mutation,Hereditary nonpolyposis colorectal cancer,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+MUTYH,MUTYH mutation,Gastric cancer; Familial adenomatous polyposis,,,3,"Child 1, Father, Mother",Benign,False,False
+NCAPD2,NCAPD2 mutation,Primary microcephaly,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ORC1,ORC1 mutation,Meier-Gorlin syndrome,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+PIGN,PIGN deficiency,Multiple congenital anomalies-hypotonia-seizures syndrome,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+PIGQ,PIGQ deficiency,Multiple congenital anomalies-hypotonia-seizures syndrome,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+PINK1,PINK1 mutation,Parkinson disease,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PLG,PLG mutation,Hereditary angioedema; Plasminogen deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POLR2A,POLR2A mutation,Neurodevelopmental disorder with hypotonia and variable intellectual and behavioral abnormalities,,,3,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+PRKCG,PRKCG activating mutation; PRKCG inactivating mutation,Spinocerebellar ataxia (SCA),,,3,"Child 1, Child 2, Father, Mother",Benign,False,False
+PROS1,PROS1 mutation,Inherited thrombophilia,,,3,"Child 1, Father, Mother",Benign,False,False
+PYGL,PYGL deficiency,Glycogen storage disease type VI,,,3,"Child 1, Child 2, Father",Benign,False,False
+RAD21,RAD21 mutation,Cornelia de Lange syndrome,,,3,"Child 1, Father, Mother",Benign,False,False
+RAD51,RAD51 mutation,Breast cancer; Fanconi anemia,,,3,"Child 1, Father, Mother",Benign,False,False
+RAG1,RAG1 mutation,T-B-Severe combined immunodeficiency; T+B+Severe combined immunodeficiencies (SCIDs); Omenn syndrome,,,3,"Child 1, Father, Mother",Benign,False,False
+RBCK1,RBCK1 mutation,Polyglucosan body myopathy,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RFWD3,RFWD3 mutation,Fanconi anemia,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ROR2,ROR2 mutation,Brachydactyly; Robinow syndrome,,,3,"Father, Mother",Benign,False,False
+RPA1,RPA1 mutation,"Pulmonary fibrosis and/or bone marrow failure, telomere-related",,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SERPINF2,SERPINF2 mutation,Alpha-2-plasmin inhibitor (a2-PI) deficiency,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SLC35C1,SLC35C1 mutation,Congenital disorders of glycosylation type II,,,3,"Child 1, Father, Mother",Benign,False,False
+SNCA,SNCA mutation,Parkinson disease,,,3,"Child 1, Father, Mother",Benign,False,False
+SOS2,SOS2 mutation,Noonan syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SPRED1,SPRED1 mutation,Legius syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+STK11,STK11 mutation,Peutz-Jeghers syndrome,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+THRB,THRB mutation,Thyroid hormone resistance syndrome,,,3,"Child 1, Father, Mother",Benign,False,False
+TICAM1,TICAM1 mutation,Infection-induced acute encephalopathy,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TYR,TYR deficiency,Oculocutaneous albinism,,,3,"Child 1, Father",Benign,False,False
+TYRP1,TYRP1 deficiency,Oculocutaneous albinism,,,3,"Child 1, Child 3, Mother",Benign,False,False
+VHL,VHL loss; VHL mutation,Renal cell carcinoma,,,3,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely pathogenic,False,False
+XRCC4,XRCC4 mutation,"Short stature, microcephaly, and endocrine dysfunction",,,3,"Child 1, Child 3, Father",Benign,False,False
+ACVR2B,ACVR2B mutation,Heterotaxy,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+AKR1D1,AKR1D1 deficiency,Congenital bile acid synthesis defect,,,2,"Child 1, Father, Mother",Benign,False,False
+ALG1,ALG1 deficiency,Congenital disorders of glycosylation type I,,,2,"Child 1, Father, Mother",Benign,False,False
+AMH,AMH mutation,Persistent Mullerian duct syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+B4GALT1,B4GALT1 deficiency,Congenital disorders of glycosylation type II,,,2,"Child 1, Father, Mother",Benign,False,False
+BCKDHB,BCKDHB deficiency,Maple syrup urine disease,,,2,"Child 1, Father, Mother",Benign,False,False
+BLM,BLM mutation,"Defects in RecQ helicases; Bloom syndrome; Microcephaly, growth restriction, and increased sister chromatid exchange",,,2,"Child 1, Father",Benign,False,False
+BMPR2,BMPR2 mutation,Primary pulmonary hypertension,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+C2,C2 mutation,Classic complement pathway component defects; Age-related macular degeneration,,,2,"Child 1, Child 3, Father",Benign; protective,False,False
+C5,C5 mutation,Late complement pathway defects,,,2,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+C6,C6 mutation,Late complement pathway defects,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+C9,C9 mutation,Late complement pathway defects; Age-related macular degeneration,,,2,"Child 1, Child 2, Child 3, Father",Benign; Benign/Likely benign,False,False
+CARD8,CARD8 mutation,Inflammatory bowel disease (IBD),,,2,"Child 1, Child 2, Mother",Benign,False,False
+CASP10,CASP10 mutation,Autoimmune lymphoproliferative syndromes,,,2,Mother,Benign,False,False
+CBL,CBL mutation,CBL syndrome; Juvenile myelomonocytic leukemia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CD46,CD46 mutation,Atypical hemolytic uremic syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CDKN2A,CDKN2A deletion; CDKN2A mutation,Chronic myeloid leukemia; Non-small cell lung cancer; Pancreatic cancer; Bladder cancer; Melanoma; Glioma; Hepatocellular carcinoma,,,2,"Child 1, Father, Mother",Benign,False,False
+CDT1,CDT1 mutation,Meier-Gorlin syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+CENPE,CENPE mutation,Primary microcephaly,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CFHR1,CFHR1 mutation,Age-related macular degeneration; Atypical hemolytic uremic syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+CFI,CFI mutation,Complement regulatory protein defects; Age-related macular degeneration; Atypical hemolytic uremic syndrome; C3 glomerulopathy,,,2,"Child 2, Child 3, Father, Mother",Benign,False,False
+CPOX,CPOX deficiency,Porphyria,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CRPPA,ISPD deficiency,Muscular dystrophy-dystroglycanopathy type C,,,2,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+CTC1,CTC1 mutation,Coats plus syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+CTNNB1,CTNNB1 mutation,Colorectal cancer; Endometrial cancer; Hepatocellular carcinoma,,,2,"Child 1, Father",Benign,False,False
+CYP2B6,CYP2B6 polymorphism for poor drug metabolism,,,,2,"Child 1, Child 3, Father, Mother",Benign; drug response,False,True
+CYP3A5,CYP3A5 polymorphism for poor drug metabolism,,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign; association; drug response; risk factor,False,True
+DBT,DBT deficiency,Maple syrup urine disease,,,2,"Child 1, Father, Mother",Benign; Benign/Likely benign,False,False
+DCC,DCC loss,Colorectal cancer,,,2,"Child 1, Father, Mother",Benign,False,False
+DDB2,DDB2 mutation,Xeroderma pigmentosum,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DHCR7,DHCR7 deficiency,Smith-Lemli-Opitz syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DLD,DLD deficiency,Dihydrolipoamide dehydrogenase deficiency,,,2,Father,Benign; Benign/Likely benign,False,False
+DNA2,DNA2 mutation,Seckel syndrome; Progressive external ophthalmoplegia,,,2,"Child 1, Mother",Benign,False,False
+ENG,ENG mutation,Hereditary hemorrhagic telangiectasia,,,2,"Child 1, Father",Benign,False,False
+ERCC3,ERCC3 mutation,Cockayne syndrome; Trichothiodystrophy; Xeroderma pigmentosum,,,2,"Child 1, Father, Mother",Benign,False,False
+ESCO2,ESCO2 mutation,Roberts-SC phocomelia syndrome; Juberg-Hayward syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+EXT1,EXT1 mutation,Multiple exostoses,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F10,F10 mutation,Factor X deficiency,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+F12,F12 mutation,Factor XII deficiency; Hereditary angioedema,,,2,"Child 1, Child 2, Child 3, Father",Benign,False,False
+F8,F8 mutation,Hemophilia,,Valoctocogene roxaparvovec (USAN/INN),2,"Child 1, Mother",Benign,False,False
+FANCL,FANCL mutation,Fanconi anemia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FASLG,FASLG mutation,Autoimmune lymphoproliferative syndromes,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign; risk factor,False,False
+FBN1,FBN1 mutation,Marfan syndrome; Geleophysic dysplasia,,,2,"Child 1, Father, Mother",Benign,False,False
+FGA,FGA mutation,Afibrinogenemia; Familial amyloidosis,,,2,"Child 1, Child 2, Child 3, Mother",Benign; Benign/Likely benign,False,False
+FGB,FGB mutation,Afibrinogenemia,,,2,"Child 2, Child 3",Benign,False,False
+FSHB,FSHB mutation,Isolated follicle-stimulating hormone deficiency,,,2,"Child 2, Father, Mother",Benign; association,False,False
+FUS,FUS mutation,Amyotrophic lateral sclerosis (ALS),,,2,"Father, Mother",Benign,False,False
+GBE1,GBE1 deficiency,Glycogen storage disease type IV,,,2,"Child 1, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+GCH1,GCH1 deficiency,Phenylketonuria; Dopa-responsive dystonia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GCLC,GCLC deficiency,Anemia due to disorders of glutathione metabolism,,,2,"Child 1, Father, Mother",Benign,False,False
+GCM2,GCM2 activating mutation; GCM2 inactivating mutation,Primary hyperparathyroidism; Hypoparathyroidism,,,2,"Child 1, Child 3, Father, Mother",Benign,False,False
+GH1,GH1 mutation,Isolated growth hormone deficiency,,,2,"Child 1, Father, Mother",Benign,False,False
+GHR,GHR mutation,Laron syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GHRHR,GHRHR mutation,Isolated growth hormone deficiency,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GLB1,GLB1 deficiency,Mucopolysaccharidosis type IV,,,2,"Child 1, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+GLE1,GLE1 mutation,Amyotrophic lateral sclerosis (ALS),,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+GPX1,GPX1 deficiency,Anemia due to disorders of glutathione metabolism,,,2,"Child 1, Father",Benign,False,False
+GUSB,GUSB deficiency,Mucopolysaccharidosis type VII,,Vestronidase alfa (USAN/INN),2,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+GYS2,GYS2 deficiency,Glycogen storage disease type 0a,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+HADH,HADH deficiency,3-Hydroxyacyl-CoA dehydrogenase deficiency,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+HERC2,HERC2 mutation,Autosomal recessive intellectual developmental disorder,,,2,"Child 1, Child 2, Child 3, Father, Mother",Affects; association,False,False
+HFE,HFE mutation,Hemochromatosis,,,2,"Child 1, Father",Benign; Benign/Likely benign,False,False
+HIBCH,HIBCH deficiency,Methacrylic aciduria,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+IFIH1,IFIH1 mutation,Aicardi-Goutieres syndrome; Singleton-Merten syndrome; Disorders of innate immunity,,,2,"Child 3, Father",Benign,False,False
+IFNAR2,IFNAR2 mutation,Disorders of innate immunity,,,2,"Child 1, Father, Mother",Benign,False,False
+IL10RA,IL10RA mutation,Inflammatory bowel disease (IBD),,,2,"Child 1, Father, Mother",Benign,False,False
+IL10RB,IL10RB mutation,Inflammatory bowel disease (IBD),,,2,"Child 1, Child 2, Father, Mother",Benign,False,False
+IRF5,IRF5 mutation,Systemic lupus erythematosus,,,2,"Child 1, Father, Mother",Uncertain significance; risk factor,False,False
+JAK1,JAK1 mutation,"Autoinflammation, immune dysregulation, and eosinophilia",,,2,"Child 1, Father, Mother",Benign,False,False
+LDHA,LDHA deficiency,Glycogen storage disease type XI,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign; association,False,False
+LDLRAP1,LDLRAP1 mutation,Familial autosomal recessive hypercholesterolemia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+LIG1,LIG1 mutation,Immunodeficiency associated with DNA repair defects,,,2,"Child 1, Father",Benign,False,False
+LRP4,LRP4 mutation,Sclerosteosis; Cenani-Lenz syndactyly syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+MAF,IGH-MAF fusion,Multiple myeloma,,,2,"Child 1, Child 2, Father",Benign,False,False
+MAOA,MAOA deficiency,Brunner syndrome,,,2,"Child 1, Mother",Benign,False,False
+MAX,MAX mutation,Malignant paraganglioma,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MC2R,MC2R mutation,Familial glucocorticoid deficiency,,,2,"Child 1, Father, Mother",Benign,False,False
+MLH1,MLH1 mutation,Hereditary nonpolyposis colorectal cancer; Muir-Torre syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MLH3,MLH3 mutation,Hereditary nonpolyposis colorectal cancer,,,2,"Child 1, Father, Mother",Benign,False,False
+MMUT,MMUT deficiency,Methylmalonic aciduria,,,2,"Child 1, Father, Mother",Benign,False,False
+NDE1,NDE1 mutation,Lissencephaly; Microhydranencephaly,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+NDST1,NDST1 mutation,Autosomal recessive intellectual developmental disorder,,,2,"Child 1, Father",Benign,False,False
+NF1,NF1 mutation,Neurofibromatosis type 1; Malignant paraganglioma; Watson syndrome; Neurofibromatosis-Noonan syndrome; Juvenile myelomonocytic leukemia,,,2,"Child 1, Father, Mother",Benign,False,False
+NLRP12,NLRP12 mutation,Familial cold autoinflammatory syndrome,,,2,"Child 2, Child 3, Father, Mother",Benign,False,False
+NODAL,NODAL mutation,Heterotaxy,,,2,"Child 1, Child 2, Child 3, Father",Benign,False,False
+NTRK1,TRK fusion,Thyroid cancer,,Entrectinib (JAN/USAN/INN),2,"Child 1, Father, Mother",Benign,False,False
+ORC4,ORC4 mutation,Meier-Gorlin syndrome,,,2,"Child 1, Child 2, Child 3, Father",Benign,False,False
+OTC,OTC deficiency,Ornithine transcarbamylase deficiency,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PCCA,PCCA deficiency,Propionic acidemia,,,2,"Child 2, Child 3",Benign,False,False
+PDE11A,PDE11A,Pigmented micronodular adrenocortical disease; Cushing syndrome; Bilateral macronodular adrenal hyperplasia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PFKM,PFKM deficiency,Glycogen storage disease type VII,,,2,"Child 1, Child 2, Child 3, Father",Benign,False,False
+PHGDH,PHGDH deficiency,3-Phosphoglycerate dehydrogenase (3-PGDH) deficiency; Neu-Laxova syndrome,,,2,"Child 2, Child 3",Benign,False,False
+PIGG,PIGG deficiency,Inherited glycosylphosphatidylinositol deficiencies,,,2,"Child 1, Father, Mother",Benign,False,False
+PMM2,PMM2 deficiency,Congenital disorders of glycosylation type I,,,2,"Child 1, Child 3, Father, Mother",Benign,False,False
+PMS2,PMS2 mutation,Hereditary nonpolyposis colorectal cancer,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POLG,POLG mutation,Mitochondrial DNA depletion syndrome; Progressive external ophthalmoplegia; Mitochondrial neurogastrointestinal encephalomyopathy,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POMGNT1,POMGNT1 deficiency,Muscular dystrophy-dystroglycanopathy,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PPOX,PPOX deficiency,Porphyria,,,2,"Father, Mother",Benign,False,False
+PROC,PROC mutation,Inherited thrombophilia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PTCH1,PTCH1 mutation,Basal cell carcinoma; Holoprosencephaly; Basal cell nevus syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PTCH2,PTCH2 mutation,Basal cell nevus syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+PYGM,PYGM deficiency,Glycogen storage disease type V,,,2,"Child 2, Child 3",Benign; Likely benign,False,False
+RAD51D,RAD51D mutation,Familial breast-ovarian cancer,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RASA1,RASA1 mutation,Parkes Weber syndrome; Capillary malformation-arteriovenous malformation,,,2,"Child 1, Father, Mother",Benign,False,False
+RBPJ,RBPJ mutation,Adams-Oliver syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+RIPK1,RIPK1 mutation,Disorders of innate immunity; Autoinflammation with episodic fever and lymphadenopathy,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RNASEH2C,RNASEH2C mutation,Aicardi-Goutieres syndrome,,,2,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+RNF168,RNF168 mutation,RIDDLE syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RTEL1,RTEL1 mutation,"Dyskeratosis congenita; Pulmonary fibrosis and/or bone marrow failure, telomere-related",,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+RUNX1,AML1 mutation; AML1-ETO fusion; AML1-EVI1 fusion; RUNX1 mutation; TEL-AML1 fusion,B-cell acute lymphoblastic leukemia; Acute myeloid leukemia; Chronic myeloid leukemia,,,2,"Child 1, Father, Mother",Benign,False,False
+SFRP4,SFRP4 mutation,Metaphyseal dysplasias,,,2,"Child 2, Child 3, Father",Benign,False,False
+SGSH,SGSH deficiency,Mucopolysaccharidosis type III,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SLC26A4,SLC26A4 mutation,Thyroid dyshormonogenesis,,,2,"Child 1, Father, Mother",Benign,False,False
+SLC39A14,SLC39A14 mutation,Hypermanganesemia with dystonia,,,2,"Child 1, Father, Mother",Benign,False,False
+SLX4,SLX4 mutation,Fanconi anemia,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SMS,SMS deficiency,Snyder-Robinson syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+SOS1,SOS1 mutation,Hereditary gingival fibromatosis; Noonan syndrome,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SQSTM1,SQSTM1 mutation,Amyotrophic lateral sclerosis (ALS),,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SRD5A2,SRD5A2 deficiency,"46,XY disorder of sex development due to testosterone secretion defect",,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+STAT3,STAT3 mutation,Hyper-IgE syndrome; Infantile-onset multisystem autoimmune disease,,,2,"Child 2, Child 3",Benign,False,False
+STING1,STING1 mutation,STING-associated vasculopathy with onset in infancy,,,2,"Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+SUFU,SUFU mutation,Joubert syndrome and related disorders; Basal cell nevus syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+TBC1D7,TBC1D7 mutation,Autosomal recessive macrocephaly/megalencephaly syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+TCF3,E2A-PBX1 fusion,B-cell acute lymphoblastic leukemia,,,2,"Child 2, Child 3",Benign,False,False
+TGFB1,TGFB1 mutation,Camurati-Engelmann disease,,,2,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+TGFB2,TGFB2 mutation,Loeys-Dietz syndrome,,,2,"Child 1, Child 3, Father, Mother",Benign,False,False
+TGFB3,TGFB3 mutation,Loeys-Dietz syndrome,,,2,"Child 1, Father, Mother",Benign,False,False
+TGFBR2,TGFBR2 mutation; TGFBR2 reduced expression,Colorectal cancer; Hepatocellular carcinoma; Loeys-Dietz syndrome; Familial thoracic aortic aneurysm and dissection,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+THPO,THPO mutation,Essential thrombocythemia,,,2,"Child 1, Child 3, Mother",Benign,False,False
+TLR1,TLR1 mutation,Leprosy,,,2,"Child 1, Child 2, Child 3, Father, Mother",Benign; risk factor; Conflicting classifications of pathogenicity; protective,False,False
+TLR5,TLR5 mutation,Legionellosis; Melioidosis,,,2,"Father, Mother",Benign; Benign; risk factor,False,False
+TLR7,TLR7 mutation,Systemic lupus erythematosus; Defects of toll-like receptor signaling,,,2,"Child 1, Child 2, Mother",Benign,False,False
+TPH2,TPH2 mutation,Major depressive disorder; Attention deficit hyperactivity disorder (ADHD),,,2,"Child 1, Father, Mother",Benign,False,False
+TRAF3,TRAF3 mutation,Infection-induced acute encephalopathy,,,2,"Child 2, Father",Benign,False,False
+TRAIP,TRAIP mutation,Seckel syndrome,,,2,"Child 1, Mother",Benign,False,False
+TUBB1,TUBB1 mutation,Macrothrombocytopenia,,,2,"Child 2, Child 3, Mother",Benign; Benign/Likely benign,False,False
+TUBB3,TUBB3 mutation,Congenital fibrosis of the extraocular muscles; Complex cortical dysplasia with other brain malformations,,,2,"Child 1, Father, Mother",Benign,False,False
+TUBGCP6,TUBGCP6 mutation,Autosomal recessive microcephaly and chorioretinopathy,,,2,"Child 1, Father, Mother",Benign,False,False
+USP8,USP8 mutation,Pituitary adenomas; Cushing syndrome,,,2,"Child 1, Child 3, Father",Benign,False,False
+WRN,WRN mutation,Defects in RecQ helicases; Werner syndrome,,,2,"Child 2, Child 3, Father",Benign; Benign/Likely benign,False,False
+XRCC3,XRCC3 mutaton,Breast cancer; Melanoma,,,2,"Child 1, Child 2, Father",Benign,False,False
+XYLT2,XYLT2 mutation,Spondyloocular syndrome,,,2,"Child 2, Child 3, Father, Mother",Benign,False,False
+ABL1,BCR-ABL1 fusion; First generation TKI-resistant ABL1 mutation,Chronic myeloid leukemia,,Imatinib mesylate (USAN); Nilotinib hydrochloride hydrate (JAN); Dasatinib (USAN); Bosutinib hydrate (JAN); Ponatinib hydrochloride (JAN/USAN); Asciminib hydrochloride (JAN/USAN); Olverembatinib (USAN/INN); Nilotinib hydrochloride dihydrate (JAN),1,"Child 1, Father, Mother",Benign,False,False
+ACAD8,ACAD8 deficiency,Isobutyryl-CoA dehydrogenase deficiency,,,1,"Child 1, Mother",Benign,False,False
+ACADM,ACADM deficiency,MCAD deficiency,,,1,"Child 1, Father, Mother",Benign,False,False
+ACD,ACD mutation,Dyskeratosis congenita,,,1,"Child 1, Mother",Benign,False,False
+ACOX2,ACOX2 deficiency,Congenital bile acid synthesis defect,,,1,"Child 1, Father, Mother",Benign,False,False
+AIP,AIP mutation,Pituitary adenomas; Cushing syndrome,,,1,"Child 1, Mother",Benign,False,False
+ALG6,ALG6 deficiency,Congenital disorders of glycosylation type I,,,1,"Child 2, Child 3",Benign,False,False
+AMHR2,AMHR2 mutation,Persistent Mullerian duct syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+ANAPC1,ANAPC1 mutation,Rothmund-Thomson syndrome,,,1,"Child 2, Child 3",Benign,False,False
+APTX,APTX mutation,Ataxia with ocular apraxia,,,1,Mother,Benign,False,False
+ATXN1,ATXN1 mutation,Spinocerebellar ataxia (SCA),,,1,"Child 1, Father, Mother",Likely benign,False,False
+ATXN3,ATXN3 mutation,Spinocerebellar ataxia (SCA),,,1,"Father, Mother",Benign,False,False
+AURKA,AURKA mutation,Colorectal cancer,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+AVP,AVP mutation,Neurohypophyseal diabetes insipidus,,,1,"Child 1, Father, Mother",Benign,False,False
+AVPR2,AVPR2 mutation,Nephrogenic syndrome of inappropriate antidiuresis,,,1,"Child 1, Father, Mother",Benign,False,False
+B3GALNT2,B3GALNT2 deficiency,Muscular dystrophy-dystroglycanopathy type A,,,1,"Child 1, Father, Mother",Benign,False,False
+B4GALT7,B4GALT7 mutation,"Ehlers-Danlos syndrome, spondylodysplastic type",,,1,Child 2,Benign,False,False
+BCL2,BCL2 overepression,Small cell lung cancer,,Venetoclax (JAN/USAN/INN),1,"Father, Mother",Benign,False,False
+BMP15,BMP15 mutation,Ovarian dysgenesis,,,1,"Child 2, Father, Mother",Benign,False,False
+BMPR1A,BMPR1A mutation,Juvenile polyposis syndrome; Hereditary mixed polyposis syndrome,,,1,Father,Benign,False,False
+BMPR1B,BMPR1B mutation,Brachydactyly; Acromesomelic dysplasia,,,1,"Child 1, Mother",Benign,False,False
+C1QB,C1QB mutation,Classic complement pathway component defects,,,1,Father,Benign,False,False
+C7,C7 mutation,Late complement pathway defects,,,1,"Child 1, Mother",Benign,False,False
+C8A,C8A mutation,Late complement pathway defects,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign/Likely benign,False,False
+C8B,C8B mutation,Late complement pathway defects,,,1,"Child 1, Father, Mother",Benign,False,False
+CASP8,CASP8 mutation,Autoimmune lymphoproliferative syndromes,,,1,"Child 1, Father, Mother",Benign,False,False
+CCND1,CCND1 amplification,Breast cancer,,,1,"Child 1, Father, Mother",Benign,False,False
+CDC45,CDC45 mutation,Meier-Gorlin syndrome,,,1,Mother,Benign,False,False
+CDK4,CDK4 amplification; CDK4 mutation,Melanoma; Glioma,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CFHR5,CFHR5 mutation,C3 glomerulopathy,,,1,"Child 1, Mother",Benign,False,False
+CFP,CFP mutation,Alternative complement pathway component defects,,,1,Child 3,Benign,False,False
+CHSY1,CHSY1 mutation,Temtamy preaxial brachydactyly syndrome,,,1,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+CPT2,CPT2 deficiency,Carnitine palmitoyltransferase II deficiency,,,1,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+CSNK2A1,CSNK2A1 mutation,Neurodevelopmental disorder with dysmorphic facies and skeletal anomalies,,,1,"Child 1, Father, Mother",Benign,False,False
+CYP27B1,CYP27B1 deficiency,Vitamin D-dependent rickets,,,1,"Child 2, Child 3",Likely risk allele,False,False
+CYP2R1,CYP2R1 deficiency,Vitamin D-dependent rickets,,,1,Father,Benign,False,False
+CYP7B1,CYP7B1 deficiency,Congenital bile acid synthesis defect,,,1,"Child 1, Father, Mother",Benign,False,False
+DAB1,DAB1 overexpression,Spinocerebellar ataxia (SCA),,,1,"Child 1, Mother",Benign,False,False
+DCLRE1C,ARTEMIS mutation,T-B-Severe combined immunodeficiency; Omenn syndrome,,,1,"Child 1, Child 3, Father",Benign,False,False
+DCT,DCT deficiency,Oculocutaneous albinism,,,1,"Child 1, Father, Mother",association,False,False
+DHCR24,DHCR24 deficiency,Desmosterolosis,,,1,"Child 2, Child 3",Benign,False,False
+DNASE1,DNASE1 mutation,Systemic lupus erythematosus,,,1,"Child 1, Child 2, Father, Mother",Benign,False,False
+DNASE1L3,DNASE1L3 mutation,Systemic lupus erythematosus,,,1,Child 2,Likely benign,False,False
+DNASE2,DNASE2 mutation,Autoinflammatory-pancytopenia syndrome,,,1,Mother,Benign,False,False
+DPAGT1,ALG7 deficiency,Congenital disorders of glycosylation type I,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+DPM2,DPM2 deficiency,Congenital disorders of glycosylation type I,,,1,"Child 1, Father, Mother",Benign,False,False
+DSE,DSE mutation,Ehlers-Danlos syndrome musculocontractural type,,,1,"Child 2, Child 3",Benign/Likely benign,False,False
+DUSP6,DUSP6 mutation,Hypogonadotropic hypogonadism,,,1,"Child 1, Child 2, Child 3, Father",Benign,False,False
+DVL1,DVL1 mutation,Robinow syndrome,,,1,Father,Benign,False,False
+DVL3,DVL3 mutation,Robinow syndrome,,,1,"Child 1, Father",Benign,False,False
+DYNC2LI1,DYNC2LI1 mutation,Short-rib thoracic dysplasia,,,1,"Child 1, Father, Mother",Benign,False,False
+ENO3,ENO3 deficiency,Glycogen storage disease type XIII,,,1,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+EPO,EPO mutation,Congenital polycythemia,,,1,"Child 1, Child 2, Child 3, Father, Mother",risk factor,False,False
+ERCC8,ERCC8 mutation,Cockayne syndrome; UV-sensitive syndrome,,,1,"Child 2, Child 3",Benign,False,False
+ETV5,TMPRSS2-ETV5 fusion,Prostate cancer,,,1,Child 3,Benign,False,False
+FANCM,FANCM mutation,Fanconi anemia; Premature ovarian failure,,,1,"Child 1, Father",Benign,False,False
+FGF17,FGF17 mutation,Hypogonadotropic hypogonadism,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+FGG,FGG mutation,Afibrinogenemia,,,1,"Child 1, Child 2, Mother",Benign,False,False
+FTL,FTL mutation,Neuroferritinopathy,,,1,"Child 1, Father",Benign,False,False
+FZD6,FZD6 mutation,Nonsyndromic congenital nail disorder,,,1,Mother,Benign,False,False
+G6PC1,G6PC deficiency,Glycogen storage disease type I,,,1,"Child 2, Child 3",Benign,False,False
+GALK1,GALK1 deficiency,Galactokinase deficiency,,,1,"Child 1, Mother",Benign,False,False
+GALM,GALM deficiency,Galactosemia,,,1,"Child 1, Father, Mother",Benign,False,False
+GALT,GALT deficiency,Galactose-1P uridylyltransferase deficiency,,,1,"Child 2, Mother",Conflicting classifications of pathogenicity; other,False,False
+GAMT,GAMT deficiency,Cerebral creatine deficiency syndrome,,,1,Father,Benign,False,False
+GATM,GATM deficiency,Cerebral creatine deficiency syndrome,,,1,"Child 1, Father, Mother",Benign/Likely benign,False,False
+GINS1,GINS1 mutation,Combined immunodeficiency,,,1,"Child 1, Father, Mother",Benign,False,False
+GLI1,GLI1 mutation,Postaxial polydactyly; Preaxial polydactyly,,,1,"Child 1, Father, Mother",Benign,False,False
+GMNN,GMNN mutation,Meier-Gorlin syndrome,,,1,"Child 1, Father",Benign,False,False
+GNRHR,GNRHR mutation,Hypogonadotropic hypogonadism,,,1,"Child 2, Child 3",Benign,False,False
+GNS,GNS deficiency,Mucopolysaccharidosis type III,,,1,"Child 1, Father",Benign,False,False
+GPX4,GPX4 mutation,"Spondylometaphyseal dysplasia, Sedaghatian type",,,1,"Child 2, Child 3",Benign,False,False
+GRM1,GRM1 mutation,Spinocerebellar ataxia (SCA),,,1,"Child 1, Father, Mother",Benign,False,False
+GSS,GSS deficiency,Anemia due to disorders of glutathione metabolism; Glutathione synthetase deficiency,,,1,"Child 1, Mother",Benign,False,False
+GTF2H5,GTF2H5 mutation,Trichothiodystrophy,,,1,Child 2,Likely benign,False,False
+H6PD,H6PD mutation,Cortisone reductase deficiency,,,1,"Child 2, Child 3",Benign,False,False
+HAMP,HAMP mutation,Hemochromatosis,,,1,"Child 2, Child 3",Benign,False,False
+HGSNAT,HGSNAT deficiency,Mucopolysaccharidosis type III,,,1,"Child 1, Father, Mother",Benign,False,False
+HHAT,HHAT mutation,Nivelon-Nivelon-Mabille syndrome,,,1,Mother,Benign,False,False
+HPRT1,HPRT1 deficiency,Lesch-Nyhan syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+HRAS,HRAS mutation; HRAS overexpression,Bladder cancer; Costello syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+HSD11B1,HSD11B1 mutation,Cortisone reductase deficiency,,,1,"Child 2, Child 3",Benign,False,False
+HSD3B7,HSD3B7 deficiency,Congenital bile acid synthesis defect,,,1,"Child 1, Child 3, Mother",Benign,False,False
+IFNGR1,IFNGR1 mutation,IFN-gamma/IL-12 axis,,,1,"Child 1, Father",Benign,False,False
+IFNGR2,IFNGR2 mutation,IFN-gamma/IL-12 axis,,,1,"Child 1, Father, Mother",Benign,False,False
+IGF1,IGF1 mutation,Insulin-like growth factor I deficiency,,,1,"Child 1, Father, Mother",Benign,False,False
+IGF2,IGF2 overexpression,Hepatocellular carcinoma,,,1,Child 1,Benign,False,False
+IL12B,IL12B mutation,IFN-gamma/IL-12 axis,,,1,"Child 3, Mother",Benign,False,False
+IL2RG,IL2RG mutation,T-B+Severe combined immunodeficiency; Combined immunodeficiency,,,1,"Child 1, Mother",Benign,False,False
+IRF7,IRF7 mutation,Defects of toll-like receptor signaling,,,1,Child 2,Benign,False,False
+KCNC3,KCNC3 mutation,Spinocerebellar ataxia (SCA),,,1,Child 3,Benign,False,False
+KIF2A,KIF2A mutation,Complex cortical dysplasia with other brain malformations,,,1,Mother,Benign,False,False
+KISS1R,KISS1R activating mutation; KISS1R inactivaing mutation,Hypogonadotropic hypogonadism; Precocious puberty,,,1,"Child 2, Child 3",Benign,False,False
+MAP2K1,MAP2K1 mutation,Cardiofaciocutaneous syndrome; Melorheostosis,,,1,Child 3,Benign,False,False
+MAP2K2,MAP2K2 mutation,Cardiofaciocutaneous syndrome,,,1,"Child 1, Mother",Likely benign,False,False
+MAP3K20,MAP3K20 mutation,Split-hand/foot malformation,,,1,"Child 1, Father, Mother",Benign,False,False
+MASP2,MASP2 mutation,Mannose-binding lectin pathway component defects,,,1,"Child 1, Mother",Benign,False,False
+MBD4,MBD4 mutation,Tumor predisposition syndrome,,,1,Child 3,Benign,False,False
+MCM4,MCM4 mutation,Immunodeficiency associated with DNA repair defects,,,1,"Child 1, Father, Mother",Benign,False,False
+MDM2,MDM2 amplification,Glioma,,,1,"Child 1, Father",Benign,False,False
+MESP2,MESP2 mutation,Spondylocostal dysostosis,,,1,Mother,Benign,False,False
+MPL,MPL mutation,Myelofibrosis; Essential thrombocythemia,,,1,"Child 2, Mother",Conflicting classifications of pathogenicity,False,False
+MRAS,MRAS mutation,Noonan syndrome,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+NAGLU,NAGLU deficiency,Mucopolysaccharidosis type III,,Lesinidase alfa (USAN/INN),1,"Child 1, Father, Mother",Benign/Likely benign,False,False
+NCAPH,NCAPH mutation,Primary microcephaly,,,1,"Child 2, Child 3, Mother",Benign,False,False
+NOTCH2,NOTCH2 mutation,Alagille syndrome; Hajdu-Cheney syndrome,,,1,"Child 1, Mother",Benign,False,False
+NPRL3,NPRL3 mutation,Familial focal epilepsy with variable foci,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+NR3C1,NR3C1 mutation,Glucocorticoid resistance syndrome,,,1,"Child 1, Father",Benign,False,False
+NR5A1,NR5A1 mutation,"Adrenal insufficiency, NR5A1 related",,,1,"Child 1, Father",Benign,False,False
+NSDHL,NSDHL deficiency,Congenital hemidysplasia with ichthyosiform nevus and limb defects (CHILD); CK syndrome,,,1,"Father, Mother",Benign,False,False
+OGDH,OGDH deficiency,Alpha-ketoglutarate dehydrogenase complex deficiency,,,1,"Child 2, Child 3",Benign,False,False
+OGDHL,OGDHL mutation,Yoon-Bellen neurodevelopmental syndrome,,,1,"Child 1, Father",Benign,False,False
+OTULIN,OTULIN mutation,"Autoinflammation, panniculitis, and dermatosis syndrome",,,1,"Child 2, Child 3",Benign,False,False
+PAFAH1B1,PAFAH1B1 mutation,Lissencephaly,,,1,"Child 2, Child 3",Benign,False,False
+PC,PC deficiency,Pyruvate carboxylase deficiency,,,1,Child 3,Conflicting classifications of pathogenicity,False,False
+PCCB,PCCB deficiency,Propionic acidemia,,,1,"Child 1, Mother",Benign,False,False
+PCK1,PCK1 deficiency,Phosphoenolpyruvate carboxykinase deficiency,,,1,"Child 1, Mother",Benign,False,False
+PDE8B,PDE8B mutation,Pigmented micronodular adrenocortical disease; Cushing syndrome; Bilateral macronodular adrenal hyperplasia,,,1,"Child 1, Father, Mother",Benign,False,False
+PDGFB,PDGFB overexpression,Glioma,,,1,"Child 1, Father, Mother",Benign,False,False
+PDHA1,PDHA1 deficiency,Pyruvate dehydrogenase E1-alpha deficiency,,,1,Father,Benign,False,False
+PIGB,PIGB deficiency,Inherited glycosylphosphatidylinositol deficiencies,,,1,"Child 1, Child 3, Father",Benign,False,False
+PIGC,PIGC deficiency,Inherited glycosylphosphatidylinositol deficiencies,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+PIGL,PIGL deficiency,CHIME syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+PIGM,PIGM deficiency,PIGM-congenital disorder of glycosylation,,,1,Child 3,Benign,False,False
+PML,PML-RARA fusion,Acute myeloid leukemia,,,1,"Child 1, Mother",Benign,False,False
+PMVK,PMVK deficiency,Porokeratosis,,,1,"Child 1, Father",Benign,False,False
+POLA1,POLA1 mutation,X-linked syndromic intellectual developmental disorder; X-linked reticulate pigmentary disorder with systemic manifestations,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+POLD1,POLD1 mutation,MDPL syndrome; Polymerase proofreading-associated polyposis,,,1,"Child 1, Father, Mother",Benign,False,False
+PRIM1,PRIM1 mutation,Primordial dwarfism-immunodeficiency-lipodystrophy syndrome,,,1,"Child 1, Mother",Benign,False,False
+PRKAR1A,PRKAR1A mutation,Pigmented micronodular adrenocortical disease; Pituitary adenomas; Cushing syndrome,,,1,"Child 2, Child 3",Benign,False,False
+PRNP,PRNP oligomeric conformation; PRNP scrapie conformation,Prion disease,,,1,"Child 2, Child 3, Mother",Benign/Likely benign,False,False
+PROK2,PROK2 mutation,Hypogonadotropic hypogonadism,,,1,"Child 1, Mother",Benign,False,False
+PSAP,PSAP deficiency,Gaucher disease; Krabbe disease; Sphingolipidosis,,,1,Child 3,Likely benign,False,False
+PSEN2,PSEN2 mutation,Alzheimer disease,,,1,"Child 2, Child 3",Benign,False,False
+PSTPIP1,PSTPIP1 mutation,"Pyogenic sterile arthritis, pyoderma gangrenosum, and acne syndrome",,,1,"Child 1, Mother",Benign,False,False
+PTEN,PTEN deletion; PTEN mutation,Small cell lung cancer; Prostate cancer; Endometrial cancer; Breast cancer; Melanoma; Glioma; Hepatocellular carcinoma,,,1,"Child 1, Mother",Benign,False,False
+PTH,PTH mutation,Hypoparathyroidism,,,1,"Child 1, Father, Mother",Benign,False,False
+PTPN11,PTPN11 mutation,Noonan syndrome; Leopard syndrome; Juvenile myelomonocytic leukemia,,,1,"Child 1, Mother",Benign,False,False
+PTS,PTS deficiency,Phenylketonuria,,,1,"Child 1, Father",Benign,False,False
+RAD51C,RAD51C mutation,Fanconi anemia; Familial breast-ovarian cancer,,,1,"Child 1, Father",Benign,False,False
+RAD54L,RAD54L mutation,Breast cancer; Non-Hodgkin lymphoma,,,1,Mother,Benign,False,False
+RBBP8,CtIP mutation,Seckel syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+RECQL4,RECQL4 mutation,RAPADILINO syndrome; Rothmund-Thomson syndrome; Baller-Gerold syndrome,,,1,"Child 2, Child 3",Benign,False,False
+RFC1,RFC1 mutation,"Cerebellar ataxia, neuropathy, and vestibular areflexia syndrome",,,1,"Child 1, Father, Mother",Benign,False,False
+RIGI,RIGI mutation,Singleton-Merten syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+RIT1,RIT1 mutation,Noonan syndrome,,,1,"Child 2, Child 3",Benign,False,False
+RNF125,RNF125 mutation,Tenorio syndrome,,,1,"Father, Mother",Benign,False,False
+RSPO2,RSPO2 mutation,Tetra-amelia syndrome,,,1,"Child 1, Mother",Benign,False,False
+SC5D,SC5D deficiency,Lathosterolosis,,,1,"Child 2, Child 3",Likely benign,False,False
+SCP2,SCP2 deficiency,Leukoencephalopathy with dystonia and motor neuropathy,,,1,"Child 1, Father",Benign,False,False
+SDHB,SDHB deficiency,Mitochondrial complex II deficiency,,,1,"Child 1, Mother",Benign,False,False
+SERPINC1,SERPINC1 mutation,Inherited thrombophilia; Antithrombin III deficiency,,,1,Mother,Benign,False,False
+SERPING1,SERPING1 mutation,Complement regulatory protein defects; Hereditary angioedema,,,1,"Child 2, Child 3",Benign,False,False
+SHH,SHH mutation,Holoprosencephaly; Microphthalmia,,,1,"Child 1, Father",Benign,False,False
+SHOC2,SHOC2 mutation,Noonan-like syndrome with loose anagen hair,,,1,"Child 1, Father",Benign,False,False
+SLC16A2,SLC16A2 mutation,Allan-Herndon-Dudley syndrome,,,1,"Father, Mother",Benign,False,False
+SLC5A5,SLC5A5 mutation,Thyroid dyshormonogenesis,,,1,Father,Benign,False,False
+SMAD4,SMAD4 mutation,Hereditary hemorrhagic telangiectasia; Juvenile polyposis syndrome; Myhre syndrome,,,1,"Child 1, Mother",Benign; confers sensitivity,False,False
+SMAD9,SMAD9 mutation,Primary pulmonary hypertension,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SMC3,SMC3 mutation,Cornelia de Lange syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+SMO,SMO mutation,Basal cell carcinoma,,,1,"Child 1, Father, Mother",Benign,False,False
+SMPD1,SMPD1 deficiency,Niemann-Pick disease type A/B,,Olipudase alfa (USAN/INN),1,"Child 1, Child 2, Father",Benign,False,False
+SOD1,SOD1 mutation,Amyotrophic lateral sclerosis (ALS),,,1,"Child 1, Father, Mother",Benign,False,False
+SPR,SPR deficiency,Sepiapterin reductase deficiency,,,1,"Child 1, Father, Mother",Benign,False,False
+SPTBN2,SPTBN2 mutation,Spinocerebellar ataxia (SCA),,,1,"Child 1, Father, Mother",Benign,False,False
+SRD5A3,SRD5A3 deficiency,Congenital disorders of glycosylation type I,,,1,"Child 1, Father",Benign,False,False
+STAG2,STAG2 mutation,Holoprosencephaly; Mullegama-Klein-Martinez syndrome,,,1,Mother,Benign,False,False
+STN1,STN1 mutation,Coats plus syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+STT3B,STT3B deficiency,Congenital disorders of glycosylation type I,,,1,"Child 2, Child 3",Benign,False,False
+TACR3,TACR3 mutation,Hypogonadotropic hypogonadism,,,1,Father,Benign,False,False
+TARDBP,TARDBP mutation,Amyotrophic lateral sclerosis (ALS),,,1,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+THBD,THBD mutation,Inherited thrombophilia,,,1,"Child 2, Child 3, Father, Mother",Benign,False,False
+TLR3,TLR3 mutation,Infection-induced acute encephalopathy,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TNFAIP3,TNFAIP3 mutation,Familial Behcet-like autoinflammatory syndrome,,,1,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+TNFRSF10B,TNFRSF10B mutation,Head and neck squamous cell carcinoma,,,1,"Child 1, Father, Mother",Benign,False,False
+TSHB,TSHB mutation,Congenital nongoitrous hypothyroidism (CHNG),,,1,"Child 2, Child 3",Benign,False,False
+TUBB4A,TUBB4A mutation,Hypomyelinating leukodystrophy; Primary dystonia,,,1,"Child 1, Mother",Benign,False,False
+TUBB8,TUBB8 mutation,Oocyte maturation defect,,,1,Child 3,Benign,False,False
+UCHL1,UCHL1 mutation,Parkinson disease,,,1,"Child 2, Child 3, Mother",Benign,False,False
+UNG,UNG mutation,"Hyper IgM syndromes, autosomal recessive type",,,1,Father,Benign,False,False
+UROS,UROS deficiency,Porphyria,,,1,"Child 1, Father, Mother",Benign,False,False
+USP18,USP18 mutation,Pseudo-TORCH syndrome,,,1,"Child 1, Child 2, Child 3, Mother",Benign,False,False
+UVSSA,UVSSA mutation,UV-sensitive syndrome,,,1,"Child 2, Child 3",Benign,False,False
+VAPB,VAPB mutation,Amyotrophic lateral sclerosis (ALS),,,1,Mother,Benign,False,False
+WNT5A,WNT5A mutation,Robinow syndrome,,,1,"Child 1, Father, Mother",Benign,False,False
+WRAP53,WRAP53 mutation,Dyskeratosis congenita,,,1,Father,Benign,False,False
+WT1,EWSR1-WT1 fusion,Desmoplastic small round cell tumor,,,1,"Child 2, Child 3",Benign,False,False
+XIAP,XIAP mutation,X-linked lymphoproliferative syndrome,,,1,Mother,Benign,False,False
+XPA,XPA mutation,Xeroderma pigmentosum,,,1,"Child 1, Child 2, Child 3, Father",Benign,False,False
+XRCC2,XRCC2 mutation,Fanconi anemia; Premature ovarian failure,,,1,Mother,Benign,False,False
+XYLT1,XYLT1 mutation,Desbuquois syndrome,,,1,"Father, Mother",Benign,False,False
+ABCB11,ABCB11 mutation,,,,15,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+MSH2,MSH2 mutation,,,,9,"Child 1, Child 2, Child 3, Father, Mother",Benign; Likely benign,False,False
+CFTR,CFTR mutation,,,"Lumacaftor and ivacaftor; Tezacaftor and ivacaftor; Elexacaftor, ivacaftor and tezacaftor",7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+LIPA,LIPA deficiency,,,Sebelipase alfa (USAN),7,"Child 1, Child 2, Child 3, Father, Mother",Benign; Benign/Likely benign,False,False
+SLCO1B1,SLCO1B1 polymorphism for decreased transporter activity,,,,7,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+ALPL,ALPL deficiency,,,Asfotase alfa (USAN/INN),6,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+SI,SI deficiency,,,Sacrosidase (USAN),6,"Child 1, Child 2, Father, Mother",Benign,False,False
+MAN2B1,MAN2B1 deficiency,,,Velmanase alfa (USAN/INN),5,"Child 1, Child 2, Child 3, Father, Mother",Benign,False,False
+CYP2D6,CYP2D6 polymorphism for poor drug metabolism,,,,4,"Child 1, Father, Mother",Benign; Benign/Likely benign; Benign; other,False,False
+CYP2C9,CYP2C9 polymorphism for poor drug metabolism,,,,3,"Child 1, Child 2, Child 3, Father, Mother",association; no classification for the single variant,False,False
+LPL,LPL variant,,,Alipogene tiparvovec (INN),3,Father,Benign,False,False
+PDE3A,PDE3A mutation,,,,2,"Child 1, Father, Mother",Benign,False,False
+BANF1,BANF1 mutation,,,,1,"Child 1, Father, Mother",Benign,False,False
+DPYS,DPYS deficiency,,,,1,Mother,not provided,False,False
+EZH2,EZH2 mutation,,,Tazemetostat hydrobromide (JAN/USAN),1,Father,Benign,False,False
+IDH1,IDH1 mutation,,,Ivosidenib (JAN/USAN/INN); Olutasidenib (USAN/INN),1,"Child 2, Child 3",Benign,False,False
+IFNL3,IL28B rs12979860,,,,1,"Child 1, Father, Mother",Likely benign,False,False
+MVK,MVK deficiency,,,,1,Mother,Benign/Likely benign,False,False
+PAX3,PAX3-FOXO1 fusion,,,,1,"Child 1, Father, Mother",Benign,False,False
+TPMT,TPMT polymorphism for poor drug metabolism,,,,1,"Child 1, Child 2, Child 3, Father, Mother",Likely benign,False,False
+TPP1,TPP1 deficiency,,,Cerliponase alfa (USAN/INN),1,"Child 1, Father, Mother",Benign,False,False
+UPB1,UPB1 deficiency,,,,1,Father,Benign,False,False

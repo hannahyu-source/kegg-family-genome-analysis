@@ -1,0 +1,1542 @@
+{
+  "center": "disease:H00048",
+  "nodes": [
+    {
+      "id": "disease:H00048",
+      "type": "disease",
+      "label": "Hepatocellular carcinoma; Liver cancer",
+      "is_center": true
+    },
+    {
+      "id": "gene_entrez:7039",
+      "type": "gene_entrez",
+      "label": "TGFA",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:3481",
+      "type": "gene_entrez",
+      "label": "IGF2",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:3480",
+      "type": "gene_entrez",
+      "label": "IGF1R",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:7015",
+      "type": "gene_entrez",
+      "label": "TERT",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:8324",
+      "type": "gene_entrez",
+      "label": "FZD7",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:3082",
+      "type": "gene_entrez",
+      "label": "HGF",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:4233",
+      "type": "gene_entrez",
+      "label": "MET",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:4609",
+      "type": "gene_entrez",
+      "label": "MYC",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:5925",
+      "type": "gene_entrez",
+      "label": "RB1",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:1029",
+      "type": "gene_entrez",
+      "label": "CDKN2A",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:7048",
+      "type": "gene_entrez",
+      "label": "TGFBR2",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:7157",
+      "type": "gene_entrez",
+      "label": "TP53",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:5728",
+      "type": "gene_entrez",
+      "label": "PTEN",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:1499",
+      "type": "gene_entrez",
+      "label": "CTNNB1",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:8312",
+      "type": "gene_entrez",
+      "label": "AXIN1",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:9817",
+      "type": "gene_entrez",
+      "label": "KEAP1",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:4780",
+      "type": "gene_entrez",
+      "label": "NFE2L2",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:5290",
+      "type": "gene_entrez",
+      "label": "PIK3CA",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:8289",
+      "type": "gene_entrez",
+      "label": "ARID1A",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:196528",
+      "type": "gene_entrez",
+      "label": "ARID2",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:841",
+      "type": "gene_entrez",
+      "label": "CASP8",
+      "is_center": false
+    },
+    {
+      "id": "gene_entrez:3482",
+      "type": "gene_entrez",
+      "label": "IGF2R",
+      "is_center": false
+    },
+    {
+      "id": "drug:D06272",
+      "type": "drug",
+      "label": "Sorafenib tosylate (USAN); Sorafenib tosilate (JAN); Nexa...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10137",
+      "type": "drug",
+      "label": "Regorafenib hydrate (JAN); Stivarga (TN)",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10095",
+      "type": "drug",
+      "label": "Cabozantinib s-malate (USAN); Cabozantinib malate (JAN); ...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D09920",
+      "type": "drug",
+      "label": "Lenvatinib mesylate (USAN); Lenvatinib mesilate (JAN); Le...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10316",
+      "type": "drug",
+      "label": "Nivolumab (USAN/INN); Nivolumab (genetical recombination)...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10574",
+      "type": "drug",
+      "label": "Pembrolizumab (USAN); Pembrolizumab (genetical recombinat...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10808",
+      "type": "drug",
+      "label": "Durvalumab (USAN/INN); Durvalumab (genetical recombinatio...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D10773",
+      "type": "drug",
+      "label": "Atezolizumab (USAN/INN); Atezolizumab (genetical recombin...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D06409",
+      "type": "drug",
+      "label": "Bevacizumab (USAN); Bevacizumab (genetical recombination)...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D09371",
+      "type": "drug",
+      "label": "Ramucirumab (USAN); Ramucirumab (genetical recombination)...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D04603",
+      "type": "drug",
+      "label": "Ipilimumab (USAN/INN); Ipilimumab (genetical recombinatio...",
+      "is_center": false
+    },
+    {
+      "id": "drug:D06657",
+      "type": "drug",
+      "label": "Tremelimumab (USAN/INN); Tremelimumab (genetical recombin...",
+      "is_center": false
+    },
+    {
+      "id": "network:N00005",
+      "type": "network",
+      "label": "Mutation-activated MET to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00044",
+      "type": "network",
+      "label": "Mutation-activated MET to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00049",
+      "type": "network",
+      "label": "Mutation-activated PI3K to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00052",
+      "type": "network",
+      "label": "Mutation-inactivated PTEN to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00058",
+      "type": "network",
+      "label": "Mutation-activated CTNNB1 to Wnt signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00059",
+      "type": "network",
+      "label": "FZD7-overexpression to Wnt signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00071",
+      "type": "network",
+      "label": "Deleted p16(INK4a) to p16-cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00074",
+      "type": "network",
+      "label": "Loss of RB1 to cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00115",
+      "type": "network",
+      "label": "Mutation-inactivated TP53 to transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00228",
+      "type": "network",
+      "label": "TGFA-overexpression to PLCG-PKC signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00230",
+      "type": "network",
+      "label": "TGFA-overexpression to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00232",
+      "type": "network",
+      "label": "TGFA-overexpression to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00235",
+      "type": "network",
+      "label": "IGF2-overexpression to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00236",
+      "type": "network",
+      "label": "IGF2-overexpression to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00237",
+      "type": "network",
+      "label": "IGF1R-overexpression to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00238",
+      "type": "network",
+      "label": "IGF1R-overexpression to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00240",
+      "type": "network",
+      "label": "TERT-overexpression to telomerase activity",
+      "is_center": false
+    },
+    {
+      "id": "network:N00241",
+      "type": "network",
+      "label": "TGFBR2-reduced expression to TGF-beta signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00242",
+      "type": "network",
+      "label": "Mutation-inactivated AXIN to Wnt signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00244",
+      "type": "network",
+      "label": "Mutation-inactivated KEAP1 to KEAP1-NRF2 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00245",
+      "type": "network",
+      "label": "Mutation-activated NRF2 to KEAP1-NRF2 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00246",
+      "type": "network",
+      "label": "HGF-overexpression to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00247",
+      "type": "network",
+      "label": "HGF-overexpression to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00248",
+      "type": "network",
+      "label": "MET-overexpression to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00249",
+      "type": "network",
+      "label": "MET-overexpression to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00267",
+      "type": "network",
+      "label": "HBV HBx to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00268",
+      "type": "network",
+      "label": "HBV HBx to RIG-I-like receptor signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00269",
+      "type": "network",
+      "label": "HCV core to TNF-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00270",
+      "type": "network",
+      "label": "HCV Core to IFN signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00271",
+      "type": "network",
+      "label": "HCV NS3/4A to RIG-I-like receptor signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00272",
+      "type": "network",
+      "label": "HCV NS5A to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00273",
+      "type": "network",
+      "label": "HCV NS5A to oligoadenylate synthetase (OAS)/RNase L pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00274",
+      "type": "network",
+      "label": "HCV NS5A to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00516",
+      "type": "network",
+      "label": "HCV NS3/4A to TLR3-IRF3 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00517",
+      "type": "network",
+      "label": "HCV NS3/4A to TLR3-IRF3 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00518",
+      "type": "network",
+      "label": "HCV Core to ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00519",
+      "type": "network",
+      "label": "HCV Core to ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00520",
+      "type": "network",
+      "label": "HCV NS5A to p21-cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00521",
+      "type": "network",
+      "label": "HCV Core to p21-cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00522",
+      "type": "network",
+      "label": "HCV NS3 to p21-cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00523",
+      "type": "network",
+      "label": "HCV Core to p21-cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00524",
+      "type": "network",
+      "label": "HCV NS5A to extrinsic apoptotic pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00525",
+      "type": "network",
+      "label": "HCV NS5A to TNF-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00526",
+      "type": "network",
+      "label": "HCV NS3 to crosstalk between extrinsic and intrinsic apop...",
+      "is_center": false
+    },
+    {
+      "id": "network:N00527",
+      "type": "network",
+      "label": "HCV Core to crosstalk between extrinsic and intrinsic apo...",
+      "is_center": false
+    },
+    {
+      "id": "network:N00528",
+      "type": "network",
+      "label": "HCV core to extrinsic apoptotic pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00529",
+      "type": "network",
+      "label": "HCV core to RXRA/PPARA-mediated transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00530",
+      "type": "network",
+      "label": "HCV core to RXRA/LXRA-mediated transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00531",
+      "type": "network",
+      "label": "HBV HBx to TGF-beta signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00532",
+      "type": "network",
+      "label": "HBV HBx to Egr-mediated transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00533",
+      "type": "network",
+      "label": "HBV HBx to Crosstalk between extrinsic and intrinsic apop...",
+      "is_center": false
+    },
+    {
+      "id": "network:N00534",
+      "type": "network",
+      "label": "HBV HBx to Crosstalk between extrinsic and intrinsic apop...",
+      "is_center": false
+    },
+    {
+      "id": "network:N00535",
+      "type": "network",
+      "label": "HBV HBx to p53-mediated transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00537",
+      "type": "network",
+      "label": "HBV HBx to cell cycle G1/S",
+      "is_center": false
+    },
+    {
+      "id": "network:N00539",
+      "type": "network",
+      "label": "HBV HBx to Ca2+-PYK2-RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00540",
+      "type": "network",
+      "label": "HBV HBx to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00541",
+      "type": "network",
+      "label": "HBV HBx to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00543",
+      "type": "network",
+      "label": "HBV HBx to JNK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00544",
+      "type": "network",
+      "label": "HBV HBx to CREB-mediated transcription",
+      "is_center": false
+    },
+    {
+      "id": "network:N00545",
+      "type": "network",
+      "label": "HBV HBx to ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00547",
+      "type": "network",
+      "label": "HBV LHBs to PKC-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00548",
+      "type": "network",
+      "label": "HBV HBx to Jak-STAT signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00549",
+      "type": "network",
+      "label": "HBV HBeAg to TLR2/4-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00550",
+      "type": "network",
+      "label": "HBV HBeAg to TLR2/4-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00551",
+      "type": "network",
+      "label": "HBV HBs to TLR2/4-MAPK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00552",
+      "type": "network",
+      "label": "HBV pol to TLR3-IRF3 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00554",
+      "type": "network",
+      "label": "HBV HBe to TLR4-IRF3/7 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00555",
+      "type": "network",
+      "label": "HBV HBe to TLR4-IRF3/7 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00556",
+      "type": "network",
+      "label": "HBV HBe to TLR2/4-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00557",
+      "type": "network",
+      "label": "HBV HBe to TLR2/4-NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N00558",
+      "type": "network",
+      "label": "HBV pol to IFN signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01365",
+      "type": "network",
+      "label": "TCDD to Ahr signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01366",
+      "type": "network",
+      "label": "BaP to Ahr signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01378",
+      "type": "network",
+      "label": "AFB1 to DNA adducts",
+      "is_center": false
+    },
+    {
+      "id": "network:N01383",
+      "type": "network",
+      "label": "NDMA to DNA adducts",
+      "is_center": false
+    },
+    {
+      "id": "network:N01390",
+      "type": "network",
+      "label": "p,p'-DDT to SOD/Cat-mediated ROS neutralization",
+      "is_center": false
+    },
+    {
+      "id": "network:N01406",
+      "type": "network",
+      "label": "Ethanol to CYP-mediated metabolism",
+      "is_center": false
+    },
+    {
+      "id": "network:N01407",
+      "type": "network",
+      "label": "Metals to JNK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01408",
+      "type": "network",
+      "label": "Metals to RAS-ERK signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01409",
+      "type": "network",
+      "label": "Metals to PI3K signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01410",
+      "type": "network",
+      "label": "Metals to NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01411",
+      "type": "network",
+      "label": "Metals to NFKB signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01412",
+      "type": "network",
+      "label": "Metals to HTF-1 signaling pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:N01413",
+      "type": "network",
+      "label": "Metals to KEAP1-NRF2 signalig pathway",
+      "is_center": false
+    },
+    {
+      "id": "network:nt06263",
+      "type": "network",
+      "label": "Hepatocellular carcinoma",
+      "is_center": false
+    },
+    {
+      "id": "network:nt06162",
+      "type": "network",
+      "label": "Hepatitis B virus (HBV)",
+      "is_center": false
+    },
+    {
+      "id": "network:nt06163",
+      "type": "network",
+      "label": "Hepatitis C virus (HCV)",
+      "is_center": false
+    },
+    {
+      "id": "variant:1029v1",
+      "type": "variant",
+      "label": "CDKN2A deletion",
+      "is_center": false
+    },
+    {
+      "id": "variant:1499v1",
+      "type": "variant",
+      "label": "CTNNB1 mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:3082v1",
+      "type": "variant",
+      "label": "HGF overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:3480v1",
+      "type": "variant",
+      "label": "IGF1R overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:3481v1",
+      "type": "variant",
+      "label": "IGF2 overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:4233v1",
+      "type": "variant",
+      "label": "MET kinase domain mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:4233v2",
+      "type": "variant",
+      "label": "MET overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:4780v1",
+      "type": "variant",
+      "label": "NFE2L2 mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:5290v1",
+      "type": "variant",
+      "label": "PIK3CA mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:5728v2",
+      "type": "variant",
+      "label": "PTEN mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:5925v1",
+      "type": "variant",
+      "label": "RB1 loss",
+      "is_center": false
+    },
+    {
+      "id": "variant:7015v1",
+      "type": "variant",
+      "label": "TERT overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:7039v1",
+      "type": "variant",
+      "label": "TGFA overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:7048v2",
+      "type": "variant",
+      "label": "TGFBR2 reduced expression",
+      "is_center": false
+    },
+    {
+      "id": "variant:7157v1",
+      "type": "variant",
+      "label": "TP53 mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:8312v1",
+      "type": "variant",
+      "label": "AXIN1 mutation",
+      "is_center": false
+    },
+    {
+      "id": "variant:8324v1",
+      "type": "variant",
+      "label": "FZD7 overexpression",
+      "is_center": false
+    },
+    {
+      "id": "variant:9817v1",
+      "type": "variant",
+      "label": "KEAP1 mutation",
+      "is_center": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:7039",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:3481",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:3480",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:7015",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:8324",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:3082",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:4233",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:4609",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:5925",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:1029",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:7048",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:7157",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:5728",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:1499",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:8312",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:9817",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:4780",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:5290",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:8289",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:196528",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:841",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "gene_entrez:3482",
+      "field": "GENE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D06272",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10137",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10095",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D09920",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10316",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10574",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10808",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D10773",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D06409",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D09371",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D04603",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "drug:D06657",
+      "field": "DRUG"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00005",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00044",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00049",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00052",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00058",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00059",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00071",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00074",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00115",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00228",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00230",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00232",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00235",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00236",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00237",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00238",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00240",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00241",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00242",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00244",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00245",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00246",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00247",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00248",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00249",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00267",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00268",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00269",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00270",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00271",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00272",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00273",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00274",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00516",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00517",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00518",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00519",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00520",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00521",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00522",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00523",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00524",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00525",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00526",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00527",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00528",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00529",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00530",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00531",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00532",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00533",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00534",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00535",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00537",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00539",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00540",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00541",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00543",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00544",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00545",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00547",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00548",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00549",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00550",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00551",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00552",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00554",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00555",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00556",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00557",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N00558",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01365",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01366",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01378",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01383",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01390",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01406",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01407",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01408",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01409",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01410",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01411",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01412",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:N01413",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:nt06263",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:nt06162",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "network:nt06163",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:1029v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:1499v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:3082v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:3480v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:3481v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:4233v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:4233v2",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:4780v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:5290v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:5728v2",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:5925v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:7015v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:7039v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:7048v2",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:7157v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:8312v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:8324v1",
+      "field": "DISEASE"
+    },
+    {
+      "source": "disease:H00048",
+      "target": "variant:9817v1",
+      "field": "DISEASE"
+    }
+  ]
+}

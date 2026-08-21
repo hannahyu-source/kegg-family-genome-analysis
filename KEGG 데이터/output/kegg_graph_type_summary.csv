@@ -1,0 +1,14 @@
+﻿source_type,target_type,edge_count
+dgroup,drug,19834
+drug,gene_entrez,14117
+network,gene_entrez,11217
+disease,gene_entrez,7462
+drug,dgroup,4345
+dgroup,dgroup,4305
+disease,drug,2715
+drug,compound,1693
+variant,disease,1255
+network,disease,1153
+variant,ortholog,980
+network,variant,355
+variant,drug,115

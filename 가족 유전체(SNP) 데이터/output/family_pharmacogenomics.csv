@@ -1,0 +1,61 @@
+﻿rsid,gene_symbol,clinical_significance,phenotype_list,carriers,matched_kegg_dgroups,matched_kegg_drugs
+rs10276036,ABCB1,drug response,Tramadol response,"Father, Mother, Child 3",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs1202168,ABCB1,drug response,Tramadol response,"Father, Mother, Child 1",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs1211152,ABCB1,drug response,Tramadol response,"Father, Mother, Child 1",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs1922240,ABCB1,drug response,Tramadol response,"Father, Mother, Child 3",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs1922242,ABCB1,drug response,Tramadol response,Child 3,DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2214102,ABCB1,drug response,Tramadol response,"Father, Mother, Child 1",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2235013,ABCB1,drug response,Tramadol response,"Father, Mother",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2235033,ABCB1,drug response,Tramadol response,"Father, Mother, Child 3",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2235035,ABCB1,drug response,Tramadol response,"Father, Mother",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2235046,ABCB1,drug response,Tramadol response|Hepatocellular carcinoma,"Father, Mother",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs3842,ABCB1,drug response,Tramadol response,"Mother, Child 1, Child 2, Child 3",DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs7809208,ABCB1,drug response,Tramadol response,Child 3,DG01622:ABCB1 inhibitor(64개 약물); DG01665:ABCB1 substrate(117개 약물); DG01893:ABCB1 inducer(11개 약물),D08623:Tramadol
+rs2231142,ABCG2,drug response,"URIC ACID CONCENTRATION, SERUM, QUANTITATIVE TRAIT LOCUS 1|BLOOD GROUP, JUNIOR SYSTEM|rosuvastatin response - Efficacy|Gemcitabine response|rosuvastatin response - Metabolism/PK|ABCG2-related disorder","Mother, Child 1, Child 3",DG01913:ABCG2 substrate(39개 약물); DG02862:ABCG2 inhibitor(20개 약물); DG02910:ABCG2 inducer(1개 약물),D02368:Gemcitabine; D08492:Rosuvastatin
+rs1042713,ADRB2,drug response,salmeterol response - Efficacy,"Mother, Child 1, Child 2, Child 3",,D05792:Salmeterol
+rs405509,APOE,drug response,Warfarin response,Child 3,,D08682:Warfarin
+rs439401,APOE,drug response,Warfarin response,"Father, Child 1, Child 3",,D08682:Warfarin
+rs769450,APOE,drug response,Warfarin response,"Father, Child 1, Child 3",,D08682:Warfarin
+rs165599,COMT,drug response,Tramadol response,"Father, Mother, Child 1, Child 2, Child 3",DG01592:COMT substrate(14개 약물); DG02909:COMT inhibitor(4개 약물),D08623:Tramadol
+rs165728,COMT,drug response,Tramadol response,"Father, Mother, Child 1",DG01592:COMT substrate(14개 약물); DG02909:COMT inhibitor(4개 약물),D08623:Tramadol
+rs727479,CYP19A1,drug response,Letrozole response,"Father, Mother, Child 1",,D00964:Letrozole
+rs3745274,CYP2B6,drug response,Efavirenz response|efavirenz response - Metabolism/PK|efavirenz response - Toxicity|nevirapine response - Metabolism/PK|CYP2B6-related disorder|Familial cancer of breast,"Father, Mother, Child 1, Child 3",DG02891:CYP2B6 inducer(17개 약물); DG02892:CYP2B6 inhibitor(7개 약물); DG02919:CYP2B6 substrate(43개 약물),D00435:Nevirapine; D00896:Efavirenz
+rs12769205,CYP2C19,drug response,CYP2C19: no function,"Father, Child 1, Child 2, Child 3",DG01639:CYP2C19 substrate(123개 약물); DG01933:CYP2C19 inhibitor(27개 약물); DG02885:CYP2C19 inducer(3개 약물),
+rs12777823,CYP2C19,drug response,warfarin response - Dosage,"Father, Child 1, Child 2, Child 3",DG01639:CYP2C19 substrate(123개 약물); DG01933:CYP2C19 inhibitor(27개 약물); DG02885:CYP2C19 inducer(3개 약물),D08682:Warfarin
+rs2242480,CYP3A4,drug response,tacrolimus response - Metabolism/PK|fentanyl response - Dosage,"Child 2, Child 3",DG01522:CYP3A4 inhibitor(60개 약물); DG01633:CYP3A/CYP3A4 substrate(810개 약물); DG01635:CYP3A4 inducer(45개 약물); DG02852:CYP3A/CYP3A4 inhibitor(120개 약물); DG02853:CYP3A/CYP3A4 inducer(64개 약물); DG02913:CYP3A4 substrate(666개 약물),D00320:Fentanyl; D08556:Tacrolimus
+rs4646437,CYP3A4,drug response,tacrolimus response - Metabolism/PK,"Father, Child 1, Child 2, Child 3",DG01522:CYP3A4 inhibitor(60개 약물); DG01633:CYP3A/CYP3A4 substrate(810개 약물); DG01635:CYP3A4 inducer(45개 약물); DG02852:CYP3A/CYP3A4 inhibitor(120개 약물); DG02853:CYP3A/CYP3A4 inducer(64개 약물); DG02913:CYP3A4 substrate(666개 약물),D08556:Tacrolimus
+rs776746,CYP3A5,association; drug response; risk factor,"Hypertension, salt-sensitive essential, susceptibility to|refractory myasthenia gravis|Tacrolimus response","Father, Mother, Child 1, Child 2, Child 3",DG01915:CYP3A5 inhibitor(3개 약물); DG02925:CYP3A5 substrate(37개 약물),D08556:Tacrolimus
+rs2108622,CYP4F2,drug response,acenocoumarol response - Dosage|warfarin response - Dosage|not provided|CYP4F2-related disorder,"Father, Child 1, Child 3",DG02980:CYP4F2 substrate(4개 약물),D07064:Acenocoumarol; D08682:Warfarin
+rs2235544,DIO1,drug response,Levothyroxine response,"Mother, Child 3",,D08125:Levothyroxine
+rs1801159,DPYD,drug response,not provided|not specified|Dihydropyrimidine dehydrogenase deficiency|capecitabine response - Toxicity|fluorouracil response - Toxicity|DPYD-related disorder,"Father, Child 1",DG02984:DPYD substrate(2개 약물),D00584:Fluorouracil; D01223:Capecitabine
+rs56038477,DPYD,drug response,not provided|not specified|Dihydropyrimidine dehydrogenase deficiency|capecitabine response - Toxicity|fluorouracil response - Toxicity,Child 3,DG02984:DPYD substrate(2개 약물),D00584:Fluorouracil; D01223:Capecitabine
+rs75017182,DPYD,drug response,capecitabine response - Toxicity|fluorouracil response - Toxicity|fluorouracil response - Other|not provided|DPYD-related disorder,Child 3,DG02984:DPYD substrate(2개 약물),D00584:Fluorouracil; D01223:Capecitabine
+rs7270101,ITPA,drug response,"Inosine triphosphatase deficiency|not provided|Developmental and epileptic encephalopathy, 35|peginterferon alfa-2b and ribavirin response - Toxicity","Mother, Child 2, Child 3",,D00423:Ribavirin
+rs1801133,MTHFR,drug response,"MTHFR THERMOLABILE POLYMORPHISM|Gastrointestinal stromal tumor|not provided|Neural tube defects, folate-sensitive|not specified|Homocystinuria due to methylene tetrahydrofolate reductase deficiency|methotrexate response - Toxicity|See cases|Thrombophilia due to thrombin defect|Stroke disorder",Father,,D00142:Methotrexate
+rs1208,NAT2,drug response,Slow acetylator due to N-acetyltransferase enzyme variant,"Father, Child 1, Child 2, Child 3",,
+rs1799930,NAT2,Benign; drug response,Slow acetylator due to N-acetyltransferase enzyme variant|NAT2-related disorder,"Mother, Child 3",,
+rs1801280,NAT2,Benign; drug response,Slow acetylator due to N-acetyltransferase enzyme variant|NAT2-related disorder,"Father, Child 1, Child 2, Child 3",,
+rs1799971,OPRM1,Uncertain significance; drug response,"Opioid dependence, susceptibility to, 1|Tramadol response","Father, Child 1",,D08623:Tramadol
+rs562859,OPRM1,drug response,Tramadol response,"Father, Child 1",,D08623:Tramadol
+rs650245,OPRM1,drug response,Tramadol response,"Mother, Child 1",,D08623:Tramadol
+rs650825,OPRM1,drug response,Tramadol response,"Mother, Child 1, Child 2, Child 3",,D08623:Tramadol
+rs675026,OPRM1,drug response,Tramadol response,"Child 2, Child 3",,D08623:Tramadol
+rs9282821,OPRM1,drug response,Tramadol response,"Father, Child 1",,D08623:Tramadol
+rs3812718,SCN1A,drug response,"Febrile seizures, familial, 3a|carbamazepine response - Dosage|Early-infantile DEE","Father, Mother, Child 1",,D00252:Carbamazepine
+rs1051266,SLC19A1,drug response,Gastrointestinal stromal tumor|methotrexate response - Efficacy|not provided|Lung cancer|not specified,"Mother, Child 3",,D00142:Methotrexate
+rs780668,SLC29A3,Benign; drug response,not specified|H syndrome|Gemcitabine response|not provided|Acanthosis nigricans,"Father, Mother, Child 1, Child 2, Child 3",,D02368:Gemcitabine
+rs10246939,TAS2R38,drug response,Phenylthiocarbamide tasting,"Father, Mother, Child 1, Child 2, Child 3",,
+rs713598,TAS2R38,drug response,Phenylthiocarbamide tasting,"Father, Mother, Child 2, Child 3",,
+rs1800629,TNF,drug response,"etanercept response - Efficacy||Susceptibility to severe coronavirus disease (COVID-19) due to high plasma levels of TNF, TNFR, and/or TNFR4|Systemic lupus erythematosus, susceptibility to|Inherited susceptibility to asthma|Malaria, cerebral, susceptibility to||Susceptibility to severe coronavirus disease (COVID-19)|Endometriosis|HUMAN IMMUNODEFICIENCY VIRUS DEMENTIA, SUSCEPTIBILITY TO|Psoriatic arthritis, susceptibility to","Mother, Child 1",DG01936:TNF inhibitor(15개 약물),D00742:Etanercept
+rs10929302,UGT1A1,drug response,Gilbert syndrome|irinotecan response - Toxicity,"Father, Mother, Child 1, Child 2, Child 3",DG02887:UGT1A1 inhibitor(6개 약물); DG03183:UGT1A1 substrate(23개 약물),D08086:Irinotecan
+rs28365063,UGT2B7,drug response,Tramadol response,"Mother, Child 2",DG03190:UGT2B7 substrate(32개 약물),D08623:Tramadol
+rs6851533,UGT2B7,drug response,Tramadol response,"Father, Child 1",DG03190:UGT2B7 substrate(32개 약물),D08623:Tramadol
+rs7438244,UGT2B7,drug response,Tramadol response,"Father, Mother, Child 1",DG03190:UGT2B7 substrate(32개 약물),D08623:Tramadol
+rs7668258,UGT2B7,drug response,Tramadol response,"Father, Mother, Child 1, Child 2, Child 3",DG03190:UGT2B7 substrate(32개 약물),D08623:Tramadol
+rs2359612,VKORC1,drug response,warfarin response - Dosage|not provided,"Father, Mother, Child 1, Child 2, Child 3",,D08682:Warfarin
+rs7294,VKORC1,drug response,"warfarin response - Dosage|Vitamin K-dependent clotting factors, combined deficiency of, type 2|not provided","Father, Mother, Child 1, Child 2, Child 3",,D08682:Warfarin
+rs8050894,VKORC1,drug response,warfarin response - Dosage|not specified,"Mother, Child 1",,D08682:Warfarin
+rs9923231,VKORC1,drug response,Warfarin response|not provided|not specified|phenprocoumon response - Dosage|warfarin response - Toxicity|phenprocoumon response - Toxicity|Venous thromboembolism|acenocoumarol response - Dosage|warfarin response - Efficacy|warfarin response - Dosage|See cases|Thrombus|VKORC1-related disorder,"Mother, Child 1, Child 3",,D05457:Phenprocoumon; D07064:Acenocoumarol; D08682:Warfarin
+rs9923231,VKORC1,drug response,Warfarin response,"Father, Mother, Child 1, Child 2, Child 3",,D08682:Warfarin
+rs9934438,VKORC1,drug response,Warfarin response|acenocoumarol response - Dosage|warfarin response - Dosage|not specified|phenprocoumon response - Dosage|not provided,"Mother, Child 1, Child 3",,D05457:Phenprocoumon; D07064:Acenocoumarol; D08682:Warfarin
+rs25487,XRCC1,drug response,"Platinum compounds response - Efficacy|not provided|Spinocerebellar ataxia, autosomal recessive 26","Mother, Child 2",,

@@ -1,0 +1,121 @@
+﻿node_type,node_id,label,degree
+compound,C00469,C00469,4
+compound,C08215,C08215,2
+compound,C00009,C00009,1
+compound,C00073,C00073,1
+compound,C00072,C00072,1
+compound,C00067,C00067,1
+compound,C00065,C00065,1
+compound,C00064,C00064,1
+compound,C00183,C00183,1
+compound,C00181,C00181,1
+compound,C00180,C00180,1
+compound,C00163,C00163,1
+compound,C00158,C00158,1
+compound,C00153,C00153,1
+compound,C00148,C00148,1
+dgroup,DG01633,CYP3A/CYP3A4 substrate,1024
+dgroup,DG02913,CYP3A4 substrate,847
+dgroup,DG01710,beta-Lactam antibiotic,371
+dgroup,DG01644,CYP2D6 substrate,365
+dgroup,DG03231,Antihypertensive,298
+dgroup,DG01504,Nonsteroidal anti-inflammatory drug (NSAID),264
+dgroup,DG01918,Tyrosine kinase inhibitor,263
+dgroup,DG01456,Adrenergic receptor agonist,238
+dgroup,DG01466,Adrenergic receptor antagonist,203
+dgroup,DG01557,Histamine receptor antagonist,195
+dgroup,DG01482,Histamine receptor H1 antagonist,189
+dgroup,DG01950,Antithrombotic agent Anticoagulant,187
+dgroup,DG01714,Cephalosporin skeleton group,182
+dgroup,DG02044,Hypoglycemic agent,174
+dgroup,DG01642,CYP2C9 substrate,173
+disease,H00048,Hepatocellular carcinoma; Liver cancer,139
+disease,H00031,Breast cancer,131
+disease,H00014,Non-small cell lung cancer,113
+disease,H00606,Early infantile epileptic encephalopathy; Developmental a...,110
+disease,H01633,High blood pressure; Hypertension,109
+disease,H01563,HIV infection,97
+disease,H00020,Colorectal cancer,92
+disease,H00409,Type 2 diabetes mellitus,85
+disease,H01282,Spermatogenic failure,81
+disease,H00605,"Deafness, autosomal recessive",81
+disease,H00057,Parkinson disease,77
+disease,H00527,Retinitis pigmentosa,77
+disease,H00773,Autosomal dominant intellectual developmental disorder; A...,69
+disease,H00003,Acute myeloid leukemia,69
+disease,H00058,Amyotrophic lateral sclerosis (ALS); Lou Gehrig disease,68
+drug,D00537,Topiramate (JAN/USP/INN); Topamax (TN); Trokendi xr (TN),48
+drug,D00981,Prednisolone sodium phosphate (JP18/USP); Pediapred (TN),42
+drug,D00473,Prednisone (USP); Prednisone monohydrate; Deltasone (TN);...,37
+drug,D00292,Dexamethasone (JP18/USP/INN); Decadron (TN); Maxidex (TN),37
+drug,D00975,Dexamethasone sodium phosphate (JAN/USP); Dalalone (TN); ...,35
+drug,D11150,Cenobamate (USAN/INN); Xcopri (TN),35
+drug,D00789,Chlorpromazine hydrochloride (JP18/USP); Sonazine (TN),33
+drug,D00983,Triamcinolone acetonide (JP18/USP); Azmacort (TN); Kenalo...,33
+drug,D00407,Methylprednisolone (JP18/USP/INN); Medrol (TN),32
+drug,D00979,Methylprednisolone acetate (JAN/USP); Depo-medrol (TN),32
+drug,D07520,Bepridil (INN); Bepadin (TN),32
+drug,D00088,Hydrocortisone (JP18/USP/INN); HC; Acticort (TN); Anusol ...,32
+drug,D00978,Hydrocortisone sodium succinate (JP18/USP); A-hydrocort (...,31
+drug,D00631,Bepridil hydrochloride (USAN); Bepridil hydrochloride hyd...,31
+drug,D02910,Amiodarone (USAN/INN),31
+gene_entrez,1813,DRD2,206
+gene_entrez,154,ADRB2,188
+gene_entrez,1131,CHRM3,180
+gene_entrez,3269,3269,175
+gene_entrez,2908,NR3C1,158
+gene_entrez,1128,CHRM1,157
+gene_entrez,1129,1129,156
+gene_entrez,1132,1132,143
+gene_entrez,1133,CHRM5,142
+gene_entrez,5743,PTGS2,142
+gene_entrez,153,153,141
+gene_entrez,4988,OPRM1,138
+gene_entrez,148,148,138
+gene_entrez,146,146,129
+gene_entrez,147,147,128
+network,N01592,GF-RTK-RAS-ERK signaling pathway,92
+network,N01317,Translation initiation,81
+network,N00997,Mutation-caused aberrant Abeta to electron transfer in Co...,53
+network,N01136,Mutation-caused aberrant TDP43 to electron transfer in Co...,47
+network,N00977,Mutation-caused aberrant Htt to retrograde axonal transport,47
+network,N01042,Mutation-caused aberrant SNCA to electron transfer in Com...,47
+network,N01043,Mutation-inactivated PINK1 to electron transfer in Complex I,47
+network,N00060,LRP6-overexpression to Wnt signaling pathway,47
+network,N00056,Wnt signaling pathway,46
+network,N01044,MPP+ to electron transfer in Complex I,45
+network,N01045,Rotenone to electron transfer in Complex I,45
+network,N00053,Cytokine-Jak-STAT signaling pathway,45
+network,N00995,Electron transfer in Complex I,44
+network,N00976,Retrograde axonal transport,43
+network,N01295,Rab7-regulated microtubule minus-end directed transport,43
+ortholog,K07375,K07375,9
+ortholog,K04361,K04361,5
+ortholog,K08367,K08367,5
+ortholog,K05689,K05689,4
+ortholog,K05099,K05099,4
+ortholog,K07374,K07374,4
+ortholog,K06624,K06624,3
+ortholog,K05083,K05083,3
+ortholog,K05093,K05093,3
+ortholog,K05094,K05094,3
+ortholog,K05126,K05126,3
+ortholog,K03068,K03068,3
+ortholog,K04388,K04388,3
+ortholog,K02833,K02833,3
+ortholog,K00031,K00031,3
+variant,2064v1,ERBB2 overexpression,18
+variant,3064v1,HTT mutation,18
+variant,7157v1,TP53 mutation,16
+variant,3845v1,KRAS mutation,15
+variant,351v1,APP mutation,14
+variant,1956v2,EGFR mutation in non-small cell lung cancer,13
+variant,25v2,First generation TKI-resistant ABL1 mutation,13
+variant,4893v1,NRAS mutation,11
+variant,1956v3,First generation TKI-resistant EGFR mutation,11
+variant,238v2,First generation TKI-resistant ALK1 mutation,11
+variant,6622v1,SNCA mutation,11
+variant,2322v2,FLT3 internal tandem duplication (ITD),10
+variant,2629v1,GBA deficiency,10
+variant,5071v1,PRKN mutation,10
+variant,1029v1,CDKN2A deletion,9
