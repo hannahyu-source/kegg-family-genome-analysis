@@ -75,6 +75,11 @@ flowchart TD
 > **주의**: ClinVar 매칭 ≠ 병원성 변이, PGx 마커 ≠ 임상 처방 권고, KEGG의 질병 연결 ≠ 진단.
 > 각 표현의 정확한 의미는 [`docs/limitations.md`](docs/limitations.md)에 명시돼 있다.
 
+<p align="center">
+  <img src="results/figures/kegg_relationship_summary.png" alt="KEGG 엔트리 타입 간 관계 상위 10" width="48%">
+  <img src="results/figures/family_clinvar_summary.png" alt="가족 ClinVar 매칭 결과 임상적 유의성 분포" width="48%">
+</p>
+
 ## 6. Featured Case Studies
 
 - **[CFH Family Case Study](results/case_studies/CFH_case_study.md)** — 가족이 보유한
@@ -83,6 +88,11 @@ flowchart TD
 - **[Pharmacogenomics Case Study](results/case_studies/pharmacogenomics_case_study.md)** —
   전 가족 공통 PGx 마커(VKORC1/CYP3A5/UGT1A1)를 중심으로, 마커 식별과 실제 임상 적용
   사이의 간극(haplotype, 대사자 표현형, CPIC 가이드라인)을 정리한다.
+
+<p align="center">
+  <img src="results/figures/cfh_family_genotype.png" alt="CFH 변이 2건의 가족 구성원별 genotype" width="48%">
+  <img src="results/figures/pgx_family_heatmap.png" alt="상위 PGx 유전자의 가족 구성원별 보유 변이 수 히트맵" width="48%">
+</p>
 
 ## 7. Validation Strategy
 

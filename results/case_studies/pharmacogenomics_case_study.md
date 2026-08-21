@@ -46,6 +46,10 @@ VKORC1(warfarin) · CYP3A5(tacrolimus) · UGT1A1(irinotecan)은 모두 CPIC/Phar
 | Child 2 | 23 | 15 | 19 | 972 |
 | Child 3 | 39 | 21 | 27 | 986 |
 
+<p align="center">
+  <img src="../figures/pgx_family_heatmap.png" alt="상위 PGx 유전자의 가족 구성원별 보유 변이 수 히트맵" width="70%">
+</p>
+
 Child 2가 다른 구성원보다 PGx 변이 수·유전자 수가 뚜렷이 적다 — 이는 4단계
 (`04_family_snp_analysis.py`)에서 이미 관찰된 것처럼 Child 2/3가 다른 구성원과 다른
 유전체칩 버전을 쓴 것으로 추정되는 결측 패턴과 일치하는 결과다("변이가 적다"가 아니라

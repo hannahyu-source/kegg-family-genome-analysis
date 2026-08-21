@@ -44,6 +44,10 @@ Y402H에 해당하며, 인구 집단에 넓게 퍼져 있는 변이라 "병원�
 | rs460897 | CT | CT | CT | (측정 안 됨) | (측정 안 됨) |
 | rs1061170 | TT | CT | CT | TT | CT |
 
+<p align="center">
+  <img src="../figures/cfh_family_genotype.png" alt="CFH 변이 2건의 가족 구성원별 genotype" width="70%">
+</p>
+
 - rs460897은 Child 2·Child 3의 원본 SNP 파일에 해당 rsid 자체가 없다(23andMe 칩 버전 차이로
   측정되지 않은 것으로 추정 — `development_log.md`에 기록된 이형접합률 차이와 같은 원인).
   "변이 없음"이 아니라 "이 칩으로는 측정하지 않음"이다.
